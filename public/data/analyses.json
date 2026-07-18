@@ -1,0 +1,5 @@
+{
+  "updatedAt": null,
+  "note": "Populated by scripts/analyze.mjs when an ANTHROPIC_API_KEY is configured. Until then the app uses its built-in simulated Serenity engine.",
+  "analyses": {}
+}

@@ -1,0 +1,817 @@
+{
+  "updatedAt": "2026-07-18T03:02:11.837Z",
+  "isSample": true,
+  "handle": "aleabitoreddit",
+  "totalTweets": 24,
+  "totalMentions": 27,
+  "mentions": [
+    {
+      "tweetId": "seed-0001",
+      "ticker": "VRT",
+      "text": "AI capex keeps ramping but the market still prices the obvious layer. The scarce layer is power delivery, not compute. $VRT backlog tells the story — thermal + power is sold out through next year.",
+      "createdAt": "2026-07-17T09:15:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 41,
+        "reposts": 120,
+        "likes": 890,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.625,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0002",
+      "ticker": "FN",
+      "text": "Everyone screens GPUs. Almost nobody screens who makes the 800G optical links between them. $COHR $LITE $FN — the interconnect layer is tight and qualification cycles are long.",
+      "createdAt": "2026-07-16T14:30:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 33,
+        "reposts": 95,
+        "likes": 720,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0002",
+      "ticker": "LITE",
+      "text": "Everyone screens GPUs. Almost nobody screens who makes the 800G optical links between them. $COHR $LITE $FN — the interconnect layer is tight and qualification cycles are long.",
+      "createdAt": "2026-07-16T14:30:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 33,
+        "reposts": 95,
+        "likes": 720,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0002",
+      "ticker": "COHR",
+      "text": "Everyone screens GPUs. Almost nobody screens who makes the 800G optical links between them. $COHR $LITE $FN — the interconnect layer is tight and qualification cycles are long.",
+      "createdAt": "2026-07-16T14:30:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 33,
+        "reposts": 95,
+        "likes": 720,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0003",
+      "ticker": "MU",
+      "text": "HBM is the classic bottleneck setup: three suppliers, brutal yield curve, capacity reserved years out. $MU still looks mispriced relative to how constrained the layer is.",
+      "createdAt": "2026-07-16T08:05:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 58,
+        "reposts": 140,
+        "likes": 1010,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0004",
+      "ticker": "ANET",
+      "text": "Networking is where the AI story gets underwritten. $ANET sits between hyperscaler demand and merchant silicon — strong position, but watch white-box risk. What would prove me wrong: a major cloud moving to fully self-built switching.",
+      "createdAt": "2026-07-15T16:45:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 27,
+        "reposts": 66,
+        "likes": 540,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.167,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "seed-0005",
+      "ticker": "ALAB",
+      "text": "Retimers and active electrical cables are a quiet chokepoint as rack density explodes. $CRDO $ALAB — small layer, few credible suppliers, long customer certification.",
+      "createdAt": "2026-07-15T10:20:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 19,
+        "reposts": 51,
+        "likes": 430,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0005",
+      "ticker": "CRDO",
+      "text": "Retimers and active electrical cables are a quiet chokepoint as rack density explodes. $CRDO $ALAB — small layer, few credible suppliers, long customer certification.",
+      "createdAt": "2026-07-15T10:20:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 19,
+        "reposts": 51,
+        "likes": 430,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0006",
+      "ticker": "MOD",
+      "text": "Liquid cooling is transitioning from optional to required. $VRT and $MOD both benefit, but the evidence quality differs a lot — one has contracted backlog, the other has a story. Rank the layer first, then the company.",
+      "createdAt": "2026-07-14T13:10:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 22,
+        "reposts": 60,
+        "likes": 505,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0006",
+      "ticker": "VRT",
+      "text": "Liquid cooling is transitioning from optional to required. $VRT and $MOD both benefit, but the evidence quality differs a lot — one has contracted backlog, the other has a story. Rank the layer first, then the company.",
+      "createdAt": "2026-07-14T13:10:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 22,
+        "reposts": 60,
+        "likes": 505,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0007",
+      "ticker": "POWL",
+      "text": "Grid connection is the hardest constraint in the whole AI chain. Switchgear lead times are 60+ weeks. $POWL is a boring company sitting on a genuinely scarce layer.",
+      "createdAt": "2026-07-13T11:00:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 30,
+        "reposts": 88,
+        "likes": 660,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0008",
+      "ticker": "CLS",
+      "text": "The market treats EMS as commodity. But rack-scale AI integration is not commodity assembly — $CLS keeps winning programs because the know-how is real. Margin trajectory is the tell.",
+      "createdAt": "2026-07-12T15:35:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 25,
+        "reposts": 71,
+        "likes": 580,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0009",
+      "ticker": "CAMT",
+      "text": "Advanced packaging metrology is tiny but critical. Every HBM stack needs inspection. $ONTO $CAMT — when yield is the constraint, the tools that find defects get pricing power.",
+      "createdAt": "2026-07-11T09:50:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 14,
+        "reposts": 39,
+        "likes": 350,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0009",
+      "ticker": "ONTO",
+      "text": "Advanced packaging metrology is tiny but critical. Every HBM stack needs inspection. $ONTO $CAMT — when yield is the constraint, the tools that find defects get pricing power.",
+      "createdAt": "2026-07-11T09:50:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 14,
+        "reposts": 39,
+        "likes": 350,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0010",
+      "ticker": "AVGO",
+      "text": "Custom silicon vs merchant GPU debate misses the point — both need the same scarce layers underneath: CoWoS, HBM, optics, power. $AVGO benefits either way. That's the position you want.",
+      "createdAt": "2026-07-10T17:25:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 45,
+        "reposts": 110,
+        "likes": 830,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0011",
+      "ticker": "GLW",
+      "text": "Glass substrates are the next packaging transition to watch. $GLW has decades of glass know-how the market files under 'TV screens'. Early, unverified lead — needs capacity evidence before it's a thesis.",
+      "createdAt": "2026-07-09T12:40:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 17,
+        "reposts": 44,
+        "likes": 390,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0012",
+      "ticker": "SMCI",
+      "text": "Server ODM margins tell you who has leverage in the chain. $SMCI moves boxes but the scarce layers sit upstream. Volume growth is not the same thing as a moat — be careful with the crowded story here.",
+      "createdAt": "2026-07-08T10:15:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 36,
+        "reposts": 52,
+        "likes": 470,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.375,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0013",
+      "ticker": "POWL",
+      "text": "Checked the switchgear channel again: lead times still extending. $POWL backlog up, and the bid pipeline includes multiple gigawatt-scale data center projects. The grid layer stays tight into 2027.",
+      "createdAt": "2026-07-07T14:55:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 21,
+        "reposts": 63,
+        "likes": 520,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0014",
+      "ticker": "COHR",
+      "text": "Optical module pricing held up better than feared this quarter. $COHR indium phosphide capacity is the layer to watch — datacom lasers are supply constrained, not demand constrained.",
+      "createdAt": "2026-07-06T09:30:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 18,
+        "reposts": 47,
+        "likes": 410,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0016",
+      "ticker": "MU",
+      "text": "$MU earnings confirmed the setup: HBM sold out for the calendar year, bit share gains, pricing up. The layer is doing the work. Main risk is DRAM cycle rolling over faster than HBM mix shifts.",
+      "createdAt": "2026-07-03T21:10:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 40,
+        "reposts": 98,
+        "likes": 760,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.333,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0017",
+      "ticker": "POWL",
+      "text": "Power transformers might be an even tighter layer than switchgear. Long lead times, few qualified suppliers, no fast capacity response. Still building the candidate list — $POWL adjacent but not the pure play.",
+      "createdAt": "2026-07-02T13:20:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 16,
+        "reposts": 42,
+        "likes": 380,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0018",
+      "ticker": "FN",
+      "text": "1.6T optics qualification is starting. The vendors that pass first lock the sockets for years. $FN builds for everyone and doesn't have to pick the winning standard — underrated position.",
+      "createdAt": "2026-07-01T10:05:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 23,
+        "reposts": 59,
+        "likes": 495,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0019",
+      "ticker": "VRT",
+      "text": "Cooling distribution units are becoming a real market. $VRT guided above consensus again — thermal is compounding, not a one-off. Watching whether competitors can close the service-network gap.",
+      "createdAt": "2026-06-30T15:50:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 26,
+        "reposts": 74,
+        "likes": 610,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0020",
+      "ticker": "ANET",
+      "text": "$ANET quietly expanding into AI-tuned routing. The market debate is stuck on switch share while the attach story grows. Evidence: two hyperscaler design wins disclosed in the last call.",
+      "createdAt": "2026-06-29T12:15:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 20,
+        "reposts": 55,
+        "likes": 465,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "seed-0021",
+      "ticker": "CRDO",
+      "text": "Be skeptical of any AI infra name that can't answer 'what exactly do you constrain?' in one sentence. $CRDO can: high-speed copper reach at low power. That's why it stays on the priority list.",
+      "createdAt": "2026-06-28T09:40:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 15,
+        "reposts": 48,
+        "likes": 420,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0023",
+      "ticker": "ALAB",
+      "text": "$ALAB expanding beyond retimers into full connectivity platforms. Customer concentration is the real risk — two customers are most of revenue. Watch the 10-Q disclosure, not the keynote.",
+      "createdAt": "2026-06-26T11:25:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 13,
+        "reposts": 37,
+        "likes": 340,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "seed-0024",
+      "ticker": "CLS",
+      "text": "The EMS debate on $CLS comes down to one question: is rack-scale integration know-how durable or commoditizable? Margin expansion three quarters running says durable, for now.",
+      "createdAt": "2026-06-25T14:10:00.000Z",
+      "url": "https://x.com/aleabitoreddit",
+      "stats": {
+        "replies": 19,
+        "reposts": 50,
+        "likes": 445,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "VRT",
+      "count": 3,
+      "firstSeen": "2026-06-30T15:50:00.000Z",
+      "lastSeen": "2026-07-17T09:15:00.000Z",
+      "avgSentiment": 0.375,
+      "sentimentLabel": "bullish",
+      "engagement": 2513,
+      "history": [
+        {
+          "date": "2026-06-30",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-17",
+          "count": 1,
+          "avgSentiment": 0.625
+        }
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "count": 3,
+      "firstSeen": "2026-07-02T13:20:00.000Z",
+      "lastSeen": "2026-07-13T11:00:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 1946,
+      "history": [
+        {
+          "date": "2026-07-02",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-13",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "FN",
+      "count": 2,
+      "firstSeen": "2026-07-01T10:05:00.000Z",
+      "lastSeen": "2026-07-16T14:30:00.000Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 1523,
+      "history": [
+        {
+          "date": "2026-07-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "COHR",
+      "count": 2,
+      "firstSeen": "2026-07-06T09:30:00.000Z",
+      "lastSeen": "2026-07-16T14:30:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 1414,
+      "history": [
+        {
+          "date": "2026-07-06",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "count": 2,
+      "firstSeen": "2026-07-03T21:10:00.000Z",
+      "lastSeen": "2026-07-16T08:05:00.000Z",
+      "avgSentiment": 0.416,
+      "sentimentLabel": "bullish",
+      "engagement": 2246,
+      "history": [
+        {
+          "date": "2026-07-03",
+          "count": 1,
+          "avgSentiment": 0.333
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "count": 2,
+      "firstSeen": "2026-06-29T12:15:00.000Z",
+      "lastSeen": "2026-07-15T16:45:00.000Z",
+      "avgSentiment": 0.166,
+      "sentimentLabel": "bullish",
+      "engagement": 1247,
+      "history": [
+        {
+          "date": "2026-06-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-15",
+          "count": 1,
+          "avgSentiment": -0.167
+        }
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "count": 2,
+      "firstSeen": "2026-06-26T11:25:00.000Z",
+      "lastSeen": "2026-07-15T10:20:00.000Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 946,
+      "history": [
+        {
+          "date": "2026-06-26",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-15",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "CRDO",
+      "count": 2,
+      "firstSeen": "2026-06-28T09:40:00.000Z",
+      "lastSeen": "2026-07-15T10:20:00.000Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 1048,
+      "history": [
+        {
+          "date": "2026-06-28",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-15",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "CLS",
+      "count": 2,
+      "firstSeen": "2026-06-25T14:10:00.000Z",
+      "lastSeen": "2026-07-12T15:35:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 1267,
+      "history": [
+        {
+          "date": "2026-06-25",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-12",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "count": 1,
+      "firstSeen": "2026-07-16T14:30:00.000Z",
+      "lastSeen": "2026-07-16T14:30:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 910,
+      "history": [
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "MOD",
+      "count": 1,
+      "firstSeen": "2026-07-14T13:10:00.000Z",
+      "lastSeen": "2026-07-14T13:10:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 625,
+      "history": [
+        {
+          "date": "2026-07-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "CAMT",
+      "count": 1,
+      "firstSeen": "2026-07-11T09:50:00.000Z",
+      "lastSeen": "2026-07-11T09:50:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 428,
+      "history": [
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "ONTO",
+      "count": 1,
+      "firstSeen": "2026-07-11T09:50:00.000Z",
+      "lastSeen": "2026-07-11T09:50:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 428,
+      "history": [
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "count": 1,
+      "firstSeen": "2026-07-10T17:25:00.000Z",
+      "lastSeen": "2026-07-10T17:25:00.000Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 1050,
+      "history": [
+        {
+          "date": "2026-07-10",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "count": 1,
+      "firstSeen": "2026-07-09T12:40:00.000Z",
+      "lastSeen": "2026-07-09T12:40:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 478,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "count": 1,
+      "firstSeen": "2026-07-08T10:15:00.000Z",
+      "lastSeen": "2026-07-08T10:15:00.000Z",
+      "avgSentiment": 0.375,
+      "sentimentLabel": "bullish",
+      "engagement": 574,
+      "history": [
+        {
+          "date": "2026-07-08",
+          "count": 1,
+          "avgSentiment": 0.375
+        }
+      ]
+    }
+  ],
+  "digest": {
+    "date": "2026-07-17",
+    "window": {
+      "from": "2026-07-11",
+      "to": "2026-07-17"
+    },
+    "totalMentions": 14,
+    "topTickers": [
+      {
+        "ticker": "VRT",
+        "count": 2
+      },
+      {
+        "ticker": "FN",
+        "count": 1
+      },
+      {
+        "ticker": "LITE",
+        "count": 1
+      },
+      {
+        "ticker": "COHR",
+        "count": 1
+      },
+      {
+        "ticker": "MU",
+        "count": 1
+      }
+    ],
+    "newTickers": [
+      "LITE",
+      "MOD",
+      "CAMT",
+      "ONTO"
+    ]
+  }
+}
