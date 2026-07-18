@@ -1,17 +1,27 @@
+import { useState } from "react";
 import {
   AlertTriangle,
   BookOpenCheck,
   Boxes,
+  ChevronDown,
   Eye,
+  Layers,
   Link2,
   ListChecks,
   Scale,
   Target,
+  TrendingDown,
+  Trophy,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
 import { cn } from "@/lib/utils";
-import type { ApiAnalysis, SerenityAnalysis } from "@/types";
+import type {
+  ApiAnalysis,
+  ComparisonAnalysis,
+  SerenityAnalysis,
+  ThemeAnalysis,
+} from "@/types";
 
 /* ------------------------------------------------------------------------- */
 /* Structured (simulated engine) analysis                                    */
@@ -202,6 +212,217 @@ export function StructuredAnalysis({ analysis }: { analysis: SerenityAnalysis })
         Serenity Skill against tracked mentions and a curated knowledge base;
         verify every claim with the listed primary sources.
       </p>
+    </div>
+  );
+}
+
+/* ------------------------------------------------------------------------- */
+/* Theme-scan view (layers before companies, per SKILL.md)                   */
+/* ------------------------------------------------------------------------- */
+
+const SCARCITY_LABEL = ["context", "watch", "tight", "scarce"] as const;
+const SCARCITY_VARIANT = ["secondary", "outline", "accent", "default"] as const;
+
+export function ThemeAnalysisView({ analysis }: { analysis: ThemeAnalysis }) {
+  return (
+    <div className="space-y-5">
+      <div className="rounded-lg border border-border bg-background/50 p-4">
+        <div className="flex flex-wrap items-center gap-2">
+          <Layers className="h-4 w-4 text-primary" />
+          <span className="text-lg font-semibold">{analysis.title}</span>
+        </div>
+        <div className="mt-1 flex flex-wrap items-center gap-2">
+          <Badge variant="secondary">Theme scan</Badge>
+          {analysis.isInitialPass && (
+            <Badge variant="warning" title="No live sources in this run — per the skill, treat as an initial pass and verify with the listed source checks">
+              initial pass — source checks remain
+            </Badge>
+          )}
+        </div>
+      </div>
+
+      <Section icon={Target} title="System change driving the theme">
+        <p className="text-sm leading-relaxed">{analysis.systemChange}</p>
+      </Section>
+
+      <Section icon={Layers} title="Layers ranked first (scarcest at top)">
+        <ol className="space-y-1.5">
+          {analysis.layers.map((layer, i) => (
+            <li
+              key={layer.name}
+              className={cn(
+                "flex items-start gap-3 rounded-md border px-3 py-2 text-sm",
+                layer.scarcity === 3
+                  ? "border-primary/40 bg-primary/5"
+                  : "border-border/60 bg-background/30",
+              )}
+            >
+              <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-muted text-[11px] font-semibold text-muted-foreground">
+                {i + 1}
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="font-medium">{layer.name}</span>
+                  <Badge variant={SCARCITY_VARIANT[layer.scarcity]}>
+                    {SCARCITY_LABEL[layer.scarcity]}
+                  </Badge>
+                </div>
+                <p className="text-xs text-muted-foreground">{layer.rationale}</p>
+              </div>
+            </li>
+          ))}
+        </ol>
+      </Section>
+
+      {analysis.priorities.length > 0 && (
+        <Section icon={Trophy} title="Research priority list (not a buy list)">
+          <ol className="space-y-2">
+            {analysis.priorities.map((p, i) => (
+              <li
+                key={p.ticker}
+                className="rounded-md border border-border/60 bg-background/30 px-3 py-2"
+              >
+                <div className="flex flex-wrap items-center gap-2 text-sm">
+                  <span className="w-5 text-center font-semibold text-muted-foreground">
+                    {i + 1}
+                  </span>
+                  <span className="font-semibold text-accent">${p.ticker}</span>
+                  <span className="text-muted-foreground">{p.name}</span>
+                  <span className="ml-auto tabular-nums font-medium">
+                    {p.score}
+                    <span className="text-xs text-muted-foreground">/100</span>
+                  </span>
+                  <Badge variant="outline">{p.verdict}</Badge>
+                </div>
+                <p className="mt-1 pl-7 text-xs text-muted-foreground">
+                  <span className="text-foreground/70">{p.role}</span> · {p.whyRanked}
+                </p>
+              </li>
+            ))}
+          </ol>
+          <p className="mt-2 text-xs text-muted-foreground">
+            Scores from the bottleneck scorecard against the curated knowledge base —
+            tap any ticker in the box above (e.g. “${analysis.priorities[0]?.ticker}”)
+            for its full single-company breakdown.
+          </p>
+        </Section>
+      )}
+
+      {analysis.popularButLower.length > 0 && (
+        <Section icon={TrendingDown} title="Popular, but ranked lower">
+          <ul className="space-y-1.5 text-sm">
+            {analysis.popularButLower.map((p) => (
+              <li key={p.name}>
+                <span className="font-medium">{p.name}</span>
+                <span className="block text-xs text-muted-foreground">{p.why}</span>
+              </li>
+            ))}
+          </ul>
+        </Section>
+      )}
+
+      <Section icon={Link2} title="Where the evidence lives">
+        <ul className="list-inside list-disc space-y-1 text-sm">
+          {analysis.evidencePaths.map((e, i) => (
+            <li key={i}>{e}</li>
+          ))}
+        </ul>
+      </Section>
+
+      <Section icon={AlertTriangle} title="What could prove the theme wrong">
+        <ul className="list-inside list-disc space-y-1 text-sm">
+          {analysis.risks.map((r, i) => (
+            <li key={i}>{r}</li>
+          ))}
+        </ul>
+      </Section>
+
+      <Section icon={ListChecks} title="Next research moves">
+        <ul className="space-y-1.5 text-sm">
+          {analysis.nextChecks.map((c, i) => (
+            <li key={i} className="flex items-start gap-2">
+              <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
+              {c}
+            </li>
+          ))}
+        </ul>
+      </Section>
+
+      {analysis.note && (
+        <p className="text-xs text-muted-foreground">{analysis.note}</p>
+      )}
+      <p className="border-t border-border/60 pt-3 text-xs text-muted-foreground">
+        Research support only — ranked research priorities, never buy/sell advice.
+        Verify every claim through the listed source paths before acting.
+      </p>
+    </div>
+  );
+}
+
+/* ------------------------------------------------------------------------- */
+/* Candidate-comparison view                                                 */
+/* ------------------------------------------------------------------------- */
+
+export function ComparisonView({ analysis }: { analysis: ComparisonAnalysis }) {
+  const [open, setOpen] = useState<string | null>(analysis.ranked[0]?.ticker ?? null);
+  return (
+    <div className="space-y-4">
+      <div className="rounded-lg border border-border bg-background/50 p-4">
+        <div className="flex flex-wrap items-center gap-2">
+          <Trophy className="h-4 w-4 text-primary" />
+          <span className="text-lg font-semibold">
+            Candidate comparison ({analysis.ranked.length})
+          </span>
+          <Badge variant="secondary">ranked by bottleneck score</Badge>
+        </div>
+      </div>
+
+      <ol className="space-y-2">
+        {analysis.ranked.map((a, i) => {
+          const expanded = open === a.ticker;
+          return (
+            <li
+              key={a.ticker}
+              className={cn(
+                "overflow-hidden rounded-lg border",
+                expanded ? "border-primary/40" : "border-border/60",
+              )}
+            >
+              <button
+                onClick={() => setOpen(expanded ? null : a.ticker)}
+                className="flex w-full items-center gap-3 px-3 py-2.5 text-left hover:bg-muted/30"
+                aria-expanded={expanded}
+              >
+                <span className="w-5 text-center font-semibold text-muted-foreground">
+                  {i + 1}
+                </span>
+                <span className="font-semibold text-accent">${a.ticker}</span>
+                <span className="hidden truncate text-sm text-muted-foreground sm:block">
+                  {a.companyName}
+                </span>
+                <span className="ml-auto tabular-nums font-medium">
+                  {a.finalScore}
+                  <span className="text-xs text-muted-foreground">/100</span>
+                </span>
+                <Badge variant="outline" className="hidden sm:inline-flex">
+                  {a.verdict}
+                </Badge>
+                <ChevronDown
+                  className={cn(
+                    "h-4 w-4 text-muted-foreground transition-transform",
+                    expanded && "rotate-180",
+                  )}
+                />
+              </button>
+              {expanded && (
+                <div className="border-t border-border/60 p-3 sm:p-4">
+                  <StructuredAnalysis analysis={a} />
+                </div>
+              )}
+            </li>
+          );
+        })}
+      </ol>
     </div>
   );
 }

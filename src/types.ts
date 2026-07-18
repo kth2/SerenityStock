@@ -100,6 +100,61 @@ export interface EvidenceItem {
   strength: "primary" | "media" | "analysis" | "social" | "rumor";
 }
 
+export interface ThemeLayer {
+  name: string;
+  rationale: string;
+  scarcity: 0 | 1 | 2 | 3; // 3 = tightest
+}
+
+export interface ThemePriority {
+  ticker: string;
+  name: string;
+  role: string; // controls / supplies / benefits / story
+  whyRanked: string;
+  score: number;
+  verdict: string;
+}
+
+/** Theme-scan output (SKILL.md "theme scan" mode: layers before companies). */
+export interface ThemeAnalysis {
+  kind: "theme";
+  query: string;
+  title: string;
+  generatedAt: string;
+  isInitialPass: boolean; // no live tools → always labeled per the skill
+  systemChange: string;
+  layers: ThemeLayer[]; // ranked, scarcest first
+  priorities: ThemePriority[]; // ranked candidates
+  popularButLower: { name: string; why: string }[];
+  evidencePaths: string[];
+  risks: string[];
+  nextChecks: string[];
+  note?: string;
+}
+
+/** Candidate-comparison output (SKILL.md "candidate comparison" mode). */
+export interface ComparisonAnalysis {
+  kind: "comparison";
+  query: string;
+  generatedAt: string;
+  ranked: SerenityAnalysis[]; // sorted by finalScore desc
+}
+
+export type AnalysisResult =
+  | (SerenityAnalysis & { kind?: "ticker" })
+  | ComparisonAnalysis
+  | ThemeAnalysis;
+
+/** Entry persisted to localStorage for the history list. */
+export interface StoredAnalysis {
+  id: string;
+  query: string;
+  kind: "ticker" | "comparison" | "theme";
+  label: string;
+  createdAt: string;
+  result: AnalysisResult;
+}
+
 export interface SerenityAnalysis {
   ticker: string;
   companyName: string;
