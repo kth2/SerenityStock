@@ -639,6 +639,158 @@ export const KNOWLEDGE: Record<string, TickerKnowledge> = {
     ],
   },
 
+  INTC: {
+    name: "Intel",
+    theme: "Leading-edge logic / US foundry",
+    layer: "Process & packaging",
+    whatItConstrains:
+      "The only credible US-based path to leading-edge logic fabrication outside TSMC — an aspiring controller of the scarcest layer in semiconductors, if the process roadmap lands.",
+    chainPosition:
+      "IDM straddling two layers: x86/accelerator products (chips & devices) and fabs plus advanced packaging (process & packaging) opening to foundry customers.",
+    scarceLayers: ["Process & packaging", "Equipment & testing"],
+    factors: {
+      demand_inflection: 3, architecture_coupling: 2, chokepoint_severity: 3,
+      supplier_concentration: 4, expansion_difficulty: 5, evidence_quality: 3,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {
+      supplier_concentration: "Leading-edge logic is a 2-3 player world; being one of them has option value even from behind",
+      expansion_difficulty: "Leading-edge fabs are the hardest capacity on earth to replicate — the moat exists even while execution lags",
+      chokepoint_severity: "Aspires to control the scarce layer; today it mostly consumes its own capacity",
+      evidence_quality: "Government/strategic investments are filing-grade; external foundry demand is still mostly commentary",
+    },
+    penalties: { cyclicality: 2, hype_risk: 2, alternative_design_risk: 3, dilution_financing: 2, governance: 1, geopolitics: 1, liquidity: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "The market prices the declining product business; the option is the fab footprint — a geopolitically backed second source for leading-edge logic. That option's value is set by 18A-class yields and external customer commitments, not by x86 share, so the stock can work even if the product side keeps losing ground.",
+    evidence: [
+      { claim: "Government and large-partner strategic investments in the foundry buildout", source: "Filings / official announcements", strength: "primary" },
+      { claim: "Next-gen process node ramping in own products first", source: "Company announcements / transcripts", strength: "primary" },
+      { claim: "External foundry customer commitments remain limited in disclosure", source: "Segment reporting", strength: "primary" },
+    ],
+    weakeners: [
+      "Process yields disappoint again, pushing foundry credibility out another cycle",
+      "No anchor external customer commits meaningful volume",
+      "x86 share erosion (ARM/AMD) outruns the foundry option's development",
+      "Capex burn forces dilution or asset sales on bad terms",
+    ],
+    nextChecks: [
+      "External foundry customer disclosures and prepayments in the next 10-Q",
+      "Foundry segment operating-loss trajectory (the cost of the option)",
+      "Yield/defect-density commentary on the newest node vs TSMC equivalents",
+      "Terms of any government or partner investment (dilution, conditions)",
+    ],
+  },
+
+  AMD: {
+    name: "AMD",
+    theme: "AI accelerators / x86",
+    layer: "Chips & devices",
+    whatItConstrains:
+      "The only merchant-silicon alternative to the dominant AI accelerator platform — a second source hyperscalers actively want to exist.",
+    chainPosition:
+      "Chips & devices: GPUs/CPUs designed in-house, manufactured at TSMC — consumes the same scarce upstream layers (CoWoS, HBM) as its rival.",
+    scarceLayers: ["Process & packaging", "Chips & devices"],
+    factors: {
+      demand_inflection: 5, architecture_coupling: 4, chokepoint_severity: 3,
+      supplier_concentration: 4, expansion_difficulty: 4, evidence_quality: 4,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {
+      chokepoint_severity: "Second-source position is valuable but the software moat sits with the incumbent",
+    },
+    penalties: { hype_risk: 3, cyclicality: 2, alternative_design_risk: 2, geopolitics: 2, dilution_financing: 0, governance: 0, liquidity: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "Hyperscalers fund the second source on purpose — accelerator wins are partly structural (buyer diversification), not purely product-led, which makes the revenue stickier than a spec-sheet comparison suggests.",
+    evidence: [
+      { claim: "Multi-billion AI accelerator revenue with named hyperscaler deployments", source: "Earnings calls / filings", strength: "primary" },
+      { claim: "Same CoWoS/HBM supply constraints as the incumbent (allocation-gated)", source: "Foundry/memory supplier commentary", strength: "analysis" },
+    ],
+    weakeners: [
+      "Software ecosystem gap keeps win rate confined to inference niches",
+      "Custom hyperscaler ASICs squeeze the merchant second source from below",
+      "Upstream allocation (CoWoS/HBM) caps the ramp regardless of demand",
+    ],
+    nextChecks: [
+      "AI GPU revenue guidance vs delivery each quarter",
+      "Named customer expansion (breadth beyond the first movers)",
+      "Software stack adoption signals (framework support, developer traction)",
+    ],
+  },
+
+  TSM: {
+    name: "TSMC",
+    theme: "Leading-edge foundry / advanced packaging",
+    layer: "Process & packaging",
+    whatItConstrains:
+      "Leading-edge logic manufacturing and CoWoS-class advanced packaging — the single tightest chokepoint in the entire AI supply chain.",
+    chainPosition:
+      "Process & packaging: the foundry nearly every advanced AI chip must pass through; packaging capacity gates accelerator output industry-wide.",
+    scarceLayers: ["Process & packaging"],
+    factors: {
+      demand_inflection: 5, architecture_coupling: 5, chokepoint_severity: 5,
+      supplier_concentration: 5, expansion_difficulty: 5, evidence_quality: 5,
+      valuation_disconnect: 2, catalyst_timing: 3,
+    },
+    factorNotes: {
+      chokepoint_severity: "When customers' launches slip because of its packaging capacity, the layer control is absolute",
+      valuation_disconnect: "The control is well understood; the discount that exists is geopolitical, not analytical",
+    },
+    penalties: { geopolitics: 4, cyclicality: 2, hype_risk: 1, alternative_design_risk: 1, dilution_financing: 0, governance: 0, liquidity: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "The perpetual question is whether the Taiwan discount over- or under-prices the risk; the skill's contribution is narrower — track CoWoS capacity adds as the leading indicator for the whole accelerator complex, because its schedule is everyone else's schedule.",
+    evidence: [
+      { claim: "Advanced-packaging capacity repeatedly cited as the accelerator bottleneck", source: "Own and customer earnings calls", strength: "primary" },
+      { claim: "Multi-year capex program with published capacity roadmap", source: "Filings / investor conferences", strength: "primary" },
+    ],
+    weakeners: [
+      "Geopolitical event impairing Taiwan operations (the tail risk that dominates)",
+      "A credible second source reaching leading-edge parity (Samsung/Intel)",
+      "AI capex digestion cutting utilization of newly added capacity",
+    ],
+    nextChecks: [
+      "CoWoS/SoIC capacity-add guidance each quarter (the industry's master schedule)",
+      "Overseas fab ramp progress (geographic de-risking pace)",
+      "Leading-edge node pricing power commentary",
+    ],
+  },
+
+  ASML: {
+    name: "ASML",
+    theme: "Lithography equipment",
+    layer: "Equipment & testing",
+    whatItConstrains:
+      "EUV lithography — a literal monopoly on the machines without which no leading-edge chip can be manufactured anywhere.",
+    chainPosition:
+      "Equipment & testing: sole supplier of EUV (and high-NA EUV) systems to every leading-edge fab on earth.",
+    scarceLayers: ["Equipment & testing"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 4, chokepoint_severity: 5,
+      supplier_concentration: 5, expansion_difficulty: 5, evidence_quality: 5,
+      valuation_disconnect: 2, catalyst_timing: 2,
+    },
+    factorNotes: {
+      supplier_concentration: "N=1. The textbook scarce layer — decades of optics supply-chain know-how (Zeiss) cannot be replicated",
+      catalyst_timing: "Order timing is lumpy and lags fab decisions; the moat is structural, the quarters are not",
+    },
+    penalties: { geopolitics: 3, cyclicality: 3, hype_risk: 1, alternative_design_risk: 1, dilution_financing: 0, governance: 0, liquidity: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "Little is missed about the monopoly itself; the mispricing shows up cyclically — the market extrapolates lumpy bookings in both directions while installed-base service revenue compounds regardless.",
+    evidence: [
+      { claim: "Sole-source position in EUV with published backlog and bookings", source: "Filings / quarterly statements", strength: "primary" },
+      { claim: "Export-control regimes restricting China shipments", source: "Government publications / company disclosures", strength: "primary" },
+    ],
+    weakeners: [
+      "Export controls widening to installed-base service",
+      "A capex digestion cycle across the three leading-edge customers",
+      "Long-shot litho alternatives (nanoimprint, multi-patterning economics) taking niches",
+    ],
+    nextChecks: [
+      "Bookings and backlog composition (EUV vs high-NA) each quarter",
+      "China revenue share trend under evolving export rules",
+      "Customers' fab-schedule announcements (its demand, one year early)",
+    ],
+  },
+
   /* ------------------------- Neocloud universe -------------------------- */
   // The layer logic: what neoclouds actually control is energized, grid-
   // connected data-center capacity — powered land + interconnects — which is
