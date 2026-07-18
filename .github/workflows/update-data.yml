@@ -1,0 +1,59 @@
+# Daily data pipeline: scrape @aleabitoreddit → process mentions → (optionally)
+# run Claude-API deep analysis → commit updated JSON. The commit to the default
+# branch triggers the deploy workflow, which rebuilds GitHub Pages.
+name: Update data
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # daily 06:30 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape tweets
+        run: npm run scrape
+
+      - name: Process mentions
+        run: npm run process
+
+      - name: Deep analysis (Claude API, optional)
+        # Runs only if the ANTHROPIC_API_KEY secret is configured; otherwise
+        # the script exits cleanly and the app uses its built-in engine.
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run analyze
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): daily scrape $(date -u +%F)"
+            git push
+          fi

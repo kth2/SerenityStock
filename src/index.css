@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 45% 7%;
+    --foreground: 214 30% 92%;
+    --card: 222 40% 10%;
+    --card-foreground: 214 30% 92%;
+    --muted: 222 30% 16%;
+    --muted-foreground: 217 15% 62%;
+    --border: 221 30% 18%;
+    --primary: 160 84% 39%;
+    --primary-foreground: 160 90% 95%;
+    --accent: 199 89% 60%;
+    --accent-foreground: 222 45% 7%;
+    --bullish: 158 70% 45%;
+    --bearish: 0 72% 58%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv02", "cv03", "cv11", "tnum";
+  }
+
+  ::selection {
+    @apply bg-primary/30;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--muted)) transparent;
+  }
+}

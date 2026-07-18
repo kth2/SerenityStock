@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dev-dist/
+*.local
+.env
+.env.*
+.DS_Store
+playwright-report/
+scripts/.debug/
