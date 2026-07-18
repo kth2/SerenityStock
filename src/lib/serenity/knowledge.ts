@@ -639,6 +639,269 @@ export const KNOWLEDGE: Record<string, TickerKnowledge> = {
     ],
   },
 
+  /* ------------------------- Neocloud universe -------------------------- */
+  // The layer logic: what neoclouds actually control is energized, grid-
+  // connected data-center capacity — powered land + interconnects — which is
+  // the scarce input. GPUs are allocatable; megawatts are not.
+
+  CRWV: {
+    name: "CoreWeave",
+    theme: "Neocloud / GPU cloud",
+    layer: "System integrators",
+    whatItConstrains:
+      "Deployed, operational GPU capacity at hyperscale — contracted compute that AI labs can rent today instead of waiting quarters to build.",
+    chainPosition:
+      "System integrator: the largest pure-play GPU cloud, sitting between AI-lab demand and the power/GPU supply chain.",
+    scarceLayers: ["Physical infrastructure", "System integrators"],
+    factors: {
+      demand_inflection: 5, architecture_coupling: 4, chokepoint_severity: 3,
+      supplier_concentration: 3, expansion_difficulty: 4, evidence_quality: 4,
+      valuation_disconnect: 2, catalyst_timing: 3,
+    },
+    factorNotes: {
+      chokepoint_severity: "Operational maturity at scale is scarce, but compute itself is rentable from many parties",
+      evidence_quality: "Contracted backlog / take-or-pay disclosures are filing-grade",
+    },
+    penalties: { dilution_financing: 4, hype_risk: 3, cyclicality: 2, governance: 1, accounting_quality: 1, alternative_design_risk: 2, liquidity: 0, geopolitics: 0 },
+    marketMayMiss:
+      "The debate fixates on debt and GPU depreciation while the contracted-backlog duration and counterparty quality determine whether the leverage is actually dangerous — read the contract terms, not the headline debt number.",
+    evidence: [
+      { claim: "Multi-billion contracted backlog with hyperscaler/AI-lab counterparties", source: "Filings / earnings releases", strength: "primary" },
+      { claim: "Debt-financed GPU fleet with structured vehicles", source: "Filings", strength: "primary" },
+      { claim: "Tracked account flagged the recent ER as bearish", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "GPU rental prices compress as hyperscaler capacity catches up",
+      "A top-2 customer non-renews or renegotiates take-or-pay terms",
+      "Refinancing cost spikes against depreciating collateral",
+    ],
+    nextChecks: [
+      "Backlog duration and customer concentration in the latest 10-Q",
+      "Debt maturity ladder vs contracted cash flows",
+      "GPU rental spot-price trend vs contracted rates",
+    ],
+  },
+
+  NBIS: {
+    name: "Nebius Group",
+    theme: "Neocloud / GPU cloud",
+    layer: "System integrators",
+    whatItConstrains:
+      "Self-built AI cloud capacity backed by an unusually cash-rich balance sheet — capacity growth without the leverage most neoclouds carry.",
+    chainPosition:
+      "System integrator: full-stack AI cloud (own DCs, own software layer), ex-Yandex engineering base.",
+    scarceLayers: ["Physical infrastructure", "System integrators"],
+    factors: {
+      demand_inflection: 5, architecture_coupling: 3, chokepoint_severity: 3,
+      supplier_concentration: 3, expansion_difficulty: 3, evidence_quality: 4,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {
+      evidence_quality: "Anchor hyperscaler contract disclosed; balance sheet visible in filings",
+    },
+    penalties: { hype_risk: 3, dilution_financing: 2, governance: 2, cyclicality: 2, alternative_design_risk: 2, liquidity: 1, geopolitics: 1, accounting_quality: 0 },
+    marketMayMiss:
+      "Cash-funded expansion means the bear case that kills levered neoclouds (refinancing against depreciating GPUs) mostly doesn't apply — the market prices the sector as one homogeneous risk bucket.",
+    evidence: [
+      { claim: "Large multi-year capacity contract with a major hyperscaler", source: "Company announcement / filings", strength: "primary" },
+      { claim: "Net-cash balance sheet funding DC buildout", source: "Filings", strength: "primary" },
+      { claim: "Listed in tracked account's neocloud cheat sheet", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "Software/platform differentiation fails to hold pricing vs bare-metal rivals",
+      "Ex-Yandex governance/geopolitical discount persists",
+      "Capacity additions outrun contracted demand",
+    ],
+    nextChecks: [
+      "Contracted vs merchant capacity mix next quarter",
+      "Capex per MW vs peers (build efficiency)",
+      "Any new anchor-customer announcements",
+    ],
+  },
+
+  IREN: {
+    name: "IREN (Iris Energy)",
+    theme: "Neocloud / energized sites",
+    layer: "Physical infrastructure",
+    whatItConstrains:
+      "Owned, energized, grid-connected sites with expansion headroom — the powered-land layer that gates every AI data-center buildout.",
+    chainPosition:
+      "Physical infrastructure: vertically integrated site owner (land, substations, power contracts) pivoting capacity from BTC mining to AI/HPC.",
+    scarceLayers: ["Physical infrastructure"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 3, chokepoint_severity: 4,
+      supplier_concentration: 3, expansion_difficulty: 4, evidence_quality: 3,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {
+      chokepoint_severity: "Grid interconnects take years; owning them is the moat",
+      expansion_difficulty: "New entrants can't conjure substation capacity",
+    },
+    penalties: { hype_risk: 3, cyclicality: 3, dilution_financing: 3, alternative_design_risk: 1, governance: 1, liquidity: 1, geopolitics: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "The market still partly prices it as a bitcoin miner; the value of secured megawatts is only recognized when an AI/HPC contract converts them — the re-rating happens per-contract, not per-narrative.",
+    evidence: [
+      { claim: "Hundreds of MW energized with multi-GW interconnect pipeline disclosed", source: "Investor presentations / filings", strength: "primary" },
+      { claim: "AI cloud revenue segment emerging alongside mining", source: "Filings", strength: "primary" },
+      { claim: "Listed in tracked account's neocloud cheat sheet", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "HPC contracts fail to materialize and capacity reverts to BTC economics",
+      "Equity raises to fund GPUs dilute faster than contracts add value",
+      "Interconnect timelines slip (utility-side risk)",
+    ],
+    nextChecks: [
+      "MW energized vs contracted-to-AI split each update",
+      "Announced HPC/colocation contract terms (duration, counterparty)",
+      "Share count trajectory vs capacity growth",
+    ],
+  },
+
+  APLD: {
+    name: "Applied Digital",
+    theme: "Neocloud / DC builder",
+    layer: "Physical infrastructure",
+    whatItConstrains:
+      "Purpose-built AI data-center campuses (powered shells) leased to hyperscalers and neoclouds — the build-to-suit layer of the buildout.",
+    chainPosition:
+      "Physical infrastructure: designs, builds, and leases high-density campuses; tenants bring the GPUs.",
+    scarceLayers: ["Physical infrastructure"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 3, chokepoint_severity: 3,
+      supplier_concentration: 3, expansion_difficulty: 4, evidence_quality: 3,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {},
+    penalties: { dilution_financing: 4, hype_risk: 3, governance: 2, accounting_quality: 1, cyclicality: 2, liquidity: 1, alternative_design_risk: 1, geopolitics: 0 },
+    marketMayMiss:
+      "Lease agreements with credit-worthy anchors convert speculative shells into bond-like cash flows — each signed lease de-risks the story more than the stock's risk bucket implies.",
+    evidence: [
+      { claim: "Long-term lease agreements for AI campuses announced", source: "Company announcements / filings", strength: "primary" },
+      { claim: "Heavy reliance on external financing for construction", source: "Filings", strength: "primary" },
+      { claim: "Listed in tracked account's neocloud cheat sheet", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "Financing gap stalls construction mid-buildout",
+      "Anchor tenant walks or renegotiates before occupancy",
+      "Build-cost inflation compresses development yields",
+    ],
+    nextChecks: [
+      "Signed-lease coverage of announced capacity",
+      "Construction financing terms and dilution",
+      "Delivery timelines vs guidance",
+    ],
+  },
+
+  CIFR: {
+    name: "Cipher Mining",
+    theme: "Neocloud / HPC pivot",
+    layer: "Physical infrastructure",
+    whatItConstrains:
+      "Energized sites converting from BTC mining to HPC hosting, validated by a hyperscaler-grade anchor deal.",
+    chainPosition:
+      "Physical infrastructure: site owner/operator with mining legacy and an HPC hosting pipeline.",
+    scarceLayers: ["Physical infrastructure"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 3, chokepoint_severity: 3,
+      supplier_concentration: 3, expansion_difficulty: 4, evidence_quality: 4,
+      valuation_disconnect: 3, catalyst_timing: 4,
+    },
+    factorNotes: {
+      evidence_quality: "An anchor hyperscaler hosting agreement is the strongest possible validation for a converting miner",
+    },
+    penalties: { hype_risk: 3, cyclicality: 3, dilution_financing: 3, governance: 1, liquidity: 1, alternative_design_risk: 1, geopolitics: 0, accounting_quality: 0 },
+    marketMayMiss:
+      "One blue-chip hosting agreement re-rates the entire remaining site pipeline: the market prices announced deals but not the now-higher probability of the next ones.",
+    evidence: [
+      { claim: "HPC hosting agreement with a major cloud counterparty", source: "Company announcement", strength: "primary" },
+      { claim: "Tracked account called the ER positive on the strength of that deal", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "Remaining pipeline fails to convert and BTC economics dominate again",
+      "Deal economics (hosting margins) prove thinner than the market assumes",
+      "Financing for buildout dilutes aggressively",
+    ],
+    nextChecks: [
+      "Contract terms in the 8-K/10-Q (duration, revenue, capex split)",
+      "Next site-conversion announcements",
+      "Hosting gross margin once reported",
+    ],
+  },
+
+  WULF: {
+    name: "TeraWulf",
+    theme: "Neocloud / HPC hosting",
+    layer: "Physical infrastructure",
+    whatItConstrains:
+      "Zero-carbon powered capacity converting to HPC hosting with very large announced contract value relative to its size.",
+    chainPosition:
+      "Physical infrastructure: energized sites (hydro/nuclear-adjacent power) hosting HPC tenants.",
+    scarceLayers: ["Physical infrastructure"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 3, chokepoint_severity: 3,
+      supplier_concentration: 3, expansion_difficulty: 4, evidence_quality: 3,
+      valuation_disconnect: 3, catalyst_timing: 4,
+    },
+    factorNotes: {
+      evidence_quality: "Large TCV announced; contract quality/backstops need verification against filings",
+    },
+    penalties: { dilution_financing: 4, hype_risk: 3, cyclicality: 2, governance: 1, liquidity: 1, alternative_design_risk: 1, geopolitics: 0, accounting_quality: 1 },
+    marketMayMiss:
+      "Announced total-contract-value figures dwarf the market cap, but TCV ≠ revenue — the spread between headline TCV and bankable, backstopped cash flow is where the thesis is decided either way.",
+    evidence: [
+      { claim: "Multi-billion TCV HPC capacity agreements announced (hundreds of MW)", source: "Company announcements", strength: "primary" },
+      { claim: "Large financing raised for data-center expansion", source: "Company announcements / filings", strength: "primary" },
+      { claim: "Tracked account: ER positive; deal financing the key confirmation", source: "@aleabitoreddit mention (lead only)", strength: "social" },
+    ],
+    weakeners: [
+      "Counterparty or backstop weakness turns TCV into paper",
+      "Buildout capex outruns financing capacity → dilution spiral",
+      "Delivery slips push revenue right while interest accrues",
+    ],
+    nextChecks: [
+      "Contract counterparties and any credit backstops in filings",
+      "Financing terms (rate, dilution, covenants)",
+      "MW delivered vs contracted each quarter",
+    ],
+  },
+
+  AAOI: {
+    name: "Applied Optoelectronics",
+    theme: "Optical transceivers",
+    layer: "Modules & subsystems",
+    whatItConstrains:
+      "Additional 800G transceiver supply into a tight optics market — a capacity supplier to the scarce layer rather than its controller.",
+    chainPosition:
+      "Modules & subsystems: vertically integrated (own laser fabs) transceiver maker re-entering hyperscaler datacom after years in CATV/access.",
+    scarceLayers: ["Modules & subsystems"],
+    factors: {
+      demand_inflection: 4, architecture_coupling: 3, chokepoint_severity: 2,
+      supplier_concentration: 2, expansion_difficulty: 3, evidence_quality: 2,
+      valuation_disconnect: 3, catalyst_timing: 3,
+    },
+    factorNotes: {
+      chokepoint_severity: "Supplies a tight layer but competes against larger, qualified incumbents",
+      evidence_quality: "Qualification progress is mostly management commentary so far — verify with orders",
+    },
+    penalties: { hype_risk: 4, dilution_financing: 3, accounting_quality: 1, cyclicality: 2, liquidity: 1, alternative_design_risk: 2, governance: 1, geopolitics: 1 },
+    marketMayMiss:
+      "Cuts both ways: the market may be under-crediting a genuine 800G re-qualification at a top hyperscaler — or over-crediting a company with a long history of margin disappointment. The skill's answer: demand order evidence before ranking it above the incumbents.",
+    evidence: [
+      { claim: "800G products in qualification with hyperscaler customers", source: "Earnings call commentary", strength: "media" },
+      { claim: "History of thin/volatile margins vs optics peers", source: "Filings", strength: "primary" },
+    ],
+    weakeners: [
+      "Qualification slips or lands at low share/margins",
+      "Incumbents (COHR/Innolight/Eoptolink) absorb the demand first",
+      "Convertible/equity financing dilutes ahead of the ramp",
+    ],
+    nextChecks: [
+      "Datacom revenue inflection in the next 10-Q (orders, not commentary)",
+      "Customer concentration disclosure",
+      "Gross-margin trajectory vs peers during the ramp",
+    ],
+  },
+
   NVDA: {
     name: "NVIDIA",
     theme: "AI accelerators / platform",

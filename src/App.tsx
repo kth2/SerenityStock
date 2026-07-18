@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { BookOpen, LayoutDashboard, Table2 } from "lucide-react";
+import { BookOpen, LayoutDashboard, Microscope, Table2 } from "lucide-react";
+import { AnalyzeTab } from "@/components/AnalyzeTab";
 import { Header } from "@/components/Header";
 import { StatCards } from "@/components/StatCards";
 import { MentionFrequencyChart, TopTickersChart } from "@/components/Charts";
@@ -11,9 +12,24 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useData } from "@/hooks/useData";
 
+function DataUnavailable({ error }: { error: string | null }) {
+  return (
+    <div className="rounded-xl border border-bearish/40 bg-bearish/10 p-6 text-center">
+      <p className="font-medium">Tweet data unavailable</p>
+      <p className="mt-1 text-sm text-muted-foreground">
+        {error ?? "Could not load mentions.json"}
+      </p>
+      <p className="mt-2 text-xs text-muted-foreground">
+        The Analyze tab works without it. If this is a fresh clone, run{" "}
+        <code>npm run process</code> to generate the data files.
+      </p>
+    </div>
+  );
+}
+
 export default function App() {
   const { data, analyses, loading, error, offline } = useData();
-  const [tab, setTab] = useState("dashboard");
+  const [tab, setTab] = useState("analyze");
   const [selectedTicker, setSelectedTicker] = useState<string | null>(null);
 
   function jumpToTicker(ticker: string) {
@@ -38,20 +54,9 @@ export default function App() {
           </div>
         )}
 
-        {error && !data && (
-          <div className="rounded-xl border border-bearish/40 bg-bearish/10 p-6 text-center">
-            <p className="font-medium">Could not load data</p>
-            <p className="mt-1 text-sm text-muted-foreground">{error}</p>
-            <p className="mt-2 text-xs text-muted-foreground">
-              If this is a fresh clone, run <code>npm run process</code> to generate the
-              data files from the bundled sample tweets.
-            </p>
-          </div>
-        )}
-
-        {data && (
+        {!loading && (
           <>
-            {data.isSample && (
+            {data?.isSample && (
               <div className="mb-4 rounded-lg border border-accent/30 bg-accent/10 px-4 py-2.5 text-xs leading-relaxed text-foreground/80">
                 Showing <strong>synthetic sample data</strong> written to demonstrate the
                 app — these are not real posts. The GitHub Actions pipeline replaces this
@@ -61,6 +66,9 @@ export default function App() {
 
             <Tabs value={tab} onValueChange={setTab}>
               <TabsList className="w-full sm:w-auto">
+                <TabsTrigger value="analyze" className="flex-1 sm:flex-none">
+                  <Microscope className="h-4 w-4" /> Analyze
+                </TabsTrigger>
                 <TabsTrigger value="dashboard" className="flex-1 sm:flex-none">
                   <LayoutDashboard className="h-4 w-4" /> Dashboard
                 </TabsTrigger>
@@ -72,25 +80,44 @@ export default function App() {
                 </TabsTrigger>
               </TabsList>
 
+              <TabsContent value="analyze">
+                <AnalyzeTab data={data} analyses={analyses} />
+              </TabsContent>
+
               <TabsContent value="dashboard" className="space-y-4">
-                <StatCards data={data} />
-                <div className="grid gap-4 lg:grid-cols-2">
-                  <MentionFrequencyChart data={data} />
-                  <TopTickersChart data={data} onSelect={jumpToTicker} />
-                </div>
-                <div className="grid gap-4 lg:grid-cols-[1fr_20rem]">
-                  <MentionFeed mentions={data.mentions} />
-                  <DailyDigest data={data} onSelect={jumpToTicker} />
-                </div>
+                {data ? (
+                  <>
+                    <StatCards data={data} />
+                    <div className="grid gap-4 lg:grid-cols-2">
+                      <MentionFrequencyChart data={data} />
+                      <TopTickersChart data={data} onSelect={jumpToTicker} />
+                    </div>
+                    <div className="grid gap-4 lg:grid-cols-[1fr_20rem]">
+                      <MentionFeed mentions={data.mentions} />
+                      <DailyDigest data={data} onSelect={jumpToTicker} />
+                    </div>
+                    <p className="text-xs text-muted-foreground">
+                      Tweet tracking is a best-effort background feature: X actively
+                      resists scraping, so daily updates can skip days. Analysis in the
+                      Analyze tab works regardless.
+                    </p>
+                  </>
+                ) : (
+                  <DataUnavailable error={error} />
+                )}
               </TabsContent>
 
               <TabsContent value="tickers">
-                <TickerTable
-                  data={data}
-                  analyses={analyses}
-                  selected={selectedTicker}
-                  onSelect={setSelectedTicker}
-                />
+                {data ? (
+                  <TickerTable
+                    data={data}
+                    analyses={analyses}
+                    selected={selectedTicker}
+                    onSelect={setSelectedTicker}
+                  />
+                ) : (
+                  <DataUnavailable error={error} />
+                )}
               </TabsContent>
 
               <TabsContent value="skill">

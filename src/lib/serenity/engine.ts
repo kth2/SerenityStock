@@ -7,9 +7,16 @@
 // In a deployment with a backend, this same shape would be produced by Claude
 // running the skill via scripts/analyze.mjs; the UI treats both identically.
 
-import type { SerenityAnalysis, TickerAggregate } from "@/types";
+import type {
+  AnalysisResult,
+  ComparisonAnalysis,
+  SerenityAnalysis,
+  ThemeAnalysis,
+  TickerAggregate,
+} from "@/types";
 import { KNOWLEDGE, buildAiInfraChain, type TickerKnowledge } from "./knowledge";
 import { scoreCard } from "./scorecard";
+import { matchTheme, type ThemeDef } from "./themes";
 
 /** Deterministic hash so unknown tickers always get the same profile. */
 function hash(str: string): number {
@@ -119,4 +126,153 @@ export function runSerenityAnalysis(
 
 export function isCurated(ticker: string): boolean {
   return ticker in KNOWLEDGE;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Free-form query handling (Analyze tab)                                    */
+/* ------------------------------------------------------------------------- */
+
+export interface ParsedQuery {
+  kind: "ticker" | "comparison" | "theme";
+  tickers: string[];
+  raw: string;
+}
+
+const TICKER_TOKEN = /^\$?[A-Za-z]{1,5}$/;
+
+/**
+ * Classify a query per the skill's request router:
+ * one ticker → single-company challenge; several → candidate comparison;
+ * anything else → theme scan.
+ */
+export function parseQuery(raw: string): ParsedQuery {
+  const trimmed = raw.trim();
+  const tokens = trimmed.split(/[,\s]+/).filter(Boolean);
+  const allTickerShaped =
+    tokens.length > 0 && tokens.every((t) => TICKER_TOKEN.test(t));
+  if (allTickerShaped) {
+    // Reject prose that happens to be short lowercase words ("ai power"):
+    // a token counts as a ticker when it's $-prefixed, written in caps, or a
+    // known symbol from the knowledge base.
+    const looksLikeTickers = tokens.every(
+      (t) =>
+        t.startsWith("$") ||
+        t === t.toUpperCase() ||
+        t.toUpperCase() in KNOWLEDGE,
+    );
+    if (looksLikeTickers) {
+      const unique = [
+        ...new Set(tokens.map((t) => t.replace(/^\$/, "").toUpperCase())),
+      ];
+      return {
+        kind: unique.length === 1 ? "ticker" : "comparison",
+        tickers: unique,
+        raw: trimmed,
+      };
+    }
+  }
+  return { kind: "theme", tickers: [], raw: trimmed };
+}
+
+export function runComparison(
+  tickers: string[],
+  aggs: Map<string, TickerAggregate>,
+): ComparisonAnalysis {
+  const ranked = tickers
+    .map((t) => runSerenityAnalysis(t, aggs.get(t)))
+    .sort((a, b) => b.finalScore - a.finalScore);
+  return {
+    kind: "comparison",
+    query: tickers.join(", "),
+    generatedAt: new Date().toISOString(),
+    ranked,
+  };
+}
+
+function themeFromDef(
+  def: ThemeDef,
+  query: string,
+  aggs: Map<string, TickerAggregate>,
+): ThemeAnalysis {
+  const priorities = def.candidates
+    .map((c) => {
+      const a = runSerenityAnalysis(c.ticker, aggs.get(c.ticker));
+      return {
+        ticker: c.ticker,
+        name: a.companyName,
+        role: c.role,
+        whyRanked: c.whyRanked,
+        score: a.finalScore,
+        verdict: a.verdict,
+      };
+    })
+    .sort((a, b) => b.score - a.score);
+
+  return {
+    kind: "theme",
+    query,
+    title: def.title,
+    generatedAt: new Date().toISOString(),
+    isInitialPass: true,
+    systemChange: def.systemChange,
+    layers: [...def.layers].sort((a, b) => b.scarcity - a.scarcity),
+    priorities,
+    popularButLower: def.popularButLower,
+    evidencePaths: def.evidencePaths,
+    risks: def.risks,
+    nextChecks: def.nextChecks,
+  };
+}
+
+/** Honest scaffold for themes outside the curated set. */
+function genericTheme(query: string): ThemeAnalysis {
+  return {
+    kind: "theme",
+    query,
+    title: `Theme scan: ${query}`,
+    generatedAt: new Date().toISOString(),
+    isInitialPass: true,
+    systemChange:
+      "This theme is outside the app's curated coverage, so no ranked judgment is offered — per the skill, an unranked answer beats an invented one. The workflow below is what a full run (with live sources) would execute.",
+    layers: [
+      { name: "1. Translate the story into a system change", rationale: "What technical/economic change drives demand, and which physical constraint binds (power, bandwidth, yield, purity, cycle time…)?", scarcity: 0 },
+      { name: "2. Map the value chain", rationale: "Demand → integrators → modules → chips → process/packaging → equipment → materials → infrastructure", scarcity: 0 },
+      { name: "3. Find the scarce layer", rationale: "Low supplier count, long qualification, hard expansion, critical know-how, long lead times", scarcity: 0 },
+      { name: "4. Build a 20+ company universe, then filter to 3-7", rationale: "Classify each: controls / supplies / benefits / weak control / story", scarcity: 0 },
+    ],
+    priorities: [],
+    popularButLower: [
+      { name: "Whatever the theme's most-mentioned stock is", why: "Popularity concentrates in the visible layer, which is rarely the scarce one — rank layers first" },
+    ],
+    evidencePaths: [
+      "Primary first: filings, exchange documents, transcripts, orders, patents, project filings",
+      "Reputable trade press as support; social posts as lead generation only",
+    ],
+    risks: [
+      "Narrative without a scarce layer — the most common failure mode",
+      "Valuation already pricing the story before evidence exists",
+    ],
+    nextChecks: [
+      "Answer 'what exactly does each candidate constrain?' in one sentence",
+      "Find two concrete evidence points per candidate, at least one primary",
+      "State what would prove the idea wrong before sizing anything",
+    ],
+    note: "Add this theme to src/lib/serenity/themes.ts (or run the Claude-API analyzer) for a scored scan.",
+  };
+}
+
+/** Entry point for the Analyze tab. */
+export function runQuery(
+  raw: string,
+  aggs: Map<string, TickerAggregate>,
+): AnalysisResult {
+  const parsed = parseQuery(raw);
+  if (parsed.kind === "ticker") {
+    return runSerenityAnalysis(parsed.tickers[0], aggs.get(parsed.tickers[0]));
+  }
+  if (parsed.kind === "comparison") {
+    return runComparison(parsed.tickers, aggs);
+  }
+  const def = matchTheme(parsed.raw);
+  return def ? themeFromDef(def, parsed.raw, aggs) : genericTheme(parsed.raw);
 }

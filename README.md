@@ -1,42 +1,82 @@
 # Serenity Stock Tracker
 
-A fully installable, offline-capable **Progressive Web App** that tracks stock
-mentions by [@aleabitoreddit](https://x.com/aleabitoreddit) ("Serenity") and
-applies deep **supply-chain bottleneck analysis** using the open
-[serenity-skill](https://github.com/muxuuu/serenity-skill) research methodology
-— bundled in full under [`skill/`](skill/).
+A **personal research assistant** powered by the Serenity supply-chain
+bottleneck methodology — an installable, offline-capable **PWA** that runs the
+open [serenity-skill](https://github.com/muxuuu/serenity-skill) research
+workflow (bundled in full under [`skill/`](skill/)) against **any ticker, list
+of tickers, or theme** you type, on demand.
+
+It also tracks stock mentions by
+[@aleabitoreddit](https://x.com/aleabitoreddit) ("Serenity") as a best-effort
+background feature.
 
 Built with **Vite + React 18 + TypeScript + Tailwind CSS + shadcn-style UI +
 Recharts**, deployed as a static site to **GitHub Pages**, refreshed daily by a
-**GitHub Actions** scraping pipeline.
+**GitHub Actions** pipeline.
 
 > **Disclaimer** — unofficial and independent. Research support only, never
-> investment advice. Until the first successful scrape, the app displays
-> clearly-labeled *synthetic sample data* (not real posts).
+> investment advice. Every analysis is a methodology-driven first pass over a
+> curated knowledge base — verify each claim through the primary-source paths
+> it lists before acting.
 
 ---
 
 ## Features
 
+### Analyze — the primary feature
+
+The default tab is an on-demand Serenity Skill runner. Type:
+
+- **A ticker** (`AAOI`, `$WULF`) → single-company challenge: value-chain
+  breakdown, scarce-layer flags, bottleneck scorecard, graded evidence, what
+  the market may be missing, failure conditions, next verification steps.
+- **Several tickers** (`WULF, CIFR, IREN`) → candidate comparison, ranked by
+  bottleneck score, each candidate expandable to its full analysis.
+- **A theme** (`neocloud stocks`, `AI CPO`, `data center power`, `robotics`)
+  → theme scan in the skill's style: the system change, **layers ranked before
+  companies** (scarcest first), a research priority list, at least one popular
+  area ranked lower with the reason, evidence paths, risks, and next moves.
+
+All output follows SKILL.md; the scorecard math is an exact port of
+`skill/scripts/serenity_scorecard.py`. Runs without live sources are honestly
+labeled *initial pass — source checks remain*. Past analyses persist in
+`localStorage` with timestamps for easy revisit (deletable per-entry).
+
+The curated knowledge base covers the Serenity universe across AI
+infrastructure (optics, power, HBM, packaging metrology, networking, cooling)
+and neoclouds ($CRWV, $NBIS, $IREN, $APLD, $CIFR, $WULF, …). Unknown tickers
+get a conservative "unverified lead" profile; unknown themes get the full
+research-workflow scaffold instead of an invented ranking.
+
+### Background: tweet tracking
+
 - **Dashboard** — stat cards, mention-frequency chart, top-tickers chart,
-  latest-mentions feed, weekly digest with new tickers.
-- **Ticker tracker** — searchable table with per-ticker mention counts,
-  lexicon-based sentiment (score + history sparkline), and expandable rows.
-- **"Deep Analyze with Serenity Skill"** — per-ticker structured research:
-  value-chain breakdown, scarce-layer ranking, bottleneck scorecard (exact math
-  ported from `skill/scripts/serenity_scorecard.py`), graded evidence per the
-  skill's evidence ladder, what-the-market-may-miss, failure conditions, and
-  next verification steps.
+  latest-mentions feed, weekly digest.
+- **Ticker tracker** — searchable table with sentiment history sparklines and
+  the same deep analysis per row.
+- Fed by a daily scraper that is **best-effort by design** — X actively resists
+  scraping (see reliability notes below); the Analyze tab works regardless.
 - **Optional Claude-API analyses** — with an `ANTHROPIC_API_KEY` secret the
   daily pipeline runs the actual skill through Claude and the UI shows those
   richer markdown analyses instead of the simulated engine.
+
+### Platform
+
 - **PWA** — installable (manifest + icons), auto-updating service worker,
-  offline caching of the app shell (precache) and the latest data JSON
-  (NetworkFirst runtime cache). Mobile-first, dark mode.
+  offline caching of the app shell and latest data. Mobile-first, dark mode.
+  Analyses run entirely in the browser, so the Analyze tab works offline too.
 
 ## Architecture
 
 ```
+In-browser research engine (no backend, works offline):
+  src/lib/serenity/engine.ts     query router: ticker / comparison / theme
+  src/lib/serenity/knowledge.ts  curated per-ticker value-chain knowledge
+  src/lib/serenity/themes.ts     theme definitions (layers, candidates, risks)
+  src/lib/serenity/scorecard.ts  exact port of serenity_scorecard.py math
+  src/hooks/useAnalysisHistory.ts  localStorage history
+
+Background data pipeline:
 ┌───────────────────── GitHub Actions (daily 06:30 UTC) ─────────────────────┐
 │ scripts/scrape.mjs      Playwright → x.com/aleabitoreddit (scroll+extract) │
 │                         fallback: Twitter syndication endpoint             │
@@ -140,6 +180,7 @@ CI. For a custom domain or a root site, build with `BASE_PATH=/ npm run build`.
 | Scrape depth / retention | `SCROLL_ROUNDS`, `MAX_TWEETS` env vars |
 | Ticker blacklist & sentiment lexicon | `scripts/lib/text.mjs` |
 | Analysis knowledge base | `src/lib/serenity/knowledge.ts` — add tickers with layer, factors (0–5), penalties, evidence, risks |
+| Theme scans | `src/lib/serenity/themes.ts` — add themes with keywords, ranked layers, candidates, risks |
 | Scorecard weights | `src/lib/serenity/scorecard.ts` (keep in sync with `skill/scripts/serenity_scorecard.py`) |
 | How many tickers get API analysis | `ANALYZE_TOP_N` env var for `scripts/analyze.mjs` |
 | Theme | CSS variables in `src/index.css`, Tailwind tokens in `tailwind.config.js` |
