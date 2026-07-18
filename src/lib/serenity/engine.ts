@@ -144,33 +144,47 @@ const TICKER_TOKEN = /^\$?[A-Za-z]{1,5}$/;
  * Classify a query per the skill's request router:
  * one ticker → single-company challenge; several → candidate comparison;
  * anything else → theme scan.
+ *
+ * Case must not decide the route: mobile keyboards auto-capitalize ("Intc")
+ * and users type lowercase ("intc"). Rules, in order:
+ *   1. Unambiguous ticker input (every token $-prefixed, ALL-CAPS, or a known
+ *      symbol) → tickers.
+ *   2. A matching curated theme keyword ("power", "hbm", "robotics") → theme.
+ *   3. Otherwise, if every token is still ticker-shaped (1-5 letters), treat
+ *      it as tickers regardless of case — "Intc" means $INTC, not a theme.
+ *   4. Anything else → theme scan.
  */
 export function parseQuery(raw: string): ParsedQuery {
   const trimmed = raw.trim();
   const tokens = trimmed.split(/[,\s]+/).filter(Boolean);
   const allTickerShaped =
     tokens.length > 0 && tokens.every((t) => TICKER_TOKEN.test(t));
+
+  const asTickers = (): ParsedQuery => {
+    const unique = [
+      ...new Set(tokens.map((t) => t.replace(/^\$/, "").toUpperCase())),
+    ];
+    return {
+      kind: unique.length === 1 ? "ticker" : "comparison",
+      tickers: unique,
+      raw: trimmed,
+    };
+  };
+
   if (allTickerShaped) {
-    // Reject prose that happens to be short lowercase words ("ai power"):
-    // a token counts as a ticker when it's $-prefixed, written in caps, or a
-    // known symbol from the knowledge base.
-    const looksLikeTickers = tokens.every(
+    const unambiguous = tokens.every(
       (t) =>
         t.startsWith("$") ||
         t === t.toUpperCase() ||
         t.toUpperCase() in KNOWLEDGE,
     );
-    if (looksLikeTickers) {
-      const unique = [
-        ...new Set(tokens.map((t) => t.replace(/^\$/, "").toUpperCase())),
-      ];
-      return {
-        kind: unique.length === 1 ? "ticker" : "comparison",
-        tickers: unique,
-        raw: trimmed,
-      };
-    }
+    if (unambiguous) return asTickers();
   }
+
+  if (matchTheme(trimmed)) return { kind: "theme", tickers: [], raw: trimmed };
+
+  if (allTickerShaped) return asTickers();
+
   return { kind: "theme", tickers: [], raw: trimmed };
 }
 
