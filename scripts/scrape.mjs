@@ -189,12 +189,22 @@ async function main() {
     console.warn(`Playwright scrape failed: ${err.message}`);
   }
 
+  // Syndication endpoint rate-limits shared CI egress IPs aggressively (429),
+  // but the throttle is often transient — retry with backoff before giving up.
   if (scraped.length === 0) {
-    try {
-      scraped = await scrapeWithSyndication();
-      method = "syndication";
-    } catch (err) {
-      console.warn(`Syndication scrape failed: ${err.message}`);
+    const delays = [0, 25_000, 50_000, 90_000];
+    for (const delay of delays) {
+      if (delay) {
+        console.log(`Retrying syndication in ${delay / 1000}s ...`);
+        await sleep(delay + Math.random() * 5000);
+      }
+      try {
+        scraped = await scrapeWithSyndication();
+        method = "syndication";
+        break;
+      } catch (err) {
+        console.warn(`Syndication scrape failed: ${err.message}`);
+      }
     }
   }
 

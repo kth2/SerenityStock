@@ -103,24 +103,33 @@ async function main() {
       .map((t) => t.ticker),
   };
 
+  const output = {
+    updatedAt: new Date().toISOString(),
+    isSample,
+    handle: raw.handle ?? "aleabitoreddit",
+    totalTweets: tweets.length,
+    totalMentions: mentions.length,
+    mentions,
+    tickers,
+    digest,
+  };
+
+  // Avoid timestamp-only churn: if nothing but updatedAt changed, keep the old
+  // timestamp so the CI commit step sees no diff and skips the daily no-op
+  // commit (and the Pages rebuild it would trigger).
+  try {
+    const existing = JSON.parse(await readFile(OUT_FILE, "utf8"));
+    const stable = (o) => JSON.stringify({ ...o, updatedAt: null });
+    if (stable(existing) === stable(output)) {
+      output.updatedAt = existing.updatedAt;
+      console.log("No content changes — keeping previous updatedAt.");
+    }
+  } catch {
+    /* first run */
+  }
+
   await mkdir(path.dirname(OUT_FILE), { recursive: true });
-  await writeFile(
-    OUT_FILE,
-    JSON.stringify(
-      {
-        updatedAt: new Date().toISOString(),
-        isSample,
-        handle: raw.handle ?? "aleabitoreddit",
-        totalTweets: tweets.length,
-        totalMentions: mentions.length,
-        mentions,
-        tickers,
-        digest,
-      },
-      null,
-      2,
-    ),
-  );
+  await writeFile(OUT_FILE, JSON.stringify(output, null, 2));
   console.log(
     `Processed ${tweets.length} tweets → ${mentions.length} mentions across ${tickers.length} tickers.`,
   );
