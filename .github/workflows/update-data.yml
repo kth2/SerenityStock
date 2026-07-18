@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # to dispatch the Pages deploy after a data commit
 
 concurrency:
   group: update-data
@@ -47,13 +48,24 @@ jobs:
         run: npm run analyze
 
       - name: Commit updated data
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
           if git diff --cached --quiet; then
             echo "No data changes."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore(data): daily scrape $(date -u +%F)"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger Pages deploy
+        # Pushes made with GITHUB_TOKEN never fire push-triggered workflows
+        # (GitHub recursion guard), so dispatch the deploy explicitly.
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
