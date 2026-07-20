@@ -1,4 +1,4 @@
-import { ArrowRight, BookOpen, FileText, GitBranch, Shield } from "lucide-react";
+import { ArrowRight, BookOpen, FileText, GitBranch, Shield, Sparkles } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { FACTOR_LABELS, FACTOR_WEIGHTS } from "@/lib/serenity/scorecard";
@@ -140,9 +140,32 @@ export function SkillInfo() {
             <p className="text-sm leading-relaxed text-muted-foreground">
               Research support only: ranked research priorities, reasoning chains, and
               verification steps — never guaranteed returns, buy/sell commands, or
-              rumor-based recommendations. In-app analyses are simulated skill runs on
-              public/social signals; treat every claim as unverified until checked against
-              the primary sources listed. The trading decision is always yours.
+              rumor-based recommendations. In-app analyses run the skill against a curated
+              knowledge base or your own AI model; treat every claim as unverified until
+              checked against the primary sources listed. The trading decision is always
+              yours.
+            </p>
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <div className="flex items-center gap-2">
+              <Sparkles className="h-4 w-4 text-primary" />
+              <CardTitle>AI research (optional, your key)</CardTitle>
+            </div>
+          </CardHeader>
+          <CardContent>
+            <p className="text-sm leading-relaxed text-muted-foreground">
+              Names outside the built-in knowledge base can be researched by connecting your
+              own AI model in <span className="font-medium text-foreground/80">Analyze → AI</span>{" "}
+              — any OpenAI-compatible or Gemini-compatible endpoint (Gemini and Groq have free
+              tiers). Your API URL, key, and model live only in your browser and are sent
+              directly to the provider; there is no server. The model supplies research and
+              0–5 ratings, but the bottleneck score is always computed locally with the exact
+              scorecard math, and AI answers are labeled{" "}
+              <span className="font-medium text-yellow-400">AI · unverified</span> since they
+              lack live sources.
             </p>
           </CardContent>
         </Card>

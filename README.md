@@ -44,9 +44,34 @@ labeled *initial pass — source checks remain*. Past analyses persist in
 
 The curated knowledge base covers the Serenity universe across AI
 infrastructure (optics, power, HBM, packaging metrology, networking, cooling)
-and neoclouds ($CRWV, $NBIS, $IREN, $APLD, $CIFR, $WULF, …). Unknown tickers
-get a conservative "unverified lead" profile; unknown themes get the full
-research-workflow scaffold instead of an invented ranking.
+and neoclouds ($CRWV, $NBIS, $IREN, $APLD, $CIFR, $WULF, …).
+
+Every scored term is explained in plain language right in the UI (e.g. *Chokepoint
+severity → "Is this a genuine bottleneck — a step nothing can skip?"*), so you
+don't need finance jargon to read a scorecard.
+
+### AI research (bring your own key)
+
+For any ticker or theme **outside the built-in knowledge base**, connect your own
+AI model and the app researches it with the full Serenity workflow instead of
+showing the generic scaffold. Configured in **Analyze → AI (gear)**:
+
+- **Any endpoint** — presets for Google Gemini (free tier), OpenRouter, Groq
+  (free tier), OpenAI, and local Ollama, plus a **Custom** option that accepts
+  any OpenAI-compatible or Gemini-compatible **API URL, key, and model name**.
+- **Private by design** — this is a static site with no backend. Your endpoint,
+  key, and model are stored **only in your browser** (localStorage) and calls go
+  **directly** from your browser to the provider you choose.
+- **Methodology stays canonical** — the model returns qualitative research plus
+  0–5 factor/penalty *ratings*; the app computes the bottleneck score **locally**
+  with the exact scorecard math, so the number means the same thing no matter
+  which model runs.
+- **Honest by default** — free-tier models have no live web access, so AI answers
+  come from training knowledge and are labeled **AI · unverified**; the model is
+  instructed to grade evidence on the ladder and never invent filings, and it
+  declines tickers it doesn't recognize rather than hallucinate.
+
+Curated names always use the vetted deterministic engine — AI only fills the gaps.
 
 ### Background: tweet tracking
 
@@ -73,7 +98,9 @@ In-browser research engine (no backend, works offline):
   src/lib/serenity/engine.ts     query router: ticker / comparison / theme
   src/lib/serenity/knowledge.ts  curated per-ticker value-chain knowledge
   src/lib/serenity/themes.ts     theme definitions (layers, candidates, risks)
-  src/lib/serenity/scorecard.ts  exact port of serenity_scorecard.py math
+  src/lib/serenity/scorecard.ts  exact port of serenity_scorecard.py + plain-language legend
+  src/lib/serenity/ai.ts         BYOK AI client (Gemini + OpenAI-compatible)
+  src/lib/serenity/analyze.ts    async orchestrator: curated engine ↔ AI fallback
   src/hooks/useAnalysisHistory.ts  localStorage history
 
 Background data pipeline:

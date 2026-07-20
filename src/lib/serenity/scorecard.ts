@@ -38,6 +38,47 @@ export const PENALTY_LABELS: Record<string, string> = {
   alternative_design_risk: "Alternative design risk",
 };
 
+// Plain-language, one-line explanations of every scored term — shown in the UI
+// so a non-expert can read the scorecard without knowing finance jargon.
+export const FACTOR_PLAIN: Record<string, string> = {
+  demand_inflection: "Is demand for what this company sells taking off right now?",
+  architecture_coupling: "Is this company baked into how the product is built (hard to design out)?",
+  chokepoint_severity: "Is this a genuine bottleneck — a step nothing can skip?",
+  supplier_concentration: "Are there only a few companies that can do this? (fewer = stronger)",
+  expansion_difficulty: "Is it hard for rivals to add capacity and catch up?",
+  evidence_quality: "How solid is the proof — official filings vs. just talk?",
+  valuation_disconnect: "Is the stock possibly cheaper than the story deserves?",
+  catalyst_timing: "Is a near-term event likely to make the market re-notice it?",
+};
+
+export const PENALTY_PLAIN: Record<string, string> = {
+  dilution_financing: "Might it print new shares or take on risky debt, hurting owners?",
+  governance: "Any concerns about how management runs the company?",
+  geopolitics: "Exposed to trade wars, sanctions, or country-specific risk?",
+  liquidity: "Is the stock thinly traded / hard to get in and out of?",
+  hype_risk: "Is it already a crowded, over-hyped story?",
+  accounting_quality: "Any red flags in how it reports its numbers?",
+  cyclicality: "Do its profits swing hard with the economic cycle?",
+  alternative_design_risk: "Could a different technology make its product unnecessary?",
+};
+
+/** Plain-language reading of a 0-100 bottleneck score. */
+export function scorePlain(score: number): string {
+  if (score >= 85) return "Looks like a strong bottleneck worth researching first.";
+  if (score >= 70) return "A high-priority name to dig into.";
+  if (score >= 55) return "Interesting enough to keep on the watchlist.";
+  return "Weak signal so far — treat it as an early lead, not a thesis.";
+}
+
+/**
+ * Plain-language legend for the whole scorecard, shown once per analysis.
+ */
+export const SCORECARD_PLAIN_INTRO =
+  "Each row is scored 0–5 for how strongly it applies. Green 'strength' rows " +
+  "add to the score; red 'penalty' rows (risks) subtract. The final 0–100 " +
+  "number is a research-priority signal — how much this deserves a closer " +
+  "look — NOT a price target or a buy/sell call.";
+
 export interface ScorecardResult {
   factors: FactorScore[];
   penalties: PenaltyScore[];
