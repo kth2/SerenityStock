@@ -221,7 +221,7 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
                 )}
 
                 {current.result.kind === "theme" ? (
-                  <ThemeAnalysisView analysis={current.result} />
+                  <ThemeAnalysisView analysis={current.result} onSelectTicker={analyze} />
                 ) : current.result.kind === "comparison" ? (
                   <ComparisonView analysis={current.result} />
                 ) : apiAnalysis ? (

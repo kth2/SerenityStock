@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
   AI_PRESETS,
+  getKeyForUrl,
   loadAiConfig,
   saveAiConfig,
   testAiConnection,
@@ -55,7 +56,15 @@ export function AiSettings({ open, onClose, onSaved }: AiSettingsProps) {
     if (preset.id !== "custom") {
       setBaseUrl(preset.baseUrl);
       setModel(preset.model);
+      // Recall the key stored for THIS endpoint (keys are per-API-URL).
+      setApiKey(getKeyForUrl(preset.baseUrl));
     }
+  }
+
+  // Recall the stored key when a manually-typed URL loses focus.
+  function recallKeyForUrl(url: string) {
+    const stored = getKeyForUrl(url);
+    if (stored) setApiKey(stored);
   }
 
   const preset = AI_PRESETS.find((p) => p.id === presetId);
@@ -174,6 +183,7 @@ export function AiSettings({ open, onClose, onSaved }: AiSettingsProps) {
             setBaseUrl(e.target.value);
             setTest({ status: "idle" });
           }}
+          onBlur={(e) => recallKeyForUrl(e.target.value)}
           placeholder="https://api.example.com/v1"
           className="mb-1 font-mono text-xs"
           spellCheck={false}

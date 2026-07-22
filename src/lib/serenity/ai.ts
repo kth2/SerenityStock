@@ -100,6 +100,38 @@ export const AI_PRESETS: AiPreset[] = [
 
 const CONFIG_KEY = "serenity.aiConfig.v2";
 const LEGACY_KEY = "serenity.aiConfig.v1";
+const KEYCHAIN_KEY = "serenity.aiKeys.v1";
+
+const normUrl = (u: string) => u.trim().replace(/\/+$/, "").toLowerCase();
+
+/** Per-endpoint API keys: each API URL remembers its own key. */
+export function loadKeychain(): Record<string, string> {
+  try {
+    const raw = localStorage.getItem(KEYCHAIN_KEY);
+    const parsed = raw ? (JSON.parse(raw) as Record<string, string>) : {};
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+export function getKeyForUrl(baseUrl: string): string {
+  if (!baseUrl.trim()) return "";
+  return loadKeychain()[normUrl(baseUrl)] ?? "";
+}
+
+export function rememberKey(baseUrl: string, apiKey: string) {
+  if (!baseUrl.trim()) return;
+  try {
+    const chain = loadKeychain();
+    const k = normUrl(baseUrl);
+    if (apiKey.trim()) chain[k] = apiKey.trim();
+    else delete chain[k];
+    localStorage.setItem(KEYCHAIN_KEY, JSON.stringify(chain));
+  } catch {
+    /* storage blocked */
+  }
+}
 
 export function loadAiConfig(): AiConfig | null {
   try {
@@ -133,6 +165,9 @@ export function saveAiConfig(config: AiConfig | null) {
   try {
     if (config?.baseUrl && config.model) {
       localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
+      // Keep the per-endpoint keychain in sync so switching providers later
+      // recalls the right key for each API URL.
+      rememberKey(config.baseUrl, config.apiKey);
     } else {
       localStorage.removeItem(CONFIG_KEY);
     }
