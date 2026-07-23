@@ -26,6 +26,8 @@ export interface TickerHistoryPoint {
   avgSentiment: number;
 }
 
+export type SignalBand = "high" | "constructive" | "mixed" | "weak";
+
 export interface TickerAggregate {
   ticker: string;
   count: number;
@@ -34,7 +36,26 @@ export interface TickerAggregate {
   avgSentiment: number;
   sentimentLabel: SentimentLabel;
   engagement: number;
+  /** Deterministic social-signal score 0-100 (haskaomni port). Optional so
+   *  older data files without it still parse. */
+  signalScore?: number;
+  signalBand?: SignalBand;
+  signalComponents?: Record<string, number>;
   history: TickerHistoryPoint[];
+}
+
+/** Indicative price quote for one ticker (public/data/quotes.json). */
+export interface Quote {
+  price: number;
+  changePct: number | null;
+  currency: string | null;
+  asOf: string | null;
+  source: string;
+}
+
+export interface QuotesData {
+  updatedAt: string;
+  quotes: Record<string, Quote>;
 }
 
 export interface Digest {

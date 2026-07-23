@@ -41,6 +41,9 @@ jobs:
       - name: Process mentions
         run: npm run process
 
+      - name: Fetch live quotes (best-effort)
+        run: npm run quotes
+
       - name: Deep analysis (Claude API, optional)
         # Runs only if the ANTHROPIC_API_KEY secret is configured; otherwise
         # the script exits cleanly and the app uses its built-in engine.

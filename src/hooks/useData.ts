@@ -1,9 +1,10 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import type { AnalysesData, MentionsData } from "@/types";
+import type { AnalysesData, MentionsData, QuotesData } from "@/types";
 
 interface DataState {
   data: MentionsData | null;
   analyses: AnalysesData | null;
+  quotes: QuotesData | null;
   loading: boolean;
   error: string | null;
   offline: boolean;
@@ -26,6 +27,7 @@ export function useData(): DataState {
   const [state, setState] = useState<Omit<DataState, "refresh">>({
     data: null,
     analyses: null,
+    quotes: null,
     loading: true,
     error: null,
     offline: !navigator.onLine,
@@ -40,9 +42,10 @@ export function useData(): DataState {
     const init: RequestInit | undefined = manual ? { cache: "reload" } : undefined;
     setState((s) => ({ ...s, refreshing: manual, error: manual ? s.error : null }));
     try {
-      const [mentionsRes, analysesRes] = await Promise.all([
+      const [mentionsRes, analysesRes, quotesRes] = await Promise.all([
         fetch(`${base}data/mentions.json${bust}`, init),
         fetch(`${base}data/analyses.json${bust}`, init).catch(() => null),
+        fetch(`${base}data/quotes.json${bust}`, init).catch(() => null),
       ]);
       if (!mentionsRes.ok) {
         throw new Error(`Failed to load data (HTTP ${mentionsRes.status})`);
@@ -57,11 +60,21 @@ export function useData(): DataState {
           /* optional file, ignore parse errors */
         }
       }
+      let quotes: QuotesData | null = null;
+      if (quotesRes?.ok) {
+        try {
+          const parsed = (await quotesRes.json()) as QuotesData;
+          if (parsed && typeof parsed.quotes === "object") quotes = parsed;
+        } catch {
+          /* optional file, ignore parse errors */
+        }
+      }
       if (!cancelledRef.current) {
         setState((s) => ({
           ...s,
           data,
           analyses,
+          quotes,
           loading: false,
           refreshing: false,
           error: null,
