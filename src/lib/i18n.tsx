@@ -82,6 +82,34 @@ const DICT: Record<string, Entry> = {
   "dash.updated": { en: "Data updated", zh: "数据更新于" },
   "dash.refresh": { en: "Refresh", zh: "刷新" },
   "dash.refreshing": { en: "Refreshing…", zh: "刷新中…" },
+
+  // Manual scrape (dispatches the GitHub Actions pipeline)
+  "scrape.run": { en: "Scrape now", zh: "立即抓取" },
+  "scrape.reload": { en: "Reload data", zh: "重载数据" },
+  "scrape.starting": { en: "Starting…", zh: "启动中…" },
+  "scrape.scraping": { en: "Scraping…", zh: "抓取中…" },
+  "scrape.building": { en: "Building site…", zh: "构建站点…" },
+  "scrape.reloading": { en: "Reloading…", zh: "重载中…" },
+  "scrape.done": { en: "Updated ✓", zh: "已更新 ✓" },
+  "scrape.failed": { en: "Scrape failed", zh: "抓取失败" },
+  "scrape.note": {
+    en: "Runs the GitHub Actions pipeline (scrape → process → deploy), ~2–3 min, then reloads.",
+    zh: "运行 GitHub Actions 流程（抓取 → 处理 → 部署），约 2–3 分钟，然后重新加载。",
+  },
+  "scrape.tokenTitle": { en: "Connect GitHub to scrape", zh: "连接 GitHub 以抓取" },
+  "scrape.tokenIntro": {
+    en: "Triggering a real scrape runs your GitHub Actions workflow, which needs a token. It is stored only in this browser and sent directly to GitHub — never committed.",
+    zh: "触发真正的抓取会运行你的 GitHub Actions 工作流，需要一个令牌。它仅保存在本浏览器中并直接发送给 GitHub —— 绝不提交到代码库。",
+  },
+  "scrape.tokenSecurity": {
+    en: "Use a fine-grained token scoped to this one repo with only “Actions: read and write”.",
+    zh: "请使用仅针对该仓库、且仅具有 “Actions: 读写” 权限的细粒度令牌。",
+  },
+  "scrape.tokenLabel": { en: "GitHub token", zh: "GitHub 令牌" },
+  "scrape.repoLabel": { en: "Repository (owner/repo)", zh: "仓库（owner/repo）" },
+  "scrape.save": { en: "Save & scrape", zh: "保存并抓取" },
+  "scrape.forget": { en: "Remove token", zh: "移除令牌" },
+  "scrape.cancel": { en: "Cancel", zh: "取消" },
   "dash.source": { en: "Source", zh: "来源" },
   "dash.trackingNote": {
     en: "Mention tracking is a best-effort background feature and may skip days. The Analyze tab works regardless.",

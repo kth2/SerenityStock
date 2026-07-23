@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { BookOpen, LayoutDashboard, Microscope, RefreshCw, Table2 } from "lucide-react";
+import { BookOpen, LayoutDashboard, Microscope, Table2 } from "lucide-react";
 import { AnalyzeTab } from "@/components/AnalyzeTab";
 import { Header } from "@/components/Header";
+import { ScrapeButton } from "@/components/ScrapeButton";
 import { StatCards } from "@/components/StatCards";
 import { MentionFrequencyChart, TopTickersChart } from "@/components/Charts";
 import { MentionFeed } from "@/components/MentionFeed";
@@ -12,7 +13,6 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useData } from "@/hooks/useData";
 import { useI18n } from "@/lib/i18n";
-import { cn } from "@/lib/utils";
 
 function DataUnavailable({ error }: { error: string | null }) {
   const { t } = useI18n();
@@ -100,14 +100,7 @@ export default function App() {
                           })}
                         </time>
                       </p>
-                      <button
-                        onClick={refresh}
-                        disabled={refreshing}
-                        className="inline-flex items-center gap-1.5 rounded-lg border border-border/70 bg-background/50 px-2.5 py-1.5 text-xs font-medium text-foreground/80 transition-colors hover:border-primary/50 hover:text-foreground disabled:opacity-60"
-                      >
-                        <RefreshCw className={cn("h-3.5 w-3.5", refreshing && "animate-spin")} />
-                        {refreshing ? t("dash.refreshing") : t("dash.refresh")}
-                      </button>
+                      <ScrapeButton onReload={refresh} reloading={refreshing} />
                     </div>
 
                     <StatCards data={data} />
