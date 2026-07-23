@@ -22,15 +22,16 @@ import {
 import { useAnalysisHistory } from "@/hooks/useAnalysisHistory";
 import { analyzeQuery, wouldUseAi } from "@/lib/serenity/analyze";
 import { aiConfigured, loadAiConfig, type AiConfig } from "@/lib/serenity/ai";
+import { useI18n } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
 import type { AnalysesData, AnalysisResult, MentionsData, TickerAggregate } from "@/types";
 
 const EXAMPLES = ["AAOI", "neocloud stocks", "AI CPO", "WULF, CIFR, IREN", "data center power", "robotics"];
 
-const KIND_LABEL: Record<string, string> = {
-  ticker: "single company",
-  comparison: "comparison",
-  theme: "theme scan",
+const KIND_KEY: Record<string, string> = {
+  ticker: "kind.ticker",
+  comparison: "kind.comparison",
+  theme: "kind.theme",
 };
 
 interface AnalyzeTabProps {
@@ -39,6 +40,7 @@ interface AnalyzeTabProps {
 }
 
 export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
+  const { t, lang } = useI18n();
   const [query, setQuery] = useState("");
   const [running, setRunning] = useState(false);
   const [current, setCurrent] = useState<{ query: string; result: AnalysisResult } | null>(null);
@@ -70,7 +72,7 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
     const controller = new AbortController();
     abortRef.current = controller;
     try {
-      const outcome = await analyzeQuery(q, aggs, aiConfig, controller.signal);
+      const outcome = await analyzeQuery(q, aggs, aiConfig, controller.signal, lang);
       if (controller.signal.aborted) return;
       setCurrent({ query: q, result: outcome.result });
       setWarning(outcome.warning ?? null);
@@ -103,7 +105,7 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
           <div className="mb-3 flex items-center justify-between gap-2">
             <div className="flex items-center gap-2">
               <Sparkles className="h-4 w-4 text-primary" />
-              <h2 className="text-base font-semibold">Analyze anything with the Serenity Skill</h2>
+              <h2 className="text-base font-semibold">{t("analyze.title")}</h2>
             </div>
             <button
               onClick={() => setSettingsOpen(true)}
@@ -132,8 +134,8 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
               <input
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
-                placeholder="Ticker, list of tickers, or theme — e.g. AAOI · neocloud stocks · AI CPO · robotics"
-                aria-label="Analyze a ticker, list of tickers, or theme"
+                placeholder={t("analyze.placeholder")}
+                aria-label={t("analyze.placeholder")}
                 autoCapitalize="characters"
                 spellCheck={false}
                 className="h-11 w-full rounded-lg border border-border bg-background px-3 pl-9 text-sm shadow-sm placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60"
@@ -141,11 +143,11 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
             </div>
             <Button type="submit" size="lg" disabled={running || !query.trim()} className="gap-2">
               <Microscope className="h-4 w-4" />
-              {running ? (aiOn ? "Researching…" : "Running skill…") : "Deep Analyze"}
+              {running ? (aiOn ? t("analyze.researching") : t("analyze.running")) : t("analyze.button")}
             </Button>
           </form>
           <div className="mt-3 flex flex-wrap items-center gap-1.5">
-            <span className="text-xs text-muted-foreground">Try:</span>
+            <span className="text-xs text-muted-foreground">{t("analyze.try")}</span>
             {EXAMPLES.map((ex) => (
               <button
                 key={ex}
@@ -157,22 +159,20 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
             ))}
           </div>
           <p className="mt-3 text-xs leading-relaxed text-muted-foreground">
-            Runs the bundled Serenity research workflow: value-chain breakdown → scarce-layer
-            ranking → bottleneck scorecard → graded evidence → failure modes → next checks.
-            One ticker = deep dive · several = ranked comparison · words = theme scan.
+            {t("analyze.desc")}
             {aiOn ? (
               <>
                 {" "}
-                <span className="text-primary">AI research is on</span> — anything outside the
-                built-in knowledge base is researched by your model.
+                <span className="text-primary">{t("analyze.aiOn")}</span>
+                {t("analyze.aiOnTail")}
               </>
             ) : (
               <>
                 {" "}
                 <button onClick={() => setSettingsOpen(true)} className="text-accent hover:underline">
-                  Connect an AI model
-                </button>{" "}
-                to research names beyond the built-in list.
+                  {t("analyze.connectAi")}
+                </button>
+                {t("analyze.connectAiTail")}
               </>
             )}
           </p>
@@ -193,10 +193,10 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
             <Card>
               <CardContent className="p-4 sm:p-5">
                 <div className="mb-4 flex flex-wrap items-center gap-2 border-b border-border/60 pb-3">
-                  <Badge>{KIND_LABEL[current.result.kind ?? "ticker"]}</Badge>
+                  <Badge>{t(KIND_KEY[current.result.kind ?? "ticker"])}</Badge>
                   {"ai" in current.result && current.result.ai && (
                     <Badge variant="warning" title={`Generated by ${current.result.ai.model} — verify before acting`}>
-                      AI · unverified
+                      {t("badge.aiUnverified")}
                     </Badge>
                   )}
                   <span className="text-sm text-muted-foreground">“{current.query}”</span>
@@ -211,12 +211,11 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
 
                 {showAiNudge && (
                   <div className="mb-4 rounded-lg border border-accent/30 bg-accent/10 px-3 py-2 text-xs leading-relaxed text-foreground/80">
-                    This name isn't in the built-in knowledge base, so you're seeing the generic
-                    research scaffold.{" "}
+                    {t("analyze.aiNudge")}{" "}
                     <button onClick={() => setSettingsOpen(true)} className="font-medium text-accent hover:underline">
-                      Connect a free AI model
-                    </button>{" "}
-                    to get a full researched analysis instead.
+                      {t("analyze.aiNudgeCta")}
+                    </button>
+                    {t("analyze.aiNudgeTail")}
                   </div>
                 )}
 
@@ -235,10 +234,7 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
             <Card className="border-dashed">
               <CardContent className="flex min-h-48 flex-col items-center justify-center gap-2 p-8 text-center">
                 <Microscope className="h-8 w-8 text-muted-foreground/50" />
-                <p className="text-sm text-muted-foreground">
-                  Enter a ticker or theme above — or revisit a past analysis from the
-                  history panel.
-                </p>
+                <p className="text-sm text-muted-foreground">{t("analyze.empty")}</p>
               </CardContent>
             </Card>
           )}
@@ -249,23 +245,21 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
           <CardHeader className="flex-row items-center justify-between space-y-0">
             <div className="flex items-center gap-2">
               <History className="h-4 w-4 text-muted-foreground" />
-              <CardTitle>Past analyses</CardTitle>
+              <CardTitle>{t("history.title")}</CardTitle>
             </div>
             {history.length > 0 && (
               <button
                 onClick={clear}
                 className="text-xs text-muted-foreground hover:text-bearish"
-                title="Clear all history"
+                title={t("history.clear")}
               >
-                Clear
+                {t("history.clear")}
               </button>
             )}
           </CardHeader>
           <CardContent>
             {history.length === 0 ? (
-              <p className="text-xs text-muted-foreground">
-                Analyses are saved here (locally in your browser) with timestamps.
-              </p>
+              <p className="text-xs text-muted-foreground">{t("history.empty")}</p>
             ) : (
               <ul className="space-y-1.5">
                 {history.map((h) => (
@@ -283,7 +277,7 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
                     >
                       <span className="block truncate text-sm">{h.label}</span>
                       <span className="block text-[11px] text-muted-foreground">
-                        {KIND_LABEL[h.kind]} ·{" "}
+                        {t(KIND_KEY[h.kind])} ·{" "}
                         {new Date(h.createdAt).toLocaleString(undefined, {
                           month: "short",
                           day: "numeric",

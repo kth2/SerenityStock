@@ -1,36 +1,38 @@
 import { MessageSquareText, Hash, CalendarRange, Crown } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
+import { useI18n } from "@/lib/i18n";
 import { formatCompact } from "@/lib/utils";
 import type { MentionsData } from "@/types";
 
 export function StatCards({ data }: { data: MentionsData }) {
+  const { t } = useI18n();
   const top = data.tickers[0];
   const stats = [
     {
       icon: MessageSquareText,
-      label: "Tracked mentions",
+      label: t("stat.mentions"),
       value: formatCompact(data.totalMentions),
-      sub: `from ${formatCompact(data.totalTweets)} posts`,
+      sub: t("stat.mentionsSub", { n: formatCompact(data.totalTweets) }),
     },
     {
       icon: Hash,
-      label: "Tickers tracked",
+      label: t("stat.tickers"),
       value: String(data.tickers.length),
-      sub: `${data.digest.newTickers.length} new this week`,
+      sub: t("stat.tickersSub", { n: data.digest.newTickers.length }),
     },
     {
       icon: CalendarRange,
-      label: "Mentions (7d)",
+      label: t("stat.week"),
       value: String(data.digest.totalMentions),
       sub: data.digest.window.from
         ? `${data.digest.window.from} → ${data.digest.window.to}`
-        : "no window",
+        : "—",
     },
     {
       icon: Crown,
-      label: "Most mentioned",
+      label: t("stat.top"),
       value: top ? `$${top.ticker}` : "—",
-      sub: top ? `${top.count} mentions · ${top.sentimentLabel}` : "",
+      sub: top ? `${top.count} · ${top.sentimentLabel}` : "",
     },
   ];
 

@@ -1,6 +1,7 @@
-# Daily data pipeline: scrape @aleabitoreddit → process mentions → (optionally)
-# run Claude-API deep analysis → commit updated JSON. The commit to the default
-# branch triggers the deploy workflow, which rebuilds GitHub Pages.
+# Daily data pipeline: scrape trackserenity.com (X timeline fallback) → process
+# mentions → (optionally) run Claude-API deep analysis → commit updated JSON.
+# The commit to the default branch triggers the deploy workflow, which rebuilds
+# GitHub Pages.
 name: Update data
 
 on:
@@ -34,7 +35,7 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install --with-deps chromium
 
-      - name: Scrape tweets
+      - name: Scrape updates (trackserenity.com)
         run: npm run scrape
 
       - name: Process mentions
