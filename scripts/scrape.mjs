@@ -1,33 +1,41 @@
 #!/usr/bin/env node
-// Scrapes recent posts from x.com/aleabitoreddit.
+// Scrapes recent stock updates from https://www.trackserenity.com/ (primary),
+// falling back to the x.com/aleabitoreddit syndication timeline if the site
+// yields nothing. Output shape is unchanged (public/data/tweets.json: a list of
+// posts with id/text/createdAt/url/stats), so the rest of the pipeline
+// (process.mjs → mentions.json) works without modification.
 //
-// Strategy (most → least robust):
-//   1. Playwright: load the profile, scroll, extract tweet articles from the DOM.
-//   2. Twitter syndication endpoint (no login, used by embedded timelines).
+// The site's exact DOM is not assumed: extraction is defensive and tries
+// several strategies, keeping any text block that carries a ticker symbol.
 //
-// New tweets are merged into public/data/tweets.json (deduped by id, newest
-// first, capped). The scraper never wipes existing data on failure — worst
-// case the file is left untouched and the processor keeps the last good set.
+// New posts are merged (deduped by id, newest first, capped). The scraper
+// never wipes existing data on failure — worst case the file is left
+// untouched and the processor keeps the last good set.
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import crypto from "node:crypto";
 
+const SITE_URL = process.env.SERENITY_URL ?? "https://www.trackserenity.com/";
 const HANDLE = process.env.SERENITY_HANDLE ?? "aleabitoreddit";
 const MAX_TWEETS = Number(process.env.MAX_TWEETS ?? 500);
-const SCROLL_ROUNDS = Number(process.env.SCROLL_ROUNDS ?? 12);
+const SCROLL_ROUNDS = Number(process.env.SCROLL_ROUNDS ?? 8);
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const DATA_FILE = path.join(root, "public", "data", "tweets.json");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 /* ---------------------------------------------------------------- utils -- */
 
 async function loadExisting() {
   try {
     const parsed = JSON.parse(await readFile(DATA_FILE, "utf8"));
-    // Seed/sample tweets are placeholders — drop them once real data arrives.
+    // Seed/sample posts are placeholders — drop them once real data arrives.
     if (parsed.source === "seed") return [];
     return Array.isArray(parsed.tweets) ? parsed.tweets : [];
   } catch {
@@ -35,24 +43,29 @@ async function loadExisting() {
   }
 }
 
-function normalize(tweet) {
+// Stable id from a post's identity so re-scrapes dedupe cleanly.
+function stableId(seed) {
+  return crypto.createHash("sha1").update(seed).digest("hex").slice(0, 16);
+}
+
+function normalize(post) {
   return {
-    id: String(tweet.id),
-    text: tweet.text?.trim() ?? "",
-    createdAt: tweet.createdAt,
-    url: tweet.url ?? `https://x.com/${HANDLE}/status/${tweet.id}`,
+    id: String(post.id),
+    text: post.text?.trim() ?? "",
+    createdAt: post.createdAt || new Date().toISOString(),
+    url: post.url ?? SITE_URL,
     stats: {
-      replies: tweet.stats?.replies ?? 0,
-      reposts: tweet.stats?.reposts ?? 0,
-      likes: tweet.stats?.likes ?? 0,
-      views: tweet.stats?.views ?? 0,
+      replies: post.stats?.replies ?? 0,
+      reposts: post.stats?.reposts ?? 0,
+      likes: post.stats?.likes ?? 0,
+      views: post.stats?.views ?? 0,
     },
   };
 }
 
-/* ----------------------------------------------------- 1. playwright ----- */
+/* ------------------------------------------------ 1. trackserenity.com --- */
 
-async function scrapeWithPlaywright() {
+async function scrapeTrackSerenity() {
   const { chromium } = await import("playwright");
   const executablePath = process.env.PLAYWRIGHT_CHROMIUM_PATH; // optional override
   const browser = await chromium.launch({
@@ -63,91 +76,114 @@ async function scrapeWithPlaywright() {
 
   try {
     const context = await browser.newContext({
-      userAgent:
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      userAgent: UA,
       viewport: { width: 1280, height: 900 },
       locale: "en-US",
     });
     const page = await context.newPage();
-    await page.goto(`https://x.com/${HANDLE}`, {
-      waitUntil: "domcontentloaded",
-      timeout: 60_000,
-    });
-
-    // Wait for the timeline to render; X is slow and sometimes shows an
-    // interstitial first, so poll rather than fail fast.
-    await page
-      .waitForSelector("article[data-testid='tweet']", { timeout: 30_000 })
-      .catch(() => {});
-
-    const seen = new Map();
-    for (let round = 0; round < SCROLL_ROUNDS; round++) {
-      const batch = await page.$$eval("article[data-testid='tweet']", (articles) =>
-        articles.map((article) => {
-          const link = article.querySelector("a[href*='/status/'] time")?.closest("a");
-          const time = article.querySelector("time");
-          const textEl = article.querySelector("div[data-testid='tweetText']");
-          const stat = (name) => {
-            const el = article.querySelector(`[data-testid='${name}']`);
-            const label = el?.getAttribute("aria-label") ?? el?.textContent ?? "";
-            const m = label.replace(/,/g, "").match(/[\d.]+[KM]?/);
-            if (!m) return 0;
-            let n = parseFloat(m[0]);
-            if (/K$/i.test(m[0])) n *= 1e3;
-            if (/M$/i.test(m[0])) n *= 1e6;
-            return Math.round(n);
-          };
-          const href = link?.getAttribute("href") ?? "";
-          const id = href.split("/status/")[1]?.split(/[/?]/)[0] ?? "";
-          return {
-            id,
-            href,
-            text: textEl?.textContent ?? "",
-            createdAt: time?.getAttribute("datetime") ?? "",
-            replies: stat("reply"),
-            reposts: stat("retweet"),
-            likes: stat("like"),
-          };
-        }),
-      );
-
-      for (const t of batch) {
-        if (t.id && t.text && !seen.has(t.id)) {
-          seen.set(t.id, {
-            id: t.id,
-            text: t.text,
-            createdAt: t.createdAt || new Date().toISOString(),
-            url: `https://x.com${t.href}`,
-            stats: { replies: t.replies, reposts: t.reposts, likes: t.likes, views: 0 },
-          });
-        }
-      }
-
-      await page.mouse.wheel(0, 2500);
-      await sleep(1500 + Math.random() * 1500); // polite, human-ish pacing
+    await page.goto(SITE_URL, { waitUntil: "networkidle", timeout: 60_000 });
+    // Give client-rendered content a moment, then scroll to load more items.
+    await sleep(2500);
+    for (let i = 0; i < SCROLL_ROUNDS; i++) {
+      await page.mouse.wheel(0, 3000);
+      await sleep(1200 + Math.random() * 800);
     }
 
-    return [...seen.values()];
+    // Extract candidate post items in the browser. Strategy: prefer common
+    // list/card containers; fall back to any block-level element that carries
+    // enough text. Each item keeps its text plus a stable link if present.
+    const items = await page.evaluate(() => {
+      const SELECTORS = [
+        "article",
+        "[class*='card']",
+        "[class*='post']",
+        "[class*='update']",
+        "[class*='item']",
+        "[class*='entry']",
+        "li",
+        "tr",
+      ];
+      const seen = new Set();
+      const out = [];
+      const pushEl = (el) => {
+        const text = (el.innerText || el.textContent || "").replace(/\s+/g, " ").trim();
+        if (text.length < 8 || text.length > 1200) return;
+        if (seen.has(text)) return;
+        seen.add(text);
+        const a = el.querySelector("a[href]");
+        const time = el.querySelector("time");
+        out.push({
+          text,
+          href: a?.getAttribute("href") || "",
+          datetime: time?.getAttribute("datetime") || "",
+        });
+      };
+      for (const sel of SELECTORS) {
+        for (const el of Array.from(document.querySelectorAll(sel))) {
+          // Skip elements that merely wrap other candidate items (keep leaves).
+          if (el.querySelector(sel)) continue;
+          pushEl(el);
+        }
+        if (out.length >= 40) break;
+      }
+      // Last resort: whole-page paragraphs.
+      if (out.length === 0) {
+        for (const el of Array.from(document.querySelectorAll("p, div"))) {
+          pushEl(el);
+          if (out.length >= 40) break;
+        }
+      }
+      return out;
+    });
+
+    // Ticker detection: real cashtags ($AAOI) plus bracketed/paren symbols
+    // like (AAOI) or NASDAQ: AAOI that finance sites commonly use. Anything
+    // matched is emitted as a $-cashtag so process.mjs picks it up.
+    const CASHTAG = /\$[A-Za-z]{1,5}\b/;
+    const SYMBOL = /(?:\(|\b(?:NYSE|NASDAQ|AMEX)\s*:\s*)([A-Z]{2,5})\)?/g;
+    const posts = [];
+    for (const it of items) {
+      let text = it.text;
+      if (!CASHTAG.test(text)) {
+        // Promote exchange-tagged/parenthesized symbols to cashtags.
+        const found = new Set();
+        for (const m of text.matchAll(SYMBOL)) found.add(m[1]);
+        for (const sym of found) {
+          text = text.replace(
+            new RegExp(`(?<!\\$)\\b${sym}\\b`, "g"),
+            `$${sym}`,
+          );
+        }
+      }
+      if (!CASHTAG.test(text)) continue; // no ticker → not a stock post
+      const url = it.href
+        ? new URL(it.href, SITE_URL).toString()
+        : SITE_URL;
+      const createdAt = it.datetime
+        ? new Date(it.datetime).toISOString()
+        : new Date().toISOString();
+      posts.push({
+        id: stableId(url + "|" + text.slice(0, 120)),
+        text,
+        createdAt,
+        url,
+        stats: { replies: 0, reposts: 0, likes: 0, views: 0 },
+      });
+    }
+    return posts;
   } finally {
     await browser.close();
   }
 }
 
-/* ------------------------------------------------- 2. syndication API ---- */
+/* ----------------------------------- 2. x.com syndication (fallback) ----- */
 
 async function scrapeWithSyndication() {
   // Endpoint used by publish.twitter.com embedded timelines — no auth needed.
-  // Returns server-rendered HTML with a __NEXT_DATA__ JSON blob.
   const url =
     `https://syndication.twitter.com/srv/timeline-profile/screen-name/${HANDLE}` +
     `?showReplies=false`;
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-    },
-  });
+  const res = await fetch(url, { headers: { "User-Agent": UA } });
   if (!res.ok) throw new Error(`syndication HTTP ${res.status}`);
   const html = await res.text();
   const m = html.match(
@@ -178,21 +214,22 @@ async function scrapeWithSyndication() {
 /* ----------------------------------------------------------------- main -- */
 
 async function main() {
-  console.log(`Scraping @${HANDLE} ...`);
   let scraped = [];
   let method = "";
 
+  console.log(`Scraping ${SITE_URL} ...`);
   try {
-    scraped = await scrapeWithPlaywright();
-    method = "playwright";
+    scraped = await scrapeTrackSerenity();
+    method = "trackserenity";
+    console.log(`trackserenity: ${scraped.length} stock posts found.`);
   } catch (err) {
-    console.warn(`Playwright scrape failed: ${err.message}`);
+    console.warn(`trackserenity scrape failed: ${err.message}`);
   }
 
-  // Syndication endpoint rate-limits shared CI egress IPs aggressively (429),
-  // but the throttle is often transient — retry with backoff before giving up.
+  // Fallback to the X syndication timeline (with backoff for transient 429s).
   if (scraped.length === 0) {
-    const delays = [0, 25_000, 50_000, 90_000];
+    console.log(`Falling back to @${HANDLE} syndication timeline ...`);
+    const delays = [0, 25_000, 50_000];
     for (const delay of delays) {
       if (delay) {
         console.log(`Retrying syndication in ${delay / 1000}s ...`);
@@ -209,11 +246,8 @@ async function main() {
   }
 
   if (scraped.length === 0) {
-    console.error(
-      "No tweets scraped by any method — keeping existing data untouched.",
-    );
-    // Exit 0 so a transient block doesn't fail the whole scheduled workflow;
-    // the processor will re-run on yesterday's data.
+    console.error("No posts scraped by any method — keeping existing data untouched.");
+    // Exit 0 so a transient block doesn't fail the scheduled workflow.
     return;
   }
 
@@ -222,8 +256,9 @@ async function main() {
   let added = 0;
   for (const raw of scraped) {
     const t = normalize(raw);
+    if (!t.id || !t.text) continue;
     if (!byId.has(t.id)) added++;
-    byId.set(t.id, t); // newer scrape wins (fresher stats)
+    byId.set(t.id, t); // newer scrape wins (fresher content)
   }
 
   const merged = [...byId.values()]
@@ -237,6 +272,7 @@ async function main() {
       {
         updatedAt: new Date().toISOString(),
         source: method,
+        sourceUrl: method === "trackserenity" ? SITE_URL : `https://x.com/${HANDLE}`,
         handle: HANDLE,
         tweets: merged,
       },

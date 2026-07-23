@@ -38,6 +38,14 @@ export interface AiConfig {
   model: string;
 }
 
+/** Per-run options: output language and an optional live-price context block. */
+export interface AiRunOptions {
+  /** When "zh", the model is told to write all prose fields in Chinese. */
+  lang?: "en" | "zh";
+  /** Formatted live-price text to append to the prompt (see livedata.ts). */
+  live?: string;
+}
+
 export interface AiPreset {
   id: string;
   label: string;
@@ -376,6 +384,21 @@ function evidence(v: unknown): EvidenceItem[] {
     .slice(0, 6);
 }
 
+/** Build the optional prompt suffix (live-price context + language directive). */
+function runSuffix(opts?: AiRunOptions): string {
+  const parts: string[] = [];
+  if (opts?.live) parts.push("", opts.live);
+  if (opts?.lang === "zh") {
+    parts.push(
+      "",
+      "IMPORTANT: Write every human-readable string field (names, sentences,",
+      "rationales, notes, evidence claims, checks) in Simplified Chinese (简体中文).",
+      "Keep ticker symbols, layer keys, and the JSON structure/keys unchanged.",
+    );
+  }
+  return parts.length ? "\n" + parts.join("\n") : "";
+}
+
 /* --------------------------------------------------------- ticker -------- */
 
 export async function aiAnalyzeTicker(
@@ -383,6 +406,7 @@ export async function aiAnalyzeTicker(
   ticker: string,
   agg?: TickerAggregate,
   signal?: AbortSignal,
+  opts?: AiRunOptions,
 ): Promise<SerenityAnalysis> {
   const mentionCtx = agg
     ? `Tracked @aleabitoreddit mentions (social-tier signal only): ${agg.count} mentions, ` +
@@ -414,7 +438,7 @@ export async function aiAnalyzeTicker(
       weakeners: ["3-4 situations that would prove the idea weak or wrong"],
       nextChecks: ["3-4 concrete verification steps (filings, metrics, sources)"],
     }),
-  ].join("\n");
+  ].join("\n") + runSuffix(opts);
 
   const raw = (await callModel(config, user, signal)) as Record<string, unknown>;
 
@@ -463,6 +487,7 @@ export async function aiAnalyzeTheme(
   config: AiConfig,
   query: string,
   signal?: AbortSignal,
+  opts?: AiRunOptions,
 ): Promise<ThemeAnalysis> {
   const user = [
     `Theme scan: "${query}". Rank the supply-chain layers before companies.`,
@@ -489,7 +514,7 @@ export async function aiAnalyzeTheme(
     }),
     "",
     "4-6 layers, 3-6 candidates, at least one popularButLower entry.",
-  ].join("\n");
+  ].join("\n") + runSuffix(opts);
 
   const raw = (await callModel(config, user, signal)) as Record<string, unknown>;
 

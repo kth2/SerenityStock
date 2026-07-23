@@ -1,6 +1,7 @@
 import { ExternalLink, Heart, Repeat2 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { useI18n } from "@/lib/i18n";
 import { formatCompact } from "@/lib/utils";
 import type { Mention } from "@/types";
 
@@ -27,6 +28,7 @@ function TweetText({ text }: { text: string }) {
 }
 
 export function MentionFeed({ mentions, limit = 8 }: { mentions: Mention[]; limit?: number }) {
+  const { t } = useI18n();
   // De-dupe: one tweet can mention several tickers; show each tweet once.
   const seen = new Set<string>();
   const unique = mentions.filter((m) => {
@@ -38,8 +40,8 @@ export function MentionFeed({ mentions, limit = 8 }: { mentions: Mention[]; limi
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Latest mentions</CardTitle>
-        <CardDescription>Most recent posts containing ticker symbols</CardDescription>
+        <CardTitle>{t("feed.title")}</CardTitle>
+        <CardDescription>{t("feed.sub")}</CardDescription>
       </CardHeader>
       <CardContent className="space-y-3">
         {unique.slice(0, limit).map((m) => (
@@ -65,7 +67,7 @@ export function MentionFeed({ mentions, limit = 8 }: { mentions: Mention[]; limi
                 rel="noreferrer noopener"
                 className="ml-auto inline-flex items-center gap-1 text-xs text-muted-foreground hover:text-accent"
               >
-                Source <ExternalLink className="h-3 w-3" />
+                {t("feed.source")} <ExternalLink className="h-3 w-3" />
               </a>
             </div>
             <TweetText text={m.text} />

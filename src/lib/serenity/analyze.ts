@@ -21,7 +21,9 @@ import {
   aiConfigured,
   AiError,
   type AiConfig,
+  type AiRunOptions,
 } from "./ai";
+import { fetchLiveQuotes, formatQuotesForPrompt } from "./livedata";
 
 export interface AnalyzeOutcome {
   result: AnalysisResult;
@@ -41,6 +43,7 @@ export async function analyzeQuery(
   aggs: Map<string, TickerAggregate>,
   config: AiConfig | null,
   signal?: AbortSignal,
+  lang: "en" | "zh" = "en",
 ): Promise<AnalyzeOutcome> {
   const parsed = parseQuery(raw);
   const useAi = aiConfigured(config);
@@ -53,7 +56,8 @@ export async function analyzeQuery(
     }
     if (useAi) {
       try {
-        return { result: await aiAnalyzeTicker(config!, t, aggs.get(t), signal), usedAi: true };
+        const opts = await buildRunOptions([t], lang, signal);
+        return { result: await aiAnalyzeTicker(config!, t, aggs.get(t), signal, opts), usedAi: true };
       } catch (err) {
         return aiFallback(err, () => runSerenityAnalysis(t, aggs.get(t)));
       }
@@ -63,11 +67,13 @@ export async function analyzeQuery(
 
   // --- comparison ---
   if (parsed.kind === "comparison") {
+    // One shared live-price fetch for all names in the comparison.
+    const opts = useAi ? await buildRunOptions(parsed.tickers, lang, signal) : undefined;
     const parts = await Promise.all(
       parsed.tickers.map(async (t): Promise<{ a: SerenityAnalysis; ai: boolean; warn?: string }> => {
         if (isCurated(t) || !useAi) return { a: runSerenityAnalysis(t, aggs.get(t)), ai: false };
         try {
-          return { a: await aiAnalyzeTicker(config!, t, aggs.get(t), signal), ai: true };
+          return { a: await aiAnalyzeTicker(config!, t, aggs.get(t), signal, opts), ai: true };
         } catch (err) {
           return {
             a: runSerenityAnalysis(t, aggs.get(t)),
@@ -96,12 +102,36 @@ export async function analyzeQuery(
   if (def) return { result: runQuery(raw, aggs), usedAi: false }; // curated theme (sync)
   if (useAi) {
     try {
-      return { result: await aiAnalyzeTheme(config!, parsed.raw, signal), usedAi: true };
+      // Theme scans have no ticker list up front, so only the language
+      // directive applies here (no live-price context).
+      const opts: AiRunOptions = { lang };
+      return { result: await aiAnalyzeTheme(config!, parsed.raw, signal, opts), usedAi: true };
     } catch (err) {
       return aiFallback(err, () => runQuery(raw, aggs));
     }
   }
   return { result: runQuery(raw, aggs), usedAi: false }; // generic scaffold
+}
+
+/**
+ * Assemble per-run AI options: the output language plus a best-effort
+ * live-price context block. Live-price fetching never throws (except on
+ * abort) — if it yields nothing, only the language directive is passed.
+ */
+async function buildRunOptions(
+  tickers: string[],
+  lang: "en" | "zh",
+  signal?: AbortSignal,
+): Promise<AiRunOptions> {
+  let live = "";
+  try {
+    const quotes = await fetchLiveQuotes(tickers, signal);
+    live = formatQuotesForPrompt(quotes);
+  } catch (err) {
+    if ((err as Error)?.name === "AbortError") throw err;
+    /* live data is optional — ignore any failure */
+  }
+  return { lang, live: live || undefined };
 }
 
 function aiFallback(err: unknown, fallback: () => AnalysisResult): AnalyzeOutcome {

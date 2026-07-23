@@ -12,6 +12,7 @@ import {
   YAxis,
 } from "recharts";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { useI18n } from "@/lib/i18n";
 import type { MentionsData } from "@/types";
 
 // Chart series colors validated for the dark surface (dataviz six-checks):
@@ -31,6 +32,7 @@ const tooltipStyle: React.CSSProperties = {
 
 /** Daily mention volume across all tickers. */
 export function MentionFrequencyChart({ data }: { data: MentionsData }) {
+  const { t } = useI18n();
   const series = useMemo(() => {
     const byDay = new Map<string, number>();
     for (const m of data.mentions) {
@@ -45,8 +47,8 @@ export function MentionFrequencyChart({ data }: { data: MentionsData }) {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Mention frequency</CardTitle>
-        <CardDescription>Ticker mentions per day, all tickers</CardDescription>
+        <CardTitle>{t("chart.freq")}</CardTitle>
+        <CardDescription>{t("chart.freqSub")}</CardDescription>
       </CardHeader>
       <CardContent className="h-56">
         <ResponsiveContainer width="100%" height="100%">
@@ -93,6 +95,7 @@ export function TopTickersChart({
   data: MentionsData;
   onSelect?: (ticker: string) => void;
 }) {
+  const { t } = useI18n();
   const rows = useMemo(
     () =>
       data.tickers.slice(0, 8).map((t) => ({
@@ -107,8 +110,8 @@ export function TopTickersChart({
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Top tickers</CardTitle>
-        <CardDescription>By mention count — tap a bar to open the ticker</CardDescription>
+        <CardTitle>{t("chart.top")}</CardTitle>
+        <CardDescription>{t("chart.topSub")}</CardDescription>
       </CardHeader>
       <CardContent className="h-56">
         <ResponsiveContainer width="100%" height="100%">
