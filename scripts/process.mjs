@@ -7,6 +7,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { extractTickers, scoreSentiment, dayKey } from "./lib/text.mjs";
+import { serenitySignalScore, signalBandKey } from "./lib/signal.mjs";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const TWEETS_FILE = path.join(root, "public", "data", "tweets.json");
@@ -65,6 +66,9 @@ async function main() {
         (s, m) => s + (m.stats?.likes ?? 0) + (m.stats?.reposts ?? 0) * 2,
         0,
       );
+      // Deterministic social-signal score (haskaomni port), computed from the
+      // mention feed alone — no LLM. Complements the bottleneck scorecard.
+      const signal = serenitySignalScore(list);
       return {
         ticker,
         count: list.length,
@@ -74,6 +78,9 @@ async function main() {
         sentimentLabel:
           avgSentiment > 0.15 ? "bullish" : avgSentiment < -0.15 ? "bearish" : "neutral",
         engagement,
+        signalScore: signal.score,
+        signalBand: signalBandKey(signal.score),
+        signalComponents: signal.components,
         history,
       };
     })

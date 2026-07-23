@@ -28,7 +28,7 @@ function DataUnavailable({ error }: { error: string | null }) {
 }
 
 export default function App() {
-  const { data, analyses, loading, error, offline, refreshing, refresh } = useData();
+  const { data, analyses, quotes, loading, error, offline, refreshing, refresh } = useData();
   const { t } = useI18n();
   const [tab, setTab] = useState("analyze");
   const [selectedTicker, setSelectedTicker] = useState<string | null>(null);
@@ -80,7 +80,7 @@ export default function App() {
               </TabsList>
 
               <TabsContent value="analyze">
-                <AnalyzeTab data={data} analyses={analyses} />
+                <AnalyzeTab data={data} analyses={analyses} quotes={quotes} />
               </TabsContent>
 
               <TabsContent value="dashboard" className="space-y-4">
@@ -131,6 +131,7 @@ export default function App() {
                   <TickerTable
                     data={data}
                     analyses={analyses}
+                    quotes={quotes}
                     selected={selectedTicker}
                     onSelect={setSelectedTicker}
                   />

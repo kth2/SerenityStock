@@ -103,6 +103,7 @@ const DICT: Record<string, Entry> = {
   "digest.title": { en: "Weekly digest", zh: "每周摘要" },
   "digest.discussed": { en: "Most discussed", zh: "讨论最多" },
   "digest.new": { en: "New this week", zh: "本周新增" },
+  "digest.topSignal": { en: "Highest signal", zh: "信号最强" },
   "digest.nothing": { en: "Nothing yet", zh: "暂无" },
 
   // Sample banner
@@ -133,6 +134,28 @@ const DICT: Record<string, Entry> = {
   "sec.evidencePaths": { en: "Where the evidence lives", zh: "证据在哪里核查" },
   "sec.themeWrong": { en: "What could prove the theme wrong", zh: "什么情况说明主题判断错了" },
   "sec.nextMoves": { en: "Next research moves", zh: "下一步研究动作" },
+
+  // Serenity signal score (deterministic, from the mention feed)
+  "signal.label": { en: "Signal", zh: "信号分" },
+  "signal.full": { en: "Serenity signal score", zh: "Serenity 信号分" },
+  "signal.explain": {
+    en: "A 0–100 score computed only from the mention feed (frequency, recency, conviction, theme fit, engagement, minus risk words) — no AI. It measures how strong the social signal is, not the quality of the bottleneck thesis.",
+    zh: "仅根据提及数据计算的 0–100 分（频率、近期度、信念、主题契合、互动，减去风险词）——不使用 AI。它衡量社交信号的强度，而非卡点论点的质量。",
+  },
+  "signal.band.high": { en: "High-conviction fit", zh: "高信念契合" },
+  "signal.band.constructive": { en: "Constructive", zh: "值得研究" },
+  "signal.band.mixed": { en: "Mixed / early", zh: "参差 / 早期" },
+  "signal.band.weak": { en: "Weak signal", zh: "信号偏弱" },
+  "sort.label": { en: "Sort", zh: "排序" },
+  "sort.mentions": { en: "Mentions", zh: "提及数" },
+  "sort.signal": { en: "Signal", zh: "信号分" },
+  "col.signal": { en: "Signal", zh: "信号" },
+  "col.price": { en: "Price", zh: "价格" },
+
+  // Price chip
+  "price.delayed": { en: "Indicative price, may be delayed", zh: "指示性价格，可能有延迟" },
+  "price.source": { en: "Source", zh: "来源" },
+  "price.asOf": { en: "as of", zh: "截至" },
 
   // Live data
   "live.badge": { en: "live price attached", zh: "已附加实时价格" },

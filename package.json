@@ -10,8 +10,9 @@
     "preview": "vite preview",
     "scrape": "node scripts/scrape.mjs",
     "process": "node scripts/process.mjs",
+    "quotes": "node scripts/quotes.mjs",
     "analyze": "node scripts/analyze.mjs",
-    "pipeline": "npm run scrape && npm run process && npm run analyze",
+    "pipeline": "npm run scrape && npm run process && npm run quotes && npm run analyze",
     "icons": "node scripts/generate-icons.mjs"
   },
   "dependencies": {

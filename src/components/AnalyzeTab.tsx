@@ -22,9 +22,10 @@ import {
 import { useAnalysisHistory } from "@/hooks/useAnalysisHistory";
 import { analyzeQuery, wouldUseAi } from "@/lib/serenity/analyze";
 import { aiConfigured, loadAiConfig, type AiConfig } from "@/lib/serenity/ai";
+import { PriceChip } from "@/components/Signals";
 import { useI18n } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
-import type { AnalysesData, AnalysisResult, MentionsData, TickerAggregate } from "@/types";
+import type { AnalysesData, AnalysisResult, MentionsData, QuotesData, TickerAggregate } from "@/types";
 
 const EXAMPLES = ["AAOI", "neocloud stocks", "AI CPO", "WULF, CIFR, IREN", "data center power", "robotics"];
 
@@ -37,9 +38,10 @@ const KIND_KEY: Record<string, string> = {
 interface AnalyzeTabProps {
   data: MentionsData | null;
   analyses: AnalysesData | null;
+  quotes: QuotesData | null;
 }
 
-export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
+export function AnalyzeTab({ data, analyses, quotes }: AnalyzeTabProps) {
   const { t, lang } = useI18n();
   const [query, setQuery] = useState("");
   const [running, setRunning] = useState(false);
@@ -200,6 +202,11 @@ export function AnalyzeTab({ data, analyses }: AnalyzeTabProps) {
                     </Badge>
                   )}
                   <span className="text-sm text-muted-foreground">“{current.query}”</span>
+                  {(() => {
+                    const tk = (current.result as { ticker?: string }).ticker;
+                    const q = tk ? quotes?.quotes?.[tk] : undefined;
+                    return q ? <PriceChip quote={q} /> : null;
+                  })()}
                   <button
                     onClick={() => setCurrent(null)}
                     className="ml-auto text-muted-foreground hover:text-foreground"

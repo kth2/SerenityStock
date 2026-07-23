@@ -1,6 +1,7 @@
 import { Sparkles } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { SignalBadge } from "@/components/Signals";
 import { useI18n } from "@/lib/i18n";
 import type { MentionsData } from "@/types";
 
@@ -13,6 +14,10 @@ export function DailyDigest({
 }) {
   const { t } = useI18n();
   const { digest } = data;
+  const topSignal = [...data.tickers]
+    .filter((x) => typeof x.signalScore === "number")
+    .sort((a, b) => (b.signalScore ?? 0) - (a.signalScore ?? 0))
+    .slice(0, 5);
   return (
     <Card>
       <CardHeader>
@@ -27,6 +32,25 @@ export function DailyDigest({
         </CardDescription>
       </CardHeader>
       <CardContent className="space-y-4">
+        {topSignal.length > 0 && (
+          <div>
+            <h4 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              {t("digest.topSignal")}
+            </h4>
+            <div className="flex flex-wrap gap-2">
+              {topSignal.map((ti) => (
+                <button
+                  key={ti.ticker}
+                  onClick={() => onSelect(ti.ticker)}
+                  className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-background/50 px-2.5 py-1.5 text-sm font-medium transition-colors hover:border-primary/50 hover:bg-primary/10"
+                >
+                  <span className="text-accent">${ti.ticker}</span>
+                  <SignalBadge score={ti.signalScore} band={ti.signalBand} />
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
         <div>
           <h4 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
             {t("digest.discussed")}
