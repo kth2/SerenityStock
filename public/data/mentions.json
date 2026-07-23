@@ -1,16 +1,1461 @@
 {
-  "updatedAt": "2026-07-23T06:38:37.321Z",
+  "updatedAt": "2026-07-23T09:07:19.169Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 72,
-  "totalMentions": 103,
+  "totalTweets": 75,
+  "totalMentions": 106,
   "mentions": [
     {
-      "tweetId": "e63d8eb5f103659d",
+      "tweetId": "d752b8ed602e876f",
+      "ticker": "TSLA",
+      "text": "$TSLA TSLA $374.01 -$4.92 (-1.30%) Latest Serenity X post 2026-07-23 12:35 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/TSLA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "992bb48933ed020a",
+      "ticker": "QCOM",
+      "text": "Serenity @aleabitoreddit 2026-07-16 21:54 Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail https://t.co/0E2vyMmUzo $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $QCOM $QCOM QCOM $175.63 $2.13 (+1.23%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/MU",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.5,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "992bb48933ed020a",
+      "ticker": "MU",
+      "text": "Serenity @aleabitoreddit 2026-07-16 21:54 Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail https://t.co/0E2vyMmUzo $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $QCOM $QCOM QCOM $175.63 $2.13 (+1.23%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/MU",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.5,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "4fced6bdf8ae39fa",
+      "ticker": "META",
+      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAPL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "4fced6bdf8ae39fa",
+      "ticker": "MSFT",
+      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAPL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "4fced6bdf8ae39fa",
+      "ticker": "AAPL",
+      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAPL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "bea671a1169f626c",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-07-15 22:54 $NVDA CEO, Jensen Huang in Tokyo today said: \"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin https://t.co/I01aStOBKE $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/NVDA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.5,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "10da57a3f257fb72",
+      "ticker": "GOOGL",
+      "text": "$GOOGL GOOGL $342.09 -$5.06 (-1.46%) Latest Serenity X post 2026-07-23 05:02 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e056c15ce8387ca1",
+      "ticker": "META",
+      "text": "$META META $627.17 -$16.64 (-2.58%) Latest Serenity X post 2026-07-23 04:45 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/META",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "b572b21f3b03b9c7",
+      "ticker": "SPCX",
+      "text": "$SPCX SPCX $115.26 -$8.28 (-6.70%) Latest Serenity X post 2026-07-23 04:27 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SPCX",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "6ed6d8426fefb5bd",
+      "ticker": "AMD",
+      "text": "$AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Latest Serenity X post 2026-07-23 12:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "70e1d3ebf58cc462",
+      "ticker": "NVDA",
+      "text": "$NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Latest Serenity X post 2026-07-22 23:10 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/NVDA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "65b3fa090a608879",
+      "ticker": "AAOI",
+      "text": "$AAOI NASDAQ Applied Optoelectronics Optical networking $110.52 -$8.74 (-7.33%) Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAOI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0bfe08cfa6f635c3",
+      "ticker": "AEHR",
+      "text": "$AEHR NASDAQ Aehr Test Systems Semiconductor test $93.54 -$5.37 (-5.43%) Burn-in and test equipment company tied to silicon carbide and broader chip test demand. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AEHR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "71efbfc392de0bd4",
+      "ticker": "AXTI",
+      "text": "$AXTI NASDAQ AXT Inc Semiconductor substrates $52.98 -$3.53 (-6.25%) Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AXTI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "a820aba3c5810e4e",
+      "ticker": "CIFR",
+      "text": "$CIFR CIFR $24.46 $1.57 (+6.86%) Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e8d9eb9fb44d4b2d",
+      "ticker": "INTC",
+      "text": "$INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Latest Serenity X post 2026-07-23 12:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/INTC",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "76ce2d7f56c66c96",
+      "ticker": "IQEF",
+      "text": "$IQEF IQEF Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IQEF",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "a554fb43c2123b5b",
+      "ticker": "LITE",
+      "text": "$LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/LITE",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "fd3f164b721a1b2d",
+      "ticker": "LPK",
+      "text": "$LPK LPK Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/LPK",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "dbf34cc15bc3d057",
+      "ticker": "MRVL",
+      "text": "$MRVL NASDAQ Marvell Technology Semiconductors $210.99 $3.03 (+1.46%) Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/MRVL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "233271c502f76639",
+      "ticker": "MU",
+      "text": "$MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/MU",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "8ad71de45d4f10e3",
+      "ticker": "NBIS",
+      "text": "$NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) AI cloud and infrastructure company watched for compute capacity and AI platform demand. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/NBIS",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "4904caafa0b28a5d",
+      "ticker": "SIVEF",
+      "text": "$SIVEF SIVEF $3.88 -$0.41 (-9.45%) Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SIVEF",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "eb707c30fe72abff",
+      "ticker": "SNDK",
+      "text": "$SNDK NASDAQ SanDisk Storage $1,599.27 $9.87 (+0.62%) Flash storage brand/company; useful when following NAND and storage-cycle commentary. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SNDK",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "6a7e64dd2af220f7",
+      "ticker": "SOI",
+      "text": "$SOI SOI Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SOI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "ffbc23ca9b84d843",
+      "ticker": "TSEM",
+      "text": "$TSEM NASDAQ Tower Semiconductor Semiconductor foundry $249.53 -$1.38 (-0.55%) Specialty analog foundry with photonics, RF, and power management fab services. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/TSEM",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "830d5212d2d890ec",
+      "ticker": "IREN",
+      "text": "$IREN IREN $41.28 -$0.01 (-0.02%) Latest Serenity X post 2026-07-21 16:13 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IREN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2f9d7620d5b45eae",
+      "ticker": "CLSK",
+      "text": "$CLSK CLSK $15.33 -$0.06 (-0.36%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CLSK",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2333eeeec89c3354",
+      "ticker": "CRWV",
+      "text": "$CRWV CRWV $82.64 $3.06 (+3.85%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CRWV",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e7d7ec70fb308059",
+      "ticker": "HUT",
+      "text": "$HUT HUT $109.86 $0.88 (+0.81%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/HUT",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0d6ac653b096f6dd",
+      "ticker": "WYFI",
+      "text": "$WYFI WYFI $27.86 $0.31 (+1.13%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/WYFI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "5bd4ef71e78af93f",
+      "ticker": "SKHY",
+      "text": "$SKHY SKHY $165.27 -$6.67 (-3.88%) Latest Serenity X post 2026-07-18 12:39 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SKHY",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "c4b71c207da0802c",
+      "ticker": "RDDT",
+      "text": "$RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Latest Serenity X post 2026-07-16 23:57 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/RDDT",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "9c1579e900169c12",
+      "ticker": "QCOM",
+      "text": "$QCOM QCOM $175.63 $2.13 (+1.23%) Latest Serenity X post 2026-07-16 21:54 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/QCOM",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "00dc355cfcaf8f11",
+      "ticker": "AAPL",
+      "text": "$AAPL AAPL $325.89 -$1.85 (-0.56%) Latest Serenity X post 2026-07-15 23:53 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAPL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "d6474f6ed91dec78",
+      "ticker": "MSFT",
+      "text": "$MSFT MSFT $390.34 -$7.41 (-1.86%) Latest Serenity X post 2026-07-15 23:53 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/MSFT",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "72619142f86900cd",
+      "ticker": "COHR",
+      "text": "$COHR COHR $312.19 -$5.03 (-1.59%) Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/COHR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "cddd142821b400e5",
+      "ticker": "GFS",
+      "text": "$GFS GFS $58.49 -$0.90 (-1.52%) Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GFS",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "b9cdbee360a61d69",
+      "ticker": "TSM",
+      "text": "$TSM NYSE TSMC Semiconductor foundry $421.21 -$3.40 (-0.80%) World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/TSM",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "ad94471dd64b68ee",
+      "ticker": "GLW",
+      "text": "$GLW GLW $154.06 -$8.35 (-5.14%) Latest Serenity X post 2026-07-13 08:45 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GLW",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "84552306be0e7ec6",
+      "ticker": "AMZN",
+      "text": "$AMZN AMZN $244.85 -$2.70 (-1.09%) Latest Serenity X post 2026-07-11 02:17 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AMZN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "04b9b56763a1ccfc",
+      "ticker": "SKHYV",
+      "text": "$SKHYV SKHYV $168.01 $15.90 (+10.45%) Latest Serenity X post 2026-07-11 00:01 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SKHYV",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "7672853ea9a4c36d",
+      "ticker": "CCXI",
+      "text": "$CCXI CCXI $14.65 -$0.18 (-1.21%) Latest Serenity X post 2026-07-10 20:27 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CCXI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "d7b8a18d45e9c3b6",
+      "ticker": "JBL",
+      "text": "$JBL JBL $318.29 -$0.64 (-0.20%) Latest Serenity X post 2026-07-10 20:27 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/JBL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2517faf8cf989d6c",
+      "ticker": "ASTS",
+      "text": "$ASTS ASTS $61.95 -$1.39 (-2.19%) Latest Serenity X post 2026-07-08 20:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/ASTS",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "f1693064294c46a3",
+      "ticker": "RKLB",
+      "text": "$RKLB NYSE Rocket Lab USA Space launch $69.75 $0.63 (+0.91%) Space launch and satellite components provider. Latest Serenity X post 2026-07-08 20:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/RKLB",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2e1165e7d8e4adc6",
+      "ticker": "AEVA",
+      "text": "$AEVA AEVA $16.75 -$0.94 (-5.31%) Latest Serenity X post 2026-07-08 03:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AEVA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2fe00db5238646dc",
+      "ticker": "OUST",
+      "text": "$OUST OUST $38.86 -$1.82 (-4.47%) Latest Serenity X post 2026-07-08 03:49 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/OUST",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "7b9fd45a5e03f8ea",
+      "ticker": "WULF",
+      "text": "$WULF WULF $19.49 -$0.38 (-1.91%) Latest Serenity X post 2026-07-06 20:35 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/WULF",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "acc5f8b58254b909",
+      "ticker": "SILEX",
+      "text": "$SILEX SILEX Quote unavailable Latest Serenity X post 2026-07-06 17:29 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SILEX",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a29fcfccc8978fd",
+      "ticker": "TSLA",
+      "text": "Serenity @aleabitoreddit 2026-07-23 12:35 Just some notes from $TSLA transcripts: Elon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts. Even from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product https://t.co/IZqI4K2JP1 $TSLA $TSLA TSLA $374.01 -$4.92 (-1.30%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/TSLA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "3908cd8a282ffc67",
+      "ticker": "GOOGL",
+      "text": "Serenity @aleabitoreddit 2026-07-23 05:02 $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler. https://t.co/dXiI0Ien8X $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 1,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "ff4f4ae29e695113",
+      "ticker": "META",
+      "text": "Serenity @aleabitoreddit 2026-07-23 04:45 $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI https://t.co/XZHQwuBGy9 $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $META $META META $627.17 -$16.64 (-2.58%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "ff4f4ae29e695113",
+      "ticker": "GOOGL",
+      "text": "Serenity @aleabitoreddit 2026-07-23 04:45 $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI https://t.co/XZHQwuBGy9 $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $META $META META $627.17 -$16.64 (-2.58%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "8c8aafdc3da425eb",
+      "ticker": "SPCX",
+      "text": "Serenity @aleabitoreddit 2026-07-23 04:27 $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "8c8aafdc3da425eb",
+      "ticker": "GOOGL",
+      "text": "Serenity @aleabitoreddit 2026-07-23 04:27 $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/GOOGL",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "10f320f2732e1dde",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-07-22 23:10 $AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "10f320f2732e1dde",
+      "ticker": "AMD",
+      "text": "Serenity @aleabitoreddit 2026-07-22 23:10 $AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "cc7bd623382a07e2",
+      "ticker": "AMD",
+      "text": "Serenity @aleabitoreddit 2026-07-21 17:14 It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically https://t.co/cgJs1g2rGE $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "9079fa609357de51",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-07-21 05:38 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for https://t.co/3hRkwQS6B2 $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/NBIS",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "9079fa609357de51",
+      "ticker": "NBIS",
+      "text": "Serenity @aleabitoreddit 2026-07-21 05:38 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for https://t.co/3hRkwQS6B2 $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/NBIS",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "CRWV",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "NBIS",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "WYFI",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "CLSK",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "CIFR",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "HUT",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "0a1ebbbc320b24cf",
+      "ticker": "IREN",
+      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/CIFR",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "ff98ff1f28a7e6b4",
+      "ticker": "SKHY",
+      "text": "Serenity @aleabitoreddit 2026-07-18 12:39 For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29. Should open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. 2.5% currently https://t.co/UWrRHrlWFc $SKHY $SKHY SKHY $165.27 -$6.67 (-3.88%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SKHY",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e23eae45cae335c7",
+      "ticker": "IREN",
+      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IREN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e23eae45cae335c7",
+      "ticker": "NBIS",
+      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IREN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e23eae45cae335c7",
+      "ticker": "SPCX",
+      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IREN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "e23eae45cae335c7",
+      "ticker": "META",
+      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/IREN",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "27e654c3f84e5ffc",
+      "ticker": "AAOI",
+      "text": "Serenity @aleabitoreddit 2026-07-17 22:52 Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $110.52 -$8.74 (-7.33%) Since mention (2026-06-05): -37.56% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/AAOI",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.25,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "f67776c83e4e0ca4",
+      "ticker": "SKHY",
+      "text": "Serenity @aleabitoreddit 2026-07-17 11:16 Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: \"suppliers can fulfill https://t.co/pHC6FjrT0z $SKHY $SKHY SKHY $165.27 -$6.67 (-3.88%) Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SKHY",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.5,
+        "label": "bearish"
+      }
+    },
+    {
+      "tweetId": "e7decbff80614324",
+      "ticker": "RDDT",
+      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/INTC",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "e7decbff80614324",
+      "ticker": "LITE",
+      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/INTC",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "e7decbff80614324",
+      "ticker": "INTC",
+      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/INTC",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "760457f5e3e53691",
+      "ticker": "SIVE",
+      "text": "Serenity @aleabitoreddit 2026-07-16 22:54 Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper https://t.co/SMN01Oyzsy $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 37.16 SEK 3.68 (+10.99%) Since mention (2026-06-04): -57.16% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SIVE",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "1528138623cfac67",
+      "ticker": "SIVE",
+      "text": "$SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 37.16 SEK 3.68 (+10.99%) Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Latest Serenity X post 2026-07-21 16:13 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/SIVE",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "15fc8b63c5fc5b59",
+      "ticker": "XFAB",
+      "text": "$XFAB EURONEXT PARIS X-FAB Silicon Foundries Analog foundry €7.40 €0.29 (+4.01%) European specialty foundry with silicon photonics capabilities tied to CPO scale-up opportunities. Latest Serenity X post 2026-07-06 17:29 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
+      "url": "https://www.trackserenity.com/stocks/XFAB",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "4f990ee0434d91c1",
       "ticker": "IQE",
-      "text": "$IQE LSE IQE plc Semiconductor wafers £48.40 £9.90 (+25.71%) UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. Latest Serenity X post 2026-07-06 13:48 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
+      "text": "$IQE LSE IQE plc Semiconductor wafers £50.40 £11.95 (+31.08%) UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. Latest Serenity X post 2026-07-06 13:48 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T09:07:18.993Z",
       "url": "https://www.trackserenity.com/stocks/IQE",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "81e523a827666216",
+      "ticker": "AMD",
+      "text": "Serenity @aleabitoreddit 2026-07-23 12:49 $INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, https://t.co/it6SFBBkRO $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Open on X",
+      "createdAt": "2026-07-23T09:07:18.992Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "81e523a827666216",
+      "ticker": "INTC",
+      "text": "Serenity @aleabitoreddit 2026-07-23 12:49 $INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, https://t.co/it6SFBBkRO $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Open on X",
+      "createdAt": "2026-07-23T09:07:18.992Z",
+      "url": "https://www.trackserenity.com/stocks/AMD",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "890fa916fece9800",
+      "ticker": "SIVE",
+      "text": "$SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 37.76 SEK 2.18 (+6.13%) Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Latest Serenity X post 2026-07-21 16:13 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T06:38:37.100Z",
+      "url": "https://www.trackserenity.com/stocks/SIVE",
       "stats": {
         "replies": 0,
         "reposts": 0,
@@ -40,11 +1485,11 @@
       }
     },
     {
-      "tweetId": "acc5f8b58254b909",
-      "ticker": "SILEX",
-      "text": "$SILEX SILEX Quote unavailable Latest Serenity X post 2026-07-06 17:29 Serenity thesis TradingView",
+      "tweetId": "e63d8eb5f103659d",
+      "ticker": "IQE",
+      "text": "$IQE LSE IQE plc Semiconductor wafers £48.40 £9.90 (+25.71%) UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. Latest Serenity X post 2026-07-06 13:48 Serenity thesis TradingView",
       "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SILEX",
+      "url": "https://www.trackserenity.com/stocks/IQE",
       "stats": {
         "replies": 0,
         "reposts": 0,
@@ -57,1422 +1502,11 @@
       }
     },
     {
-      "tweetId": "7b9fd45a5e03f8ea",
-      "ticker": "WULF",
-      "text": "$WULF WULF $19.49 -$0.38 (-1.91%) Latest Serenity X post 2026-07-06 20:35 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/WULF",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2fe00db5238646dc",
-      "ticker": "OUST",
-      "text": "$OUST OUST $38.86 -$1.82 (-4.47%) Latest Serenity X post 2026-07-08 03:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/OUST",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2e1165e7d8e4adc6",
-      "ticker": "AEVA",
-      "text": "$AEVA AEVA $16.75 -$0.94 (-5.31%) Latest Serenity X post 2026-07-08 03:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AEVA",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "f1693064294c46a3",
-      "ticker": "RKLB",
-      "text": "$RKLB NYSE Rocket Lab USA Space launch $69.75 $0.63 (+0.91%) Space launch and satellite components provider. Latest Serenity X post 2026-07-08 20:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/RKLB",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2517faf8cf989d6c",
-      "ticker": "ASTS",
-      "text": "$ASTS ASTS $61.95 -$1.39 (-2.19%) Latest Serenity X post 2026-07-08 20:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/ASTS",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "d7b8a18d45e9c3b6",
-      "ticker": "JBL",
-      "text": "$JBL JBL $318.29 -$0.64 (-0.20%) Latest Serenity X post 2026-07-10 20:27 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/JBL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "7672853ea9a4c36d",
-      "ticker": "CCXI",
-      "text": "$CCXI CCXI $14.65 -$0.18 (-1.21%) Latest Serenity X post 2026-07-10 20:27 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/CCXI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "04b9b56763a1ccfc",
-      "ticker": "SKHYV",
-      "text": "$SKHYV SKHYV $168.01 $15.90 (+10.45%) Latest Serenity X post 2026-07-11 00:01 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SKHYV",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "84552306be0e7ec6",
-      "ticker": "AMZN",
-      "text": "$AMZN AMZN $244.85 -$2.70 (-1.09%) Latest Serenity X post 2026-07-11 02:17 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AMZN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "ad94471dd64b68ee",
-      "ticker": "GLW",
-      "text": "$GLW GLW $154.06 -$8.35 (-5.14%) Latest Serenity X post 2026-07-13 08:45 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/GLW",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "b9cdbee360a61d69",
-      "ticker": "TSM",
-      "text": "$TSM NYSE TSMC Semiconductor foundry $421.21 -$3.40 (-0.80%) World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/TSM",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "cddd142821b400e5",
-      "ticker": "GFS",
-      "text": "$GFS GFS $58.49 -$0.90 (-1.52%) Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/GFS",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "72619142f86900cd",
-      "ticker": "COHR",
-      "text": "$COHR COHR $312.19 -$5.03 (-1.59%) Latest Serenity X post 2026-07-14 03:20 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/COHR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "d6474f6ed91dec78",
-      "ticker": "MSFT",
-      "text": "$MSFT MSFT $390.34 -$7.41 (-1.86%) Latest Serenity X post 2026-07-15 23:53 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/MSFT",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "00dc355cfcaf8f11",
-      "ticker": "AAPL",
-      "text": "$AAPL AAPL $325.89 -$1.85 (-0.56%) Latest Serenity X post 2026-07-15 23:53 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AAPL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "9c1579e900169c12",
-      "ticker": "QCOM",
-      "text": "$QCOM QCOM $175.63 $2.13 (+1.23%) Latest Serenity X post 2026-07-16 21:54 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/QCOM",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "c4b71c207da0802c",
-      "ticker": "RDDT",
-      "text": "$RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Latest Serenity X post 2026-07-16 23:57 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/RDDT",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "5bd4ef71e78af93f",
-      "ticker": "SKHY",
-      "text": "$SKHY SKHY $165.27 -$6.67 (-3.88%) Latest Serenity X post 2026-07-18 12:39 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SKHY",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0d6ac653b096f6dd",
-      "ticker": "WYFI",
-      "text": "$WYFI WYFI $27.86 $0.31 (+1.13%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/WYFI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e7d7ec70fb308059",
-      "ticker": "HUT",
-      "text": "$HUT HUT $109.86 $0.88 (+0.81%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/HUT",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2333eeeec89c3354",
-      "ticker": "CRWV",
-      "text": "$CRWV CRWV $82.64 $3.06 (+3.85%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/CRWV",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2f9d7620d5b45eae",
-      "ticker": "CLSK",
-      "text": "$CLSK CLSK $15.33 -$0.06 (-0.36%) Latest Serenity X post 2026-07-21 01:18 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/CLSK",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "890fa916fece9800",
-      "ticker": "SIVE",
-      "text": "$SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 37.76 SEK 2.18 (+6.13%) Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Latest Serenity X post 2026-07-21 16:13 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SIVE",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "830d5212d2d890ec",
-      "ticker": "IREN",
-      "text": "$IREN IREN $41.28 -$0.01 (-0.02%) Latest Serenity X post 2026-07-21 16:13 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/IREN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "ffbc23ca9b84d843",
-      "ticker": "TSEM",
-      "text": "$TSEM NASDAQ Tower Semiconductor Semiconductor foundry $249.53 -$1.38 (-0.55%) Specialty analog foundry with photonics, RF, and power management fab services. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/TSEM",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "6a7e64dd2af220f7",
-      "ticker": "SOI",
-      "text": "$SOI SOI Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SOI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "eb707c30fe72abff",
-      "ticker": "SNDK",
-      "text": "$SNDK NASDAQ SanDisk Storage $1,599.27 $9.87 (+0.62%) Flash storage brand/company; useful when following NAND and storage-cycle commentary. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SNDK",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "4904caafa0b28a5d",
-      "ticker": "SIVEF",
-      "text": "$SIVEF SIVEF $3.88 -$0.41 (-9.45%) Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SIVEF",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "8ad71de45d4f10e3",
-      "ticker": "NBIS",
-      "text": "$NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) AI cloud and infrastructure company watched for compute capacity and AI platform demand. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/NBIS",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "233271c502f76639",
+      "tweetId": "f5897b22a74e6bac",
       "ticker": "MU",
-      "text": "$MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/MU",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "dbf34cc15bc3d057",
-      "ticker": "MRVL",
-      "text": "$MRVL NASDAQ Marvell Technology Semiconductors $210.99 $3.03 (+1.46%) Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/MRVL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "fd3f164b721a1b2d",
-      "ticker": "LPK",
-      "text": "$LPK LPK Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/LPK",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "a554fb43c2123b5b",
-      "ticker": "LITE",
-      "text": "$LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/LITE",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "76ce2d7f56c66c96",
-      "ticker": "IQEF",
-      "text": "$IQEF IQEF Quote unavailable Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/IQEF",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e8d9eb9fb44d4b2d",
-      "ticker": "INTC",
-      "text": "$INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Latest Serenity X post 2026-07-23 12:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/INTC",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "a820aba3c5810e4e",
-      "ticker": "CIFR",
-      "text": "$CIFR CIFR $24.46 $1.57 (+6.86%) Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "71efbfc392de0bd4",
-      "ticker": "AXTI",
-      "text": "$AXTI NASDAQ AXT Inc Semiconductor substrates $52.98 -$3.53 (-6.25%) Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AXTI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0bfe08cfa6f635c3",
-      "ticker": "AEHR",
-      "text": "$AEHR NASDAQ Aehr Test Systems Semiconductor test $93.54 -$5.37 (-5.43%) Burn-in and test equipment company tied to silicon carbide and broader chip test demand. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AEHR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "65b3fa090a608879",
-      "ticker": "AAOI",
-      "text": "$AAOI NASDAQ Applied Optoelectronics Optical networking $110.52 -$8.74 (-7.33%) Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Latest Serenity X post 2026-07-22 01:41 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AAOI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "70e1d3ebf58cc462",
-      "ticker": "NVDA",
-      "text": "$NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Latest Serenity X post 2026-07-22 23:10 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/NVDA",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "6ed6d8426fefb5bd",
-      "ticker": "AMD",
-      "text": "$AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Latest Serenity X post 2026-07-23 12:49 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "b572b21f3b03b9c7",
-      "ticker": "SPCX",
-      "text": "$SPCX SPCX $115.26 -$8.28 (-6.70%) Latest Serenity X post 2026-07-23 04:27 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/SPCX",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e056c15ce8387ca1",
-      "ticker": "META",
-      "text": "$META META $627.17 -$16.64 (-2.58%) Latest Serenity X post 2026-07-23 04:45 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/META",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "10da57a3f257fb72",
-      "ticker": "GOOGL",
-      "text": "$GOOGL GOOGL $342.09 -$5.06 (-1.46%) Latest Serenity X post 2026-07-23 05:02 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "bea671a1169f626c",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-07-15 22:54 $NVDA CEO, Jensen Huang in Tokyo today said: \"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin https://t.co/I01aStOBKE $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/NVDA",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.5,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "4fced6bdf8ae39fa",
-      "ticker": "META",
-      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AAPL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "4fced6bdf8ae39fa",
-      "ticker": "MSFT",
-      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AAPL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "4fced6bdf8ae39fa",
-      "ticker": "AAPL",
-      "text": "Serenity @aleabitoreddit 2026-07-15 23:53 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&amp;A? A possible scenario is that they revise capex largely upward for their own AI https://t.co/q7ick7F4GK $AAPL $AAPL AAPL $325.89 -$1.85 (-0.56%) $META $META META $627.17 -$16.64 (-2.58%) $MSFT $MSFT MSFT $390.34 -$7.41 (-1.86%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/AAPL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "992bb48933ed020a",
-      "ticker": "QCOM",
-      "text": "Serenity @aleabitoreddit 2026-07-16 21:54 Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail https://t.co/0E2vyMmUzo $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $QCOM $QCOM QCOM $175.63 $2.13 (+1.23%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/MU",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.5,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "992bb48933ed020a",
-      "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-07-16 21:54 Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail https://t.co/0E2vyMmUzo $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $QCOM $QCOM QCOM $175.63 $2.13 (+1.23%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/MU",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.5,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "d752b8ed602e876f",
-      "ticker": "TSLA",
-      "text": "$TSLA TSLA $374.01 -$4.92 (-1.30%) Latest Serenity X post 2026-07-23 12:35 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T06:38:37.100Z",
-      "url": "https://www.trackserenity.com/stocks/TSLA",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "760457f5e3e53691",
-      "ticker": "SIVE",
-      "text": "Serenity @aleabitoreddit 2026-07-16 22:54 Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper https://t.co/SMN01Oyzsy $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 37.76 SEK 2.18 (+6.13%) Since mention (2026-06-04): -56.47% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/SIVE",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "e7decbff80614324",
-      "ticker": "RDDT",
-      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/INTC",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "e7decbff80614324",
-      "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/INTC",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "e7decbff80614324",
-      "ticker": "INTC",
-      "text": "Serenity @aleabitoreddit 2026-07-16 23:57 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $LITE $LITE NASDAQ Lumentum Optical components $829.70 -$7.86 (-0.94%) Since mention (2026-06-09): +0.97% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $RDDT $RDDT NYSE Reddit Social media $170.38 -$15.46 (-8.32%) Since mention (2026-06-04): -7.36% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/INTC",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "f67776c83e4e0ca4",
-      "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit 2026-07-17 11:16 Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: \"suppliers can fulfill https://t.co/pHC6FjrT0z $SKHY $SKHY SKHY $165.27 -$6.67 (-3.88%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/SKHY",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.5,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "27e654c3f84e5ffc",
-      "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-07-17 22:52 Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $110.52 -$8.74 (-7.33%) Since mention (2026-06-05): -37.56% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/AAOI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.25,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "e23eae45cae335c7",
-      "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/IREN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e23eae45cae335c7",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/IREN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e23eae45cae335c7",
-      "ticker": "SPCX",
-      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/IREN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e23eae45cae335c7",
-      "ticker": "META",
-      "text": "Serenity @aleabitoreddit 2026-07-18 01:51 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT https://t.co/3Mu3UXQtFT $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $META $META META $627.17 -$16.64 (-2.58%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/IREN",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "ff98ff1f28a7e6b4",
-      "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit 2026-07-18 12:39 For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29. Should open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. 2.5% currently https://t.co/UWrRHrlWFc $SKHY $SKHY SKHY $165.27 -$6.67 (-3.88%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/SKHY",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "WYFI",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "CLSK",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "CIFR",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "HUT",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "0a1ebbbc320b24cf",
-      "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2026-07-21 01:18 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the https://t.co/7iQlUSIWP2 $CIFR $CIFR CIFR $24.46 $1.57 (+6.86%) $CLSK $CLSK CLSK $15.33 -$0.06 (-0.36%) $CRWV $CRWV CRWV $82.64 $3.06 (+3.85%) $HUT $HUT HUT $109.86 $0.88 (+0.81%) $IREN $IREN IREN $41.28 -$0.01 (-0.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $WYFI $WYFI WYFI $27.86 $0.31 (+1.13%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/CIFR",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "9079fa609357de51",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-07-21 05:38 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for https://t.co/3hRkwQS6B2 $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/NBIS",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "9079fa609357de51",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-07-21 05:38 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for https://t.co/3hRkwQS6B2 $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $218.16 $1.24 (+0.57%) Since mention (2026-06-07): -4.24% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/NBIS",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "cc7bd623382a07e2",
-      "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit 2026-07-21 17:14 It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically https://t.co/cgJs1g2rGE $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "10f320f2732e1dde",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-07-22 23:10 $AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "10f320f2732e1dde",
-      "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit 2026-07-22 23:10 $AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.06 $4.77 (+2.30%) Since mention (2026-06-05): +3.39% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "8c8aafdc3da425eb",
-      "ticker": "SPCX",
-      "text": "Serenity @aleabitoreddit 2026-07-23 04:27 $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "8c8aafdc3da425eb",
-      "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-07-23 04:27 $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $SPCX $SPCX SPCX $115.26 -$8.28 (-6.70%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "ff4f4ae29e695113",
-      "ticker": "META",
-      "text": "Serenity @aleabitoreddit 2026-07-23 04:45 $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI https://t.co/XZHQwuBGy9 $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $META $META META $627.17 -$16.64 (-2.58%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "ff4f4ae29e695113",
-      "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-07-23 04:45 $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI https://t.co/XZHQwuBGy9 $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) $META $META META $627.17 -$16.64 (-2.58%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "3908cd8a282ffc67",
-      "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-07-23 05:02 $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler. https://t.co/dXiI0Ien8X $GOOGL $GOOGL GOOGL $342.09 -$5.06 (-1.46%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/GOOGL",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 1,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "0a29fcfccc8978fd",
-      "ticker": "TSLA",
-      "text": "Serenity @aleabitoreddit 2026-07-23 12:35 Just some notes from $TSLA transcripts: Elon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts. Even from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product https://t.co/IZqI4K2JP1 $TSLA $TSLA TSLA $374.01 -$4.92 (-1.30%) Open on X",
-      "createdAt": "2026-07-23T06:38:37.099Z",
-      "url": "https://www.trackserenity.com/stocks/TSLA",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "81e523a827666216",
-      "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit 2026-07-23 12:49 $INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, https://t.co/it6SFBBkRO $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Open on X",
-      "createdAt": "2026-07-23T06:38:37.098Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "81e523a827666216",
-      "ticker": "INTC",
-      "text": "Serenity @aleabitoreddit 2026-07-23 12:49 $INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, https://t.co/it6SFBBkRO $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $552.33 $7.90 (+1.45%) Since mention (2026-06-07): +18.43% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $INTC $INTC NASDAQ Intel Semiconductors $102.62 -$2.83 (-2.68%) Since mention (2026-06-07): +3.48% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. Open on X",
-      "createdAt": "2026-07-23T06:38:37.098Z",
-      "url": "https://www.trackserenity.com/stocks/AMD",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "5166146e3db63f93",
-      "ticker": "SHAZ",
-      "text": "$SHAZ SHAZ $70.49 -$0.51 (-0.72%) Latest Serenity X post 2026-07-05 17:45 Serenity thesis TradingView",
+      "text": "Serenity @aleabitoreddit 2026-07-15 11:08 Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh https://t.co/6F2Aszjd90 $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-07-23T05:32:27.458Z",
-      "url": "https://www.trackserenity.com/stocks/SHAZ",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "e43045b977e3d065",
-      "ticker": "TSLA",
-      "text": "$TSLA TSLA $374.01 -$4.92 (-1.30%) Latest Serenity X post 2026-07-08 01:39 Serenity thesis TradingView",
-      "createdAt": "2026-07-23T05:32:27.458Z",
-      "url": "https://www.trackserenity.com/stocks/TSLA",
+      "url": "https://www.trackserenity.com/stocks/MU",
       "stats": {
         "replies": 0,
         "reposts": 0,
@@ -1502,11 +1536,28 @@
       }
     },
     {
-      "tweetId": "f5897b22a74e6bac",
-      "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-07-15 11:08 Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh https://t.co/6F2Aszjd90 $MU $MU NASDAQ Micron Technology Memory $959.48 -$11.34 (-1.17%) Since mention (2026-06-05): +11.05% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "tweetId": "e43045b977e3d065",
+      "ticker": "TSLA",
+      "text": "$TSLA TSLA $374.01 -$4.92 (-1.30%) Latest Serenity X post 2026-07-08 01:39 Serenity thesis TradingView",
       "createdAt": "2026-07-23T05:32:27.458Z",
-      "url": "https://www.trackserenity.com/stocks/MU",
+      "url": "https://www.trackserenity.com/stocks/TSLA",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "5166146e3db63f93",
+      "ticker": "SHAZ",
+      "text": "$SHAZ SHAZ $70.49 -$0.51 (-0.72%) Latest Serenity X post 2026-07-05 17:45 Serenity thesis TradingView",
+      "createdAt": "2026-07-23T05:32:27.458Z",
+      "url": "https://www.trackserenity.com/stocks/SHAZ",
       "stats": {
         "replies": 0,
         "reposts": 0,
@@ -1762,7 +1813,7 @@
       "ticker": "NBIS",
       "count": 5,
       "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0.1,
       "sentimentLabel": "neutral",
       "engagement": 736,
@@ -1793,10 +1844,126 @@
       ]
     },
     {
-      "ticker": "CRWV",
+      "ticker": "META",
+      "count": 4,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 44.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 2.3,
+        "themeFit": 11.3,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 4,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "count": 4,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.125,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 48.6,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 2.3,
+        "themeFit": 15,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 4,
+          "avgSentiment": 0.125
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "count": 4,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 37.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.6,
+        "themeFit": 3.5,
+        "catalyst": 3,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 4,
+          "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "count": 4,
+      "firstSeen": "2026-07-23T09:07:18.992Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 46.9,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.6,
+        "themeFit": 15,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 4,
+          "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "CIFR",
       "count": 4,
       "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": -0.188,
       "sentimentLabel": "bearish",
       "engagement": 884,
@@ -1835,7 +2002,7 @@
       "ticker": "IREN",
       "count": 4,
       "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 736,
@@ -1866,10 +2033,10 @@
       ]
     },
     {
-      "ticker": "CIFR",
+      "ticker": "CRWV",
       "count": 4,
       "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": -0.188,
       "sentimentLabel": "bearish",
       "engagement": 884,
@@ -1905,118 +2072,249 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "count": 4,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.125,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 48.6,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 7.4,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 2.3,
-        "themeFit": 15,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 4,
-          "avgSentiment": 0.125
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "count": 4,
-      "firstSeen": "2026-07-23T06:38:37.098Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.25,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 46.9,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 7.4,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.6,
-        "themeFit": 15,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 4,
-          "avgSentiment": 0.25
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "count": 4,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "ticker": "TSLA",
+      "count": 3,
+      "firstSeen": "2026-07-23T05:32:27.458Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 44.8,
+      "signalScore": 31.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
-        "frequency": 7.4,
+        "frequency": 6.3,
         "recency": 10,
         "persistence": 1.4,
         "engagement": 0,
-        "conviction": 2.3,
-        "themeFit": 11.3,
-        "catalyst": 0.5,
+        "conviction": 0.5,
+        "themeFit": 0,
+        "catalyst": 1.5,
         "risk": 0
       },
       "history": [
         {
           "date": "2026-07-23",
-          "count": 4,
+          "count": 3,
           "avgSentiment": 0
         }
       ]
     },
     {
-      "ticker": "GOOGL",
-      "count": 4,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.25,
-      "sentimentLabel": "bullish",
+      "ticker": "MU",
+      "count": 3,
+      "firstSeen": "2026-07-23T05:32:27.458Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": -0.167,
+      "sentimentLabel": "bearish",
       "engagement": 0,
-      "signalScore": 37.8,
+      "signalScore": 41.3,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
-        "frequency": 7.4,
+        "frequency": 6.3,
         "recency": 10,
         "persistence": 1.4,
         "engagement": 0,
-        "conviction": 0.6,
-        "themeFit": 3.5,
-        "catalyst": 3,
+        "conviction": 0.5,
+        "themeFit": 11.1,
+        "catalyst": 0,
         "risk": 0
       },
       "history": [
         {
           "date": "2026-07-23",
-          "count": 4,
-          "avgSentiment": 0.25
+          "count": 3,
+          "avgSentiment": -0.167
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "count": 3,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 39.6,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 7.5,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 3,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "count": 3,
+      "firstSeen": "2026-07-23T09:07:18.992Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.333,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 41.9,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 11.2,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 3,
+          "avgSentiment": 0.333
+        }
+      ]
+    },
+    {
+      "ticker": "CLSK",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.000Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 736,
+      "signalScore": 50.3,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 5.8,
+        "engagement": 6.9,
+        "conviction": 0.5,
+        "themeFit": 6.8,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "HUT",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.000Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 736,
+      "signalScore": 50.3,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 5.8,
+        "engagement": 6.9,
+        "conviction": 0.5,
+        "themeFit": 6.8,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "WYFI",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.000Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 736,
+      "signalScore": 50.3,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 5.8,
+        "engagement": 6.9,
+        "conviction": 0.5,
+        "themeFit": 6.8,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SKHY",
+      "count": 3,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": -0.167,
+      "sentimentLabel": "bearish",
+      "engagement": 0,
+      "signalScore": 35.3,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 4.7,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 3,
+          "avgSentiment": -0.167
         }
       ]
     },
@@ -2024,7 +2322,7 @@
       "ticker": "WULF",
       "count": 3,
       "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": -0.25,
       "sentimentLabel": "bearish",
       "engagement": 884,
@@ -2060,14 +2358,14 @@
       ]
     },
     {
-      "ticker": "SKHY",
+      "ticker": "SIVE",
       "count": 3,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": -0.167,
-      "sentimentLabel": "bearish",
+      "firstSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.167,
+      "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 35.3,
+      "signalScore": 41,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
@@ -2076,241 +2374,52 @@
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.5,
-        "themeFit": 4.7,
-        "catalyst": 0.5,
+        "themeFit": 8.4,
+        "catalyst": 2.5,
         "risk": 0
       },
       "history": [
         {
           "date": "2026-07-23",
           "count": 3,
-          "avgSentiment": -0.167
+          "avgSentiment": 0.167
         }
       ]
     },
     {
-      "ticker": "WYFI",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 736,
-      "signalScore": 50.3,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 5.8,
-        "engagement": 6.9,
-        "conviction": 0.5,
-        "themeFit": 6.8,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "HUT",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 736,
-      "signalScore": 50.3,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 5.8,
-        "engagement": 6.9,
-        "conviction": 0.5,
-        "themeFit": 6.8,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CLSK",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.000Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 736,
-      "signalScore": 50.3,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 5.8,
-        "engagement": 6.9,
-        "conviction": 0.5,
-        "themeFit": 6.8,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "count": 3,
-      "firstSeen": "2026-07-23T05:32:27.458Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": -0.167,
+      "ticker": "QCOM",
+      "count": 2,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": -0.25,
       "sentimentLabel": "bearish",
       "engagement": 0,
-      "signalScore": 41.3,
+      "signalScore": 34.9,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
-        "frequency": 6.3,
+        "frequency": 5,
         "recency": 10,
         "persistence": 1.4,
         "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 11.1,
+        "conviction": 0.3,
+        "themeFit": 6.2,
         "catalyst": 0,
         "risk": 0
       },
       "history": [
         {
           "date": "2026-07-23",
-          "count": 3,
-          "avgSentiment": -0.167
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "count": 3,
-      "firstSeen": "2026-07-23T06:38:37.098Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.333,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 41.9,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 11.2,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 3,
-          "avgSentiment": 0.333
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "count": 3,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 39.6,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 7.5,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 3,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "count": 3,
-      "firstSeen": "2026-07-23T05:32:27.458Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 31.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 0,
-        "catalyst": 1.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 3,
-          "avgSentiment": 0
+          "count": 2,
+          "avgSentiment": -0.25
         }
       ]
     },
     {
       "ticker": "MSFT",
       "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2338,8 +2447,8 @@
     {
       "ticker": "AAPL",
       "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2365,155 +2474,10 @@
       ]
     },
     {
-      "ticker": "QCOM",
-      "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": -0.25,
-      "sentimentLabel": "bearish",
-      "engagement": 0,
-      "signalScore": 34.9,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 6.2,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": -0.25
-        }
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.5,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 36.9,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 8.2,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
-      "ticker": "SIVE",
-      "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.25,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 38.5,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 7.3,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0.25
-        }
-      ]
-    },
-    {
-      "ticker": "LITE",
-      "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.25,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 36.9,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 8.2,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0.25
-        }
-      ]
-    },
-    {
-      "ticker": "AEHR",
-      "count": 2,
-      "firstSeen": "2026-07-23T05:32:27.458Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0.25,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 39.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 6.5,
-        "catalyst": 4.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 2,
-          "avgSentiment": 0.25
-        }
-      ]
-    },
-    {
       "ticker": "AAOI",
       "count": 2,
-      "firstSeen": "2026-07-23T06:38:37.099Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": -0.125,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2539,43 +2503,159 @@
       ]
     },
     {
-      "ticker": "IQE",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
+      "ticker": "AEHR",
+      "count": 2,
+      "firstSeen": "2026-07-23T05:32:27.458Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 31.5,
+      "signalScore": 39.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
-        "frequency": 3.2,
+        "frequency": 5,
         "recency": 10,
         "persistence": 1.4,
         "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 4.8,
+        "conviction": 0.3,
+        "themeFit": 6.5,
+        "catalyst": 4.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "count": 2,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 36.9,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 8.2,
         "catalyst": 0,
         "risk": 0
       },
       "history": [
         {
           "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
+          "count": 2,
+          "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "count": 2,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 36.9,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 8.2,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0.5
         }
       ]
     },
     {
       "ticker": "XFAB",
-      "count": 1,
+      "count": 2,
       "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 31.2,
+      "signalScore": 34.2,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 5.5,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "IQE",
+      "count": 2,
+      "firstSeen": "2026-07-23T06:38:37.100Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 34.9,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 6.2,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "AXTI",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 33.2,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
@@ -2584,7 +2664,7 @@
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
-        "themeFit": 4.4,
+        "themeFit": 6.5,
         "catalyst": 0,
         "risk": 0
       },
@@ -2597,10 +2677,10 @@
       ]
     },
     {
-      "ticker": "SILEX",
+      "ticker": "IQEF",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2626,10 +2706,68 @@
       ]
     },
     {
-      "ticker": "OUST",
+      "ticker": "LPK",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 28.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 2.1,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 34.2,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 7.5,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SIVEF",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2655,10 +2793,97 @@
       ]
     },
     {
-      "ticker": "AEVA",
+      "ticker": "SNDK",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 30.2,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 3.5,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SOI",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 28.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 2.1,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "TSEM",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 33.2,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 6.5,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "COHR",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2684,184 +2909,10 @@
       ]
     },
     {
-      "ticker": "RKLB",
+      "ticker": "GFS",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 32.5,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 2.8,
-        "catalyst": 3,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "ASTS",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "JBL",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CCXI",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SKHYV",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "GLW",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2889,8 +2940,8 @@
     {
       "ticker": "TSM",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2916,10 +2967,10 @@
       ]
     },
     {
-      "ticker": "GFS",
+      "ticker": "GLW",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2945,10 +2996,10 @@
       ]
     },
     {
-      "ticker": "COHR",
+      "ticker": "AMZN",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -2974,97 +3025,10 @@
       ]
     },
     {
-      "ticker": "TSEM",
+      "ticker": "SKHYV",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.2,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 6.5,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SOI",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 28.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 2.1,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 30.2,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 3.5,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SIVEF",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -3090,14 +3054,14 @@
       ]
     },
     {
-      "ticker": "MRVL",
+      "ticker": "CCXI",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 34.2,
+      "signalScore": 26.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
@@ -3106,7 +3070,7 @@
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
-        "themeFit": 7.5,
+        "themeFit": 0,
         "catalyst": 0,
         "risk": 0
       },
@@ -3119,10 +3083,155 @@
       ]
     },
     {
-      "ticker": "LPK",
+      "ticker": "JBL",
       "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 32.5,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 2.8,
+        "catalyst": 3,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "AEVA",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "OUST",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-23",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SILEX",
+      "count": 1,
+      "firstSeen": "2026-07-23T09:07:18.993Z",
+      "lastSeen": "2026-07-23T09:07:18.993Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -3136,64 +3245,6 @@
         "engagement": 0,
         "conviction": 0.2,
         "themeFit": 2.1,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "IQEF",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 28.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 2.1,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "AXTI",
-      "count": 1,
-      "firstSeen": "2026-07-23T06:38:37.100Z",
-      "lastSeen": "2026-07-23T06:38:37.100Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.2,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 6.5,
         "catalyst": 0,
         "risk": 0
       },
@@ -3328,10 +3379,10 @@
       "from": "2026-07-17",
       "to": "2026-07-23"
     },
-    "totalMentions": 89,
+    "totalMentions": 92,
     "topTickers": [
       {
-        "ticker": "NBIS",
+        "ticker": "META",
         "count": 4
       },
       {
@@ -3339,59 +3390,59 @@
         "count": 4
       },
       {
+        "ticker": "GOOGL",
+        "count": 4
+      },
+      {
         "ticker": "AMD",
         "count": 4
       },
       {
-        "ticker": "META",
-        "count": 4
-      },
-      {
-        "ticker": "GOOGL",
+        "ticker": "NBIS",
         "count": 4
       }
     ],
     "newTickers": [
-      "NVDA",
-      "AMD",
       "META",
+      "NVDA",
       "GOOGL",
-      "SKHY",
-      "MU",
-      "INTC",
-      "SPCX",
+      "AMD",
       "TSLA",
+      "MU",
+      "SPCX",
+      "INTC",
+      "SKHY",
+      "SIVE",
+      "QCOM",
       "MSFT",
       "AAPL",
-      "QCOM",
-      "RDDT",
-      "SIVE",
-      "LITE",
-      "AEHR",
       "AAOI",
-      "IQE",
+      "AEHR",
+      "LITE",
+      "RDDT",
       "XFAB",
-      "SILEX",
-      "OUST",
-      "AEVA",
-      "RKLB",
-      "ASTS",
-      "JBL",
-      "CCXI",
-      "SKHYV",
-      "AMZN",
-      "GLW",
-      "TSM",
-      "GFS",
-      "COHR",
-      "TSEM",
-      "SOI",
-      "SNDK",
-      "SIVEF",
-      "MRVL",
-      "LPK",
-      "IQEF",
+      "IQE",
       "AXTI",
+      "IQEF",
+      "LPK",
+      "MRVL",
+      "SIVEF",
+      "SNDK",
+      "SOI",
+      "TSEM",
+      "COHR",
+      "GFS",
+      "TSM",
+      "GLW",
+      "AMZN",
+      "SKHYV",
+      "CCXI",
+      "JBL",
+      "ASTS",
+      "RKLB",
+      "AEVA",
+      "OUST",
+      "SILEX",
       "SHAZ"
     ]
   }
