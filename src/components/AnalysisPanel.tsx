@@ -254,7 +254,13 @@ export function StructuredAnalysis({ analysis }: { analysis: SerenityAnalysis })
 const SCARCITY_LABEL = ["context", "watch", "tight", "scarce"] as const;
 const SCARCITY_VARIANT = ["secondary", "outline", "accent", "default"] as const;
 
-export function ThemeAnalysisView({ analysis }: { analysis: ThemeAnalysis }) {
+export function ThemeAnalysisView({
+  analysis,
+  onSelectTicker,
+}: {
+  analysis: ThemeAnalysis;
+  onSelectTicker?: (ticker: string) => void;
+}) {
   return (
     <div className="space-y-5">
       <div className="rounded-lg border border-border bg-background/50 p-4">
@@ -308,33 +314,43 @@ export function ThemeAnalysisView({ analysis }: { analysis: ThemeAnalysis }) {
       {analysis.priorities.length > 0 && (
         <Section icon={Trophy} title="Research priority list (not a buy list)">
           <ol className="space-y-2">
-            {analysis.priorities.map((p, i) => (
-              <li
-                key={p.ticker}
-                className="rounded-md border border-border/60 bg-background/30 px-3 py-2"
-              >
-                <div className="flex flex-wrap items-center gap-2 text-sm">
-                  <span className="w-5 text-center font-semibold text-muted-foreground">
-                    {i + 1}
-                  </span>
-                  <span className="font-semibold text-accent">${p.ticker}</span>
-                  <span className="text-muted-foreground">{p.name}</span>
-                  <span className="ml-auto tabular-nums font-medium">
-                    {p.score}
-                    <span className="text-xs text-muted-foreground">/100</span>
-                  </span>
-                  <Badge variant="outline">{p.verdict}</Badge>
-                </div>
-                <p className="mt-1 pl-7 text-xs text-muted-foreground">
-                  <span className="text-foreground/70">{p.role}</span> · {p.whyRanked}
-                </p>
-              </li>
-            ))}
+            {analysis.priorities.map((p, i) => {
+              const Row = onSelectTicker ? "button" : "div";
+              return (
+                <li key={p.ticker}>
+                  <Row
+                    {...(onSelectTicker
+                      ? { onClick: () => onSelectTicker(p.ticker), type: "button" as const }
+                      : {})}
+                    className={cn(
+                      "w-full rounded-md border border-border/60 bg-background/30 px-3 py-2 text-left",
+                      onSelectTicker && "transition-colors hover:border-primary/50 hover:bg-primary/5",
+                    )}
+                  >
+                    <div className="flex flex-wrap items-center gap-2 text-sm">
+                      <span className="w-5 text-center font-semibold text-muted-foreground">
+                        {i + 1}
+                      </span>
+                      <span className="font-semibold text-accent">${p.ticker}</span>
+                      <span className="text-muted-foreground">{p.name}</span>
+                      <span className="ml-auto tabular-nums font-medium">
+                        {p.score}
+                        <span className="text-xs text-muted-foreground">/100</span>
+                      </span>
+                      <Badge variant="outline">{p.verdict}</Badge>
+                    </div>
+                    <p className="mt-1 pl-7 text-xs text-muted-foreground">
+                      <span className="text-foreground/70">{p.role}</span> · {p.whyRanked}
+                    </p>
+                  </Row>
+                </li>
+              );
+            })}
           </ol>
           <p className="mt-2 text-xs text-muted-foreground">
-            Scores from the bottleneck scorecard against the curated knowledge base —
-            tap any ticker in the box above (e.g. “${analysis.priorities[0]?.ticker}”)
-            for its full single-company breakdown.
+            {onSelectTicker
+              ? "Scores from the bottleneck scorecard. Tap any ticker for its full single-company breakdown."
+              : "Scores from the bottleneck scorecard against the curated knowledge base."}
           </p>
         </Section>
       )}
