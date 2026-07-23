@@ -13,7 +13,7 @@ function sentimentVariant(label: string): "bullish" | "bearish" | "secondary" {
 function TweetText({ text }: { text: string }) {
   const parts = text.split(/(\$[A-Za-z]{1,5})/g);
   return (
-    <p className="text-sm leading-relaxed text-foreground/90">
+    <p className="break-words text-sm leading-relaxed text-foreground/90">
       {parts.map((part, i) =>
         /^\$[A-Za-z]{1,5}$/.test(part) ? (
           <span key={i} className="font-semibold text-accent">

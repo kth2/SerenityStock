@@ -65,16 +65,16 @@ export default function App() {
 
             <Tabs value={tab} onValueChange={setTab}>
               <TabsList className="w-full sm:w-auto">
-                <TabsTrigger value="analyze" className="flex-1 sm:flex-none">
+                <TabsTrigger value="analyze" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <Microscope className="h-4 w-4" /> {t("tab.analyze")}
                 </TabsTrigger>
-                <TabsTrigger value="dashboard" className="flex-1 sm:flex-none">
+                <TabsTrigger value="dashboard" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <LayoutDashboard className="h-4 w-4" /> {t("tab.dashboard")}
                 </TabsTrigger>
-                <TabsTrigger value="tickers" className="flex-1 sm:flex-none">
+                <TabsTrigger value="tickers" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <Table2 className="h-4 w-4" /> {t("tab.tickers")}
                 </TabsTrigger>
-                <TabsTrigger value="skill" className="flex-1 sm:flex-none">
+                <TabsTrigger value="skill" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <BookOpen className="h-4 w-4" /> {t("tab.skill")}
                 </TabsTrigger>
               </TabsList>
@@ -108,7 +108,7 @@ export default function App() {
                       <MentionFrequencyChart data={data} />
                       <TopTickersChart data={data} onSelect={jumpToTicker} />
                     </div>
-                    <div className="grid gap-4 lg:grid-cols-[1fr_20rem]">
+                    <div className="grid grid-cols-1 gap-4 lg:grid-cols-[minmax(0,1fr)_20rem]">
                       <MentionFeed mentions={data.mentions} />
                       <DailyDigest data={data} onSelect={jumpToTicker} />
                     </div>

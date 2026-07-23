@@ -188,7 +188,7 @@ export function AnalyzeTab({ data, analyses, quotes }: AnalyzeTabProps) {
         </div>
       )}
 
-      <div className="grid gap-4 lg:grid-cols-[1fr_18rem]">
+      <div className="grid grid-cols-1 gap-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
         {/* Result */}
         <div className="min-w-0">
           {current ? (
@@ -201,7 +201,9 @@ export function AnalyzeTab({ data, analyses, quotes }: AnalyzeTabProps) {
                       {t("badge.aiUnverified")}
                     </Badge>
                   )}
-                  <span className="text-sm text-muted-foreground">“{current.query}”</span>
+                  <span className="min-w-0 break-words text-sm text-muted-foreground">
+                    “{current.query}”
+                  </span>
                   {(() => {
                     const tk = (current.result as { ticker?: string }).ticker;
                     const q = tk ? quotes?.quotes?.[tk] : undefined;
@@ -209,7 +211,7 @@ export function AnalyzeTab({ data, analyses, quotes }: AnalyzeTabProps) {
                   })()}
                   <button
                     onClick={() => setCurrent(null)}
-                    className="ml-auto text-muted-foreground hover:text-foreground"
+                    className="ml-auto shrink-0 text-muted-foreground hover:text-foreground"
                     aria-label="Close result"
                   >
                     <X className="h-4 w-4" />
@@ -248,7 +250,7 @@ export function AnalyzeTab({ data, analyses, quotes }: AnalyzeTabProps) {
         </div>
 
         {/* History */}
-        <Card className="h-fit">
+        <Card className="h-fit min-w-0">
           <CardHeader className="flex-row items-center justify-between space-y-0">
             <div className="flex items-center gap-2">
               <History className="h-4 w-4 text-muted-foreground" />
