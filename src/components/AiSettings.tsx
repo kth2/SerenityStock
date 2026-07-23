@@ -53,12 +53,30 @@ export function AiSettings({ open, onClose, onSaved }: AiSettingsProps) {
     const preset = AI_PRESETS.find((p) => p.id === id);
     if (!preset) return;
     setProtocol(preset.protocol);
-    if (preset.id !== "custom") {
+    if (preset.id === "custom") {
+      // Give a blank, obviously-editable form for a fully custom endpoint.
+      setBaseUrl("");
+      setModel("");
+      setApiKey("");
+    } else {
       setBaseUrl(preset.baseUrl);
       setModel(preset.model);
       // Recall the key stored for THIS endpoint (keys are per-API-URL).
       setApiKey(getKeyForUrl(preset.baseUrl));
     }
+  }
+
+  // Any hand-edit to the URL or model means the config is no longer a preset —
+  // reflect that in the highlighted chip so edits visibly register.
+  function editUrl(value: string) {
+    setBaseUrl(value);
+    setPresetId("custom");
+    setTest({ status: "idle" });
+  }
+  function editModel(value: string) {
+    setModel(value);
+    setPresetId("custom");
+    setTest({ status: "idle" });
   }
 
   // Recall the stored key when a manually-typed URL loses focus.
@@ -179,10 +197,7 @@ export function AiSettings({ open, onClose, onSaved }: AiSettingsProps) {
         <label className="mb-1.5 block text-xs font-medium text-muted-foreground">API URL</label>
         <Input
           value={baseUrl}
-          onChange={(e) => {
-            setBaseUrl(e.target.value);
-            setTest({ status: "idle" });
-          }}
+          onChange={(e) => editUrl(e.target.value)}
           onBlur={(e) => recallKeyForUrl(e.target.value)}
           placeholder="https://api.example.com/v1"
           className="mb-1 font-mono text-xs"
@@ -199,10 +214,7 @@ export function AiSettings({ open, onClose, onSaved }: AiSettingsProps) {
         <label className="mb-1.5 block text-xs font-medium text-muted-foreground">Model</label>
         <Input
           value={model}
-          onChange={(e) => {
-            setModel(e.target.value);
-            setTest({ status: "idle" });
-          }}
+          onChange={(e) => editModel(e.target.value)}
           placeholder="e.g. gemini-flash-lite-latest"
           className="mb-4 font-mono text-xs"
           spellCheck={false}
