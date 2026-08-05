@@ -1,16 +1,23 @@
 #!/usr/bin/env node
-// Scrapes recent stock updates from https://www.trackserenity.com/ (primary),
-// falling back to the x.com/aleabitoreddit syndication timeline if the site
-// yields nothing. Output shape is unchanged (public/data/tweets.json: a list of
-// posts with id/text/createdAt/url/stats), so the rest of the pipeline
-// (process.mjs → mentions.json) works without modification.
+// Scrapes recent Serenity (@aleabitoreddit) posts. Primary source is
+// https://www.trackserenity.com/, with the x.com syndication timeline as a
+// fallback. Output shape is unchanged (public/data/tweets.json: id/text/
+// createdAt/url/stats), so process.mjs → mentions.json needs no changes.
 //
-// The site's exact DOM is not assumed: extraction is defensive and tries
-// several strategies, keeping any text block that carries a ticker symbol.
+// trackserenity.com's homepage is dominated by per-ticker SUMMARY CARDS (e.g.
+// "$GLW GLW $146.64 $8.39 (+6.07%) Latest Serenity X post 2026-07-13 …
+// TradingView"). Those are NOT posts — they carry a stale "Latest Serenity X
+// post" date and no real content. This scraper therefore:
+//   1. Prefers real post embeds — elements that link to x.com/…/status/<id>.
+//   2. Derives the true post time from the tweet's status id (snowflake),
+//      not the scrape time, so the feed sorts by when the post was made.
+//   3. Discards the summary cards (identified by the "Latest Serenity X post"
+//      label / price-change signature).
+//   4. Falls back to the X syndication timeline whenever trackserenity yields
+//      too FEW real posts — not only when it yields zero items.
 //
-// New posts are merged (deduped by id, newest first, capped). The scraper
-// never wipes existing data on failure — worst case the file is left
-// untouched and the processor keeps the last good set.
+// New posts are merged (deduped by id, newest first, capped). The scraper never
+// wipes existing data on failure — worst case the file is left untouched.
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
@@ -21,6 +28,8 @@ const SITE_URL = process.env.SERENITY_URL ?? "https://www.trackserenity.com/";
 const HANDLE = process.env.SERENITY_HANDLE ?? "aleabitoreddit";
 const MAX_TWEETS = Number(process.env.MAX_TWEETS ?? 500);
 const SCROLL_ROUNDS = Number(process.env.SCROLL_ROUNDS ?? 8);
+// Below this many real posts from trackserenity, prefer the syndication feed.
+const MIN_REAL_POSTS = Number(process.env.MIN_REAL_POSTS ?? 3);
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const DATA_FILE = path.join(root, "public", "data", "tweets.json");
@@ -47,6 +56,42 @@ async function loadExisting() {
 function stableId(seed) {
   return crypto.createHash("sha1").update(seed).digest("hex").slice(0, 16);
 }
+
+// Twitter/X status ids are snowflakes: the high bits encode the creation time.
+// This recovers the REAL post time, independent of what trackserenity displays.
+const TWITTER_EPOCH = 1288834974657n;
+function snowflakeToIso(id) {
+  try {
+    const ms = (BigInt(id) >> 22n) + TWITTER_EPOCH;
+    const d = new Date(Number(ms));
+    if (d.getFullYear() >= 2015 && d.getTime() <= Date.now() + 864e5) {
+      return d.toISOString();
+    }
+  } catch {
+    /* not a snowflake */
+  }
+  return null;
+}
+
+// Parse a date embedded in card/post text, e.g. "… 2026-07-13 08:45 …".
+function parseTextDate(text) {
+  const m = text.match(/(\d{4}-\d{2}-\d{2})(?:[ T](\d{1,2}:\d{2}))?/);
+  if (!m) return null;
+  const time = m[2] ? m[2].padStart(5, "0") : "00:00";
+  const d = new Date(`${m[1]}T${time}:00Z`);
+  return Number.isNaN(d.getTime()) ? null : d.toISOString();
+}
+
+// The per-ticker summary cards carry this label (real posts never do).
+function isSummaryCard(text) {
+  return (
+    /Latest Serenity X post/i.test(text) ||
+    // "$146.64 $8.39 (+6.07%)" price + change signature.
+    /\$\d[\d,]*\.\d{2}\s+\$?\d[\d,]*\.\d{2}\s*\(\s*[+-]?\d/.test(text)
+  );
+}
+
+const extractStatusId = (href) => (href || "").match(/status\/(\d+)/)?.[1] ?? null;
 
 function normalize(post) {
   return {
@@ -82,95 +127,121 @@ async function scrapeTrackSerenity() {
     });
     const page = await context.newPage();
     await page.goto(SITE_URL, { waitUntil: "networkidle", timeout: 60_000 });
-    // Give client-rendered content a moment, then scroll to load more items.
     await sleep(2500);
     for (let i = 0; i < SCROLL_ROUNDS; i++) {
       await page.mouse.wheel(0, 3000);
       await sleep(1200 + Math.random() * 800);
     }
 
-    // Extract candidate post items in the browser. Strategy: prefer common
-    // list/card containers; fall back to any block-level element that carries
-    // enough text. Each item keeps its text plus a stable link if present.
-    const items = await page.evaluate(() => {
+    // Extract candidates in the browser. Two tiers:
+    //  A) real post embeds — anything linking to an x.com/twitter status;
+    //  B) prose blocks — fallback text blocks, only used if A is thin.
+    const raw = await page.evaluate(() => {
+      const clean = (s) => (s || "").replace(/\s+/g, " ").trim();
+      const STATUS = "a[href*='/status/']";
+
+      // --- A) status-linked post embeds (one entry per status id) ---
+      const posts = [];
+      const seenIds = new Set();
+      for (const a of Array.from(document.querySelectorAll(STATUS))) {
+        const href = a.href || a.getAttribute("href") || "";
+        const idm = href.match(/status\/(\d+)/);
+        if (!idm) continue;
+        const id = idm[1];
+        if (seenIds.has(id)) continue;
+        seenIds.add(id);
+        // Climb to a container with real text, but never one holding a second
+        // status link (that would merge two posts together).
+        let el = a;
+        for (let i = 0; i < 5 && el.parentElement; i++) {
+          const parent = el.parentElement;
+          if (parent.querySelectorAll(STATUS).length > 1) break;
+          el = parent;
+          if (clean(el.innerText).length >= 40) break;
+        }
+        posts.push({
+          statusId: id,
+          href,
+          text: clean(el.innerText || el.textContent),
+          datetime: el.querySelector("time")?.getAttribute("datetime") || "",
+        });
+      }
+
+      // --- B) prose fallback blocks ---
+      const blocks = [];
+      const seenText = new Set(posts.map((p) => p.text));
       const SELECTORS = [
         "article",
-        "[class*='card']",
+        "[class*='tweet']",
         "[class*='post']",
-        "[class*='update']",
-        "[class*='item']",
-        "[class*='entry']",
+        "[class*='feed'] li",
+        "[class*='timeline'] li",
         "li",
-        "tr",
+        "[class*='card']",
       ];
-      const seen = new Set();
-      const out = [];
-      const pushEl = (el) => {
-        const text = (el.innerText || el.textContent || "").replace(/\s+/g, " ").trim();
-        if (text.length < 8 || text.length > 1200) return;
-        if (seen.has(text)) return;
-        seen.add(text);
-        const a = el.querySelector("a[href]");
-        const time = el.querySelector("time");
-        out.push({
-          text,
-          href: a?.getAttribute("href") || "",
-          datetime: time?.getAttribute("datetime") || "",
-        });
-      };
       for (const sel of SELECTORS) {
         for (const el of Array.from(document.querySelectorAll(sel))) {
-          // Skip elements that merely wrap other candidate items (keep leaves).
-          if (el.querySelector(sel)) continue;
-          pushEl(el);
+          if (el.querySelector(sel)) continue; // keep leaves
+          const text = clean(el.innerText || el.textContent);
+          if (text.length < 16 || text.length > 1500) continue;
+          if (seenText.has(text)) continue;
+          seenText.add(text);
+          const a = el.querySelector(STATUS) || el.querySelector("a[href]");
+          blocks.push({
+            statusId: extractStatusId(a?.getAttribute("href") || ""),
+            href: a?.getAttribute("href") || "",
+            text,
+            datetime: el.querySelector("time")?.getAttribute("datetime") || "",
+          });
         }
-        if (out.length >= 40) break;
+        if (blocks.length >= 60) break;
       }
-      // Last resort: whole-page paragraphs.
-      if (out.length === 0) {
-        for (const el of Array.from(document.querySelectorAll("p, div"))) {
-          pushEl(el);
-          if (out.length >= 40) break;
-        }
+      function extractStatusId(href) {
+        return (href || "").match(/status\/(\d+)/)?.[1] ?? null;
       }
-      return out;
+      return { posts, blocks };
     });
 
-    // Ticker detection: real cashtags ($AAOI) plus bracketed/paren symbols
-    // like (AAOI) or NASDAQ: AAOI that finance sites commonly use. Anything
-    // matched is emitted as a $-cashtag so process.mjs picks it up.
-    const CASHTAG = /\$[A-Za-z]{1,5}\b/;
-    const SYMBOL = /(?:\(|\b(?:NYSE|NASDAQ|AMEX)\s*:\s*)([A-Z]{2,5})\)?/g;
-    const posts = [];
-    for (const it of items) {
-      let text = it.text;
-      if (!CASHTAG.test(text)) {
-        // Promote exchange-tagged/parenthesized symbols to cashtags.
-        const found = new Set();
-        for (const m of text.matchAll(SYMBOL)) found.add(m[1]);
-        for (const sym of found) {
-          text = text.replace(
-            new RegExp(`(?<!\\$)\\b${sym}\\b`, "g"),
-            `$${sym}`,
-          );
-        }
-      }
-      if (!CASHTAG.test(text)) continue; // no ticker → not a stock post
-      const url = it.href
-        ? new URL(it.href, SITE_URL).toString()
-        : SITE_URL;
-      const createdAt = it.datetime
-        ? new Date(it.datetime).toISOString()
-        : new Date().toISOString();
-      posts.push({
-        id: stableId(url + "|" + text.slice(0, 120)),
+    // Node-side: classify, date, and keep only REAL posts (drop summary cards).
+    const out = [];
+    const seen = new Set();
+    const consider = [...raw.posts, ...raw.blocks];
+    for (const c of consider) {
+      const text = (c.text || "").trim();
+      if (!text) continue;
+      if (isSummaryCard(text)) continue; // stale per-ticker card — skip
+      const statusId = c.statusId ?? extractStatusId(c.href);
+      // A real post either links to a status or is substantial prose.
+      if (!statusId && text.length < 40) continue;
+
+      // Prefer the true post time: snowflake > <time> > date-in-text > now.
+      const createdAt =
+        (statusId && snowflakeToIso(statusId)) ||
+        (c.datetime && !Number.isNaN(new Date(c.datetime).getTime())
+          ? new Date(c.datetime).toISOString()
+          : null) ||
+        parseTextDate(text) ||
+        new Date().toISOString();
+
+      const id = statusId ?? stableId((c.href || "") + "|" + text.slice(0, 120));
+      if (seen.has(id)) continue;
+      seen.add(id);
+
+      const url = statusId
+        ? `https://x.com/${HANDLE}/status/${statusId}`
+        : c.href
+          ? new URL(c.href, SITE_URL).toString()
+          : SITE_URL;
+
+      out.push({
+        id,
         text,
         createdAt,
         url,
         stats: { replies: 0, reposts: 0, likes: 0, views: 0 },
       });
     }
-    return posts;
+    return out;
   } finally {
     await browser.close();
   }
@@ -211,51 +282,67 @@ async function scrapeWithSyndication() {
   });
 }
 
+async function syndicationWithBackoff() {
+  const delays = [0, 25_000, 50_000];
+  for (const delay of delays) {
+    if (delay) {
+      console.log(`Retrying syndication in ${delay / 1000}s ...`);
+      await sleep(delay + Math.random() * 5000);
+    }
+    try {
+      return await scrapeWithSyndication();
+    } catch (err) {
+      console.warn(`Syndication scrape failed: ${err.message}`);
+    }
+  }
+  return [];
+}
+
 /* ----------------------------------------------------------------- main -- */
 
 async function main() {
-  let scraped = [];
-  let method = "";
-
+  let realPosts = [];
   console.log(`Scraping ${SITE_URL} ...`);
   try {
-    scraped = await scrapeTrackSerenity();
-    method = "trackserenity";
-    console.log(`trackserenity: ${scraped.length} stock posts found.`);
+    realPosts = await scrapeTrackSerenity();
+    console.log(`trackserenity: ${realPosts.length} real posts (summary cards dropped).`);
   } catch (err) {
     console.warn(`trackserenity scrape failed: ${err.message}`);
   }
 
-  // Fallback to the X syndication timeline (with backoff for transient 429s).
-  if (scraped.length === 0) {
-    console.log(`Falling back to @${HANDLE} syndication timeline ...`);
-    const delays = [0, 25_000, 50_000];
-    for (const delay of delays) {
-      if (delay) {
-        console.log(`Retrying syndication in ${delay / 1000}s ...`);
-        await sleep(delay + Math.random() * 5000);
-      }
-      try {
-        scraped = await scrapeWithSyndication();
-        method = "syndication";
-        break;
-      } catch (err) {
-        console.warn(`Syndication scrape failed: ${err.message}`);
-      }
+  let scraped = [];
+  let method = "";
+
+  if (realPosts.length >= MIN_REAL_POSTS) {
+    scraped = realPosts;
+    method = "trackserenity";
+  } else {
+    // Too few real posts (page was mostly summary cards) — prefer the real
+    // chronological X timeline.
+    console.log(
+      `Only ${realPosts.length} real posts from trackserenity (< ${MIN_REAL_POSTS}); ` +
+        `falling back to @${HANDLE} syndication ...`,
+    );
+    const synd = await syndicationWithBackoff();
+    if (synd.length > 0) {
+      scraped = synd;
+      method = "syndication";
+    } else if (realPosts.length > 0) {
+      scraped = realPosts; // better than nothing
+      method = "trackserenity";
     }
   }
 
   if (scraped.length === 0) {
     console.error("No posts scraped by any method — keeping existing data untouched.");
-    // Exit 0 so a transient block doesn't fail the scheduled workflow.
-    return;
+    return; // exit 0 so a transient block doesn't fail the scheduled workflow
   }
 
   const existing = await loadExisting();
   const byId = new Map(existing.map((t) => [t.id, t]));
   let added = 0;
-  for (const raw of scraped) {
-    const t = normalize(raw);
+  for (const rawPost of scraped) {
+    const t = normalize(rawPost);
     if (!t.id || !t.text) continue;
     if (!byId.has(t.id)) added++;
     byId.set(t.id, t); // newer scrape wins (fresher content)
