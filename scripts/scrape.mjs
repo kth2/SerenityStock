@@ -82,16 +82,63 @@ function parseTextDate(text) {
   return Number.isNaN(d.getTime()) ? null : d.toISOString();
 }
 
-// The per-ticker summary cards carry this label (real posts never do).
+// The per-ticker/stock summary cards. Several variants exist, none of which is
+// a real post: the homepage "Latest Serenity X post …" cards and the
+// /stocks/TICKER performance cards ("$AAOI $AAOI NASDAQ … $128.56 -$3.07
+// (-2.73%) Since mentioned …"). Signed prices dodge a naive price regex, so key
+// off the structural signals: exchange name + a (±%) change, "Since mentioned",
+// the "Latest Serenity X post" label, or a doubled-cashtag + exchange header.
 function isSummaryCard(text) {
   return (
     /Latest Serenity X post/i.test(text) ||
-    // "$146.64 $8.39 (+6.07%)" price + change signature.
-    /\$\d[\d,]*\.\d{2}\s+\$?\d[\d,]*\.\d{2}\s*\(\s*[+-]?\d/.test(text)
+    /Since mentioned/i.test(text) ||
+    (/\(\s*[+-]?\d+(?:\.\d+)?%\s*\)/.test(text) && /\b(?:NYSE|NASDAQ|AMEX|NMS|OTC)\b/i.test(text)) ||
+    /^\s*\$[A-Za-z.]{1,6}\s+\$?[A-Za-z.]{1,6}\s+(?:NYSE|NASDAQ|AMEX|NMS|OTC)\b/i.test(text)
   );
 }
 
+// Allowlist real posts precisely. On trackserenity every genuine Serenity post
+// renders as "Serenity @<handle> <date> <content>"; that prefix always wins
+// (even if the body mentions an exchange/percent). Otherwise accept only a
+// genuine status-linked tweet with real content. Everything else — stock cards,
+// the "SERENITY X ACCOUNT TRACKER" header, nav, disclaimers — is dropped.
+function isRealPost(text, id) {
+  if (!text) return false;
+  if (/^\s*Serenity\s+@\w+/i.test(text)) return true;
+  if (isSummaryCard(text)) return false;
+  if (/^\d+$/.test(String(id)) && text.length >= 20) return true;
+  return false;
+}
+
 const extractStatusId = (href) => (href || "").match(/status\/(\d+)/)?.[1] ?? null;
+
+// Final gate + date correction, applied to BOTH freshly-scraped and previously
+// stored posts on every run. Drops summary cards and site chrome, and always
+// re-derives createdAt from the tweet's true time (snowflake id > embedded
+// date > whatever was stored), so stale scrape-time dates get corrected.
+function refineTweet(t) {
+  const text = (t?.text ?? "").trim();
+  if (!text) return null;
+  const id = String(t.id ?? "");
+  if (!isRealPost(text, id)) return null;
+  const createdAt =
+    (/^\d+$/.test(id) && snowflakeToIso(id)) ||
+    parseTextDate(text) ||
+    t.createdAt ||
+    new Date().toISOString();
+  return {
+    id: id || stableId(text.slice(0, 120)),
+    text,
+    createdAt,
+    url: t.url ?? SITE_URL,
+    stats: {
+      replies: t.stats?.replies ?? 0,
+      reposts: t.stats?.reposts ?? 0,
+      likes: t.stats?.likes ?? 0,
+      views: t.stats?.views ?? 0,
+    },
+  };
+}
 
 function normalize(post) {
   return {
@@ -209,10 +256,10 @@ async function scrapeTrackSerenity() {
     for (const c of consider) {
       const text = (c.text || "").trim();
       if (!text) continue;
-      if (isSummaryCard(text)) continue; // stale per-ticker card — skip
       const statusId = c.statusId ?? extractStatusId(c.href);
-      // A real post either links to a status or is substantial prose.
-      if (!statusId && text.length < 40) continue;
+      // Keep only real posts ("Serenity @…" prose or a status-linked tweet);
+      // drops summary cards, the "SERENITY X ACCOUNT TRACKER" header, and nav.
+      if (!isRealPost(text, statusId ?? "")) continue;
 
       // Prefer the true post time: snowflake > <time> > date-in-text > now.
       const createdAt =
@@ -338,15 +385,25 @@ async function main() {
     return; // exit 0 so a transient block doesn't fail the scheduled workflow
   }
 
+  // Refine EXISTING data first: this purges summary cards / chrome left by
+  // older scraper versions and corrects their stale scrape-time dates.
   const existing = await loadExisting();
-  const byId = new Map(existing.map((t) => [t.id, t]));
+  const byId = new Map();
+  let purged = 0;
+  for (const t of existing) {
+    const r = refineTweet(t);
+    if (r) byId.set(r.id, r);
+    else purged++;
+  }
+  // Merge in the fresh scrape (refined the same way); newer wins.
   let added = 0;
   for (const rawPost of scraped) {
-    const t = normalize(rawPost);
-    if (!t.id || !t.text) continue;
-    if (!byId.has(t.id)) added++;
-    byId.set(t.id, t); // newer scrape wins (fresher content)
+    const r = refineTweet(normalize(rawPost));
+    if (!r) continue;
+    if (!byId.has(r.id)) added++;
+    byId.set(r.id, r);
   }
+  if (purged) console.log(`Purged ${purged} stale summary-card / non-post entries.`);
 
   const merged = [...byId.values()]
     .sort((a, b) => (a.createdAt < b.createdAt ? 1 : -1))
