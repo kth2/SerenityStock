@@ -112,6 +112,19 @@ function isRealPost(text, id) {
 
 const extractStatusId = (href) => (href || "").match(/status\/(\d+)/)?.[1] ?? null;
 
+// The same post can be captured twice: once status-linked (numeric id, real
+// snowflake UTC time) and once as canonical text ("Serenity @handle <date> …",
+// a stableId, and trackserenity's displayed time). Key on the post BODY (minus
+// the handle/date prefix) so both collapse to one entry.
+function contentKey(text) {
+  return (text || "")
+    .replace(/^\s*Serenity\s+@\w+\s+\d{4}-\d{2}-\d{2}(?:\s+\d{1,2}:\d{2})?\s*/i, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 90);
+}
+
 // Final gate + date correction, applied to BOTH freshly-scraped and previously
 // stored posts on every run. Drops summary cards and site chrome, and always
 // re-derives createdAt from the tweet's true time (snowflake id > embedded
@@ -405,7 +418,25 @@ async function main() {
   }
   if (purged) console.log(`Purged ${purged} stale summary-card / non-post entries.`);
 
-  const merged = [...byId.values()]
+  // Collapse duplicate captures of the same post by body, preferring the
+  // status-linked copy (numeric id → true snowflake UTC time).
+  const byContent = new Map();
+  let deduped = 0;
+  for (const t of byId.values()) {
+    const key = contentKey(t.text) || t.id;
+    const prev = byContent.get(key);
+    if (!prev) {
+      byContent.set(key, t);
+      continue;
+    }
+    deduped++;
+    const tNumeric = /^\d+$/.test(t.id);
+    const prevNumeric = /^\d+$/.test(prev.id);
+    if (tNumeric && !prevNumeric) byContent.set(key, t); // prefer real status id
+  }
+  if (deduped) console.log(`Merged ${deduped} duplicate post captures.`);
+
+  const merged = [...byContent.values()]
     .sort((a, b) => (a.createdAt < b.createdAt ? 1 : -1))
     .slice(0, MAX_TWEETS);
 
