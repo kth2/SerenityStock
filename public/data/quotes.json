@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:36:41.813Z",
+  "updatedAt": "2026-08-06T09:21:20.649Z",
   "quotes": {
     "GOOGL": {
       "price": 362.43,
@@ -151,6 +151,20 @@
     "SPCX": {
       "price": 108.27,
       "changePct": -13.61,
+      "currency": "USD",
+      "asOf": "2026-08-05T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "AEVA": {
+      "price": 19.61,
+      "changePct": -4.01,
+      "currency": "USD",
+      "asOf": "2026-08-05T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "VIAV": {
+      "price": 38.9,
+      "changePct": -3.52,
       "currency": "USD",
       "asOf": "2026-08-05T20:00:01.000Z",
       "source": "Yahoo Finance"
