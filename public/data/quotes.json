@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:34:25.961Z",
+  "updatedAt": "2026-08-07T07:52:24.779Z",
   "quotes": {
     "AMD": {
       "price": 489.28,
@@ -22,16 +22,16 @@
       "asOf": "2026-08-06T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "LITE": {
-      "price": 838.06,
-      "changePct": 1.43,
+    "AAOI": {
+      "price": 124.22,
+      "changePct": -3.38,
       "currency": "USD",
       "asOf": "2026-08-06T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "AAOI": {
-      "price": 124.22,
-      "changePct": -3.38,
+    "LITE": {
+      "price": 838.06,
+      "changePct": 1.43,
       "currency": "USD",
       "asOf": "2026-08-06T20:00:01.000Z",
       "source": "Yahoo Finance"
