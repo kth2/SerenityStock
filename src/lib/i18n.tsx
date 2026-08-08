@@ -29,6 +29,12 @@ const DICT: Record<string, Entry> = {
   "tab.tickers": { en: "Tickers", zh: "个股" },
   "tab.skill": { en: "Skill", zh: "方法" },
   "tab.marketmind": { en: "MarketMind", zh: "市场推演" },
+  // Short labels for the stacked phone tab bar (five tabs must fit at 320px).
+  "tab.analyze.short": { en: "Analyze", zh: "分析" },
+  "tab.marketmind.short": { en: "MM", zh: "推演" },
+  "tab.dashboard.short": { en: "Dash", zh: "看板" },
+  "tab.tickers.short": { en: "Tickers", zh: "个股" },
+  "tab.skill.short": { en: "Skill", zh: "方法" },
 
   // MarketMind simulator
   "mm.title": { en: "MarketMind Simulator", zh: "MarketMind 市场推演" },
