@@ -15,6 +15,20 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useData } from "@/hooks/useData";
 import { useI18n } from "@/lib/i18n";
 
+// Phone: five equal columns with the icon stacked over a short label, so every
+// tab stays reachable at 320px. sm+: the original inline row with full labels.
+const TAB_CLS =
+  "min-w-0 flex-col gap-0.5 px-0.5 py-1.5 text-[10px] leading-tight sm:flex-row sm:gap-1.5 sm:px-3 sm:text-sm";
+
+function TabLabel({ short, full }: { short: string; full: string }) {
+  return (
+    <>
+      <span className="max-w-full truncate sm:hidden">{short}</span>
+      <span className="hidden sm:inline">{full}</span>
+    </>
+  );
+}
+
 function DataUnavailable({ error }: { error: string | null }) {
   const { t } = useI18n();
   return (
@@ -65,23 +79,26 @@ export default function App() {
             )}
 
             <Tabs value={tab} onValueChange={setTab}>
-              <TabsList className="w-full sm:w-auto">
-                <TabsTrigger value="analyze" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
-                  <Microscope className="h-4 w-4" /> {t("tab.analyze")}
+              <TabsList className="grid h-auto w-full grid-cols-5 gap-0.5 sm:inline-flex sm:h-10 sm:w-auto sm:gap-1">
+                <TabsTrigger value="analyze" className={TAB_CLS}>
+                  <Microscope className="h-4 w-4 shrink-0" />
+                  <TabLabel short={t("tab.analyze.short")} full={t("tab.analyze")} />
                 </TabsTrigger>
-                <TabsTrigger value="marketmind" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
-                  <BrainCircuit className="h-4 w-4" />
-                  <span className="hidden sm:inline">{t("tab.marketmind")}</span>
-                  <span className="sm:hidden">MM</span>
+                <TabsTrigger value="marketmind" className={TAB_CLS}>
+                  <BrainCircuit className="h-4 w-4 shrink-0" />
+                  <TabLabel short={t("tab.marketmind.short")} full={t("tab.marketmind")} />
                 </TabsTrigger>
-                <TabsTrigger value="dashboard" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
-                  <LayoutDashboard className="h-4 w-4" /> {t("tab.dashboard")}
+                <TabsTrigger value="dashboard" className={TAB_CLS}>
+                  <LayoutDashboard className="h-4 w-4 shrink-0" />
+                  <TabLabel short={t("tab.dashboard.short")} full={t("tab.dashboard")} />
                 </TabsTrigger>
-                <TabsTrigger value="tickers" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
-                  <Table2 className="h-4 w-4" /> {t("tab.tickers")}
+                <TabsTrigger value="tickers" className={TAB_CLS}>
+                  <Table2 className="h-4 w-4 shrink-0" />
+                  <TabLabel short={t("tab.tickers.short")} full={t("tab.tickers")} />
                 </TabsTrigger>
-                <TabsTrigger value="skill" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
-                  <BookOpen className="h-4 w-4" /> {t("tab.skill")}
+                <TabsTrigger value="skill" className={TAB_CLS}>
+                  <BookOpen className="h-4 w-4 shrink-0" />
+                  <TabLabel short={t("tab.skill.short")} full={t("tab.skill")} />
                 </TabsTrigger>
               </TabsList>
 
