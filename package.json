@@ -13,7 +13,8 @@
     "quotes": "node scripts/quotes.mjs",
     "analyze": "node scripts/analyze.mjs",
     "pipeline": "npm run scrape && npm run process && npm run quotes && npm run analyze",
-    "icons": "node scripts/generate-icons.mjs"
+    "icons": "node scripts/generate-icons.mjs",
+    "test:marketmind": "node scripts/test-marketmind.mjs"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

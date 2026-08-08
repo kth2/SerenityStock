@@ -1,6 +1,7 @@
 import { useState } from "react";
-import { BookOpen, LayoutDashboard, Microscope, Table2 } from "lucide-react";
+import { BookOpen, BrainCircuit, LayoutDashboard, Microscope, Table2 } from "lucide-react";
 import { AnalyzeTab } from "@/components/AnalyzeTab";
+import { MarketMindTab } from "@/components/MarketMindTab";
 import { Header } from "@/components/Header";
 import { ScrapeButton } from "@/components/ScrapeButton";
 import { StatCards } from "@/components/StatCards";
@@ -68,6 +69,11 @@ export default function App() {
                 <TabsTrigger value="analyze" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <Microscope className="h-4 w-4" /> {t("tab.analyze")}
                 </TabsTrigger>
+                <TabsTrigger value="marketmind" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
+                  <BrainCircuit className="h-4 w-4" />
+                  <span className="hidden sm:inline">{t("tab.marketmind")}</span>
+                  <span className="sm:hidden">MM</span>
+                </TabsTrigger>
                 <TabsTrigger value="dashboard" className="flex-1 gap-1 px-1.5 sm:flex-none sm:gap-1.5 sm:px-3">
                   <LayoutDashboard className="h-4 w-4" /> {t("tab.dashboard")}
                 </TabsTrigger>
@@ -81,6 +87,10 @@ export default function App() {
 
               <TabsContent value="analyze">
                 <AnalyzeTab data={data} analyses={analyses} quotes={quotes} />
+              </TabsContent>
+
+              <TabsContent value="marketmind">
+                <MarketMindTab data={data} />
               </TabsContent>
 
               <TabsContent value="dashboard" className="space-y-4">

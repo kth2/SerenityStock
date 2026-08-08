@@ -44,6 +44,21 @@ export interface AiRunOptions {
   lang?: "en" | "zh";
   /** Formatted live-price text to append to the prompt (see livedata.ts). */
   live?: string;
+  /**
+   * Fired once per HTTP request to the provider. Lets a caller (e.g. the
+   * MarketMind call budget) count LLM calls exactly instead of estimating.
+   */
+  onCall?: () => void;
+}
+
+/** Low-level knobs for a single generic JSON call (see callJson). */
+export interface CallOptions {
+  /** System prompt. Defaults to the Serenity Skill prompt. */
+  system?: string;
+  temperature?: number;
+  maxOutputTokens?: number;
+  /** Fired immediately before the request goes out. */
+  onCall?: () => void;
 }
 
 export interface AiPreset {
@@ -266,19 +281,24 @@ async function errorDetail(res: Response): Promise<string> {
   }
 }
 
-async function callGemini(config: AiConfig, user: string, signal?: AbortSignal): Promise<string> {
+async function callGemini(
+  config: AiConfig,
+  user: string,
+  signal?: AbortSignal,
+  opts?: CallOptions,
+): Promise<string> {
   const base = config.baseUrl.replace(/\/+$/, "");
   const url = `${base}/models/${encodeURIComponent(config.model)}:generateContent?key=${encodeURIComponent(config.apiKey)}`;
   const res = await post(
     url,
     {},
     {
-      system_instruction: { parts: [{ text: systemPrompt() }] },
+      system_instruction: { parts: [{ text: opts?.system ?? systemPrompt() }] },
       contents: [{ role: "user", parts: [{ text: user }] }],
       generationConfig: {
         responseMimeType: "application/json",
-        temperature: 0.4,
-        maxOutputTokens: 4096,
+        temperature: opts?.temperature ?? 0.4,
+        maxOutputTokens: opts?.maxOutputTokens ?? 4096,
       },
     },
     signal,
@@ -290,7 +310,12 @@ async function callGemini(config: AiConfig, user: string, signal?: AbortSignal):
   return data.candidates?.[0]?.content?.parts?.map((p) => p.text ?? "").join("") ?? "";
 }
 
-async function callOpenAi(config: AiConfig, user: string, signal?: AbortSignal): Promise<string> {
+async function callOpenAi(
+  config: AiConfig,
+  user: string,
+  signal?: AbortSignal,
+  opts?: CallOptions,
+): Promise<string> {
   const base = config.baseUrl.replace(/\/+$/, "");
   const url = `${base}/chat/completions`;
   const headers: Record<string, string> = {};
@@ -298,9 +323,10 @@ async function callOpenAi(config: AiConfig, user: string, signal?: AbortSignal):
 
   const bodyBase = {
     model: config.model,
-    temperature: 0.4,
+    temperature: opts?.temperature ?? 0.4,
+    ...(opts?.maxOutputTokens ? { max_tokens: opts.maxOutputTokens } : {}),
     messages: [
-      { role: "system", content: systemPrompt() },
+      { role: "system", content: opts?.system ?? systemPrompt() },
       { role: "user", content: user },
     ],
   };
@@ -323,11 +349,17 @@ async function callOpenAi(config: AiConfig, user: string, signal?: AbortSignal):
   return data.choices?.[0]?.message?.content ?? "";
 }
 
-async function callModel(config: AiConfig, user: string, signal?: AbortSignal): Promise<unknown> {
+async function callModel(
+  config: AiConfig,
+  user: string,
+  signal?: AbortSignal,
+  opts?: CallOptions,
+): Promise<unknown> {
+  opts?.onCall?.();
   const text =
     config.protocol === "gemini"
-      ? await callGemini(config, user, signal)
-      : await callOpenAi(config, user, signal);
+      ? await callGemini(config, user, signal, opts)
+      : await callOpenAi(config, user, signal, opts);
   if (!text) throw new AiError("Empty response from the model.");
   // Strip markdown fences defensively; find the outermost JSON object.
   const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/\s*```\s*$/, "");
@@ -340,6 +372,24 @@ async function callModel(config: AiConfig, user: string, signal?: AbortSignal): 
   } catch {
     throw new AiError("Model returned malformed JSON — try again or a larger model.");
   }
+}
+
+/**
+ * Generic "ask the configured model for strict JSON" call.
+ *
+ * Exposed so features beyond the Serenity analyses (e.g. the MarketMind
+ * simulator, whose agents need their own personas) can reuse this module's
+ * transport — provider protocols, JSON-mode retry, fence stripping, and
+ * friendly error mapping — instead of shipping a second HTTP client. Pass
+ * `system` to replace the Serenity system prompt.
+ */
+export async function callJson(
+  config: AiConfig,
+  user: string,
+  opts?: CallOptions,
+  signal?: AbortSignal,
+): Promise<unknown> {
+  return callModel(config, user, signal, opts);
 }
 
 /** Cheap connectivity test for the settings panel. */
@@ -440,7 +490,7 @@ export async function aiAnalyzeTicker(
     }),
   ].join("\n") + runSuffix(opts);
 
-  const raw = (await callModel(config, user, signal)) as Record<string, unknown>;
+  const raw = (await callModel(config, user, signal, { onCall: opts?.onCall })) as Record<string, unknown>;
 
   const companyName = asStr(raw.companyName, ticker);
   if (companyName === "UNKNOWN") {
@@ -516,7 +566,7 @@ export async function aiAnalyzeTheme(
     "4-6 layers, 3-6 candidates, at least one popularButLower entry.",
   ].join("\n") + runSuffix(opts);
 
-  const raw = (await callModel(config, user, signal)) as Record<string, unknown>;
+  const raw = (await callModel(config, user, signal, { onCall: opts?.onCall })) as Record<string, unknown>;
 
   const layers = (Array.isArray(raw.layers) ? raw.layers : [])
     .map((l) => {

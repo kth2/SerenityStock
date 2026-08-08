@@ -44,6 +44,12 @@ export async function analyzeQuery(
   config: AiConfig | null,
   signal?: AbortSignal,
   lang: "en" | "zh" = "en",
+  /**
+   * Fired once per LLM request made while answering this query. Lets callers
+   * that meter usage (the MarketMind call budget) count exactly — a comparison
+   * that researches three uncurated tickers really is three calls.
+   */
+  onLlmCall?: () => void,
 ): Promise<AnalyzeOutcome> {
   const parsed = parseQuery(raw);
   const useAi = aiConfigured(config);
@@ -56,7 +62,7 @@ export async function analyzeQuery(
     }
     if (useAi) {
       try {
-        const opts = await buildRunOptions([t], lang, signal);
+        const opts = await buildRunOptions([t], lang, signal, onLlmCall);
         return { result: await aiAnalyzeTicker(config!, t, aggs.get(t), signal, opts), usedAi: true };
       } catch (err) {
         return aiFallback(err, () => runSerenityAnalysis(t, aggs.get(t)));
@@ -68,7 +74,9 @@ export async function analyzeQuery(
   // --- comparison ---
   if (parsed.kind === "comparison") {
     // One shared live-price fetch for all names in the comparison.
-    const opts = useAi ? await buildRunOptions(parsed.tickers, lang, signal) : undefined;
+    const opts = useAi
+      ? await buildRunOptions(parsed.tickers, lang, signal, onLlmCall)
+      : undefined;
     const parts = await Promise.all(
       parsed.tickers.map(async (t): Promise<{ a: SerenityAnalysis; ai: boolean; warn?: string }> => {
         if (isCurated(t) || !useAi) return { a: runSerenityAnalysis(t, aggs.get(t)), ai: false };
@@ -104,7 +112,7 @@ export async function analyzeQuery(
     try {
       // Theme scans have no ticker list up front, so only the language
       // directive applies here (no live-price context).
-      const opts: AiRunOptions = { lang };
+      const opts: AiRunOptions = { lang, onCall: onLlmCall };
       return { result: await aiAnalyzeTheme(config!, parsed.raw, signal, opts), usedAi: true };
     } catch (err) {
       return aiFallback(err, () => runQuery(raw, aggs));
@@ -122,6 +130,7 @@ async function buildRunOptions(
   tickers: string[],
   lang: "en" | "zh",
   signal?: AbortSignal,
+  onCall?: () => void,
 ): Promise<AiRunOptions> {
   let live = "";
   try {
@@ -131,7 +140,7 @@ async function buildRunOptions(
     if ((err as Error)?.name === "AbortError") throw err;
     /* live data is optional — ignore any failure */
   }
-  return { lang, live: live || undefined };
+  return { lang, live: live || undefined, onCall };
 }
 
 function aiFallback(err: unknown, fallback: () => AnalysisResult): AnalyzeOutcome {

@@ -28,6 +28,76 @@ const DICT: Record<string, Entry> = {
   "tab.dashboard": { en: "Dashboard", zh: "看板" },
   "tab.tickers": { en: "Tickers", zh: "个股" },
   "tab.skill": { en: "Skill", zh: "方法" },
+  "tab.marketmind": { en: "MarketMind", zh: "市场推演" },
+
+  // MarketMind simulator
+  "mm.title": { en: "MarketMind Simulator", zh: "MarketMind 市场推演" },
+  "mm.tagline": {
+    en: "Serenity answers “what is happening?”. MarketMind answers “given that, how might different market participants react?”",
+    zh: "Serenity 回答「发生了什么」，MarketMind 回答「在此情况下，不同市场参与者会如何反应」。",
+  },
+  "mm.desc": {
+    en: "Runs the Serenity analysis first, then has six market participants react to it — twice, the second time to each other — and synthesizes a scenario report. This is a scenario simulator, not a price prediction.",
+    zh: "先运行 Serenity 分析，再让六类市场参与者对其作出反应（共两轮，第二轮相互反应），最后生成情景报告。这是情景推演工具，不是价格预测。",
+  },
+  "mm.placeholder": {
+    en: "Ticker or theme — e.g. AAOI · neocloud stocks · AI CPO",
+    zh: "股票代码或主题 —— 例如 AAOI · 新云算力 · AI 光互连",
+  },
+  "mm.run": { en: "Run simulation", zh: "开始推演" },
+  "mm.running": { en: "Simulating…", zh: "推演中…" },
+  "mm.cancel": { en: "Cancel", zh: "取消" },
+  "mm.calls": { en: "calls", zh: "次调用" },
+  "mm.needsAi": {
+    en: "MarketMind needs an AI model. Connect one in the Analyze tab’s AI settings — Gemini’s free tier works well.",
+    zh: "MarketMind 需要 AI 模型。请在「分析」标签页的 AI 设置中连接 —— Gemini 免费额度即可。",
+  },
+  "mm.empty": {
+    en: "Enter a ticker or theme above to simulate how the market might react — or reopen a past simulation.",
+    zh: "在上方输入股票代码或主题以推演市场反应 —— 或重新打开过往推演。",
+  },
+  "mm.disclaimer": {
+    en: "Scenario exploration only — simulated participant reactions, not predictions, not investment advice. Agents are LLM role-play, not calibrated market models.",
+    zh: "仅为情景推演 —— 模拟参与者反应，不是预测，也不构成投资建议。各智能体为大模型角色扮演，并非经过校准的市场模型。",
+  },
+
+  // Report sections
+  "mm.sec.serenity": { en: "Serenity situation", zh: "Serenity 情况判断" },
+  "mm.sec.round1": { en: "Round 1 — initial reactions", zh: "第一轮 —— 初始反应" },
+  "mm.sec.round2": { en: "Round 2 — reacting to each other", zh: "第二轮 —— 相互反应" },
+  "mm.sec.cascade": { en: "How it could cascade", zh: "可能的连锁反应" },
+  "mm.sec.scenarios": { en: "Bull / base / bear", zh: "乐观 / 中性 / 悲观" },
+  "mm.sec.risks": { en: "Key risks", zh: "主要风险" },
+  "mm.sec.watch": { en: "What to watch next", zh: "下一步关注" },
+  "mm.sec.reflexivity": { en: "Reflexivity", zh: "自我强化效应" },
+  "mm.bull": { en: "Bull", zh: "乐观" },
+  "mm.base": { en: "Base", zh: "中性" },
+  "mm.bear": { en: "Bear", zh: "悲观" },
+  "mm.conditions": { en: "Conditions", zh: "前提条件" },
+  "mm.conviction": { en: "conviction", zh: "信念度" },
+  "mm.triggers": { en: "Would act on", zh: "触发条件" },
+  "mm.risks": { en: "Would be wrong if", zh: "证伪条件" },
+  "mm.degraded": { en: "no response", zh: "无响应" },
+  "mm.converged": {
+    en: "Participants converged after round 1, so round 2 was skipped to save calls.",
+    zh: "参与者在第一轮后已高度一致，因此跳过第二轮以节省调用。",
+  },
+  "mm.history": { en: "Past simulations", zh: "历史推演" },
+  "mm.historyEmpty": {
+    en: "Simulations are saved here (locally in your browser).",
+    zh: "推演结果会保存在这里（仅存于你的浏览器本地）。",
+  },
+  "mm.stance.bullish": { en: "bullish", zh: "看多" },
+  "mm.stance.bearish": { en: "bearish", zh: "看空" },
+  "mm.stance.neutral": { en: "neutral", zh: "中性" },
+
+  // Agent names
+  "mm.agent.retail": { en: "Retail Investors", zh: "散户投资者" },
+  "mm.agent.momentum": { en: "Momentum Traders", zh: "动量交易者" },
+  "mm.agent.value": { en: "Value Investors", zh: "价值投资者" },
+  "mm.agent.short": { en: "Short Sellers", zh: "做空者" },
+  "mm.agent.institution": { en: "Hedge Funds / Institutions", zh: "对冲基金 / 机构" },
+  "mm.agent.options": { en: "Options / Market Makers", zh: "期权 / 做市商" },
 
   // Analyze hero
   "analyze.title": { en: "Analyze anything with the Serenity Skill", zh: "用 Serenity 方法分析任何标的" },
