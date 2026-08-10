@@ -1,18 +1,11 @@
 {
-  "updatedAt": "2026-08-09T07:31:45.428Z",
+  "updatedAt": "2026-08-10T08:14:11.109Z",
   "quotes": {
     "AAOI": {
       "price": 135.63,
       "changePct": 9.19,
       "currency": "USD",
       "asOf": "2026-08-07T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "GOOGL": {
-      "price": 354.3,
-      "changePct": -0.96,
-      "currency": "USD",
-      "asOf": "2026-08-07T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "LITE": {
@@ -29,6 +22,13 @@
       "asOf": "2026-08-07T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
+    "GOOGL": {
+      "price": 354.3,
+      "changePct": -0.96,
+      "currency": "USD",
+      "asOf": "2026-08-07T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
     "META": {
       "price": 592.1,
       "changePct": 0.37,
@@ -39,6 +39,13 @@
     "NBIS": {
       "price": 187.97,
       "changePct": -1.01,
+      "currency": "USD",
+      "asOf": "2026-08-07T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "NVDA": {
+      "price": 223.96,
+      "changePct": 2.27,
       "currency": "USD",
       "asOf": "2026-08-07T20:00:00.000Z",
       "source": "Yahoo Finance"
@@ -78,13 +85,6 @@
       "asOf": "2026-08-07T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
-    "NVDA": {
-      "price": 223.96,
-      "changePct": 2.27,
-      "currency": "USD",
-      "asOf": "2026-08-07T20:00:00.000Z",
-      "source": "Yahoo Finance"
-    },
     "MTSI": {
       "price": 310.82,
       "changePct": 3.04,
@@ -111,6 +111,13 @@
       "changePct": 1.31,
       "currency": "USD",
       "asOf": "2026-08-07T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "RKLB": {
+      "price": 82.83,
+      "changePct": 9.46,
+      "currency": "USD",
+      "asOf": "2026-08-07T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "POET": {
@@ -160,6 +167,13 @@
       "changePct": 15.83,
       "currency": "USD",
       "asOf": "2026-08-07T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "ASTS": {
+      "price": 71.94,
+      "changePct": 6.8,
+      "currency": "USD",
+      "asOf": "2026-08-07T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "WWR": {
@@ -215,14 +229,7 @@
       "price": 39.14,
       "changePct": -3.57,
       "currency": "USD",
-      "asOf": "2026-08-07T20:00:00.000Z",
-      "source": "Yahoo Finance"
-    },
-    "RKLB": {
-      "price": 82.83,
-      "changePct": 9.46,
-      "currency": "USD",
-      "asOf": "2026-08-07T20:00:00.000Z",
+      "asOf": "2026-08-07T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "RDDT": {
