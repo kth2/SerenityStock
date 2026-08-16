@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:24:15.770Z",
+  "updatedAt": "2026-08-16T07:09:09.253Z",
   "quotes": {
     "LITE": {
       "price": 926.14,
@@ -50,6 +50,13 @@
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
+    "SNDK": {
+      "price": 1641.11,
+      "changePct": 7.39,
+      "currency": "USD",
+      "asOf": "2026-08-14T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
     "AMZN": {
       "price": 262.65,
       "changePct": -0.94,
@@ -62,13 +69,6 @@
       "changePct": 2.3,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "SNDK": {
-      "price": 1641.11,
-      "changePct": 7.39,
-      "currency": "USD",
-      "asOf": "2026-08-14T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "MSFT": {
