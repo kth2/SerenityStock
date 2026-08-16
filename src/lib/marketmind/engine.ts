@@ -167,6 +167,31 @@ function langDirective(lang?: "en" | "zh"): string {
     : "";
 }
 
+
+/**
+ * Turn a wave of agent failures into advice the user can act on. Free tiers
+ * throttle hard, and "high demand" / rate-limit errors mean the model, not the
+ * simulation, is the bottleneck.
+ */
+function providerHint(degradedCount: number, reactions: AgentReaction[]): string {
+  if (degradedCount < 2) return "";
+  const text = reactions
+    .filter((r) => r.degraded)
+    .map((r) => r.rationale)
+    .join(" ")
+    .toLowerCase();
+  if (/rate limit|high demand|overload|quota|429|503|busy/.test(text)) {
+    return (
+      " Your provider is throttling or overloaded — the app already retried. " +
+      "Wait a minute and re-run, or switch to a model with more free-tier headroom in AI settings."
+    );
+  }
+  if (/output space|no json|malformed/.test(text)) {
+    return " The model struggled to return valid JSON — a slightly larger model usually fixes this.";
+  }
+  return "";
+}
+
 /* ------------------------------------------------- local engine ---------- */
 
 export interface LocalEngineDeps {
@@ -190,7 +215,7 @@ export class LocalMarketMindEngine implements SimulationEngine {
   }
 
   async run(input: SimulationInput, hooks: SimulationHooks = {}): Promise<MarketMindReport> {
-    const { config, aggs = new Map(), concurrency = 3 } = this.deps;
+    const { config, aggs = new Map(), concurrency = 2 } = this.deps;
     if (!aiConfigured(config)) {
       throw new AiError(
         "Connect an AI model first — MarketMind uses your configured provider (Gemini by default).",
@@ -267,7 +292,10 @@ export class LocalMarketMindEngine implements SimulationEngine {
     report("aggregate1", "Aggregating round 1…", 58);
     const round1 = aggregate(stage1, 1);
     if (round1.degradedCount) {
-      warnings.push(`${round1.degradedCount} participant(s) failed to respond in round 1.`);
+      warnings.push(
+        `${round1.degradedCount} participant(s) failed to respond in round 1.` +
+          providerHint(round1.degradedCount, stage1),
+      );
     }
 
     /* --- 4. Stage 2: react to the aggregate (skippable) --- */
@@ -311,7 +339,10 @@ export class LocalMarketMindEngine implements SimulationEngine {
       report("aggregate2", "Aggregating round 2…", 90);
       round2 = aggregate(stage2, 2);
       if (round2.degradedCount) {
-        warnings.push(`${round2.degradedCount} participant(s) failed to respond in round 2.`);
+        warnings.push(
+          `${round2.degradedCount} participant(s) failed to respond in round 2.` +
+            providerHint(round2.degradedCount, stage2),
+        );
       }
     }
 
@@ -353,8 +384,9 @@ export class LocalMarketMindEngine implements SimulationEngine {
               "behaviour becomes self-reinforcing. You never predict prices and never " +
               "give investment advice. Respond with STRICT JSON only.",
             temperature: 0.5,
-            maxOutputTokens: 2048,
+            maxOutputTokens: 2600,
             onCall: budget.recorder("synthesis"),
+            onRetry: budget.noteRetry,
           },
           signal,
         );
@@ -402,7 +434,10 @@ export class LocalMarketMindEngine implements SimulationEngine {
     let done = 0;
     let cursor = 0;
 
-    const worker = async () => {
+    const worker = async (slot: number) => {
+      // Stagger worker starts so six agents do not hit a free-tier
+      // per-minute limit in one burst.
+      if (slot > 0) await new Promise((r) => setTimeout(r, slot * 400));
       for (;;) {
         const i = cursor++;
         if (i >= AGENTS.length) return;
@@ -425,8 +460,12 @@ export class LocalMarketMindEngine implements SimulationEngine {
             {
               system: agent.system,
               temperature: 0.7, // distinct voices
-              maxOutputTokens: 700,
+              // Generous enough that the JSON is never cut mid-object —
+              // Chinese output in particular consumes tokens fast, and a
+              // truncated response is unparseable.
+              maxOutputTokens: 1400,
               onCall: budget.recorder("agent"),
+              onRetry: budget.noteRetry,
             },
             signal,
           );
@@ -446,7 +485,9 @@ export class LocalMarketMindEngine implements SimulationEngine {
     };
 
     await Promise.all(
-      Array.from({ length: Math.max(1, Math.min(concurrency, AGENTS.length)) }, worker),
+      Array.from({ length: Math.max(1, Math.min(concurrency, AGENTS.length)) }, (_, slot) =>
+        worker(slot),
+      ),
     );
     return results;
   }

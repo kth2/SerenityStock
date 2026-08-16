@@ -19,6 +19,8 @@ export class SimulationCallBudget {
   serenityCalls = 0;
   agentCalls = 0;
   synthesisCalls = 0;
+  /** Transient failures retried inside the transport (throttling/overload). */
+  retries = 0;
   readonly maximumCalls: number;
 
   constructor(maximumCalls: number = MAX_CALLS) {
@@ -59,8 +61,14 @@ export class SimulationCallBudget {
     };
   }
 
+  /** Callback for ai.ts to report a transient retry. */
+  noteRetry = () => {
+    this.retries += 1;
+  };
+
   snapshot(): CallBudgetSnapshot {
     return {
+      retries: this.retries,
       serenityCalls: this.serenityCalls,
       agentCalls: this.agentCalls,
       synthesisCalls: this.synthesisCalls,

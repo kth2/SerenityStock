@@ -193,10 +193,24 @@ researches three tickets is counted as three calls, not one.
 
 **Cost design for free tiers.** Two rounds (not N rounds); aggregation between
 rounds is deterministic so no LLM is spent summarizing; the seed brief is
-compressed to the fields agents actually need; agents get a small
-`maxOutputTokens`; agent calls run with bounded concurrency (default 3) to stay
-under per-minute rate limits, and a 429 degrades the agent to a fallback
-reaction rather than failing the run.
+compressed to the fields agents actually need; agent calls run with bounded
+concurrency (default 2) plus a staggered start so six agents do not hit a
+per-minute limit in one burst.
+
+**Reliability under throttling.** Free tiers return 429 / 503 ("this model is
+currently experiencing high demand") under load, so the transport retries
+transient statuses (408/425/429/500/502/503/504) up to 3 attempts with jittered
+exponential backoff, honouring `Retry-After`. Permanent failures (401 bad key,
+404 bad model) are **not** retried — that would only burn quota. Retries are
+counted separately from the call budget (they are the same logical step) and
+shown in the report. If a wave of agents still fails, the run degrades and the
+warning tells the user what to do (wait, or switch model).
+
+**Truncation.** Agent responses get `maxOutputTokens: 1400` — a truncated
+response is unparseable JSON, and Chinese output consumes tokens noticeably
+faster than English. A `finishReason: MAX_TOKENS` / `finish_reason: "length"`
+is now reported as "the model ran out of output space" instead of the generic
+"returned no JSON".
 
 ---
 

@@ -145,5 +145,65 @@ console.log("\n== engine degradation (provider always fails) ==");
   ok("degraded round did NOT falsely converge", rep.stoppedEarly!=="converged", `stopped=${rep.stoppedEarly}`);
 }
 
+
+console.log("\n== transient failure retry (the 'high demand' fix) ==");
+{
+  // 503 twice, then success: the transport must retry and the agent must NOT degrade.
+  let attempts = 0;
+  const agentJson = JSON.stringify({stance:"bearish",conviction:4,horizon:"weeks",action:"a",triggers:["t"],risks:["r"],rationale:"ok"});
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    attempts++;
+    if (attempts <= 2) return { ok:false, status:503, headers:{get:()=>null}, json: async()=>({error:{message:"This model is currently experiencing high demand."}}) };
+    return { ok:true, status:200, json: async()=>({choices:[{message:{content:agentJson}}]}) };
+  };
+  const { callJson } = await import("@/lib/serenity/ai");
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  let retries = 0;
+  const out: any = await callJson(cfg, "hi", { onRetry: () => { retries++; } });
+  ok("retried past transient 503s", attempts===3, `attempts=${attempts}`);
+  ok("onRetry fired per retry", retries===2, `retries=${retries}`);
+  ok("succeeded after retry", out.stance==="bearish");
+}
+{
+  // Permanent failure (401) must NOT be retried — retrying a bad key is waste.
+  let attempts = 0;
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    attempts++;
+    return { ok:false, status:401, headers:{get:()=>null}, json: async()=>({error:{message:"bad key"}}) };
+  };
+  const { callJson } = await import("@/lib/serenity/ai");
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  let threw = "";
+  try { await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
+  ok("401 not retried", attempts===1, `attempts=${attempts}`);
+  ok("401 gives key-specific message", /API key/i.test(threw), threw);
+}
+{
+  // Truncated output (finish_reason=length) must say so, not "no JSON".
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    return { ok:true, status:200, json: async()=>({choices:[{finish_reason:"length", message:{content:'{"stance":"bul'}}]}) };
+  };
+  const { callJson } = await import("@/lib/serenity/ai");
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  let threw = "";
+  try { await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
+  ok("truncation reported clearly", /output space/i.test(threw), threw);
+}
+{
+  // Engine-level: provider overloaded throughout -> retries counted, actionable hint.
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    return { ok:false, status:503, headers:{get:()=>null}, json: async()=>({error:{message:"This model is currently experiencing high demand."}}) };
+  };
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  const rep = await new LocalMarketMindEngine({config: cfg}).run({query:"AAOI"});
+  ok("retries recorded in budget", rep.budget.retries > 0, `retries=${rep.budget.retries}`);
+  ok("actionable throttling hint shown", rep.warnings.some(w=>/throttling or overloaded/i.test(w)), rep.warnings.join(" | "));
+  ok("still produced a report", !!rep.synthesis);
+}
+
 console.log(`\n${pass} passed, ${fail} failed\n`);
 if (fail) process.exit(1);

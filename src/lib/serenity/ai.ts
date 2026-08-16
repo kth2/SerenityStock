@@ -59,6 +59,8 @@ export interface CallOptions {
   maxOutputTokens?: number;
   /** Fired immediately before the request goes out. */
   onCall?: () => void;
+  /** Fired each time a transient failure is retried (throttling/overload). */
+  onRetry?: () => void;
 }
 
 export interface AiPreset {
@@ -248,11 +250,50 @@ function friendlyHttpError(status: number, detail: string, config: AiConfig): Ai
   if (status === 404)
     return new AiError(`Model or endpoint not found (model "${config.model}") — check AI settings.`);
   if (status === 429)
-    return new AiError("Rate limit hit on your provider's tier — wait a bit and try again.");
+    return new AiError(
+      "Rate limited by your provider (free tiers allow few requests per minute) — " +
+        "retried and still busy. Wait a minute, or pick a model with more headroom in AI settings.",
+    );
+  if (status === 503 || status === 500 || status === 502 || status === 504)
+    return new AiError(
+      `The model is overloaded right now (${detail || `HTTP ${status}`}) — retried without luck. ` +
+        "Try again shortly, or switch model in AI settings.",
+    );
   return new AiError(`AI provider error: ${detail || `HTTP ${status}`}`);
 }
 
-async function post(url: string, headers: Record<string, string>, body: unknown, signal?: AbortSignal) {
+/** Transient statuses worth retrying: throttling and upstream overload. */
+const RETRY_STATUS = new Set([408, 425, 429, 500, 502, 503, 504]);
+const MAX_ATTEMPTS = 3;
+
+function sleep(ms: number, signal?: AbortSignal): Promise<void> {
+  return new Promise((resolve, reject) => {
+    if (signal?.aborted) {
+      const e = new Error("Aborted");
+      e.name = "AbortError";
+      reject(e);
+      return;
+    }
+    const timer = setTimeout(() => {
+      signal?.removeEventListener("abort", onAbort);
+      resolve();
+    }, ms);
+    function onAbort() {
+      clearTimeout(timer);
+      const e = new Error("Aborted");
+      e.name = "AbortError";
+      reject(e);
+    }
+    signal?.addEventListener("abort", onAbort, { once: true });
+  });
+}
+
+async function postOnce(
+  url: string,
+  headers: Record<string, string>,
+  body: unknown,
+  signal?: AbortSignal,
+) {
   try {
     return await fetch(url, {
       method: "POST",
@@ -266,6 +307,37 @@ async function post(url: string, headers: Record<string, string>, body: unknown,
       "Could not reach the AI endpoint — check the URL, your connection, and that the provider allows browser (CORS) access.",
     );
   }
+}
+
+/**
+ * POST with jittered exponential backoff on transient failures.
+ *
+ * Free provider tiers throttle aggressively and return 429/503 ("this model is
+ * currently experiencing high demand") under load — especially when several
+ * requests go out at once, as the MarketMind agents do. Retrying a couple of
+ * times turns most of those into successes instead of surfacing an error to the
+ * user. `Retry-After` is honoured when the provider sends it.
+ */
+async function post(
+  url: string,
+  headers: Record<string, string>,
+  body: unknown,
+  signal?: AbortSignal,
+  onRetry?: () => void,
+) {
+  let res = await postOnce(url, headers, body, signal);
+  for (let attempt = 1; attempt < MAX_ATTEMPTS; attempt++) {
+    if (res.ok || !RETRY_STATUS.has(res.status)) return res;
+    const retryAfter = Number(res.headers?.get?.("retry-after"));
+    const backoff =
+      Number.isFinite(retryAfter) && retryAfter > 0
+        ? Math.min(retryAfter * 1000, 15_000)
+        : 700 * 2 ** (attempt - 1) + Math.random() * 500;
+    onRetry?.();
+    await sleep(backoff, signal);
+    res = await postOnce(url, headers, body, signal);
+  }
+  return res;
 }
 
 async function errorDetail(res: Response): Promise<string> {
@@ -302,12 +374,25 @@ async function callGemini(
       },
     },
     signal,
+    opts?.onRetry,
   );
   if (!res.ok) throw friendlyHttpError(res.status, await errorDetail(res), config);
   const data = (await res.json()) as {
-    candidates?: { content?: { parts?: { text?: string }[] } }[];
+    candidates?: { content?: { parts?: { text?: string }[] }; finishReason?: string }[];
   };
-  return data.candidates?.[0]?.content?.parts?.map((p) => p.text ?? "").join("") ?? "";
+  const candidate = data.candidates?.[0];
+  const text = candidate?.content?.parts?.map((p) => p.text ?? "").join("") ?? "";
+  // A MAX_TOKENS finish means the JSON is cut mid-object and will not parse.
+  // Say so plainly instead of the generic "returned no JSON".
+  if (candidate?.finishReason === "MAX_TOKENS") {
+    throw new AiError(
+      "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit.",
+    );
+  }
+  if (candidate?.finishReason === "SAFETY" || candidate?.finishReason === "RECITATION") {
+    throw new AiError(`The model stopped early (${candidate.finishReason}).`);
+  }
+  return text;
 }
 
 async function callOpenAi(
@@ -333,20 +418,32 @@ async function callOpenAi(
 
   // Try JSON mode first; some compatible providers reject response_format,
   // so retry once without it on a 400.
-  let res = await post(url, headers, { ...bodyBase, response_format: { type: "json_object" } }, signal);
+  let res = await post(
+    url,
+    headers,
+    { ...bodyBase, response_format: { type: "json_object" } },
+    signal,
+    opts?.onRetry,
+  );
   if (res.status === 400) {
     const detail = await errorDetail(res);
     if (/response_format|json_object/i.test(detail)) {
-      res = await post(url, headers, bodyBase, signal);
+      res = await post(url, headers, bodyBase, signal, opts?.onRetry);
     } else {
       throw friendlyHttpError(400, detail, config);
     }
   }
   if (!res.ok) throw friendlyHttpError(res.status, await errorDetail(res), config);
   const data = (await res.json()) as {
-    choices?: { message?: { content?: string } }[];
+    choices?: { message?: { content?: string }; finish_reason?: string }[];
   };
-  return data.choices?.[0]?.message?.content ?? "";
+  const choice = data.choices?.[0];
+  if (choice?.finish_reason === "length") {
+    throw new AiError(
+      "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit.",
+    );
+  }
+  return choice?.message?.content ?? "";
 }
 
 async function callModel(

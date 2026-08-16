@@ -129,6 +129,8 @@ export interface MarketMindSynthesis {
 export type StopReason = "complete" | "converged" | "budget" | "aborted" | "error";
 
 export interface CallBudgetSnapshot {
+  /** Transient provider failures that were retried (not billed as new steps). */
+  retries: number;
   serenityCalls: number;
   agentCalls: number;
   synthesisCalls: number;

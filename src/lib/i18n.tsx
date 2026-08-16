@@ -84,6 +84,7 @@ const DICT: Record<string, Entry> = {
   "mm.triggers": { en: "Would act on", zh: "触发条件" },
   "mm.risks": { en: "Would be wrong if", zh: "证伪条件" },
   "mm.degraded": { en: "no response", zh: "无响应" },
+  "mm.retries": { en: "retried {n}×", zh: "重试 {n} 次" },
   "mm.converged": {
     en: "Participants converged after round 1, so round 2 was skipped to save calls.",
     zh: "参与者在第一轮后已高度一致，因此跳过第二轮以节省调用。",
