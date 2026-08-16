@@ -210,6 +210,9 @@ export function MarketMindReportView({ report }: { report: Report }) {
             {report.budget.totalCalls} {t("mm.calls")}
           </Badge>
           <span className="break-all">{report.provider.model}</span>
+          {report.budget.retries > 0 && (
+            <Badge variant="warning">{t("mm.retries", { n: report.budget.retries })}</Badge>
+          )}
           {report.stoppedEarly === "converged" && (
             <Badge variant="accent">{t("mm.converged")}</Badge>
           )}
