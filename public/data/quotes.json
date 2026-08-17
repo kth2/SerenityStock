@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:09:09.253Z",
+  "updatedAt": "2026-08-17T07:32:17.018Z",
   "quotes": {
     "LITE": {
       "price": 926.14,
@@ -22,18 +22,18 @@
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "GOOGL": {
-      "price": 345.9,
-      "changePct": -0.13,
-      "currency": "USD",
-      "asOf": "2026-08-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
     "NVDA": {
       "price": 225.16,
       "changePct": -0.06,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "GOOGL": {
+      "price": 345.9,
+      "changePct": -0.13,
+      "currency": "USD",
+      "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "NBIS": {
@@ -46,6 +46,13 @@
     "META": {
       "price": 589.85,
       "changePct": -0.86,
+      "currency": "USD",
+      "asOf": "2026-08-14T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "MU": {
+      "price": 971.66,
+      "changePct": 2.3,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
@@ -64,9 +71,9 @@
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "MU": {
-      "price": 971.66,
-      "changePct": 2.3,
+    "AXTI": {
+      "price": 81.64,
+      "changePct": 5.41,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
@@ -99,13 +106,6 @@
       "asOf": "2026-08-14T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "AXTI": {
-      "price": 81.64,
-      "changePct": 5.41,
-      "currency": "USD",
-      "asOf": "2026-08-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
     "CCXI": {
       "price": 17.07,
       "changePct": 5.44,
@@ -132,6 +132,13 @@
       "changePct": 3.05,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "TSLA": {
+      "price": 342.27,
+      "changePct": 0.68,
+      "currency": "USD",
+      "asOf": "2026-08-14T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "CRWV": {
@@ -335,13 +342,6 @@
       "changePct": 0.09,
       "currency": "USD",
       "asOf": "2026-08-14T20:00:03.000Z",
-      "source": "Yahoo Finance"
-    },
-    "TSLA": {
-      "price": 342.27,
-      "changePct": 0.68,
-      "currency": "USD",
-      "asOf": "2026-08-14T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "WYFI": {
