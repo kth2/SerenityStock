@@ -1,14 +1,65 @@
 {
-  "updatedAt": "2026-08-17T07:32:10.117Z",
+  "updatedAt": "2026-08-18T07:13:59.980Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 107,
-  "totalMentions": 184,
+  "totalTweets": 111,
+  "totalMentions": 187,
   "mentions": [
+    {
+      "tweetId": "2089264987328151637",
+      "ticker": "MU",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-08-17T08:16:04.302Z",
+      "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2089264987328151637",
+      "ticker": "SKHY",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-08-17T08:16:04.302Z",
+      "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2089264987328151637",
+      "ticker": "SNDK",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-08-17T08:16:04.302Z",
+      "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2089183484556480536",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-08-17 10:52 I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs. If you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -&gt; Legacy DRAM: My thesis is we'll see the same thing here maybe late H2, $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-17 10:52 I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs. If you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -&gt; Legacy DRAM: My thesis is we'll see the same thing here maybe late H2, $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-08-17T02:52:12.527Z",
       "url": "https://x.com/aleabitoreddit/status/2089183484556480536",
       "stats": {
@@ -25,7 +76,7 @@
     {
       "tweetId": "2089165155741622679",
       "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-08-17 09:39 \"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. Suppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). - Industry sources revealed that InP substrate prices began rising in Q4 last year and was the https://t.co/ivU6zK4qUR $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $81.64 $4.19 (+5.41%) Since mention (2026-06-07): -8.31% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-17 09:39 \"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. Suppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). - Industry sources revealed that InP substrate prices began rising in Q4 last year and was the https://t.co/ivU6zK4qUR $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $95.97 $14.33 (+17.55%) Since mention (2026-06-07): +7.78% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Open on X",
       "createdAt": "2026-08-17T01:39:22.597Z",
       "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
       "stats": {
@@ -42,7 +93,7 @@
     {
       "tweetId": "2089057857652338993",
       "ticker": "TSLA",
-      "text": "$TSLA $TSLA TSLA $342.27 $2.31 (+0.68%) Open on X",
+      "text": "$TSLA $TSLA TSLA $339.30 -$2.97 (-0.87%) Open on X",
       "createdAt": "2026-08-16T18:33:00.739Z",
       "url": "https://x.com/aleabitoreddit/status/2089057857652338993",
       "stats": {
@@ -59,7 +110,7 @@
     {
       "tweetId": "2088947694886920409",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-16 19:15 I feel like AI investing is simpler than what people expect. Because $NVDA + Jensen literally tells everyone what's coming. But somehow. Almost every. single. time. Markets dismiss it until it actually happens? Be Nvidia in 2025: Buys up EML and laser capacity. Markets $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.16 -$0.14 (-0.06%) Since mention (2026-06-05): +9.78% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-16 19:15 I feel like AI investing is simpler than what people expect. Because $NVDA + Jensen literally tells everyone what's coming. But somehow. Almost every. single. time. Markets dismiss it until it actually happens? Be Nvidia in 2025: Buys up EML and laser capacity. Markets $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.01 -$0.15 (-0.07%) Since mention (2026-06-05): +9.71% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-08-16T11:15:15.889Z",
       "url": "https://x.com/aleabitoreddit/status/2088947694886920409",
       "stats": {
@@ -76,7 +127,7 @@
     {
       "tweetId": "2088850910529323315",
       "ticker": "SNDK",
-      "text": "Serenity @aleabitoreddit 2026-08-16 12:50 Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently $SNDK $SNDK NASDAQ SanDisk Storage $1,641.11 $113.00 (+7.39%) Since mention (2026-06-10): -0.13% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-16 12:50 Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-16T04:50:40.700Z",
       "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
       "stats": {
@@ -93,7 +144,7 @@
     {
       "tweetId": "2088457278928412812",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.93 $0.67 (+0.22%) $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $166.33 $0.66 (+0.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.59 -$0.34 (-0.11%) $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) Open on X",
       "createdAt": "2026-08-15T02:46:31.613Z",
       "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
       "stats": {
@@ -110,7 +161,7 @@
     {
       "tweetId": "2088457278928412812",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.93 $0.67 (+0.22%) $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $166.33 $0.66 (+0.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.59 -$0.34 (-0.11%) $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) Open on X",
       "createdAt": "2026-08-15T02:46:31.613Z",
       "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
       "stats": {
@@ -127,7 +178,7 @@
     {
       "tweetId": "2088457278928412812",
       "ticker": "AAPL",
-      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.93 $0.67 (+0.22%) $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $166.33 $0.66 (+0.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-15 10:46 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme https://t.co/9PbgjngIjS $AAPL $AAPL AAPL $305.59 -$0.34 (-0.11%) $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $171.38 $5.05 (+3.04%) Open on X",
       "createdAt": "2026-08-15T02:46:31.613Z",
       "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
       "stats": {
@@ -144,7 +195,7 @@
     {
       "tweetId": "2088226398708338889",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,641.11 $113.00 (+7.39%) Since mention (2026-06-10): -0.13% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-14T11:29:05.479Z",
       "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
       "stats": {
@@ -161,7 +212,7 @@
     {
       "tweetId": "2088226398708338889",
       "ticker": "SNDK",
-      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,641.11 $113.00 (+7.39%) Since mention (2026-06-10): -0.13% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-14T11:29:05.479Z",
       "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
       "stats": {
@@ -178,7 +229,7 @@
     {
       "tweetId": "2088226398708338889",
       "ticker": "SHKY",
-      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $971.66 $21.83 (+2.30%) Since mention (2026-06-05): +12.46% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,641.11 $113.00 (+7.39%) Since mention (2026-06-10): -0.13% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-14 19:29 The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D $MU $MU NASDAQ Micron Technology Memory $1,011.75 $40.09 (+4.13%) Since mention (2026-06-05): +17.10% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SHKY $SHKY SHKY Quote unavailable $SNDK $SNDK NASDAQ SanDisk Storage $1,786.85 $145.74 (+8.88%) Since mention (2026-06-10): +8.74% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-14T11:29:05.479Z",
       "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
       "stats": {
@@ -195,7 +246,7 @@
     {
       "tweetId": "2088181416148562017",
       "ticker": "UMAC",
-      "text": "$ONDS $ONDS ONDS $9.24 $0.33 (+3.70%) $RCAT $RCAT RCAT $11.13 $0.90 (+8.80%) $UMAC $UMAC UMAC $34.06 $6.82 (+25.04%) Open on X",
+      "text": "$ONDS $ONDS ONDS $9.00 -$0.24 (-2.60%) $RCAT $RCAT RCAT $10.44 -$0.69 (-6.20%) $UMAC $UMAC UMAC $30.15 -$3.91 (-11.48%) Open on X",
       "createdAt": "2026-08-14T08:30:20.801Z",
       "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
       "stats": {
@@ -212,7 +263,7 @@
     {
       "tweetId": "2088181416148562017",
       "ticker": "RCAT",
-      "text": "$ONDS $ONDS ONDS $9.24 $0.33 (+3.70%) $RCAT $RCAT RCAT $11.13 $0.90 (+8.80%) $UMAC $UMAC UMAC $34.06 $6.82 (+25.04%) Open on X",
+      "text": "$ONDS $ONDS ONDS $9.00 -$0.24 (-2.60%) $RCAT $RCAT RCAT $10.44 -$0.69 (-6.20%) $UMAC $UMAC UMAC $30.15 -$3.91 (-11.48%) Open on X",
       "createdAt": "2026-08-14T08:30:20.801Z",
       "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
       "stats": {
@@ -229,7 +280,7 @@
     {
       "tweetId": "2088181416148562017",
       "ticker": "ONDS",
-      "text": "$ONDS $ONDS ONDS $9.24 $0.33 (+3.70%) $RCAT $RCAT RCAT $11.13 $0.90 (+8.80%) $UMAC $UMAC UMAC $34.06 $6.82 (+25.04%) Open on X",
+      "text": "$ONDS $ONDS ONDS $9.00 -$0.24 (-2.60%) $RCAT $RCAT RCAT $10.44 -$0.69 (-6.20%) $UMAC $UMAC UMAC $30.15 -$3.91 (-11.48%) Open on X",
       "createdAt": "2026-08-14T08:30:20.801Z",
       "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
       "stats": {
@@ -246,7 +297,7 @@
     {
       "tweetId": "2087902683474891106",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $490.81 -$3.70 (-0.75%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.16 -$0.14 (-0.06%) Since mention (2026-06-05): +9.78% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $39.84 $0.68 (+1.74%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $479.81 -$11.00 (-2.24%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.01 -$0.15 (-0.07%) Since mention (2026-06-05): +9.71% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $38.28 -$1.56 (-3.92%) Open on X",
       "createdAt": "2026-08-13T14:02:45.753Z",
       "url": "https://x.com/aleabitoreddit/status/2087902683474891106",
       "stats": {
@@ -263,7 +314,7 @@
     {
       "tweetId": "2087902683474891106",
       "ticker": "DELL",
-      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $490.81 -$3.70 (-0.75%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.16 -$0.14 (-0.06%) Since mention (2026-06-05): +9.78% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $39.84 $0.68 (+1.74%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $479.81 -$11.00 (-2.24%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.01 -$0.15 (-0.07%) Since mention (2026-06-05): +9.71% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $38.28 -$1.56 (-3.92%) Open on X",
       "createdAt": "2026-08-13T14:02:45.753Z",
       "url": "https://x.com/aleabitoreddit/status/2087902683474891106",
       "stats": {
@@ -280,7 +331,7 @@
     {
       "tweetId": "2087902683474891106",
       "ticker": "SMCI",
-      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $490.81 -$3.70 (-0.75%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.16 -$0.14 (-0.06%) Since mention (2026-06-05): +9.78% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $39.84 $0.68 (+1.74%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 22:02 In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc $DELL $DELL DELL $479.81 -$11.00 (-2.24%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.01 -$0.15 (-0.07%) Since mention (2026-06-05): +9.71% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SMCI $SMCI SMCI $38.28 -$1.56 (-3.92%) Open on X",
       "createdAt": "2026-08-13T14:02:45.753Z",
       "url": "https://x.com/aleabitoreddit/status/2087902683474891106",
       "stats": {
@@ -297,7 +348,7 @@
     {
       "tweetId": "2087867722784805170",
       "ticker": "ORCL",
-      "text": "$ORCL $ORCL ORCL $150.52 -$5.70 (-3.65%) Open on X",
+      "text": "$ORCL $ORCL ORCL $146.65 -$3.87 (-2.57%) Open on X",
       "createdAt": "2026-08-13T11:43:50.475Z",
       "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
       "stats": {
@@ -314,7 +365,7 @@
     {
       "tweetId": "2087846074027295020",
       "ticker": "POET",
-      "text": "$POET $POET POET $9.58 $0.67 (+7.52%) Open on X",
+      "text": "$POET $POET POET $9.40 -$0.18 (-1.88%) Open on X",
       "createdAt": "2026-08-13T10:17:49.009Z",
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "stats": {
@@ -331,7 +382,7 @@
     {
       "tweetId": "2087838176677376186",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $81.64 $4.19 (+5.41%) Since mention (2026-06-07): -8.31% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £48.45 £2.00 (+4.31%) Since mention (2026-06-07): +7.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $95.97 $14.33 (+17.55%) Since mention (2026-06-07): +7.78% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £50.70 £4.10 (+8.80%) Since mention (2026-06-07): +12.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-08-13T09:46:26.134Z",
       "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "stats": {
@@ -348,7 +399,7 @@
     {
       "tweetId": "2087838176677376186",
       "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $81.64 $4.19 (+5.41%) Since mention (2026-06-07): -8.31% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £48.45 £2.00 (+4.31%) Since mention (2026-06-07): +7.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $95.97 $14.33 (+17.55%) Since mention (2026-06-07): +7.78% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £50.70 £4.10 (+8.80%) Since mention (2026-06-07): +12.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-08-13T09:46:26.134Z",
       "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "stats": {
@@ -365,7 +416,7 @@
     {
       "tweetId": "2087838176677376186",
       "ticker": "IQE",
-      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $81.64 $4.19 (+5.41%) Since mention (2026-06-07): -8.31% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £48.45 £2.00 (+4.31%) Since mention (2026-06-07): +7.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-13 17:46 Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and https://t.co/D10vOH7Fsf $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $95.97 $14.33 (+17.55%) Since mention (2026-06-07): +7.78% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £50.70 £4.10 (+8.80%) Since mention (2026-06-07): +12.67% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-08-13T09:46:26.134Z",
       "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "stats": {
@@ -382,7 +433,7 @@
     {
       "tweetId": "2087807614172488131",
       "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 42.04 SEK 0.44 (+1.06%) Since mention (2026-06-04): -51.54% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 38.34 -SEK 4.18 (-9.83%) Since mention (2026-06-04): -55.80% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-08-13T07:44:59.465Z",
       "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
       "stats": {
@@ -399,7 +450,7 @@
     {
       "tweetId": "2087675367595380783",
       "ticker": "COHR",
-      "text": "$COHR $COHR COHR $325.83 -$1.40 (-0.43%) Open on X",
+      "text": "$COHR $COHR COHR $351.22 $25.39 (+7.79%) Open on X",
       "createdAt": "2026-08-12T22:59:29.424Z",
       "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
       "stats": {
@@ -416,7 +467,7 @@
     {
       "tweetId": "2087515371750490383",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-08-12 20:23 $NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. Reiterates financial guide (2026 revenue: $3.0–$3.4B 2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive https://t.co/A1N9YzfRNE $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $277.68 $22.64 (+8.88%) Since mention (2026-06-07): +21.89% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-12 20:23 $NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. Reiterates financial guide (2026 revenue: $3.0–$3.4B 2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive https://t.co/A1N9YzfRNE $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $268.85 -$8.83 (-3.18%) Since mention (2026-06-07): +18.02% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-08-12T12:23:43.442Z",
       "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
       "stats": {
@@ -433,7 +484,7 @@
     {
       "tweetId": "2087505570941239683",
       "ticker": "AEHR",
-      "text": "Serenity @aleabitoreddit 2026-08-12 19:44 $AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news. https://t.co/YkOtELzkmo $AEHR $AEHR NASDAQ Aehr Test Systems Semiconductor test $134.06 $10.76 (+8.73%) Burn-in and test equipment company tied to silicon carbide and broader chip test demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-12 19:44 $AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news. https://t.co/YkOtELzkmo $AEHR $AEHR NASDAQ Aehr Test Systems Semiconductor test $145.61 $11.55 (+8.62%) Burn-in and test equipment company tied to silicon carbide and broader chip test demand. Open on X",
       "createdAt": "2026-08-12T11:44:46.747Z",
       "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
       "stats": {
@@ -450,7 +501,7 @@
     {
       "tweetId": "2087447527595692180",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-08-12 15:54 So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 42.04 SEK 0.44 (+1.06%) Since mention (2026-06-04): -51.54% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-12 15:54 So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 38.34 -SEK 4.18 (-9.83%) Since mention (2026-06-04): -55.80% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-08-12T07:54:08.135Z",
       "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
       "stats": {
@@ -467,7 +518,7 @@
     {
       "tweetId": "2087447527595692180",
       "ticker": "SIVE",
-      "text": "Serenity @aleabitoreddit 2026-08-12 15:54 So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 42.04 SEK 0.44 (+1.06%) Since mention (2026-06-04): -51.54% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-12 15:54 So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 38.34 -SEK 4.18 (-9.83%) Since mention (2026-06-04): -55.80% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-08-12T07:54:08.135Z",
       "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
       "stats": {
@@ -484,7 +535,7 @@
     {
       "tweetId": "2087345398130282801",
       "ticker": "SMCI",
-      "text": "$SMCI $SMCI SMCI $39.84 $0.68 (+1.74%) Open on X",
+      "text": "$SMCI $SMCI SMCI $38.28 -$1.56 (-3.92%) Open on X",
       "createdAt": "2026-08-12T01:08:18.573Z",
       "url": "https://x.com/aleabitoreddit/status/2087345398130282801",
       "stats": {
@@ -501,7 +552,7 @@
     {
       "tweetId": "2087329770879197549",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-08-12 08:06 $LITE earnings transcript TLDRs: - \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power laser chips in the second half of calendar 2027\" H2 2027 start of CPO scale up ramp confirmed from https://t.co/H2DOhjCrbQ $LITE $LITE NASDAQ Lumentum Optical components $926.14 $45.73 (+5.19%) Since mention (2026-06-09): +12.70% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-12 08:06 $LITE earnings transcript TLDRs: - \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power laser chips in the second half of calendar 2027\" H2 2027 start of CPO scale up ramp confirmed from https://t.co/H2DOhjCrbQ $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-08-12T00:06:12.746Z",
       "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
       "stats": {
@@ -3355,12 +3406,12 @@
       "avgSentiment": 0.222,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 61.7,
+      "signalScore": 59.7,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 10.5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.1,
         "engagement": 0,
         "conviction": 3.1,
@@ -3520,6 +3571,114 @@
       ]
     },
     {
+      "ticker": "MU",
+      "count": 7,
+      "firstSeen": "2026-07-31T07:14:23.409Z",
+      "lastSeen": "2026-08-17T08:16:04.302Z",
+      "avgSentiment": 0.524,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 54.5,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 3.1,
+        "engagement": 0,
+        "conviction": 2.5,
+        "themeFit": 15,
+        "catalyst": 6,
+        "risk": 3.6
+      },
+      "history": [
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-08-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-17",
+          "count": 2,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "count": 7,
+      "firstSeen": "2026-07-30T08:10:00.010Z",
+      "lastSeen": "2026-08-17T08:16:04.302Z",
+      "avgSentiment": 0.071,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 51.6,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 3.1,
+        "engagement": 0,
+        "conviction": 1.1,
+        "themeFit": 15,
+        "catalyst": 4.5,
+        "risk": 3.6
+      },
+      "history": [
+        {
+          "date": "2026-07-30",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": -1
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-16",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-17",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "NBIS",
       "count": 7,
       "firstSeen": "2026-07-18T01:51:00.000Z",
@@ -3628,109 +3787,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "count": 6,
-      "firstSeen": "2026-07-31T07:14:23.409Z",
-      "lastSeen": "2026-08-17T02:52:12.527Z",
-      "avgSentiment": 0.611,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 52.7,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.9,
-        "recency": 10,
-        "persistence": 3.1,
-        "engagement": 0,
-        "conviction": 2.3,
-        "themeFit": 15,
-        "catalyst": 5,
-        "risk": 3.6
-      },
-      "history": [
-        {
-          "date": "2026-07-31",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-04",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-08-14",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-15",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-17",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "count": 6,
-      "firstSeen": "2026-07-30T08:10:00.010Z",
-      "lastSeen": "2026-08-16T04:50:40.700Z",
-      "avgSentiment": 0.083,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 49.8,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.9,
-        "recency": 10,
-        "persistence": 3.1,
-        "engagement": 0,
-        "conviction": 0.9,
-        "themeFit": 15,
-        "catalyst": 3.5,
-        "risk": 3.6
-      },
-      "history": [
-        {
-          "date": "2026-07-30",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-31",
-          "count": 1,
-          "avgSentiment": -1
-        },
-        {
-          "date": "2026-08-04",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-14",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-16",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "AMZN",
       "count": 6,
       "firstSeen": "2026-07-31T07:14:23.409Z",
@@ -3738,12 +3794,12 @@
       "avgSentiment": 0.25,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 60.3,
+      "signalScore": 58.3,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 8.9,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3,
         "engagement": 0,
         "conviction": 0.9,
@@ -3956,6 +4012,50 @@
       ]
     },
     {
+      "ticker": "SKHY",
+      "count": 4,
+      "firstSeen": "2026-07-18T12:39:00.000Z",
+      "lastSeen": "2026-08-17T08:16:04.302Z",
+      "avgSentiment": 0.125,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 51.2,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 3.3,
+        "engagement": 0,
+        "conviction": 2,
+        "themeFit": 15,
+        "catalyst": 1.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-18",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-30",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-17",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "POET",
       "count": 4,
       "firstSeen": "2026-07-31T08:57:11.962Z",
@@ -4002,12 +4102,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 43.6,
+      "signalScore": 41.6,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 7.4,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3,
         "engagement": 0,
         "conviction": 0.6,
@@ -4035,45 +4135,6 @@
           "date": "2026-08-11",
           "count": 1,
           "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SKHY",
-      "count": 3,
-      "firstSeen": "2026-07-18T12:39:00.000Z",
-      "lastSeen": "2026-08-15T02:46:31.613Z",
-      "avgSentiment": 0.167,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 46.2,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 10,
-        "persistence": 3.3,
-        "engagement": 0,
-        "conviction": 1.9,
-        "themeFit": 12.3,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-18",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-30",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-15",
-          "count": 1,
-          "avgSentiment": 0.5
         }
       ]
     },
@@ -4773,12 +4834,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 33,
+      "signalScore": 31,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -5352,7 +5413,7 @@
       "from": "2026-08-11",
       "to": "2026-08-17"
     },
-    "totalMentions": 40,
+    "totalMentions": 43,
     "topTickers": [
       {
         "ticker": "LITE",
@@ -5360,6 +5421,10 @@
       },
       {
         "ticker": "MU",
+        "count": 4
+      },
+      {
+        "ticker": "SNDK",
         "count": 3
       },
       {
@@ -5369,10 +5434,6 @@
       {
         "ticker": "SMCI",
         "count": 3
-      },
-      {
-        "ticker": "AXTI",
-        "count": 2
       }
     ],
     "newTickers": [
