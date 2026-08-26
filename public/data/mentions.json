@@ -1,14 +1,65 @@
 {
-  "updatedAt": "2026-08-25T07:25:03.126Z",
+  "updatedAt": "2026-08-26T07:25:23.578Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 134,
-  "totalMentions": 223,
+  "totalTweets": 136,
+  "totalMentions": 226,
   "mentions": [
+    {
+      "tweetId": "2092408620277457255",
+      "ticker": "SMTC",
+      "text": "$SMTC $SMTC SMTC $127.52 -$7.71 (-5.70%) Open on X",
+      "createdAt": "2026-08-26T00:27:44.803Z",
+      "url": "https://x.com/aleabitoreddit/status/2092408620277457255",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2092186856792506435",
+      "ticker": "AAOI",
+      "text": "Serenity @aleabitoreddit 2026-08-25 17:46 Lot of people were wondering about $SIVE earnings in 2 days. What I'm watching out for: 1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. -&gt; $AAOI stated multiple customers approaching them for CPO lasers (but had to turn them away) -&gt; $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 36.30 SEK 1.18 (+3.36%) Since mention (2026-06-04): -58.16% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-08-25T09:46:32.268Z",
+      "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2092186856792506435",
+      "ticker": "SIVE",
+      "text": "Serenity @aleabitoreddit 2026-08-25 17:46 Lot of people were wondering about $SIVE earnings in 2 days. What I'm watching out for: 1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. -&gt; $AAOI stated multiple customers approaching them for CPO lasers (but had to turn them away) -&gt; $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 36.30 SEK 1.18 (+3.36%) Since mention (2026-06-04): -58.16% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-08-25T09:46:32.268Z",
+      "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2091955482613486028",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $204.02 $2.57 (+1.28%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $410.12 -$8.83 (-2.11%) Since mention (2026-06-05): -1.22% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $217.45 $8.44 (+4.04%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $417.41 $4.00 (+0.97%) Since mention (2026-06-05): +0.54% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-08-24T18:27:08.365Z",
       "url": "https://x.com/aleabitoreddit/status/2091955482613486028",
       "stats": {
@@ -25,7 +76,7 @@
     {
       "tweetId": "2091955482613486028",
       "ticker": "TSM",
-      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $204.02 $2.57 (+1.28%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $410.12 -$8.83 (-2.11%) Since mention (2026-06-05): -1.22% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $217.45 $8.44 (+4.04%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $417.41 $4.00 (+0.97%) Since mention (2026-06-05): +0.54% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-08-24T18:27:08.365Z",
       "url": "https://x.com/aleabitoreddit/status/2091955482613486028",
       "stats": {
@@ -42,7 +93,7 @@
     {
       "tweetId": "2091955482613486028",
       "ticker": "BE",
-      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $204.02 $2.57 (+1.28%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $410.12 -$8.83 (-2.11%) Since mention (2026-06-05): -1.22% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-25 02:27 I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... But you know what else is cool? FAU bottlenecks for CPO. I remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... This was some https://t.co/yUbRRX1joz $BE $BE BE $217.45 $8.44 (+4.04%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $417.41 $4.00 (+0.97%) Since mention (2026-06-05): +0.54% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-08-24T18:27:08.365Z",
       "url": "https://x.com/aleabitoreddit/status/2091955482613486028",
       "stats": {
@@ -59,7 +110,7 @@
     {
       "tweetId": "2091909391238979970",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-08-24 23:23 $NVDA, following their $20B deal... Announces Groq3 LPX now in full production. With $NBIS the first to adopt through Nebius token factory. - 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context - 4x faster responsiveness than the nearest https://t.co/UKhqW5HphA $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $210.91 -$8.22 (-3.75%) Since mention (2026-06-07): -7.42% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 23:23 $NVDA, following their $20B deal... Announces Groq3 LPX now in full production. With $NBIS the first to adopt through Nebius token factory. - 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context - 4x faster responsiveness than the nearest https://t.co/UKhqW5HphA $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $221.97 -$26.46 (-10.65%) Since mention (2026-06-07): -2.56% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-08-24T15:23:59.325Z",
       "url": "https://x.com/aleabitoreddit/status/2091909391238979970",
       "stats": {
@@ -76,7 +127,7 @@
     {
       "tweetId": "2091909391238979970",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-24 23:23 $NVDA, following their $20B deal... Announces Groq3 LPX now in full production. With $NBIS the first to adopt through Nebius token factory. - 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context - 4x faster responsiveness than the nearest https://t.co/UKhqW5HphA $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $210.91 -$8.22 (-3.75%) Since mention (2026-06-07): -7.42% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 23:23 $NVDA, following their $20B deal... Announces Groq3 LPX now in full production. With $NBIS the first to adopt through Nebius token factory. - 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context - 4x faster responsiveness than the nearest https://t.co/UKhqW5HphA $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $221.97 -$26.46 (-10.65%) Since mention (2026-06-07): -2.56% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-08-24T15:23:59.325Z",
       "url": "https://x.com/aleabitoreddit/status/2091909391238979970",
       "stats": {
@@ -93,7 +144,7 @@
     {
       "tweetId": "2091851831718879660",
       "ticker": "AMZN",
-      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.15 -$1.04 (-8.53%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.60 -$0.14 (-1.19%) Open on X",
       "createdAt": "2026-08-24T11:35:16.066Z",
       "url": "https://x.com/aleabitoreddit/status/2091851831718879660",
       "stats": {
@@ -110,7 +161,7 @@
     {
       "tweetId": "2091851831718879660",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.15 -$1.04 (-8.53%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.60 -$0.14 (-1.19%) Open on X",
       "createdAt": "2026-08-24T11:35:16.066Z",
       "url": "https://x.com/aleabitoreddit/status/2091851831718879660",
       "stats": {
@@ -127,7 +178,7 @@
     {
       "tweetId": "2091851831718879660",
       "ticker": "XPEV",
-      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.15 -$1.04 (-8.53%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 19:35 $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations. This is following’s Unitree IPO, which now has a ~$35-$36B MC. Then there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization https://t.co/VNjl9DTcgg $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $XPEV $XPEV XPEV $11.60 -$0.14 (-1.19%) Open on X",
       "createdAt": "2026-08-24T11:35:16.066Z",
       "url": "https://x.com/aleabitoreddit/status/2091851831718879660",
       "stats": {
@@ -144,7 +195,7 @@
     {
       "tweetId": "2091843192639672553",
       "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2026-08-24 19:00 Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). What I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $IREN $IREN IREN $39.81 -$2.07 (-4.94%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 19:00 Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). What I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $IREN $IREN IREN $42.21 $0.21 (+0.50%) Open on X",
       "createdAt": "2026-08-24T11:00:56.349Z",
       "url": "https://x.com/aleabitoreddit/status/2091843192639672553",
       "stats": {
@@ -161,7 +212,7 @@
     {
       "tweetId": "2091843192639672553",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-08-24 19:00 Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). What I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $IREN $IREN IREN $39.81 -$2.07 (-4.94%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-24 19:00 Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). What I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $IREN $IREN IREN $42.21 $0.21 (+0.50%) Open on X",
       "createdAt": "2026-08-24T11:00:56.349Z",
       "url": "https://x.com/aleabitoreddit/status/2091843192639672553",
       "stats": {
@@ -178,7 +229,7 @@
     {
       "tweetId": "2091612406900564407",
       "ticker": "GOOGL",
-      "text": "$GOOGL $GOOGL GOOGL $348.06 $3.24 (+0.94%) Open on X",
+      "text": "$GOOGL $GOOGL GOOGL $346.96 $2.76 (+0.80%) Open on X",
       "createdAt": "2026-08-23T19:43:52.741Z",
       "url": "https://x.com/aleabitoreddit/status/2091612406900564407",
       "stats": {
@@ -195,7 +246,7 @@
     {
       "tweetId": "2091488091110531106",
       "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $456.75 -$16.51 (-3.49%) Since mention (2026-06-07): -2.07% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $65.40 -$5.34 (-7.55%) Since mention (2026-06-07): -26.55% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $210.91 -$8.22 (-3.75%) Since mention (2026-06-07): -7.42% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $479.18 -$5.21 (-1.08%) Since mention (2026-06-07): +2.74% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $67.45 -$14.86 (-18.05%) Since mention (2026-06-07): -24.25% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $221.97 -$26.46 (-10.65%) Since mention (2026-06-07): -2.56% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-08-23T11:29:53.547Z",
       "url": "https://x.com/aleabitoreddit/status/2091488091110531106",
       "stats": {
@@ -212,7 +263,7 @@
     {
       "tweetId": "2091488091110531106",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $456.75 -$16.51 (-3.49%) Since mention (2026-06-07): -2.07% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $65.40 -$5.34 (-7.55%) Since mention (2026-06-07): -26.55% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $210.91 -$8.22 (-3.75%) Since mention (2026-06-07): -7.42% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $479.18 -$5.21 (-1.08%) Since mention (2026-06-07): +2.74% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $67.45 -$14.86 (-18.05%) Since mention (2026-06-07): -24.25% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $221.97 -$26.46 (-10.65%) Since mention (2026-06-07): -2.56% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-08-23T11:29:53.547Z",
       "url": "https://x.com/aleabitoreddit/status/2091488091110531106",
       "stats": {
@@ -229,7 +280,7 @@
     {
       "tweetId": "2091488091110531106",
       "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $456.75 -$16.51 (-3.49%) Since mention (2026-06-07): -2.07% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $65.40 -$5.34 (-7.55%) Since mention (2026-06-07): -26.55% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $210.91 -$8.22 (-3.75%) Since mention (2026-06-07): -7.42% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-23 19:29 Having a mid-X identity crisis rn: ✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone ✓ we got $AMD bandanas ✓ #1 most subscribed person on X by accident ✓ Chinese “White Hair” nicknames ✓ 1M followers Still here to track ideas, but what’s the next side quest? $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $479.18 -$5.21 (-1.08%) Since mention (2026-06-07): +2.74% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $67.45 -$14.86 (-18.05%) Since mention (2026-06-07): -24.25% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $221.97 -$26.46 (-10.65%) Since mention (2026-06-07): -2.56% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-08-23T11:29:53.547Z",
       "url": "https://x.com/aleabitoreddit/status/2091488091110531106",
       "stats": {
@@ -246,7 +297,7 @@
     {
       "tweetId": "2091264273007960320",
       "ticker": "MRVL",
-      "text": "Serenity @aleabitoreddit 2026-08-23 04:40 Apparently, $RDDT thinks $MRVL had two major catalysts recently: The $12.2B Google TPU ecosystem agreement. And… Spider-Man: “Brand New Day” https://t.co/qmUvJqjcpo $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $229.29 -$7.75 (-3.27%) Since mention (2026-06-06): -12.97% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $RDDT $RDDT NYSE Reddit Social media $152.70 -$11.80 (-7.17%) Since mention (2026-06-04): -16.97% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-23 04:40 Apparently, $RDDT thinks $MRVL had two major catalysts recently: The $12.2B Google TPU ecosystem agreement. And… Spider-Man: “Brand New Day” https://t.co/qmUvJqjcpo $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $240.38 $24.38 (+11.29%) Since mention (2026-06-06): -8.76% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $RDDT $RDDT NYSE Reddit Social media $162.45 $4.20 (+2.65%) Since mention (2026-06-04): -11.67% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
       "createdAt": "2026-08-22T20:40:31.153Z",
       "url": "https://x.com/aleabitoreddit/status/2091264273007960320",
       "stats": {
@@ -263,7 +314,7 @@
     {
       "tweetId": "2091264273007960320",
       "ticker": "RDDT",
-      "text": "Serenity @aleabitoreddit 2026-08-23 04:40 Apparently, $RDDT thinks $MRVL had two major catalysts recently: The $12.2B Google TPU ecosystem agreement. And… Spider-Man: “Brand New Day” https://t.co/qmUvJqjcpo $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $229.29 -$7.75 (-3.27%) Since mention (2026-06-06): -12.97% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $RDDT $RDDT NYSE Reddit Social media $152.70 -$11.80 (-7.17%) Since mention (2026-06-04): -16.97% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-23 04:40 Apparently, $RDDT thinks $MRVL had two major catalysts recently: The $12.2B Google TPU ecosystem agreement. And… Spider-Man: “Brand New Day” https://t.co/qmUvJqjcpo $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $240.38 $24.38 (+11.29%) Since mention (2026-06-06): -8.76% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $RDDT $RDDT NYSE Reddit Social media $162.45 $4.20 (+2.65%) Since mention (2026-06-04): -11.67% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
       "createdAt": "2026-08-22T20:40:31.153Z",
       "url": "https://x.com/aleabitoreddit/status/2091264273007960320",
       "stats": {
@@ -280,7 +331,7 @@
     {
       "tweetId": "2091177173789069797",
       "ticker": "RKLB",
-      "text": "Serenity @aleabitoreddit 2026-08-22 22:54 It's been fun to read these US Gov fact sheets (few a week) recently. Earlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. And $RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030. https://t.co/JS0z1eDXlq $RKLB $RKLB NYSE Rocket Lab USA Space launch $68.28 -$13.80 (-16.81%) Since mention (2026-06-12): -37.97% Space launch and satellite components provider. $SPCX $SPCX SPCX $135.00 -$1.97 (-1.44%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-22 22:54 It's been fun to read these US Gov fact sheets (few a week) recently. Earlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. And $RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030. https://t.co/JS0z1eDXlq $RKLB $RKLB NYSE Rocket Lab USA Space launch $66.91 -$12.25 (-15.47%) Since mention (2026-06-12): -39.22% Space launch and satellite components provider. $SPCX $SPCX SPCX $137.95 -$5.39 (-3.76%) Open on X",
       "createdAt": "2026-08-22T14:54:25.081Z",
       "url": "https://x.com/aleabitoreddit/status/2091177173789069797",
       "stats": {
@@ -297,7 +348,7 @@
     {
       "tweetId": "2091177173789069797",
       "ticker": "SPCX",
-      "text": "Serenity @aleabitoreddit 2026-08-22 22:54 It's been fun to read these US Gov fact sheets (few a week) recently. Earlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. And $RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030. https://t.co/JS0z1eDXlq $RKLB $RKLB NYSE Rocket Lab USA Space launch $68.28 -$13.80 (-16.81%) Since mention (2026-06-12): -37.97% Space launch and satellite components provider. $SPCX $SPCX SPCX $135.00 -$1.97 (-1.44%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-22 22:54 It's been fun to read these US Gov fact sheets (few a week) recently. Earlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. And $RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030. https://t.co/JS0z1eDXlq $RKLB $RKLB NYSE Rocket Lab USA Space launch $66.91 -$12.25 (-15.47%) Since mention (2026-06-12): -39.22% Space launch and satellite components provider. $SPCX $SPCX SPCX $137.95 -$5.39 (-3.76%) Open on X",
       "createdAt": "2026-08-22T14:54:25.081Z",
       "url": "https://x.com/aleabitoreddit/status/2091177173789069797",
       "stats": {
@@ -314,7 +365,7 @@
     {
       "tweetId": "2090903631793127644",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-08-22 04:47 It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive. But the share structure/financing becomes increasingly shareholder unfriendly. Really, really, dislike ATMs and https://t.co/wjWylyXZVA $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-22 04:47 It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive. But the share structure/financing becomes increasingly shareholder unfriendly. Really, really, dislike ATMs and https://t.co/wjWylyXZVA $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
       "createdAt": "2026-08-21T20:47:27.587Z",
       "url": "https://x.com/aleabitoreddit/status/2090903631793127644",
       "stats": {
@@ -331,7 +382,7 @@
     {
       "tweetId": "2090735668532224224",
       "ticker": "SKHY",
-      "text": "$SKHY $SKHY SKHY $155.37 -$16.01 (-9.34%) Open on X",
+      "text": "$SKHY $SKHY SKHY $159.53 $3.91 (+2.51%) Open on X",
       "createdAt": "2026-08-21T09:40:02.025Z",
       "url": "https://x.com/aleabitoreddit/status/2090735668532224224",
       "stats": {
@@ -348,7 +399,7 @@
     {
       "tweetId": "2090510568474231045",
       "ticker": "SPCX",
-      "text": "$SPCX $SPCX SPCX $135.00 -$1.97 (-1.44%) Open on X",
+      "text": "$SPCX $SPCX SPCX $137.95 -$5.39 (-3.76%) Open on X",
       "createdAt": "2026-08-20T18:45:33.989Z",
       "url": "https://x.com/aleabitoreddit/status/2090510568474231045",
       "stats": {
@@ -365,7 +416,7 @@
     {
       "tweetId": "2090490101260591481",
       "ticker": "SIVE",
-      "text": "Serenity @aleabitoreddit 2026-08-21 01:24 Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in https://t.co/HHCQ0HwG3J $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 33.38 -SEK 2.98 (-8.20%) Since mention (2026-06-04): -61.52% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-21 01:24 Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in https://t.co/HHCQ0HwG3J $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 36.30 SEK 1.18 (+3.36%) Since mention (2026-06-04): -58.16% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-08-20T17:24:14.225Z",
       "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
       "stats": {
@@ -382,7 +433,7 @@
     {
       "tweetId": "2090490101260591481",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-08-21 01:24 Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in https://t.co/HHCQ0HwG3J $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 33.38 -SEK 2.98 (-8.20%) Since mention (2026-06-04): -61.52% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-21 01:24 Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in https://t.co/HHCQ0HwG3J $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 36.30 SEK 1.18 (+3.36%) Since mention (2026-06-04): -58.16% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-08-20T17:24:14.225Z",
       "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
       "stats": {
@@ -399,7 +450,7 @@
     {
       "tweetId": "2090374603264929981",
       "ticker": "MRNA",
-      "text": "$EWY $EWY EWY $173.64 -$11.46 (-6.19%) $MRNA $MRNA MRNA $138.89 $74.43 (+115.47%) Open on X",
+      "text": "$EWY $EWY EWY $180.15 $10.10 (+5.94%) $MRNA $MRNA MRNA $158.83 $95.87 (+152.27%) Open on X",
       "createdAt": "2026-08-20T09:45:17.357Z",
       "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
       "stats": {
@@ -416,7 +467,7 @@
     {
       "tweetId": "2090374603264929981",
       "ticker": "EWY",
-      "text": "$EWY $EWY EWY $173.64 -$11.46 (-6.19%) $MRNA $MRNA MRNA $138.89 $74.43 (+115.47%) Open on X",
+      "text": "$EWY $EWY EWY $180.15 $10.10 (+5.94%) $MRNA $MRNA MRNA $158.83 $95.87 (+152.27%) Open on X",
       "createdAt": "2026-08-20T09:45:17.357Z",
       "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
       "stats": {
@@ -433,7 +484,7 @@
     {
       "tweetId": "2090103899302826302",
       "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-08-19 23:49 $MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 https://t.co/ce4dL62MXV $GOOGL $GOOGL GOOGL $348.06 $3.24 (+0.94%) $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $229.29 -$7.75 (-3.27%) Since mention (2026-06-06): -12.97% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 23:49 $MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 https://t.co/ce4dL62MXV $GOOGL $GOOGL GOOGL $346.96 $2.76 (+0.80%) $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $240.38 $24.38 (+11.29%) Since mention (2026-06-06): -8.76% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
       "createdAt": "2026-08-19T15:49:36.503Z",
       "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
       "stats": {
@@ -450,7 +501,7 @@
     {
       "tweetId": "2090103899302826302",
       "ticker": "MRVL",
-      "text": "Serenity @aleabitoreddit 2026-08-19 23:49 $MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 https://t.co/ce4dL62MXV $GOOGL $GOOGL GOOGL $348.06 $3.24 (+0.94%) $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $229.29 -$7.75 (-3.27%) Since mention (2026-06-06): -12.97% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 23:49 $MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 https://t.co/ce4dL62MXV $GOOGL $GOOGL GOOGL $346.96 $2.76 (+0.80%) $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $240.38 $24.38 (+11.29%) Since mention (2026-06-06): -8.76% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
       "createdAt": "2026-08-19T15:49:36.503Z",
       "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
       "stats": {
@@ -467,7 +518,7 @@
     {
       "tweetId": "2089973586425766134",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $830.17 -$138.73 (-14.32%) Since mention (2026-06-09): +1.02% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $257.43 -$70.10 (-21.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $885.57 $12.26 (+1.40%) Since mention (2026-06-09): +7.76% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $266.27 -$26.61 (-9.09%) Open on X",
       "createdAt": "2026-08-19T07:11:47.492Z",
       "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
       "stats": {
@@ -484,7 +535,7 @@
     {
       "tweetId": "2089973586425766134",
       "ticker": "MTSI",
-      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $830.17 -$138.73 (-14.32%) Since mention (2026-06-09): +1.02% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $257.43 -$70.10 (-21.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $885.57 $12.26 (+1.40%) Since mention (2026-06-09): +7.76% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $266.27 -$26.61 (-9.09%) Open on X",
       "createdAt": "2026-08-19T07:11:47.492Z",
       "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
       "stats": {
@@ -501,7 +552,7 @@
     {
       "tweetId": "2089973586425766134",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $830.17 -$138.73 (-14.32%) Since mention (2026-06-09): +1.02% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $257.43 -$70.10 (-21.40%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 15:11 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to https://t.co/tl3Uh6ZBpD $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $885.57 $12.26 (+1.40%) Since mention (2026-06-09): +7.76% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MTSI $MTSI MTSI $266.27 -$26.61 (-9.09%) Open on X",
       "createdAt": "2026-08-19T07:11:47.492Z",
       "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
       "stats": {
@@ -518,7 +569,7 @@
     {
       "tweetId": "2089908198694351064",
       "ticker": "TSLA",
-      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $CCXI $CCXI CCXI $14.09 -$3.11 (-18.08%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $348.95 $9.65 (+2.84%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $CCXI $CCXI CCXI $14.45 -$1.20 (-7.67%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $350.25 $13.38 (+3.97%) Open on X",
       "createdAt": "2026-08-19T02:51:57.842Z",
       "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
       "stats": {
@@ -535,7 +586,7 @@
     {
       "tweetId": "2089908198694351064",
       "ticker": "CCXI",
-      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $CCXI $CCXI CCXI $14.09 -$3.11 (-18.08%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $348.95 $9.65 (+2.84%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $CCXI $CCXI CCXI $14.45 -$1.20 (-7.67%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $350.25 $13.38 (+3.97%) Open on X",
       "createdAt": "2026-08-19T02:51:57.842Z",
       "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
       "stats": {
@@ -552,7 +603,7 @@
     {
       "tweetId": "2089908198694351064",
       "ticker": "AMZN",
-      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $CCXI $CCXI CCXI $14.09 -$3.11 (-18.08%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $348.95 $9.65 (+2.84%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $CCXI $CCXI CCXI $14.45 -$1.20 (-7.67%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $350.25 $13.38 (+3.97%) Open on X",
       "createdAt": "2026-08-19T02:51:57.842Z",
       "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
       "stats": {
@@ -569,7 +620,7 @@
     {
       "tweetId": "2089908198694351064",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $262.07 $3.44 (+1.33%) $CCXI $CCXI CCXI $14.09 -$3.11 (-18.08%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $348.95 $9.65 (+2.84%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 10:51 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, https://t.co/hcK1MIDVkq 688836 688836 688836 Quote unavailable $AMZN $AMZN AMZN $261.06 $1.61 (+0.62%) $CCXI $CCXI CCXI $14.45 -$1.20 (-7.67%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $350.25 $13.38 (+3.97%) Open on X",
       "createdAt": "2026-08-19T02:51:57.842Z",
       "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
       "stats": {
@@ -586,7 +637,7 @@
     {
       "tweetId": "2089766053274661143",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-08-19 01:27 My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least https://t.co/4hGP1cbY1X $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 01:27 My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least https://t.co/4hGP1cbY1X $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-08-18T17:27:07.733Z",
       "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
       "stats": {
@@ -603,7 +654,7 @@
     {
       "tweetId": "2089766053274661143",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-08-19 01:27 My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least https://t.co/4hGP1cbY1X $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $107.63 -$17.19 (-13.77%) Since mention (2026-06-05): -39.19% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $208.48 -$6.24 (-2.91%) Since mention (2026-06-05): +1.65% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-19 01:27 My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least https://t.co/4hGP1cbY1X $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $113.15 -$18.26 (-13.90%) Since mention (2026-06-05): -36.07% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.05 -$6.69 (-3.04%) Since mention (2026-06-05): +3.88% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-08-18T17:27:07.733Z",
       "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
       "stats": {
@@ -620,7 +671,7 @@
     {
       "tweetId": "2089264987328151637",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $910.43 -$101.32 (-10.01%) Since mention (2026-06-05): +5.37% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $155.37 -$16.01 (-9.34%) $SNDK $SNDK NASDAQ SanDisk Storage $1,493.12 -$293.73 (-16.44%) Since mention (2026-06-10): -9.14% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $932.97 -$7.79 (-0.83%) Since mention (2026-06-05): +7.98% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $159.53 $3.91 (+2.51%) $SNDK $SNDK NASDAQ SanDisk Storage $1,480.77 -$145.01 (-8.92%) Since mention (2026-06-10): -9.89% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-17T08:16:04.302Z",
       "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
       "stats": {
@@ -637,7 +688,7 @@
     {
       "tweetId": "2089264987328151637",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $910.43 -$101.32 (-10.01%) Since mention (2026-06-05): +5.37% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $155.37 -$16.01 (-9.34%) $SNDK $SNDK NASDAQ SanDisk Storage $1,493.12 -$293.73 (-16.44%) Since mention (2026-06-10): -9.14% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $932.97 -$7.79 (-0.83%) Since mention (2026-06-05): +7.98% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $159.53 $3.91 (+2.51%) $SNDK $SNDK NASDAQ SanDisk Storage $1,480.77 -$145.01 (-8.92%) Since mention (2026-06-10): -9.89% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-17T08:16:04.302Z",
       "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
       "stats": {
@@ -654,7 +705,7 @@
     {
       "tweetId": "2089264987328151637",
       "ticker": "SNDK",
-      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $910.43 -$101.32 (-10.01%) Since mention (2026-06-05): +5.37% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $155.37 -$16.01 (-9.34%) $SNDK $SNDK NASDAQ SanDisk Storage $1,493.12 -$293.73 (-16.44%) Since mention (2026-06-10): -9.14% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-08-17 16:16 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual https://t.co/acklqWM6nl $MU $MU NASDAQ Micron Technology Memory $932.97 -$7.79 (-0.83%) Since mention (2026-06-05): +7.98% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $159.53 $3.91 (+2.51%) $SNDK $SNDK NASDAQ SanDisk Storage $1,480.77 -$145.01 (-8.92%) Since mention (2026-06-10): -9.89% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
       "createdAt": "2026-08-17T08:16:04.302Z",
       "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
       "stats": {
@@ -3800,21 +3851,21 @@
   "tickers": [
     {
       "ticker": "AAOI",
-      "count": 17,
+      "count": 18,
       "firstSeen": "2026-07-17T22:52:00.000Z",
-      "lastSeen": "2026-08-24T11:00:56.349Z",
-      "avgSentiment": 0.191,
+      "lastSeen": "2026-08-25T09:46:32.268Z",
+      "avgSentiment": 0.181,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 73.5,
+      "signalScore": 73.9,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 13.2,
+        "frequency": 13.5,
         "recency": 10,
         "persistence": 3.4,
         "engagement": 0,
-        "conviction": 11.1,
+        "conviction": 11.2,
         "themeFit": 15,
         "catalyst": 12,
         "risk": 3.2
@@ -3884,26 +3935,31 @@
           "date": "2026-08-24",
           "count": 1,
           "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-25",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
     {
       "ticker": "SIVE",
-      "count": 15,
+      "count": 16,
       "firstSeen": "2026-07-24T08:11:00.000Z",
-      "lastSeen": "2026-08-20T17:24:14.225Z",
-      "avgSentiment": 0.133,
+      "lastSeen": "2026-08-25T09:46:32.268Z",
+      "avgSentiment": 0.125,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 68.9,
+      "signalScore": 69.4,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 12.7,
+        "frequency": 13,
         "recency": 10,
         "persistence": 3.3,
         "engagement": 0,
-        "conviction": 4,
+        "conviction": 4.1,
         "themeFit": 15,
         "catalyst": 12,
         "risk": 0
@@ -3963,6 +4019,11 @@
           "date": "2026-08-20",
           "count": 1,
           "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-25",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -3974,12 +4035,12 @@
       "avgSentiment": 0.311,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 68.8,
+      "signalScore": 66.8,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
         "frequency": 12.7,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.1,
         "engagement": 0,
         "conviction": 4,
@@ -4736,12 +4797,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 45.1,
-      "signalBand": "mixed",
+      "signalScore": 43.1,
+      "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 8.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.2,
         "engagement": 0,
         "conviction": 0.8,
@@ -4873,12 +4934,12 @@
       "avgSentiment": 0.25,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 53.6,
+      "signalScore": 51.6,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 7.4,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.6,
         "engagement": 0,
         "conviction": 0.6,
@@ -4995,12 +5056,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 42.4,
+      "signalScore": 40.4,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 6.3,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.2,
         "engagement": 0,
         "conviction": 0.5,
@@ -5060,6 +5121,40 @@
         },
         {
           "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SMTC",
+      "count": 2,
+      "firstSeen": "2026-08-07T12:55:47.111Z",
+      "lastSeen": "2026-08-26T00:27:44.803Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 36.3,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.7,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 6.8,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-08-07",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-26",
           "count": 1,
           "avgSentiment": 0
         }
@@ -5937,35 +6032,6 @@
       ]
     },
     {
-      "ticker": "SMTC",
-      "count": 1,
-      "firstSeen": "2026-08-07T12:55:47.111Z",
-      "lastSeen": "2026-08-07T12:55:47.111Z",
-      "avgSentiment": 0.5,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 32,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 8,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 6.8,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-08-07",
-          "count": 1,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
       "ticker": "MXL",
       "count": 1,
       "firstSeen": "2026-08-07T12:55:47.111Z",
@@ -6089,12 +6155,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 34.6,
+      "signalScore": 31.6,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -6118,12 +6184,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 34.6,
+      "signalScore": 31.6,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -6286,36 +6352,35 @@
     }
   ],
   "digest": {
-    "date": "2026-08-24",
+    "date": "2026-08-26",
     "window": {
-      "from": "2026-08-18",
-      "to": "2026-08-24"
+      "from": "2026-08-20",
+      "to": "2026-08-26"
     },
-    "totalMentions": 36,
+    "totalMentions": 28,
     "topTickers": [
       {
-        "ticker": "NVDA",
-        "count": 5
+        "ticker": "AAOI",
+        "count": 4
       },
       {
-        "ticker": "AAOI",
-        "count": 5
+        "ticker": "NVDA",
+        "count": 3
+      },
+      {
+        "ticker": "SIVE",
+        "count": 2
       },
       {
         "ticker": "NBIS",
         "count": 2
       },
       {
-        "ticker": "AMZN",
-        "count": 2
-      },
-      {
-        "ticker": "GOOGL",
+        "ticker": "SPCX",
         "count": 2
       }
     ],
     "newTickers": [
-      "MRVL",
       "XPEV",
       "MRNA",
       "EWY"
