@@ -106,6 +106,71 @@ const DICT: Record<string, Entry> = {
   "mm.agent.institution": { en: "Hedge Funds / Institutions", zh: "对冲基金 / 机构" },
   "mm.agent.options": { en: "Options / Market Makers", zh: "期权 / 做市商" },
 
+
+  // Theme radar / period digest
+  "radar.title": { en: "Theme radar", zh: "主题雷达" },
+  "radar.sub": {
+    en: "What the tracked feed focused on, and how that shifted vs the previous period",
+    zh: "追踪源关注了什么，以及相对上一期的变化",
+  },
+  "radar.weekly": { en: "Weekly", zh: "每周" },
+  "radar.monthly": { en: "Monthly", zh: "每月" },
+  "radar.sample": { en: "{posts} posts · {mentions} mentions", zh: "{posts} 条帖子 · {mentions} 次提及" },
+  "radar.thin": {
+    en: "Small sample — one busy day can dominate a period. Treat trends as hints, not findings.",
+    zh: "样本较小 —— 某一天的密集发帖就可能主导整期。趋势仅供参考，不构成结论。",
+  },
+  "radar.unclassified": { en: "{n} posts matched no theme", zh: "{n} 条帖子未匹配到主题" },
+  "radar.noData": { en: "No period data yet — it builds up as the daily pipeline runs.", zh: "暂无周期数据 —— 随每日流程运行逐步累积。" },
+  "trend.rising": { en: "rising", zh: "升温" },
+  "trend.cooling": { en: "cooling", zh: "降温" },
+  "trend.steady": { en: "steady", zh: "持平" },
+  "trend.new": { en: "new", zh: "新增" },
+  "trend.thin": { en: "too thin to judge", zh: "样本不足" },
+
+  // Priority board
+  "prio.title": { en: "Research priorities", zh: "研究优先级" },
+  "prio.sub": {
+    en: "Attention (how much it is discussed) plotted against the bottleneck scorecard — a reading list, not a buy list",
+    zh: "关注度（讨论热度）与卡点评分对照 —— 这是研究清单，不是买入清单",
+  },
+  "prio.priority": { en: "Worth the work first", zh: "优先研究" },
+  "prio.priorityWhy": { en: "Discussed and scores well on the bottleneck test", zh: "讨论度高且卡点评分良好" },
+  "prio.crowded": { en: "Popular, weak grip", zh: "热门但控制力弱" },
+  "prio.crowdedWhy": {
+    en: "Getting attention without a demonstrated bottleneck — the method's own warning list",
+    zh: "有热度但未证明卡点 —— 方法论本身的警示名单",
+  },
+  "prio.quiet": { en: "Scores well, little discussed", zh: "评分高但讨论少" },
+  "prio.quietWhy": { en: "Under-discussed relative to its score", zh: "相对其评分而言讨论不足" },
+  "prio.needsResearch": { en: "Not yet researched", zh: "尚未研究" },
+  "prio.needsResearchWhy": {
+    en: "Mentioned but outside the knowledge base — no verified bottleneck score yet",
+    zh: "被提及但不在知识库内 —— 尚无经核实的卡点评分",
+  },
+  "prio.attention": { en: "attention", zh: "关注度" },
+  "prio.bottleneck": { en: "bottleneck", zh: "卡点" },
+  "prio.empty": { en: "Nothing in this bucket this period.", zh: "本期该类别为空。" },
+
+  // AI digest
+  "insight.button": { en: "Write digest with AI", zh: "用 AI 生成摘要" },
+  "insight.running": { en: "Writing…", zh: "生成中…" },
+  "insight.needsAi": {
+    en: "Connect an AI model to add a written interpretation. The figures above need no key.",
+    zh: "连接 AI 模型可添加文字解读。上方数据无需密钥。",
+  },
+  "insight.shift": { en: "What shifted", zh: "变化" },
+  "insight.layer": { en: "Implied scarce layer", zh: "推断的稀缺环节" },
+  "insight.priorities": { en: "Research first", zh: "优先研究" },
+  "insight.warnings": { en: "Crowded — check carefully", zh: "拥挤 —— 需谨慎核查" },
+  "insight.contrarian": { en: "Under-discussed", zh: "被忽视的" },
+  "insight.falsifiers": { en: "What would prove this wrong", zh: "什么情况说明判断错了" },
+  "insight.nextCheck": { en: "Next check", zh: "下一步核查" },
+  "insight.disclaimer": {
+    en: "Research priorities only — a reading list built from social-tier signals, never buy/sell advice. Verify with primary sources before acting.",
+    zh: "仅为研究优先级 —— 基于社交层级信号的阅读清单，不构成买卖建议。行动前请以一手来源核实。",
+  },
+
   // Analyze hero
   "analyze.title": { en: "Analyze anything with the Serenity Skill", zh: "用 Serenity 方法分析任何标的" },
   "analyze.placeholder": {
