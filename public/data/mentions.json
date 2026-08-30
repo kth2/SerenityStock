@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T12:47:36.671Z",
+  "updatedAt": "2026-08-30T07:45:37.994Z",
   "isSample": false,
   "handle": "aleabitoreddit",
   "totalTweets": 148,
@@ -5256,12 +5256,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 50.5,
+      "signalScore": 48.5,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 7.4,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.4,
         "engagement": 0,
         "conviction": 0.6,
@@ -5344,12 +5344,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 55.5,
+      "signalScore": 53.5,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 6.3,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.7,
         "engagement": 0,
         "conviction": 0.5,
@@ -5597,12 +5597,12 @@
       "avgSentiment": 0.5,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 40.5,
+      "signalScore": 38.5,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.5,
         "engagement": 0,
         "conviction": 0.3,
@@ -5631,12 +5631,12 @@
       "avgSentiment": 0.5,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 43.4,
+      "signalScore": 41.4,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.2,
         "engagement": 0,
         "conviction": 0.3,
@@ -5728,12 +5728,12 @@
       "avgSentiment": 0.25,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 40.3,
+      "signalScore": 37.3,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.5,
         "engagement": 0,
         "conviction": 0.3,
@@ -5762,12 +5762,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 38.4,
+      "signalScore": 35.4,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.3,
@@ -5791,12 +5791,12 @@
       "avgSentiment": 0.375,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 31,
+      "signalScore": 28,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.3,
@@ -6749,6 +6749,1389 @@
     "newTickers": [
       "JBL",
       "XPEV"
+    ]
+  },
+  "periods": {
+    "minSample": 4,
+    "weekly": [
+      {
+        "key": "2026-W29",
+        "from": "2026-07-17",
+        "to": "2026-07-18",
+        "posts": 3,
+        "mentions": 6,
+        "unclassified": 1,
+        "thin": true,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 2,
+            "share": 0.5,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 1,
+            "share": 0.25,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 1,
+            "share": 0.25,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "SKHY",
+            "count": 1,
+            "themes": []
+          },
+          {
+            "ticker": "IREN",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "NBIS",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "SPCX",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "META",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "AAOI",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking"
+            ]
+          }
+        ],
+        "newTickers": []
+      },
+      {
+        "key": "2026-W30",
+        "from": "2026-07-21",
+        "to": "2026-07-26",
+        "posts": 16,
+        "mentions": 31,
+        "unclassified": 2,
+        "thin": false,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 13,
+            "share": 0.419,
+            "prevPosts": 2,
+            "deltaShare": -0.081,
+            "trend": "thin"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 10,
+            "share": 0.323,
+            "prevPosts": 0,
+            "deltaShare": 0.323,
+            "trend": "thin"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 3,
+            "share": 0.097,
+            "prevPosts": 1,
+            "deltaShare": -0.153,
+            "trend": "thin"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 3,
+            "share": 0.097,
+            "prevPosts": 1,
+            "deltaShare": -0.153,
+            "trend": "thin"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 1,
+            "share": 0.032,
+            "prevPosts": 0,
+            "deltaShare": 0.032,
+            "trend": "thin"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 1,
+            "share": 0.032,
+            "prevPosts": 0,
+            "deltaShare": 0.032,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "AMD",
+            "count": 6,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 4,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "NBIS",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AVGO",
+            "count": 1,
+            "themes": [
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "CXMT",
+            "count": 1,
+            "themes": [
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "UBER",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          }
+        ],
+        "newTickers": [
+          "AMD",
+          "GOOGL",
+          "NVDA",
+          "AVGO",
+          "CXMT",
+          "UBER",
+          "SIVE"
+        ]
+      },
+      {
+        "key": "2026-W31",
+        "from": "2026-07-27",
+        "to": "2026-08-02",
+        "posts": 30,
+        "mentions": 57,
+        "unclassified": 13,
+        "thin": false,
+        "themes": [
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 9,
+            "share": 0.2,
+            "prevPosts": 3,
+            "deltaShare": 0.103,
+            "trend": "rising"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 9,
+            "share": 0.2,
+            "prevPosts": 10,
+            "deltaShare": -0.123,
+            "trend": "cooling"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 8,
+            "share": 0.178,
+            "prevPosts": 3,
+            "deltaShare": 0.081,
+            "trend": "rising"
+          },
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 7,
+            "share": 0.156,
+            "prevPosts": 13,
+            "deltaShare": -0.264,
+            "trend": "cooling"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 5,
+            "share": 0.111,
+            "prevPosts": 1,
+            "deltaShare": 0.079,
+            "trend": "rising"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 3,
+            "share": 0.067,
+            "prevPosts": 1,
+            "deltaShare": 0.034,
+            "trend": "steady"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 2,
+            "share": 0.044,
+            "prevPosts": 0,
+            "deltaShare": 0.044,
+            "trend": "new"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 2,
+            "share": 0.044,
+            "prevPosts": 0,
+            "deltaShare": 0.044,
+            "trend": "new"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "MSFT",
+            "count": 5,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "META",
+            "count": 5,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "BE",
+            "count": 5,
+            "themes": [
+              "memory",
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AMZN",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "LITE",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 3,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "SNDK",
+            "count": 3,
+            "themes": [
+              "memory",
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 3,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud",
+              "policy"
+            ]
+          }
+        ],
+        "newTickers": [
+          "MSFT",
+          "BE",
+          "AMZN",
+          "LITE",
+          "SNDK"
+        ]
+      },
+      {
+        "key": "2026-W32",
+        "from": "2026-08-03",
+        "to": "2026-08-09",
+        "posts": 22,
+        "mentions": 41,
+        "unclassified": 7,
+        "thin": false,
+        "themes": [
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 12,
+            "share": 0.255,
+            "prevPosts": 8,
+            "deltaShare": 0.078,
+            "trend": "rising"
+          },
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 11,
+            "share": 0.234,
+            "prevPosts": 7,
+            "deltaShare": 0.078,
+            "trend": "rising"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 11,
+            "share": 0.234,
+            "prevPosts": 9,
+            "deltaShare": 0.034,
+            "trend": "steady"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 9,
+            "share": 0.191,
+            "prevPosts": 9,
+            "deltaShare": -0.009,
+            "trend": "steady"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 3,
+            "share": 0.064,
+            "prevPosts": 5,
+            "deltaShare": -0.047,
+            "trend": "steady"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 1,
+            "share": 0.021,
+            "prevPosts": 3,
+            "deltaShare": -0.045,
+            "trend": "steady"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 2,
+            "deltaShare": -0.044,
+            "trend": "steady"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 2,
+            "deltaShare": -0.044,
+            "trend": "steady"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "AAOI",
+            "count": 7,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 7,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "LITE",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "MTSI",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "MU",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AMZN",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "NBIS",
+            "count": 1,
+            "themes": [
+              "neocloud"
+            ]
+          }
+        ],
+        "newTickers": [
+          "AAOI",
+          "MTSI"
+        ]
+      },
+      {
+        "key": "2026-W33",
+        "from": "2026-08-10",
+        "to": "2026-08-16",
+        "posts": 33,
+        "mentions": 47,
+        "unclassified": 11,
+        "thin": false,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 14,
+            "share": 0.222,
+            "prevPosts": 11,
+            "deltaShare": -0.012,
+            "trend": "steady"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 14,
+            "share": 0.222,
+            "prevPosts": 11,
+            "deltaShare": -0.012,
+            "trend": "steady"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 13,
+            "share": 0.206,
+            "prevPosts": 12,
+            "deltaShare": -0.049,
+            "trend": "steady"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 12,
+            "share": 0.19,
+            "prevPosts": 9,
+            "deltaShare": -0.001,
+            "trend": "steady"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 5,
+            "share": 0.079,
+            "prevPosts": 3,
+            "deltaShare": 0.016,
+            "trend": "steady"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 2,
+            "share": 0.032,
+            "prevPosts": 0,
+            "deltaShare": 0.032,
+            "trend": "new"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 2,
+            "share": 0.032,
+            "prevPosts": 0,
+            "deltaShare": 0.032,
+            "trend": "new"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 1,
+            "share": 0.016,
+            "prevPosts": 1,
+            "deltaShare": -0.005,
+            "trend": "steady"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "LITE",
+            "count": 7,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "power"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "optics",
+              "semicap",
+              "robotics",
+              "policy",
+              "networking"
+            ]
+          },
+          {
+            "ticker": "SMCI",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "semicap",
+              "optics",
+              "networking"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 3,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "AAOI",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SNDK",
+            "count": 2,
+            "themes": [
+              "memory"
+            ]
+          },
+          {
+            "ticker": "MU",
+            "count": 2,
+            "themes": [
+              "memory"
+            ]
+          },
+          {
+            "ticker": "AMD",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "semicap",
+              "optics",
+              "networking"
+            ]
+          }
+        ],
+        "newTickers": [
+          "NVDA",
+          "SMCI"
+        ]
+      },
+      {
+        "key": "2026-W34",
+        "from": "2026-08-17",
+        "to": "2026-08-23",
+        "posts": 24,
+        "mentions": 31,
+        "unclassified": 9,
+        "thin": false,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 10,
+            "share": 0.227,
+            "prevPosts": 14,
+            "deltaShare": 0.005,
+            "trend": "steady"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 10,
+            "share": 0.227,
+            "prevPosts": 13,
+            "deltaShare": 0.021,
+            "trend": "steady"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 8,
+            "share": 0.182,
+            "prevPosts": 12,
+            "deltaShare": -0.009,
+            "trend": "steady"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 7,
+            "share": 0.159,
+            "prevPosts": 14,
+            "deltaShare": -0.063,
+            "trend": "cooling"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 5,
+            "share": 0.114,
+            "prevPosts": 5,
+            "deltaShare": 0.034,
+            "trend": "steady"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 3,
+            "share": 0.068,
+            "prevPosts": 2,
+            "deltaShare": 0.036,
+            "trend": "steady"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 1,
+            "share": 0.023,
+            "prevPosts": 1,
+            "deltaShare": 0.007,
+            "trend": "steady"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 2,
+            "deltaShare": -0.032,
+            "trend": "steady"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "AAOI",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AXTI",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "MRVL",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SPCX",
+            "count": 2,
+            "themes": []
+          },
+          {
+            "ticker": "SKHY",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "memory"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap",
+              "optics",
+              "networking"
+            ]
+          },
+          {
+            "ticker": "MU",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "memory"
+            ]
+          }
+        ],
+        "newTickers": [
+          "GOOGL",
+          "MRVL",
+          "SPCX"
+        ]
+      },
+      {
+        "key": "2026-W35",
+        "from": "2026-08-24",
+        "to": "2026-08-28",
+        "posts": 20,
+        "mentions": 29,
+        "unclassified": 6,
+        "thin": false,
+        "themes": [
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 12,
+            "share": 0.324,
+            "prevPosts": 8,
+            "deltaShare": 0.143,
+            "trend": "rising"
+          },
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 10,
+            "share": 0.27,
+            "prevPosts": 10,
+            "deltaShare": 0.043,
+            "trend": "steady"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 6,
+            "share": 0.162,
+            "prevPosts": 7,
+            "deltaShare": 0.003,
+            "trend": "steady"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 5,
+            "share": 0.135,
+            "prevPosts": 10,
+            "deltaShare": -0.092,
+            "trend": "cooling"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 2,
+            "share": 0.054,
+            "prevPosts": 5,
+            "deltaShare": -0.06,
+            "trend": "steady"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 1,
+            "share": 0.027,
+            "prevPosts": 3,
+            "deltaShare": -0.041,
+            "trend": "steady"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 1,
+            "share": 0.027,
+            "prevPosts": 1,
+            "deltaShare": 0.004,
+            "trend": "steady"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "NVDA",
+            "count": 8,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap",
+              "optics",
+              "networking",
+              "robotics"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 3,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "AAOI",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SNDK",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SKHY",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "POET",
+            "count": 1,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "JBL",
+            "count": 1,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "GFS",
+            "count": 1,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          }
+        ],
+        "newTickers": [
+          "POET",
+          "JBL",
+          "GFS"
+        ]
+      }
+    ],
+    "monthly": [
+      {
+        "key": "2026-07",
+        "from": "2026-07-17",
+        "to": "2026-07-31",
+        "posts": 46,
+        "mentions": 89,
+        "unclassified": 15,
+        "thin": false,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 21,
+            "share": 0.28,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 19,
+            "share": 0.253,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 12,
+            "share": 0.16,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 11,
+            "share": 0.147,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 5,
+            "share": 0.067,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 4,
+            "share": 0.053,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 2,
+            "share": 0.027,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 1,
+            "share": 0.013,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "META",
+            "count": 6,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 6,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "AMD",
+            "count": 6,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "BE",
+            "count": 5,
+            "themes": [
+              "memory",
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "IREN",
+            "count": 5,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap",
+              "robotics"
+            ]
+          },
+          {
+            "ticker": "NBIS",
+            "count": 5,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "MSFT",
+            "count": 4,
+            "themes": [
+              "neocloud"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 4,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud",
+              "policy"
+            ]
+          }
+        ],
+        "newTickers": []
+      },
+      {
+        "key": "2026-08",
+        "from": "2026-08-01",
+        "to": "2026-08-28",
+        "posts": 102,
+        "mentions": 153,
+        "unclassified": 34,
+        "thin": false,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 46,
+            "share": 0.235,
+            "prevPosts": 21,
+            "deltaShare": -0.045,
+            "trend": "steady"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 41,
+            "share": 0.209,
+            "prevPosts": 11,
+            "deltaShare": 0.063,
+            "trend": "rising"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 41,
+            "share": 0.209,
+            "prevPosts": 19,
+            "deltaShare": -0.044,
+            "trend": "steady"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 39,
+            "share": 0.199,
+            "prevPosts": 12,
+            "deltaShare": 0.039,
+            "trend": "steady"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 16,
+            "share": 0.082,
+            "prevPosts": 5,
+            "deltaShare": 0.015,
+            "trend": "steady"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 6,
+            "share": 0.031,
+            "prevPosts": 2,
+            "deltaShare": 0.004,
+            "trend": "steady"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 4,
+            "share": 0.02,
+            "prevPosts": 4,
+            "deltaShare": -0.033,
+            "trend": "steady"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 3,
+            "share": 0.015,
+            "prevPosts": 1,
+            "deltaShare": 0.002,
+            "trend": "steady"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "AAOI",
+            "count": 17,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 14,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap",
+              "optics",
+              "networking",
+              "robotics",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 14,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "LITE",
+            "count": 14,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap",
+              "power",
+              "memory",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "MU",
+            "count": 7,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap",
+              "optics",
+              "networking"
+            ]
+          },
+          {
+            "ticker": "SNDK",
+            "count": 5,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AMZN",
+            "count": 5,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap",
+              "policy"
+            ]
+          },
+          {
+            "ticker": "SKHY",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
+            ]
+          }
+        ],
+        "newTickers": []
+      }
     ]
   }
 }

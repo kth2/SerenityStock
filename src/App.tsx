@@ -8,6 +8,7 @@ import { StatCards } from "@/components/StatCards";
 import { MentionFrequencyChart, TopTickersChart } from "@/components/Charts";
 import { MentionFeed } from "@/components/MentionFeed";
 import { DailyDigest } from "@/components/DailyDigest";
+import { ThemeRadar } from "@/components/ThemeRadar";
 import { TickerTable } from "@/components/TickerTable";
 import { SkillInfo } from "@/components/SkillInfo";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -131,6 +132,7 @@ export default function App() {
                     </div>
 
                     <StatCards data={data} />
+                    <ThemeRadar data={data} />
                     <div className="grid gap-4 lg:grid-cols-2">
                       <MentionFrequencyChart data={data} />
                       <TopTickersChart data={data} onSelect={jumpToTicker} />

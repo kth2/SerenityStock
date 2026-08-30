@@ -8,6 +8,7 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { extractTickers, scoreSentiment, dayKey } from "./lib/text.mjs";
 import { serenitySignalScore, signalBandKey } from "./lib/signal.mjs";
+import { buildPeriodDigests } from "./lib/themes.mjs";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const TWEETS_FILE = path.join(root, "public", "data", "tweets.json");
@@ -110,6 +111,9 @@ async function main() {
       .map((t) => t.ticker),
   };
 
+  // Weekly + monthly theme rollups (deterministic; see lib/themes.mjs).
+  const periods = buildPeriodDigests(mentions, tweets);
+
   const output = {
     updatedAt: new Date().toISOString(),
     isSample,
@@ -119,6 +123,7 @@ async function main() {
     mentions,
     tickers,
     digest,
+    periods,
   };
 
   // Avoid timestamp-only churn: if nothing but updatedAt changed, keep the old

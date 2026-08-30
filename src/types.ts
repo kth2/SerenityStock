@@ -66,6 +66,47 @@ export interface Digest {
   newTickers: string[];
 }
 
+
+/* ------------------------- Periodic theme digests ------------------------ */
+
+export type ThemeTrend = "rising" | "cooling" | "steady" | "new" | "thin";
+
+export interface ThemeSlice {
+  id: string;
+  title: string;
+  posts: number;
+  share: number;      // 0-1 share of theme hits this period
+  prevPosts: number;
+  deltaShare: number; // change in share vs the previous period
+  trend: ThemeTrend;
+}
+
+export interface PeriodTicker {
+  ticker: string;
+  count: number;
+  themes: string[];
+}
+
+export interface PeriodDigest {
+  key: string;          // "2026-W35" or "2026-08"
+  from: string | null;
+  to: string | null;
+  posts: number;
+  mentions: number;
+  unclassified: number;
+  /** Too few posts to read much into — the UI must say so. */
+  thin: boolean;
+  themes: ThemeSlice[];
+  topTickers: PeriodTicker[];
+  newTickers: string[];
+}
+
+export interface PeriodDigests {
+  minSample: number;
+  weekly: PeriodDigest[];   // oldest → newest
+  monthly: PeriodDigest[];
+}
+
 export interface MentionsData {
   updatedAt: string;
   isSample: boolean;
@@ -75,6 +116,8 @@ export interface MentionsData {
   mentions: Mention[];
   tickers: TickerAggregate[];
   digest: Digest;
+  /** Weekly/monthly theme rollups; optional so older data files still parse. */
+  periods?: PeriodDigests;
 }
 
 /** Precomputed Claude-API analysis stored in analyses.json (optional). */
