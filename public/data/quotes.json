@@ -1,13 +1,6 @@
 {
-  "updatedAt": "2026-08-29T12:47:43.671Z",
+  "updatedAt": "2026-08-30T12:07:00.872Z",
   "quotes": {
-    "AAOI": {
-      "price": 106.23,
-      "changePct": -6.22,
-      "currency": "USD",
-      "asOf": "2026-08-28T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
     "NVDA": {
       "price": 217.55,
       "changePct": -4.57,
@@ -15,9 +8,23 @@
       "asOf": "2026-08-28T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
+    "AAOI": {
+      "price": 106.23,
+      "changePct": -6.22,
+      "currency": "USD",
+      "asOf": "2026-08-28T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
     "LITE": {
       "price": 895,
       "changePct": -6.39,
+      "currency": "USD",
+      "asOf": "2026-08-28T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "MU": {
+      "price": 932.86,
+      "changePct": -0.27,
       "currency": "USD",
       "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
@@ -48,13 +55,6 @@
       "changePct": 0,
       "currency": "USD",
       "asOf": "2026-08-28T20:00:00.000Z",
-      "source": "Yahoo Finance"
-    },
-    "MU": {
-      "price": 932.86,
-      "changePct": -0.27,
-      "currency": "USD",
-      "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "AMZN": {
@@ -134,6 +134,13 @@
       "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
+    "RDDT": {
+      "price": 153,
+      "changePct": -0.62,
+      "currency": "USD",
+      "asOf": "2026-08-28T20:04:30.000Z",
+      "source": "Yahoo Finance"
+    },
     "RKLB": {
       "price": 64.39,
       "changePct": -4.65,
@@ -153,6 +160,13 @@
       "changePct": -3.59,
       "currency": "USD",
       "asOf": "2026-08-28T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "JBL": {
+      "price": 301.45,
+      "changePct": -3.45,
+      "currency": "USD",
+      "asOf": "2026-08-28T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "GFS": {
@@ -190,13 +204,6 @@
       "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "RDDT": {
-      "price": 153,
-      "changePct": -0.62,
-      "currency": "USD",
-      "asOf": "2026-08-28T20:04:30.000Z",
-      "source": "Yahoo Finance"
-    },
     "CRWV": {
       "price": 84.23,
       "changePct": -2.96,
@@ -232,11 +239,11 @@
       "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
-    "JBL": {
-      "price": 301.45,
-      "changePct": -3.45,
+    "AMKR": {
+      "price": 47.88,
+      "changePct": -7.46,
       "currency": "USD",
-      "asOf": "2026-08-28T20:00:02.000Z",
+      "asOf": "2026-08-28T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "XPEV": {

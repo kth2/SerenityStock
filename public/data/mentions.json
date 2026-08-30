@@ -1,10 +1,129 @@
 {
-  "updatedAt": "2026-08-30T07:45:37.994Z",
+  "updatedAt": "2026-08-30T12:06:53.086Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 148,
-  "totalMentions": 242,
+  "totalTweets": 154,
+  "totalMentions": 249,
   "mentions": [
+    {
+      "tweetId": "2093988125144207710",
+      "ticker": "SIVE",
+      "text": "$JBL $JBL JBL $301.45 -$10.77 (-3.45%) $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 27.32 -SEK 4.94 (-15.31%) Since mention (2026-06-04): -68.51% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-08-30T09:04:08.109Z",
+      "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2093988125144207710",
+      "ticker": "JBL",
+      "text": "$JBL $JBL JBL $301.45 -$10.77 (-3.45%) $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 27.32 -SEK 4.94 (-15.31%) Since mention (2026-06-04): -68.51% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-08-30T09:04:08.109Z",
+      "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2093811019823132903",
+      "ticker": "MU",
+      "text": "Serenity @aleabitoreddit 2026-08-30 05:20 Okay just to simplify this: There is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers. A potato farmer $MU, that was selling carrots... now shifted farmland to potatos. Nvidia caused a great potato famine cause they can eat a $MU $MU NASDAQ Micron Technology Memory $932.86 -$2.53 (-0.27%) Since mention (2026-06-05): +7.97% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.55 -$10.43 (-4.58%) Since mention (2026-06-05): +6.07% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-08-29T21:20:22.910Z",
+      "url": "https://x.com/aleabitoreddit/status/2093811019823132903",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.167,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2093811019823132903",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-08-30 05:20 Okay just to simplify this: There is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers. A potato farmer $MU, that was selling carrots... now shifted farmland to potatos. Nvidia caused a great potato famine cause they can eat a $MU $MU NASDAQ Micron Technology Memory $932.86 -$2.53 (-0.27%) Since mention (2026-06-05): +7.97% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.55 -$10.43 (-4.58%) Since mention (2026-06-05): +6.07% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-08-29T21:20:22.910Z",
+      "url": "https://x.com/aleabitoreddit/status/2093811019823132903",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.167,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2093760498072485919",
+      "ticker": "RDDT",
+      "text": "Serenity @aleabitoreddit 2026-08-30 01:59 $MU: goes from $133B -&gt; $1T+ in a year. $RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB $MU $MU NASDAQ Micron Technology Memory $932.86 -$2.53 (-0.27%) Since mention (2026-06-05): +7.97% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $RDDT $RDDT NYSE Reddit Social media $153.00 -$0.95 (-0.62%) Since mention (2026-06-04): -16.81% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "createdAt": "2026-08-29T17:59:37.586Z",
+      "url": "https://x.com/aleabitoreddit/status/2093760498072485919",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2093760498072485919",
+      "ticker": "MU",
+      "text": "Serenity @aleabitoreddit 2026-08-30 01:59 $MU: goes from $133B -&gt; $1T+ in a year. $RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB $MU $MU NASDAQ Micron Technology Memory $932.86 -$2.53 (-0.27%) Since mention (2026-06-05): +7.97% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $RDDT $RDDT NYSE Reddit Social media $153.00 -$0.95 (-0.62%) Since mention (2026-06-04): -16.81% Consumer internet platform followed for advertising growth, data licensing, and user engagement trends. Open on X",
+      "createdAt": "2026-08-29T17:59:37.586Z",
+      "url": "https://x.com/aleabitoreddit/status/2093760498072485919",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2093712497949950242",
+      "ticker": "AMKR",
+      "text": "$AMKR $AMKR AMKR $47.88 -$3.86 (-7.46%) Open on X",
+      "createdAt": "2026-08-29T14:48:53.465Z",
+      "url": "https://x.com/aleabitoreddit/status/2093712497949950242",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2093252439973777674",
       "ticker": "NVDA",
@@ -4122,6 +4241,204 @@
   ],
   "tickers": [
     {
+      "ticker": "SIVE",
+      "count": 19,
+      "firstSeen": "2026-07-24T08:11:00.000Z",
+      "lastSeen": "2026-08-30T09:04:08.109Z",
+      "avgSentiment": 0.105,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 70.7,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 13.7,
+        "recency": 10,
+        "persistence": 3.4,
+        "engagement": 0,
+        "conviction": 4.6,
+        "themeFit": 15,
+        "catalyst": 12,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-31",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-06",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-07",
+          "count": 3,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-09",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-10",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-12",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-20",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-25",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-26",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-27",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-30",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "count": 19,
+      "firstSeen": "2026-07-21T05:38:00.000Z",
+      "lastSeen": "2026-08-29T21:20:22.910Z",
+      "avgSentiment": 0.309,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 68.9,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 13.7,
+        "recency": 10,
+        "persistence": 3.5,
+        "engagement": 0,
+        "conviction": 4.6,
+        "themeFit": 15,
+        "catalyst": 12,
+        "risk": 1.8
+      },
+      "history": [
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-22",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-27",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-10",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-16",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-18",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 3,
+          "avgSentiment": 0.167
+        },
+        {
+          "date": "2026-08-26",
+          "count": 3,
+          "avgSentiment": 0.569
+        },
+        {
+          "date": "2026-08-27",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-28",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-29",
+          "count": 1,
+          "avgSentiment": 0.167
+        }
+      ]
+    },
+    {
       "ticker": "AAOI",
       "count": 19,
       "firstSeen": "2026-07-17T22:52:00.000Z",
@@ -4221,194 +4538,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "count": 18,
-      "firstSeen": "2026-07-21T05:38:00.000Z",
-      "lastSeen": "2026-08-28T08:20:47.096Z",
-      "avgSentiment": 0.317,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 68.5,
-      "signalBand": "constructive",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 13.5,
-        "recency": 10,
-        "persistence": 3.4,
-        "engagement": 0,
-        "conviction": 4.4,
-        "themeFit": 15,
-        "catalyst": 12,
-        "risk": 1.8
-      },
-      "history": [
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-07-22",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-07-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-27",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-10",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-13",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-16",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-18",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-24",
-          "count": 3,
-          "avgSentiment": 0.167
-        },
-        {
-          "date": "2026-08-26",
-          "count": 3,
-          "avgSentiment": 0.569
-        },
-        {
-          "date": "2026-08-27",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-28",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SIVE",
-      "count": 18,
-      "firstSeen": "2026-07-24T08:11:00.000Z",
-      "lastSeen": "2026-08-27T21:24:26.932Z",
-      "avgSentiment": 0.111,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 70.3,
-      "signalBand": "constructive",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 13.5,
-        "recency": 10,
-        "persistence": 3.4,
-        "engagement": 0,
-        "conviction": 4.4,
-        "themeFit": 15,
-        "catalyst": 12,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-29",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-07-31",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-04",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-06",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-07",
-          "count": 3,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-09",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-10",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-12",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-13",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-20",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-25",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-26",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-27",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "LITE",
       "count": 16,
       "firstSeen": "2026-07-29T17:07:41.689Z",
@@ -4493,6 +4622,70 @@
       ]
     },
     {
+      "ticker": "MU",
+      "count": 10,
+      "firstSeen": "2026-07-31T07:14:23.409Z",
+      "lastSeen": "2026-08-29T21:20:22.910Z",
+      "avgSentiment": 0.533,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 56.6,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11,
+        "recency": 10,
+        "persistence": 3.3,
+        "engagement": 0,
+        "conviction": 2.9,
+        "themeFit": 15,
+        "catalyst": 6,
+        "risk": 3.6
+      },
+      "history": [
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-08-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-17",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-27",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-29",
+          "count": 2,
+          "avgSentiment": 0.334
+        }
+      ]
+    },
+    {
       "ticker": "GOOGL",
       "count": 10,
       "firstSeen": "2026-07-23T04:27:00.000Z",
@@ -4559,12 +4752,12 @@
       "avgSentiment": 0.2,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 63,
+      "signalScore": 61,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 11,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.3,
         "engagement": 0,
         "conviction": 3.2,
@@ -4735,65 +4928,6 @@
           "date": "2026-08-28",
           "count": 1,
           "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "count": 8,
-      "firstSeen": "2026-07-31T07:14:23.409Z",
-      "lastSeen": "2026-08-27T05:46:04.537Z",
-      "avgSentiment": 0.583,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 55.3,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.1,
-        "recency": 10,
-        "persistence": 3.2,
-        "engagement": 0,
-        "conviction": 2.6,
-        "themeFit": 15,
-        "catalyst": 6,
-        "risk": 3.6
-      },
-      "history": [
-        {
-          "date": "2026-07-31",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-04",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-08-14",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-15",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-17",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-27",
-          "count": 1,
-          "avgSentiment": 1
         }
       ]
     },
@@ -5065,12 +5199,12 @@
       "avgSentiment": 0.444,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 55,
+      "signalScore": 53,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 8.9,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.2,
         "engagement": 0,
         "conviction": 0.9,
@@ -5337,6 +5471,45 @@
       ]
     },
     {
+      "ticker": "RDDT",
+      "count": 3,
+      "firstSeen": "2026-07-31T16:18:47.056Z",
+      "lastSeen": "2026-08-29T17:59:37.586Z",
+      "avgSentiment": 0.5,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 46,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 3.3,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 11,
+        "catalyst": 3,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-22",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
       "ticker": "RKLB",
       "count": 3,
       "firstSeen": "2026-08-05T00:16:18.710Z",
@@ -5448,6 +5621,40 @@
         },
         {
           "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "JBL",
+      "count": 2,
+      "firstSeen": "2026-08-27T21:24:26.932Z",
+      "lastSeen": "2026-08-30T09:04:08.109Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 34.3,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 5.5,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-08-27",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-30",
           "count": 1,
           "avgSentiment": 0
         }
@@ -5613,40 +5820,6 @@
       "history": [
         {
           "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-22",
-          "count": 1,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "count": 2,
-      "firstSeen": "2026-07-31T16:18:47.056Z",
-      "lastSeen": "2026-08-22T20:40:31.153Z",
-      "avgSentiment": 0.5,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 41.4,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 8,
-        "persistence": 3.2,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 9.9,
-        "catalyst": 3,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-31",
           "count": 1,
           "avgSentiment": 0.5
         },
@@ -5876,14 +6049,14 @@
       ]
     },
     {
-      "ticker": "JBL",
+      "ticker": "AMKR",
       "count": 1,
-      "firstSeen": "2026-08-27T21:24:26.932Z",
-      "lastSeen": "2026-08-27T21:24:26.932Z",
+      "firstSeen": "2026-08-29T14:48:53.465Z",
+      "lastSeen": "2026-08-29T14:48:53.465Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 31.2,
+      "signalScore": 26.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
@@ -5892,13 +6065,13 @@
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
-        "themeFit": 4.4,
+        "themeFit": 0,
         "catalyst": 0,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-08-27",
+          "date": "2026-08-29",
           "count": 1,
           "avgSentiment": 0
         }
@@ -6718,19 +6891,23 @@
     }
   ],
   "digest": {
-    "date": "2026-08-28",
+    "date": "2026-08-30",
     "window": {
-      "from": "2026-08-22",
-      "to": "2026-08-28"
+      "from": "2026-08-24",
+      "to": "2026-08-30"
     },
-    "totalMentions": 37,
+    "totalMentions": 36,
     "topTickers": [
       {
         "ticker": "NVDA",
-        "count": 8
+        "count": 9
       },
       {
         "ticker": "SIVE",
+        "count": 4
+      },
+      {
+        "ticker": "MU",
         "count": 3
       },
       {
@@ -6738,16 +6915,13 @@
         "count": 3
       },
       {
-        "ticker": "NBIS",
+        "ticker": "JBL",
         "count": 2
-      },
-      {
-        "ticker": "SNDK",
-        "count": 1
       }
     ],
     "newTickers": [
       "JBL",
+      "AMKR",
       "XPEV"
     ]
   },
@@ -7645,80 +7819,80 @@
       {
         "key": "2026-W35",
         "from": "2026-08-24",
-        "to": "2026-08-28",
-        "posts": 20,
-        "mentions": 29,
-        "unclassified": 6,
+        "to": "2026-08-30",
+        "posts": 26,
+        "mentions": 36,
+        "unclassified": 8,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 12,
-            "share": 0.324,
+            "posts": 14,
+            "share": 0.311,
             "prevPosts": 8,
-            "deltaShare": 0.143,
+            "deltaShare": 0.129,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 10,
-            "share": 0.27,
+            "posts": 11,
+            "share": 0.244,
             "prevPosts": 10,
-            "deltaShare": 0.043,
+            "deltaShare": 0.017,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 6,
-            "share": 0.162,
+            "posts": 7,
+            "share": 0.156,
             "prevPosts": 7,
-            "deltaShare": 0.003,
+            "deltaShare": -0.004,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 5,
-            "share": 0.135,
+            "posts": 6,
+            "share": 0.133,
             "prevPosts": 10,
-            "deltaShare": -0.092,
+            "deltaShare": -0.094,
             "trend": "cooling"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 2,
-            "share": 0.054,
+            "posts": 5,
+            "share": 0.111,
             "prevPosts": 5,
-            "deltaShare": -0.06,
+            "deltaShare": -0.003,
             "trend": "steady"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 1,
-            "share": 0.027,
+            "share": 0.022,
             "prevPosts": 3,
-            "deltaShare": -0.041,
+            "deltaShare": -0.046,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 1,
-            "share": 0.027,
+            "share": 0.022,
             "prevPosts": 1,
-            "deltaShare": 0.004,
+            "deltaShare": -0.001,
             "trend": "steady"
           }
         ],
         "topTickers": [
           {
             "ticker": "NVDA",
-            "count": 8,
+            "count": 9,
             "themes": [
               "neocloud",
               "memory",
@@ -7730,12 +7904,21 @@
           },
           {
             "ticker": "SIVE",
-            "count": 3,
+            "count": 4,
             "themes": [
               "optics",
               "networking",
               "semicap",
               "neocloud"
+            ]
+          },
+          {
+            "ticker": "MU",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap"
             ]
           },
           {
@@ -7749,6 +7932,27 @@
             ]
           },
           {
+            "ticker": "JBL",
+            "count": 2,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "RDDT",
+            "count": 1,
+            "themes": [
+              "memory"
+            ]
+          },
+          {
+            "ticker": "AMKR",
+            "count": 1,
+            "themes": []
+          },
+          {
             "ticker": "SNDK",
             "count": 1,
             "themes": [
@@ -7756,48 +7960,11 @@
               "memory",
               "semicap"
             ]
-          },
-          {
-            "ticker": "SKHY",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "POET",
-            "count": 1,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "JBL",
-            "count": 1,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "GFS",
-            "count": 1,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
-            ]
           }
         ],
         "newTickers": [
-          "POET",
           "JBL",
-          "GFS"
+          "AMKR"
         ]
       }
     ],
@@ -7962,64 +8129,64 @@
       {
         "key": "2026-08",
         "from": "2026-08-01",
-        "to": "2026-08-28",
-        "posts": 102,
-        "mentions": 153,
-        "unclassified": 34,
+        "to": "2026-08-30",
+        "posts": 108,
+        "mentions": 160,
+        "unclassified": 36,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 46,
-            "share": 0.235,
+            "posts": 47,
+            "share": 0.23,
             "prevPosts": 21,
-            "deltaShare": -0.045,
+            "deltaShare": -0.05,
+            "trend": "steady"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 43,
+            "share": 0.211,
+            "prevPosts": 19,
+            "deltaShare": -0.043,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 41,
-            "share": 0.209,
+            "posts": 42,
+            "share": 0.206,
             "prevPosts": 11,
-            "deltaShare": 0.063,
-            "trend": "rising"
-          },
-          {
-            "id": "semicap",
-            "title": "Semis, packaging & equipment",
-            "posts": 41,
-            "share": 0.209,
-            "prevPosts": 19,
-            "deltaShare": -0.044,
+            "deltaShare": 0.059,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 39,
-            "share": 0.199,
+            "posts": 40,
+            "share": 0.196,
             "prevPosts": 12,
-            "deltaShare": 0.039,
+            "deltaShare": 0.036,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 16,
-            "share": 0.082,
+            "posts": 19,
+            "share": 0.093,
             "prevPosts": 5,
-            "deltaShare": 0.015,
+            "deltaShare": 0.026,
             "trend": "steady"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 6,
-            "share": 0.031,
+            "share": 0.029,
             "prevPosts": 2,
-            "deltaShare": 0.004,
+            "deltaShare": 0.003,
             "trend": "steady"
           },
           {
@@ -8028,7 +8195,7 @@
             "posts": 4,
             "share": 0.02,
             "prevPosts": 4,
-            "deltaShare": -0.033,
+            "deltaShare": -0.034,
             "trend": "steady"
           },
           {
@@ -8037,7 +8204,7 @@
             "posts": 3,
             "share": 0.015,
             "prevPosts": 1,
-            "deltaShare": 0.002,
+            "deltaShare": 0.001,
             "trend": "steady"
           }
         ],
@@ -8054,8 +8221,19 @@
             ]
           },
           {
+            "ticker": "SIVE",
+            "count": 15,
+            "themes": [
+              "optics",
+              "networking",
+              "semicap",
+              "neocloud",
+              "policy"
+            ]
+          },
+          {
             "ticker": "NVDA",
-            "count": 14,
+            "count": 15,
             "themes": [
               "neocloud",
               "memory",
@@ -8063,17 +8241,6 @@
               "optics",
               "networking",
               "robotics",
-              "policy"
-            ]
-          },
-          {
-            "ticker": "SIVE",
-            "count": 14,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap",
-              "neocloud",
               "policy"
             ]
           },
@@ -8092,7 +8259,7 @@
           },
           {
             "ticker": "MU",
-            "count": 7,
+            "count": 9,
             "themes": [
               "neocloud",
               "memory",
