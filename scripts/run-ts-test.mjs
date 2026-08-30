@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Runs the MarketMind logic tests (scripts/tests/marketmind.test.ts).
+// Runs a bundled TypeScript test suite from scripts/tests/ on Node.
 //
 // The project has no test runner, so this bundles the TypeScript test with
 // esbuild (already present via Vite) and runs it on Node. The suite stubs
@@ -30,7 +30,7 @@ const rawStub = {
 
 try {
   await esbuild.build({
-    entryPoints: [path.join(root, "scripts", "tests", "marketmind.test.ts")],
+    entryPoints: [path.join(root, "scripts", "tests", `${process.argv[2] ?? "marketmind"}.test.ts`)],
     bundle: true,
     platform: "node",
     format: "esm",

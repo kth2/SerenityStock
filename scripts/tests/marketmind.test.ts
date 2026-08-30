@@ -188,9 +188,11 @@ console.log("\n== transient failure retry (the 'high demand' fix) ==");
   };
   const { callJson } = await import("@/lib/serenity/ai");
   const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
-  let threw = "";
-  try { await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
-  ok("truncation reported clearly", /output space/i.test(threw), threw);
+  let out: any = null, threw = "";
+  try { out = await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
+  // Truncation is now salvaged when anything usable survives; the "ran out of
+  // output space" error is reserved for the unsalvageable case (tested below).
+  ok("partial JSON salvaged rather than discarded", out !== null, threw);
 }
 {
   // Engine-level: provider overloaded throughout -> retries counted, actionable hint.
@@ -203,6 +205,91 @@ console.log("\n== transient failure retry (the 'high demand' fix) ==");
   ok("retries recorded in budget", rep.budget.retries > 0, `retries=${rep.budget.retries}`);
   ok("actionable throttling hint shown", rep.warnings.some(w=>/throttling or overloaded/i.test(w)), rep.warnings.join(" | "));
   ok("still produced a report", !!rep.synthesis);
+}
+
+
+console.log("\n== salvageJson (truncated output recovery) ==");
+{
+  const { salvageJson } = await import("@/lib/serenity/ai");
+  const full = { headline: "h", attentionShift: "a", researchPriorities: [{ ticker: "NVDA", why: "w" }] };
+  const json = JSON.stringify(full);
+
+  ok("complete JSON round-trips", JSON.stringify(salvageJson(json)) === json);
+
+  // cut mid-string
+  const cutStr = '{"headline":"hello","attentionShift":"partial sen';
+  const r1: any = salvageJson(cutStr);
+  ok("recovers fields before a mid-string cut", r1 && r1.headline === "hello", JSON.stringify(r1));
+
+  // cut right after a comma (dangling)
+  const cutComma = '{"headline":"hello","attentionShift":"done",';
+  const r2: any = salvageJson(cutComma);
+  ok("handles a dangling comma", r2 && r2.headline === "hello" && r2.attentionShift === "done", JSON.stringify(r2));
+
+  // cut mid-key
+  const cutKey = '{"headline":"hello","attention';
+  const r3: any = salvageJson(cutKey);
+  ok("handles a cut mid-key", r3 && r3.headline === "hello", JSON.stringify(r3));
+
+  // cut inside a nested array of objects
+  const cutArr = '{"headline":"h","researchPriorities":[{"ticker":"NVDA","why":"good"},{"ticker":"MU","wh';
+  const r4: any = salvageJson(cutArr);
+  ok("recovers completed array elements", r4 && Array.isArray(r4.researchPriorities) && r4.researchPriorities[0].ticker === "NVDA",
+     JSON.stringify(r4));
+
+  // cut after a colon with no value
+  const cutColon = '{"headline":"h","attentionShift":';
+  const r5: any = salvageJson(cutColon);
+  ok("handles a cut after a colon", r5 && r5.headline === "h", JSON.stringify(r5));
+
+  // escaped quotes must not confuse the scanner
+  const esc = '{"headline":"say \\"hi\\" now","x":"cut he';
+  const r6: any = salvageJson(esc);
+  ok("respects escaped quotes", r6 && r6.headline === 'say "hi" now', JSON.stringify(r6));
+
+  // unicode / Chinese content
+  const zh = '{"headline":"本周重点是光互连","attentionShift":"被截断的句';
+  const r7: any = salvageJson(zh);
+  ok("recovers Chinese fields", r7 && r7.headline === "本周重点是光互连", JSON.stringify(r7));
+
+
+  const halfWord = '{"headline":"complete","stance":"bull';
+  const r8: any = salvageJson(halfWord);
+  ok("drops half-written trailing value rather than keeping it",
+     r8 && r8.headline === "complete" && r8.stance === undefined, JSON.stringify(r8));
+  ok("garbage returns null", salvageJson("not json at all") === null);
+  ok("empty returns null", salvageJson("") === null);
+  ok("never throws", (() => { try { salvageJson('{"a":[{"b":'); salvageJson("{"); salvageJson('{"a":"\\'); return true; } catch { return false; } })());
+}
+
+console.log("\n== truncated response is salvaged end-to-end ==");
+{
+  // finish_reason "length" + partial JSON: callJson must recover, not throw.
+  const partial = '{"stance":"bullish","conviction":4,"horizon":"days","action":"buy dips","triggers":["t1"],"risks":["r1"],"rationale":"cut off mid sen';
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    return { ok:true, status:200, json: async()=>({choices:[{finish_reason:"length", message:{content:partial}}]}) };
+  };
+  const { callJson } = await import("@/lib/serenity/ai");
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  let out: any = null, threw = "";
+  try { out = await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
+  ok("truncated response salvaged instead of thrown", out !== null, threw);
+  ok("salvaged fields usable", out && out.stance === "bullish" && out.conviction === 4, JSON.stringify(out));
+  const r = validateReaction(out, "retail");
+  ok("salvaged data validates into a usable reaction", r.stance === "bullish" && !r.degraded);
+}
+{
+  // Truncated with NOTHING usable must still error clearly.
+  (globalThis as any).fetch = async (url: string) => {
+    if (!String(url).includes("/chat/completions")) return { ok:false, status:403, text:async()=>"", json:async()=>({}) };
+    return { ok:true, status:200, json: async()=>({choices:[{finish_reason:"length", message:{content:"no braces here"}}]}) };
+  };
+  const { callJson } = await import("@/lib/serenity/ai");
+  const cfg: any = {protocol:"openai", baseUrl:"https://x/v1", apiKey:"k", model:"m"};
+  let threw = "";
+  try { await callJson(cfg, "hi", {}); } catch (e: any) { threw = e.message; }
+  ok("unsalvageable truncation still reports output space", /output space/i.test(threw), threw);
 }
 
 console.log(`\n${pass} passed, ${fail} failed\n`);

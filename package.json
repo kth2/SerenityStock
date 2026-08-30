@@ -14,9 +14,10 @@
     "analyze": "node scripts/analyze.mjs",
     "pipeline": "npm run scrape && npm run process && npm run quotes && npm run analyze",
     "icons": "node scripts/generate-icons.mjs",
-    "test:marketmind": "node scripts/test-marketmind.mjs",
+    "test:marketmind": "node scripts/run-ts-test.mjs marketmind",
     "test:themes": "node scripts/tests/themes.test.mjs",
-    "test": "node scripts/tests/themes.test.mjs && node scripts/test-marketmind.mjs"
+    "test": "node scripts/tests/themes.test.mjs && node scripts/run-ts-test.mjs marketmind && node scripts/run-ts-test.mjs digest",
+    "test:digest": "node scripts/run-ts-test.mjs digest"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

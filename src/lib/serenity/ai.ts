@@ -353,12 +353,105 @@ async function errorDetail(res: Response): Promise<string> {
   }
 }
 
+/** Raw model output plus whether the provider cut it short. */
+interface ModelText {
+  text: string;
+  truncated: boolean;
+}
+
+/**
+ * Best-effort repair of JSON that was cut off mid-object.
+ *
+ * A truncated response usually has several COMPLETE fields before the cut, and
+ * every caller validates/coerces the parsed object anyway — so recovering those
+ * fields beats discarding the whole answer. Two attempts:
+ *   1. close any open string, then close open arrays/objects;
+ *   2. if that still fails, drop the trailing incomplete element (back to the
+ *      last comma outside a string) and close again.
+ * Returns null when nothing usable can be recovered.
+ */
+export function salvageJson(src: string): unknown | null {
+  const start = src.indexOf("{");
+  if (start === -1) return null;
+  const body = src.slice(start);
+
+  // Walk once to learn string state and the open-bracket stack at each index.
+  const scan = (upto: number) => {
+    let inStr = false;
+    let esc = false;
+    const stack: string[] = [];
+    const commas: number[] = []; // comma positions at any depth, outside strings
+    for (let i = 0; i < upto; i++) {
+      const c = body[i];
+      if (esc) {
+        esc = false;
+        continue;
+      }
+      if (c === "\\") {
+        if (inStr) esc = true;
+        continue;
+      }
+      if (c === '"') {
+        inStr = !inStr;
+        continue;
+      }
+      if (inStr) continue;
+      if (c === "{" || c === "[") stack.push(c === "{" ? "}" : "]");
+      else if (c === "}" || c === "]") stack.pop();
+      else if (c === ",") commas.push(i);
+    }
+    return { inStr, stack, commas };
+  };
+
+  const close = (text: string, inStr: boolean, stack: string[]) => {
+    let out = text;
+    if (inStr) out += '"';
+    for (let i = stack.length - 1; i >= 0; i--) out += stack[i];
+    return out;
+  };
+
+  const a = scan(body.length);
+
+  const closeAll = () => {
+    try {
+      return { ok: true as const, value: JSON.parse(close(body, a.inStr, a.stack)) };
+    } catch {
+      return { ok: false as const };
+    }
+  };
+  const dropTrailing = () => {
+    // Cut back to a comma (dropping the half-written element) and close there.
+    for (let k = a.commas.length - 1; k >= 0 && k >= a.commas.length - 5; k--) {
+      const cut = a.commas[k];
+      const b = scan(cut);
+      try {
+        return { ok: true as const, value: JSON.parse(close(body.slice(0, cut), b.inStr, b.stack)) };
+      } catch {
+        /* try an earlier comma */
+      }
+    }
+    return { ok: false as const };
+  };
+
+  // When the cut landed INSIDE a string, simply closing the quote would keep a
+  // half-written value ("bul" from "bullish") — worse than not having the field
+  // at all, since validation supplies a clean fallback for a missing one. So
+  // prefer dropping that trailing element, and only close the string if there
+  // is nothing else to recover.
+  const order = a.inStr ? [dropTrailing, closeAll] : [closeAll, dropTrailing];
+  for (const attempt of order) {
+    const r = attempt();
+    if (r.ok) return r.value;
+  }
+  return null;
+}
+
 async function callGemini(
   config: AiConfig,
   user: string,
   signal?: AbortSignal,
   opts?: CallOptions,
-): Promise<string> {
+): Promise<ModelText> {
   const base = config.baseUrl.replace(/\/+$/, "");
   const url = `${base}/models/${encodeURIComponent(config.model)}:generateContent?key=${encodeURIComponent(config.apiKey)}`;
   const res = await post(
@@ -382,17 +475,12 @@ async function callGemini(
   };
   const candidate = data.candidates?.[0];
   const text = candidate?.content?.parts?.map((p) => p.text ?? "").join("") ?? "";
-  // A MAX_TOKENS finish means the JSON is cut mid-object and will not parse.
-  // Say so plainly instead of the generic "returned no JSON".
-  if (candidate?.finishReason === "MAX_TOKENS") {
-    throw new AiError(
-      "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit.",
-    );
-  }
   if (candidate?.finishReason === "SAFETY" || candidate?.finishReason === "RECITATION") {
     throw new AiError(`The model stopped early (${candidate.finishReason}).`);
   }
-  return text;
+  // MAX_TOKENS means the JSON is cut mid-object. Hand the partial text back so
+  // callModel can try to salvage the fields that did complete.
+  return { text, truncated: candidate?.finishReason === "MAX_TOKENS" };
 }
 
 async function callOpenAi(
@@ -400,7 +488,7 @@ async function callOpenAi(
   user: string,
   signal?: AbortSignal,
   opts?: CallOptions,
-): Promise<string> {
+): Promise<ModelText> {
   const base = config.baseUrl.replace(/\/+$/, "");
   const url = `${base}/chat/completions`;
   const headers: Record<string, string> = {};
@@ -438,12 +526,10 @@ async function callOpenAi(
     choices?: { message?: { content?: string }; finish_reason?: string }[];
   };
   const choice = data.choices?.[0];
-  if (choice?.finish_reason === "length") {
-    throw new AiError(
-      "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit.",
-    );
-  }
-  return choice?.message?.content ?? "";
+  return {
+    text: choice?.message?.content ?? "",
+    truncated: choice?.finish_reason === "length",
+  };
 }
 
 async function callModel(
@@ -453,21 +539,43 @@ async function callModel(
   opts?: CallOptions,
 ): Promise<unknown> {
   opts?.onCall?.();
-  const text =
+  const { text, truncated } =
     config.protocol === "gemini"
       ? await callGemini(config, user, signal, opts)
       : await callOpenAi(config, user, signal, opts);
-  if (!text) throw new AiError("Empty response from the model.");
+  if (!text) {
+    throw new AiError(
+      truncated
+        ? "The model ran out of output space before writing anything usable — try again, or use a model with a larger output limit."
+        : "Empty response from the model.",
+    );
+  }
   // Strip markdown fences defensively; find the outermost JSON object.
   const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/\s*```\s*$/, "");
   const start = cleaned.indexOf("{");
   const end = cleaned.lastIndexOf("}");
-  if (start === -1 || end <= start)
-    throw new AiError("Model returned no JSON — try again or a larger model.");
+  if (start === -1 || end <= start) {
+    // Truncation often removes the closing brace entirely.
+    const salvaged = salvageJson(cleaned);
+    if (salvaged) return salvaged;
+    throw new AiError(
+      truncated
+        ? "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit."
+        : "Model returned no JSON — try again or a larger model.",
+    );
+  }
   try {
     return JSON.parse(cleaned.slice(start, end + 1));
   } catch {
-    throw new AiError("Model returned malformed JSON — try again or a larger model.");
+    // Recover the fields that completed before the cut rather than losing the
+    // whole answer; callers validate every field afterwards.
+    const salvaged = salvageJson(cleaned);
+    if (salvaged) return salvaged;
+    throw new AiError(
+      truncated
+        ? "The model ran out of output space before finishing its JSON — try again, or use a model with a larger output limit."
+        : "Model returned malformed JSON — try again or a larger model.",
+    );
   }
 }
 
