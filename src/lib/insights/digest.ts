@@ -89,17 +89,36 @@ function factsBlock(period: PeriodDigest, board: PriorityBoard, label: string): 
   ].join("\n");
 }
 
+// Deliberately small. Every field is bounded and the prose limits are explicit,
+// because an over-long ask is what made models run out of output space and
+// truncate the JSON mid-object (Chinese output consumes tokens fastest).
 const SCHEMA = JSON.stringify({
-  headline: "one sentence: what this period was about",
-  attentionShift: "2-3 sentences on what moved vs the previous period, and how much of that could be noise given the sample size",
-  impliedScarceLayer: "which supply-chain layer the attention implies is tight, and whether the evidence actually supports that",
+  headline: "ONE short sentence: what this period was about",
+  attentionShift: "1-2 sentences: what moved vs the previous period, and how much could be noise at this sample size",
+  impliedScarceLayer: "1 sentence: which layer the attention implies is tight, and whether the evidence supports it",
   researchPriorities: [
-    { ticker: "SYMBOL", why: "why this deserves work first", nextCheck: "one concrete, checkable next step" },
+    { ticker: "SYMBOL", why: "one short sentence", nextCheck: "one short, checkable step" },
   ],
-  crowdedWarnings: ["names getting attention without a demonstrated bottleneck, and why that is a caution"],
-  contrarian: "what is being under-discussed relative to how well it scores",
-  falsifiers: ["what would show this read of the period is wrong"],
+  crowdedWarnings: ["one short sentence each"],
+  contrarian: "1 sentence: what is under-discussed relative to its score",
+  falsifiers: ["one short sentence each"],
 });
+
+/** Even smaller ask, used to retry once if the full one was cut off. */
+const COMPACT_SCHEMA = JSON.stringify({
+  headline: "ONE short sentence",
+  attentionShift: "1 sentence",
+  impliedScarceLayer: "1 sentence",
+  researchPriorities: [{ ticker: "SYMBOL", why: "one short sentence", nextCheck: "one short step" }],
+  falsifiers: ["one short sentence"],
+});
+
+const LIMITS = [
+  "",
+  "LENGTH LIMITS — keep the whole JSON short or it will be cut off:",
+  "- at most 3 researchPriorities, 2 crowdedWarnings, 2 falsifiers",
+  "- no field longer than about 30 words",
+].join("\n");
 
 const SYSTEM = [
   "You summarize a period of tracked supply-chain research posts into RESEARCH",
@@ -125,30 +144,45 @@ export async function generatePeriodInsight(
   label: string,
   opts: { lang?: "en" | "zh"; signal?: AbortSignal; onCall?: () => void; onRetry?: () => void } = {},
 ): Promise<PeriodInsight> {
-  const user =
+  const facts = factsBlock(period, board, label);
+  const langNote =
+    opts.lang === "zh"
+      ? "\n\nIMPORTANT: Write every human-readable string value in Simplified Chinese (简体中文). Keep JSON keys and ticker symbols unchanged. Be concise — Chinese uses tokens quickly."
+      : "";
+  const build = (schema: string) =>
     [
-      factsBlock(period, board, label),
+      facts,
       "",
       "TASK: Turn the facts above into a research digest. Return STRICT JSON with exactly these fields:",
-      SCHEMA,
-    ].join("\n") +
-    (opts.lang === "zh"
-      ? "\n\nIMPORTANT: Write every human-readable string value in Simplified Chinese (简体中文). Keep JSON keys and ticker symbols unchanged."
-      : "");
+      schema,
+      LIMITS,
+    ].join("\n") + langNote;
 
-  try {
-    const raw = await callJson(
+  const ask = (schema: string, maxOutputTokens: number) =>
+    callJson(
       config,
-      user,
+      build(schema),
       {
         system: SYSTEM,
         temperature: 0.4,
-        maxOutputTokens: 1800,
+        maxOutputTokens,
         onCall: opts.onCall,
         onRetry: opts.onRetry,
       },
       opts.signal,
     );
+
+  try {
+    let raw: unknown;
+    try {
+      raw = await ask(SCHEMA, 4000);
+    } catch (err) {
+      // Ran out of output space even after salvage? Retry once with a much
+      // smaller ask — a shorter digest beats no digest.
+      if ((err as Error)?.name === "AbortError") throw err;
+      if (!/output space/i.test((err as Error)?.message ?? "")) throw err;
+      raw = await ask(COMPACT_SCHEMA, 4000);
+    }
     return validate(raw, config.model);
   } catch (err) {
     if ((err as Error)?.name === "AbortError") throw err;
