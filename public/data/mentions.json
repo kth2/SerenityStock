@@ -1,14 +1,99 @@
 {
-  "updatedAt": "2026-09-15T11:59:03.064Z",
+  "updatedAt": "2026-09-16T11:55:09.916Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 203,
-  "totalMentions": 330,
+  "totalTweets": 212,
+  "totalMentions": 335,
   "mentions": [
+    {
+      "tweetId": "2099999510898577543",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 23:11:14 +0000 2026 Just as a pep-talk statistic ahead of Fed decisions tomorrow. 50% of $NVDA employees are reportedly now worth over $25 Million. They didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.17 $1.21 (+0.57%) Since mention (2026-06-05): +3.45% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-09-15T23:11:14.159Z",
+      "url": "https://x.com/aleabitoreddit/status/2099999510898577543",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2099838402749435966",
+      "ticker": "MELI",
+      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "createdAt": "2026-09-15T12:31:02.983Z",
+      "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2099838402749435966",
+      "ticker": "CCXI",
+      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "createdAt": "2026-09-15T12:31:02.983Z",
+      "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2099838402749435966",
+      "ticker": "AMZN",
+      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "createdAt": "2026-09-15T12:31:02.983Z",
+      "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2099830591663513642",
+      "ticker": "CCXI",
+      "text": "$CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) Open on X",
+      "createdAt": "2026-09-15T12:00:00.675Z",
+      "url": "https://x.com/aleabitoreddit/status/2099830591663513642",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2099674926697545849",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $924.03 -$51.23 (-5.25%) Since mention (2026-06-05): +6.95% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $175.63 -$14.44 (-7.60%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $927.60 $3.57 (+0.39%) Since mention (2026-06-05): +7.36% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.83 -$0.80 (-0.46%) Open on X",
       "createdAt": "2026-09-15T01:41:27.255Z",
       "url": "https://x.com/aleabitoreddit/status/2099674926697545849",
       "stats": {
@@ -25,7 +110,7 @@
     {
       "tweetId": "2099674926697545849",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $924.03 -$51.23 (-5.25%) Since mention (2026-06-05): +6.95% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $175.63 -$14.44 (-7.60%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $927.60 $3.57 (+0.39%) Since mention (2026-06-05): +7.36% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.83 -$0.80 (-0.46%) Open on X",
       "createdAt": "2026-09-15T01:41:27.255Z",
       "url": "https://x.com/aleabitoreddit/status/2099674926697545849",
       "stats": {
@@ -42,7 +127,7 @@
     {
       "tweetId": "2099459235419656373",
       "ticker": "IREN",
-      "text": "$IREN $IREN IREN $43.17 -$0.66 (-1.51%) Open on X",
+      "text": "$IREN $IREN IREN $41.58 -$1.59 (-3.68%) Open on X",
       "createdAt": "2026-09-14T11:24:22.447Z",
       "url": "https://x.com/aleabitoreddit/status/2099459235419656373",
       "stats": {
@@ -314,7 +399,7 @@
     {
       "tweetId": "2098384284713414928",
       "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 27.82 -SEK 3.28 (-10.55%) Since mention (2026-06-04): -67.93% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 29.20 -SEK 0.26 (-0.88%) Since mention (2026-06-04): -66.34% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-09-11T12:12:54.227Z",
       "url": "https://x.com/aleabitoreddit/status/2098384284713414928",
       "stats": {
@@ -331,7 +416,7 @@
     {
       "tweetId": "2098361512712962364",
       "ticker": "JBL",
-      "text": "$GFS $GFS GFS $43.54 -$3.41 (-7.26%) $JBL $JBL JBL $298.72 -$19.36 (-6.09%) Open on X",
+      "text": "$GFS $GFS GFS $42.75 -$0.79 (-1.81%) $JBL $JBL JBL $296.05 -$2.67 (-0.89%) Open on X",
       "createdAt": "2026-09-11T10:42:24.959Z",
       "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
       "stats": {
@@ -348,7 +433,7 @@
     {
       "tweetId": "2098361512712962364",
       "ticker": "GFS",
-      "text": "$GFS $GFS GFS $43.54 -$3.41 (-7.26%) $JBL $JBL JBL $298.72 -$19.36 (-6.09%) Open on X",
+      "text": "$GFS $GFS GFS $42.75 -$0.79 (-1.81%) $JBL $JBL JBL $296.05 -$2.67 (-0.89%) Open on X",
       "createdAt": "2026-09-11T10:42:24.959Z",
       "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
       "stats": {
@@ -5619,17 +5704,17 @@
   "tickers": [
     {
       "ticker": "NVDA",
-      "count": 29,
+      "count": 30,
       "firstSeen": "2026-07-21T05:38:00.000Z",
-      "lastSeen": "2026-09-13T13:23:10.885Z",
-      "avgSentiment": 0.137,
+      "lastSeen": "2026-09-15T23:11:14.159Z",
+      "avgSentiment": 0.133,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 75.8,
+      "signalScore": 76,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 15.6,
+        "frequency": 15.7,
         "recency": 10,
         "persistence": 5.1,
         "engagement": 0,
@@ -5738,6 +5823,11 @@
           "date": "2026-09-13",
           "count": 2,
           "avgSentiment": -0.45
+        },
+        {
+          "date": "2026-09-15",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -6286,6 +6376,70 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "count": 10,
+      "firstSeen": "2026-07-31T07:14:23.409Z",
+      "lastSeen": "2026-09-15T12:31:02.983Z",
+      "avgSentiment": 0.15,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 64.9,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11,
+        "recency": 10,
+        "persistence": 5,
+        "engagement": 0,
+        "conviction": 1.5,
+        "themeFit": 15,
+        "catalyst": 10.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-31",
+          "count": 3,
+          "avgSentiment": 0.333
+        },
+        {
+          "date": "2026-08-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-31",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-15",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "IREN",
       "count": 10,
       "firstSeen": "2026-07-18T01:51:00.000Z",
@@ -6547,65 +6701,6 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "count": 9,
-      "firstSeen": "2026-07-31T07:14:23.409Z",
-      "lastSeen": "2026-08-31T06:08:32.345Z",
-      "avgSentiment": 0.167,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 60.7,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.5,
-        "recency": 8,
-        "persistence": 3.3,
-        "engagement": 0,
-        "conviction": 1.3,
-        "themeFit": 15,
-        "catalyst": 10.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-31",
-          "count": 3,
-          "avgSentiment": 0.333
-        },
-        {
-          "date": "2026-08-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-31",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "SKHY",
       "count": 8,
       "firstSeen": "2026-07-18T12:39:00.000Z",
@@ -6665,6 +6760,60 @@
         {
           "date": "2026-09-15",
           "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CCXI",
+      "count": 7,
+      "firstSeen": "2026-07-28T18:45:19.920Z",
+      "lastSeen": "2026-09-15T12:31:02.983Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 48.6,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 5,
+        "engagement": 0,
+        "conviction": 1.1,
+        "themeFit": 11,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-28",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-29",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-07",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-15",
+          "count": 2,
           "avgSentiment": 0
         }
       ]
@@ -7007,55 +7156,6 @@
         },
         {
           "date": "2026-08-27",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CCXI",
-      "count": 5,
-      "firstSeen": "2026-07-28T18:45:19.920Z",
-      "lastSeen": "2026-08-19T02:51:57.842Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 43.1,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.2,
-        "recency": 8,
-        "persistence": 3.2,
-        "engagement": 0,
-        "conviction": 0.8,
-        "themeFit": 11,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-28",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-29",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-07",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-19",
           "count": 1,
           "avgSentiment": 0
         }
@@ -7836,6 +7936,35 @@
           "date": "2026-07-27",
           "count": 2,
           "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "MELI",
+      "count": 1,
+      "firstSeen": "2026-09-15T12:31:02.983Z",
+      "lastSeen": "2026-09-15T12:31:02.983Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-09-15",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -9122,14 +9251,18 @@
       "from": "2026-09-09",
       "to": "2026-09-15"
     },
-    "totalMentions": 21,
+    "totalMentions": 26,
     "topTickers": [
+      {
+        "ticker": "NVDA",
+        "count": 3
+      },
       {
         "ticker": "IREN",
         "count": 3
       },
       {
-        "ticker": "NVDA",
+        "ticker": "CCXI",
         "count": 2
       },
       {
@@ -9137,15 +9270,12 @@
         "count": 2
       },
       {
-        "ticker": "SKHY",
-        "count": 1
-      },
-      {
-        "ticker": "MU",
+        "ticker": "MELI",
         "count": 1
       }
     ],
     "newTickers": [
+      "MELI",
       "ESMT",
       "EQR",
       "LULU",
@@ -10557,37 +10687,37 @@
         "key": "2026-W38",
         "from": "2026-09-14",
         "to": "2026-09-15",
-        "posts": 9,
-        "mentions": 5,
-        "unclassified": 6,
+        "posts": 18,
+        "mentions": 10,
+        "unclassified": 14,
         "thin": false,
         "themes": [
           {
-            "id": "memory",
-            "title": "HBM / memory & storage",
-            "posts": 2,
-            "share": 0.4,
-            "prevPosts": 0,
-            "deltaShare": 0.4,
-            "trend": "new"
-          },
-          {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 2,
-            "share": 0.4,
+            "posts": 3,
+            "share": 0.429,
             "prevPosts": 4,
-            "deltaShare": 0.114,
+            "deltaShare": 0.143,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 1,
-            "share": 0.2,
+            "posts": 2,
+            "share": 0.286,
             "prevPosts": 2,
-            "deltaShare": 0.057,
-            "trend": "steady"
+            "deltaShare": 0.143,
+            "trend": "rising"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 2,
+            "share": 0.286,
+            "prevPosts": 0,
+            "deltaShare": 0.286,
+            "trend": "new"
           },
           {
             "id": "optics",
@@ -10619,8 +10749,31 @@
         ],
         "topTickers": [
           {
+            "ticker": "CCXI",
+            "count": 2,
+            "themes": []
+          },
+          {
             "ticker": "IREN",
             "count": 2,
+            "themes": []
+          },
+          {
+            "ticker": "NVDA",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "MELI",
+            "count": 1,
+            "themes": []
+          },
+          {
+            "ticker": "AMZN",
+            "count": 1,
             "themes": []
           },
           {
@@ -10648,6 +10801,9 @@
           }
         ],
         "newTickers": [
+          "CCXI",
+          "MELI",
+          "AMZN",
           "SKHY",
           "MU",
           "ESMT"
@@ -11007,63 +11163,63 @@
         "key": "2026-09",
         "from": "2026-09-01",
         "to": "2026-09-15",
-        "posts": 34,
-        "mentions": 47,
-        "unclassified": 16,
+        "posts": 43,
+        "mentions": 52,
+        "unclassified": 24,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 14,
-            "share": 0.311,
+            "posts": 15,
+            "share": 0.319,
             "prevPosts": 51,
-            "deltaShare": 0.101,
+            "deltaShare": 0.109,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 10,
-            "share": 0.222,
+            "posts": 11,
+            "share": 0.234,
             "prevPosts": 56,
-            "deltaShare": -0.008,
+            "deltaShare": 0.004,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 8,
-            "share": 0.178,
+            "share": 0.17,
             "prevPosts": 50,
-            "deltaShare": -0.028,
+            "deltaShare": -0.036,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 7,
-            "share": 0.156,
+            "share": 0.149,
             "prevPosts": 45,
-            "deltaShare": -0.03,
+            "deltaShare": -0.036,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 4,
-            "share": 0.089,
+            "share": 0.085,
             "prevPosts": 26,
-            "deltaShare": -0.018,
+            "deltaShare": -0.022,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 2,
-            "share": 0.044,
+            "share": 0.043,
             "prevPosts": 4,
-            "deltaShare": 0.028,
+            "deltaShare": 0.026,
             "trend": "steady"
           },
           {
@@ -11097,12 +11253,12 @@
         "topTickers": [
           {
             "ticker": "NVDA",
-            "count": 6,
+            "count": 7,
             "themes": [
               "neocloud",
+              "semicap",
               "optics",
-              "networking",
-              "semicap"
+              "networking"
             ]
           },
           {
@@ -11124,6 +11280,11 @@
               "networking",
               "semicap"
             ]
+          },
+          {
+            "ticker": "CCXI",
+            "count": 2,
+            "themes": []
           },
           {
             "ticker": "MU",
@@ -11161,15 +11322,6 @@
               "neocloud",
               "semicap",
               "memory"
-            ]
-          },
-          {
-            "ticker": "SIVE",
-            "count": 2,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
             ]
           }
         ],
