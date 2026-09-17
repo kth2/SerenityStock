@@ -1,14 +1,65 @@
 {
-  "updatedAt": "2026-09-16T11:55:09.916Z",
+  "updatedAt": "2026-09-17T11:57:54.338Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 212,
-  "totalMentions": 335,
+  "totalTweets": 216,
+  "totalMentions": 338,
   "mentions": [
+    {
+      "tweetId": "2100294057662832696",
+      "ticker": "SNDK",
+      "text": "Serenity @aleabitoreddit 2026-09-17 02:41 @StephanTeo39458 I think $IQE, VPEC and your recent epiwafer foundry type company commentary was very strategically bullish on $AXTI. This Foxconn note wasn’t clear on InP substrates. The main thing going forward is if AXT is able to pull off $SNDK style price hikes given their market share $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.30 $6.60 (+11.44%) Since mention (2026-06-07): -27.79% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £39.99 -£5.61 (-12.30%) Since mention (2026-06-07): -11.13% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $SNDK $SNDK NASDAQ SanDisk Storage $1,519.97 -$10.93 (-0.71%) Since mention (2026-06-10): -7.50% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-09-16T18:41:39.580Z",
+      "url": "https://x.com/aleabitoreddit/status/2100294057662832696",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 1,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2100294057662832696",
+      "ticker": "AXTI",
+      "text": "Serenity @aleabitoreddit 2026-09-17 02:41 @StephanTeo39458 I think $IQE, VPEC and your recent epiwafer foundry type company commentary was very strategically bullish on $AXTI. This Foxconn note wasn’t clear on InP substrates. The main thing going forward is if AXT is able to pull off $SNDK style price hikes given their market share $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.30 $6.60 (+11.44%) Since mention (2026-06-07): -27.79% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £39.99 -£5.61 (-12.30%) Since mention (2026-06-07): -11.13% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $SNDK $SNDK NASDAQ SanDisk Storage $1,519.97 -$10.93 (-0.71%) Since mention (2026-06-10): -7.50% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-09-16T18:41:39.580Z",
+      "url": "https://x.com/aleabitoreddit/status/2100294057662832696",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 1,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2100294057662832696",
+      "ticker": "IQE",
+      "text": "Serenity @aleabitoreddit 2026-09-17 02:41 @StephanTeo39458 I think $IQE, VPEC and your recent epiwafer foundry type company commentary was very strategically bullish on $AXTI. This Foxconn note wasn’t clear on InP substrates. The main thing going forward is if AXT is able to pull off $SNDK style price hikes given their market share $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.30 $6.60 (+11.44%) Since mention (2026-06-07): -27.79% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IQE $IQE LSE IQE plc Semiconductor wafers £39.99 -£5.61 (-12.30%) Since mention (2026-06-07): -11.13% UK-based compound semiconductor wafer maker for photonics, wireless, and infrared sensing applications. $SNDK $SNDK NASDAQ SanDisk Storage $1,519.97 -$10.93 (-0.71%) Since mention (2026-06-10): -7.50% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
+      "createdAt": "2026-09-16T18:41:39.580Z",
+      "url": "https://x.com/aleabitoreddit/status/2100294057662832696",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 1,
+        "label": "bullish"
+      }
+    },
     {
       "tweetId": "2099999510898577543",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit Tue Sep 15 23:11:14 +0000 2026 Just as a pep-talk statistic ahead of Fed decisions tomorrow. 50% of $NVDA employees are reportedly now worth over $25 Million. They didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.17 $1.21 (+0.57%) Since mention (2026-06-05): +3.45% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 23:11:14 +0000 2026 Just as a pep-talk statistic ahead of Fed decisions tomorrow. 50% of $NVDA employees are reportedly now worth over $25 Million. They didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $213.90 $1.73 (+0.82%) Since mention (2026-06-05): +4.29% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-09-15T23:11:14.159Z",
       "url": "https://x.com/aleabitoreddit/status/2099999510898577543",
       "stats": {
@@ -25,7 +76,7 @@
     {
       "tweetId": "2099838402749435966",
       "ticker": "MELI",
-      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "text": "$AMZN $AMZN AMZN $245.96 -$2.46 (-0.99%) $CCXI $CCXI CCXI $12.09 $0.04 (+0.33%) $MELI $MELI MELI $1,839.71 $10.77 (+0.59%) Open on X",
       "createdAt": "2026-09-15T12:31:02.983Z",
       "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
       "stats": {
@@ -42,7 +93,7 @@
     {
       "tweetId": "2099838402749435966",
       "ticker": "CCXI",
-      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "text": "$AMZN $AMZN AMZN $245.96 -$2.46 (-0.99%) $CCXI $CCXI CCXI $12.09 $0.04 (+0.33%) $MELI $MELI MELI $1,839.71 $10.77 (+0.59%) Open on X",
       "createdAt": "2026-09-15T12:31:02.983Z",
       "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
       "stats": {
@@ -59,7 +110,7 @@
     {
       "tweetId": "2099838402749435966",
       "ticker": "AMZN",
-      "text": "$AMZN $AMZN AMZN $248.42 -$5.12 (-2.02%) $CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) $MELI $MELI MELI $1,828.94 -$71.30 (-3.75%) Open on X",
+      "text": "$AMZN $AMZN AMZN $245.96 -$2.46 (-0.99%) $CCXI $CCXI CCXI $12.09 $0.04 (+0.33%) $MELI $MELI MELI $1,839.71 $10.77 (+0.59%) Open on X",
       "createdAt": "2026-09-15T12:31:02.983Z",
       "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
       "stats": {
@@ -76,7 +127,7 @@
     {
       "tweetId": "2099830591663513642",
       "ticker": "CCXI",
-      "text": "$CCXI $CCXI CCXI $12.05 $0.05 (+0.42%) Open on X",
+      "text": "$CCXI $CCXI CCXI $12.09 $0.04 (+0.33%) Open on X",
       "createdAt": "2026-09-15T12:00:00.675Z",
       "url": "https://x.com/aleabitoreddit/status/2099830591663513642",
       "stats": {
@@ -93,7 +144,7 @@
     {
       "tweetId": "2099674926697545849",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $927.60 $3.57 (+0.39%) Since mention (2026-06-05): +7.36% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.83 -$0.80 (-0.46%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $926.55 -$1.05 (-0.11%) Since mention (2026-06-05): +7.24% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.87 $0.04 (+0.02%) Open on X",
       "createdAt": "2026-09-15T01:41:27.255Z",
       "url": "https://x.com/aleabitoreddit/status/2099674926697545849",
       "stats": {
@@ -110,7 +161,7 @@
     {
       "tweetId": "2099674926697545849",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $927.60 $3.57 (+0.39%) Since mention (2026-06-05): +7.36% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.83 -$0.80 (-0.46%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Sep 15 01:41:27 +0000 2026 Some color on current memory environments for the $MU / $SKHY bros: \"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation. - Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity. - DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations. - Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes) - Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. So that there's virtually no relief in sight to current shortages. Sharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down. $MU $MU NASDAQ Micron Technology Memory $926.55 -$1.05 (-0.11%) Since mention (2026-06-05): +7.24% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $174.87 $0.04 (+0.02%) Open on X",
       "createdAt": "2026-09-15T01:41:27.255Z",
       "url": "https://x.com/aleabitoreddit/status/2099674926697545849",
       "stats": {
@@ -399,7 +450,7 @@
     {
       "tweetId": "2098384284713414928",
       "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 29.20 -SEK 0.26 (-0.88%) Since mention (2026-06-04): -66.34% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 29.94 -SEK 0.36 (-1.19%) Since mention (2026-06-04): -65.49% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-09-11T12:12:54.227Z",
       "url": "https://x.com/aleabitoreddit/status/2098384284713414928",
       "stats": {
@@ -416,7 +467,7 @@
     {
       "tweetId": "2098361512712962364",
       "ticker": "JBL",
-      "text": "$GFS $GFS GFS $42.75 -$0.79 (-1.81%) $JBL $JBL JBL $296.05 -$2.67 (-0.89%) Open on X",
+      "text": "$GFS $GFS GFS $43.03 $0.28 (+0.66%) $JBL $JBL JBL $297.24 $1.19 (+0.40%) Open on X",
       "createdAt": "2026-09-11T10:42:24.959Z",
       "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
       "stats": {
@@ -433,7 +484,7 @@
     {
       "tweetId": "2098361512712962364",
       "ticker": "GFS",
-      "text": "$GFS $GFS GFS $42.75 -$0.79 (-1.81%) $JBL $JBL JBL $296.05 -$2.67 (-0.89%) Open on X",
+      "text": "$GFS $GFS GFS $43.03 $0.28 (+0.66%) $JBL $JBL JBL $297.24 $1.19 (+0.40%) Open on X",
       "createdAt": "2026-09-11T10:42:24.959Z",
       "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
       "stats": {
@@ -6376,6 +6427,149 @@
       ]
     },
     {
+      "ticker": "SNDK",
+      "count": 10,
+      "firstSeen": "2026-07-30T08:10:00.010Z",
+      "lastSeen": "2026-09-16T18:41:39.580Z",
+      "avgSentiment": 0.15,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 55.9,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11,
+        "recency": 10,
+        "persistence": 5,
+        "engagement": 0,
+        "conviction": 1.5,
+        "themeFit": 15,
+        "catalyst": 5,
+        "risk": 3.6
+      },
+      "history": [
+        {
+          "date": "2026-07-30",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": -1
+        },
+        {
+          "date": "2026-08-04",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-14",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-16",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-17",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-28",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-16",
+          "count": 1,
+          "avgSentiment": 1
+        }
+      ]
+    },
+    {
+      "ticker": "AXTI",
+      "count": 10,
+      "firstSeen": "2026-07-29T21:27:33.780Z",
+      "lastSeen": "2026-09-16T18:41:39.580Z",
+      "avgSentiment": 0.327,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 65.1,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11,
+        "recency": 10,
+        "persistence": 5,
+        "engagement": 0,
+        "conviction": 6.6,
+        "themeFit": 15,
+        "catalyst": 5.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-07-31",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-17",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-23",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-11",
+          "count": 1,
+          "avgSentiment": -0.5
+        },
+        {
+          "date": "2026-09-13",
+          "count": 1,
+          "avgSentiment": 0.1
+        },
+        {
+          "date": "2026-09-16",
+          "count": 1,
+          "avgSentiment": 1
+        }
+      ]
+    },
+    {
       "ticker": "AMZN",
       "count": 10,
       "firstSeen": "2026-07-31T07:14:23.409Z",
@@ -6562,139 +6756,6 @@
         },
         {
           "date": "2026-08-23",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "AXTI",
-      "count": 9,
-      "firstSeen": "2026-07-29T21:27:33.780Z",
-      "lastSeen": "2026-09-13T13:23:10.885Z",
-      "avgSentiment": 0.252,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 64.5,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.5,
-        "recency": 10,
-        "persistence": 5,
-        "engagement": 0,
-        "conviction": 6.5,
-        "themeFit": 15,
-        "catalyst": 5.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-29",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-07-31",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-08-13",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-17",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-23",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-11",
-          "count": 1,
-          "avgSentiment": -0.5
-        },
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": 0.1
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "count": 9,
-      "firstSeen": "2026-07-30T08:10:00.010Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0.056,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 53.1,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.5,
-        "recency": 8,
-        "persistence": 4.8,
-        "engagement": 0,
-        "conviction": 1.3,
-        "themeFit": 15,
-        "catalyst": 5,
-        "risk": 3.6
-      },
-      "history": [
-        {
-          "date": "2026-07-30",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-31",
-          "count": 1,
-          "avgSentiment": -1
-        },
-        {
-          "date": "2026-08-04",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-08-14",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-16",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-17",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-28",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-02",
           "count": 1,
           "avgSentiment": 0
         }
@@ -7514,6 +7575,40 @@
           "date": "2026-08-13",
           "count": 1,
           "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "IQE",
+      "count": 2,
+      "firstSeen": "2026-08-13T09:46:26.134Z",
+      "lastSeen": "2026-09-16T18:41:39.580Z",
+      "avgSentiment": 0.75,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 45.6,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 3.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 14.4,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-16",
+          "count": 1,
+          "avgSentiment": 1
         }
       ]
     },
@@ -8810,35 +8905,6 @@
       ]
     },
     {
-      "ticker": "IQE",
-      "count": 1,
-      "firstSeen": "2026-08-13T09:46:26.134Z",
-      "lastSeen": "2026-08-13T09:46:26.134Z",
-      "avgSentiment": 0.5,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 31,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 8.8,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-08-13",
-          "count": 1,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
       "ticker": "AEHR",
       "count": 1,
       "firstSeen": "2026-08-12T11:44:46.747Z",
@@ -9246,13 +9312,17 @@
     }
   ],
   "digest": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "window": {
-      "from": "2026-09-09",
-      "to": "2026-09-15"
+      "from": "2026-09-10",
+      "to": "2026-09-16"
     },
-    "totalMentions": 26,
+    "totalMentions": 29,
     "topTickers": [
+      {
+        "ticker": "AXTI",
+        "count": 3
+      },
       {
         "ticker": "NVDA",
         "count": 3
@@ -9266,11 +9336,7 @@
         "count": 2
       },
       {
-        "ticker": "AXTI",
-        "count": 2
-      },
-      {
-        "ticker": "MELI",
+        "ticker": "SNDK",
         "count": 1
       }
     ],
@@ -10686,55 +10752,55 @@
       {
         "key": "2026-W38",
         "from": "2026-09-14",
-        "to": "2026-09-15",
-        "posts": 18,
-        "mentions": 10,
-        "unclassified": 14,
+        "to": "2026-09-16",
+        "posts": 22,
+        "mentions": 13,
+        "unclassified": 17,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 3,
-            "share": 0.429,
+            "posts": 4,
+            "share": 0.364,
             "prevPosts": 4,
-            "deltaShare": 0.143,
-            "trend": "rising"
-          },
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 2,
-            "share": 0.286,
-            "prevPosts": 2,
-            "deltaShare": 0.143,
+            "deltaShare": 0.078,
             "trend": "rising"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 2,
-            "share": 0.286,
+            "posts": 3,
+            "share": 0.273,
             "prevPosts": 0,
-            "deltaShare": 0.286,
+            "deltaShare": 0.273,
             "trend": "new"
+          },
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 2,
+            "share": 0.182,
+            "prevPosts": 2,
+            "deltaShare": 0.039,
+            "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 0,
-            "share": 0,
+            "posts": 1,
+            "share": 0.091,
             "prevPosts": 3,
-            "deltaShare": -0.214,
+            "deltaShare": -0.123,
             "trend": "cooling"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 0,
-            "share": 0,
+            "posts": 1,
+            "share": 0.091,
             "prevPosts": 3,
-            "deltaShare": -0.214,
+            "deltaShare": -0.123,
             "trend": "cooling"
           },
           {
@@ -10759,6 +10825,36 @@
             "themes": []
           },
           {
+            "ticker": "SNDK",
+            "count": 1,
+            "themes": [
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AXTI",
+            "count": 1,
+            "themes": [
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "IQE",
+            "count": 1,
+            "themes": [
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
             "ticker": "NVDA",
             "count": 1,
             "themes": [
@@ -10775,38 +10871,14 @@
             "ticker": "AMZN",
             "count": 1,
             "themes": []
-          },
-          {
-            "ticker": "SKHY",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "MU",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "ESMT",
-            "count": 1,
-            "themes": []
           }
         ],
         "newTickers": [
           "CCXI",
+          "SNDK",
+          "IQE",
           "MELI",
-          "AMZN",
-          "SKHY",
-          "MU",
-          "ESMT"
+          "AMZN"
         ]
       }
     ],
@@ -11162,64 +11234,64 @@
       {
         "key": "2026-09",
         "from": "2026-09-01",
-        "to": "2026-09-15",
-        "posts": 43,
-        "mentions": 52,
-        "unclassified": 24,
+        "to": "2026-09-16",
+        "posts": 47,
+        "mentions": 55,
+        "unclassified": 27,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 15,
-            "share": 0.319,
+            "posts": 16,
+            "share": 0.314,
             "prevPosts": 51,
-            "deltaShare": 0.109,
+            "deltaShare": 0.104,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 11,
-            "share": 0.234,
+            "share": 0.216,
             "prevPosts": 56,
-            "deltaShare": 0.004,
+            "deltaShare": -0.015,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 8,
-            "share": 0.17,
+            "posts": 9,
+            "share": 0.176,
             "prevPosts": 50,
-            "deltaShare": -0.036,
+            "deltaShare": -0.029,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 7,
-            "share": 0.149,
+            "posts": 8,
+            "share": 0.157,
             "prevPosts": 45,
-            "deltaShare": -0.036,
+            "deltaShare": -0.028,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 4,
-            "share": 0.085,
+            "posts": 5,
+            "share": 0.098,
             "prevPosts": 26,
-            "deltaShare": -0.022,
+            "deltaShare": -0.009,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 2,
-            "share": 0.043,
+            "share": 0.039,
             "prevPosts": 4,
-            "deltaShare": 0.026,
+            "deltaShare": 0.023,
             "trend": "steady"
           },
           {
@@ -11262,6 +11334,17 @@
             ]
           },
           {
+            "ticker": "AXTI",
+            "count": 4,
+            "themes": [
+              "optics",
+              "memory",
+              "networking",
+              "semicap",
+              "neocloud"
+            ]
+          },
+          {
             "ticker": "IREN",
             "count": 4,
             "themes": [
@@ -11272,13 +11355,14 @@
             ]
           },
           {
-            "ticker": "AXTI",
-            "count": 3,
+            "ticker": "SNDK",
+            "count": 2,
             "themes": [
-              "neocloud",
               "optics",
+              "memory",
               "networking",
-              "semicap"
+              "semicap",
+              "neocloud"
             ]
           },
           {
@@ -11313,15 +11397,6 @@
               "optics",
               "networking",
               "semicap"
-            ]
-          },
-          {
-            "ticker": "NBIS",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "semicap",
-              "memory"
             ]
           }
         ],
