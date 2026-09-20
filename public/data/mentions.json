@@ -1,10 +1,78 @@
 {
-  "updatedAt": "2026-09-19T11:19:29.837Z",
+  "updatedAt": "2026-09-20T11:41:28.828Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 221,
-  "totalMentions": 341,
+  "totalTweets": 223,
+  "totalMentions": 345,
   "mentions": [
+    {
+      "tweetId": "2101402656845808007",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-09-20 04:06 Just floating out an idea to $AVGO: If you lock up $SIVE laser supply for next few years since you need “more laser capacity”. You could unintentionally cause bottlenecks across your main ASIC competitors: Like $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments. Where many also seem to be aligned with your best friend $NVDA… Maybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply? $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.61 $10.31 (+2.97%) Since mention (2026-06-07): -7.29% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $244.25 $3.49 (+1.45%) Since mention (2026-06-06): -7.29% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $222.27 $2.93 (+1.34%) Since mention (2026-06-05): +8.37% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 31.00 SEK 3.62 (+13.22%) Since mention (2026-06-04): -64.27% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-09-19T20:06:50.222Z",
+      "url": "https://x.com/aleabitoreddit/status/2101402656845808007",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2101402656845808007",
+      "ticker": "MRVL",
+      "text": "Serenity @aleabitoreddit 2026-09-20 04:06 Just floating out an idea to $AVGO: If you lock up $SIVE laser supply for next few years since you need “more laser capacity”. You could unintentionally cause bottlenecks across your main ASIC competitors: Like $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments. Where many also seem to be aligned with your best friend $NVDA… Maybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply? $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.61 $10.31 (+2.97%) Since mention (2026-06-07): -7.29% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $244.25 $3.49 (+1.45%) Since mention (2026-06-06): -7.29% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $222.27 $2.93 (+1.34%) Since mention (2026-06-05): +8.37% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 31.00 SEK 3.62 (+13.22%) Since mention (2026-06-04): -64.27% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-09-19T20:06:50.222Z",
+      "url": "https://x.com/aleabitoreddit/status/2101402656845808007",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2101402656845808007",
+      "ticker": "SIVE",
+      "text": "Serenity @aleabitoreddit 2026-09-20 04:06 Just floating out an idea to $AVGO: If you lock up $SIVE laser supply for next few years since you need “more laser capacity”. You could unintentionally cause bottlenecks across your main ASIC competitors: Like $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments. Where many also seem to be aligned with your best friend $NVDA… Maybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply? $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.61 $10.31 (+2.97%) Since mention (2026-06-07): -7.29% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $244.25 $3.49 (+1.45%) Since mention (2026-06-06): -7.29% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $222.27 $2.93 (+1.34%) Since mention (2026-06-05): +8.37% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 31.00 SEK 3.62 (+13.22%) Since mention (2026-06-04): -64.27% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-09-19T20:06:50.222Z",
+      "url": "https://x.com/aleabitoreddit/status/2101402656845808007",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2101402656845808007",
+      "ticker": "AVGO",
+      "text": "Serenity @aleabitoreddit 2026-09-20 04:06 Just floating out an idea to $AVGO: If you lock up $SIVE laser supply for next few years since you need “more laser capacity”. You could unintentionally cause bottlenecks across your main ASIC competitors: Like $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments. Where many also seem to be aligned with your best friend $NVDA… Maybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply? $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.61 $10.31 (+2.97%) Since mention (2026-06-07): -7.29% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $244.25 $3.49 (+1.45%) Since mention (2026-06-06): -7.29% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $222.27 $2.93 (+1.34%) Since mention (2026-06-05): +8.37% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 31.00 SEK 3.62 (+13.22%) Since mention (2026-06-04): -64.27% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "createdAt": "2026-09-19T20:06:50.222Z",
+      "url": "https://x.com/aleabitoreddit/status/2101402656845808007",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
     {
       "tweetId": "2100530507549425704",
       "ticker": "PSMC",
@@ -5806,19 +5874,19 @@
   "tickers": [
     {
       "ticker": "NVDA",
-      "count": 30,
+      "count": 31,
       "firstSeen": "2026-07-21T05:38:00.000Z",
-      "lastSeen": "2026-09-15T23:11:14.159Z",
-      "avgSentiment": 0.133,
+      "lastSeen": "2026-09-19T20:06:50.222Z",
+      "avgSentiment": 0.144,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 76,
+      "signalScore": 76.2,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 15.7,
+        "frequency": 15.9,
         "recency": 10,
-        "persistence": 5.1,
+        "persistence": 5.2,
         "engagement": 0,
         "conviction": 11.5,
         "themeFit": 15,
@@ -5930,24 +5998,29 @@
           "date": "2026-09-15",
           "count": 1,
           "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-19",
+          "count": 1,
+          "avgSentiment": 0.5
         }
       ]
     },
     {
       "ticker": "SIVE",
-      "count": 24,
+      "count": 25,
       "firstSeen": "2026-07-24T08:11:00.000Z",
-      "lastSeen": "2026-09-15T23:51:04.154Z",
-      "avgSentiment": 0.083,
+      "lastSeen": "2026-09-19T20:06:50.222Z",
+      "avgSentiment": 0.1,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 73.5,
+      "signalScore": 73.8,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 14.7,
+        "frequency": 14.9,
         "recency": 10,
-        "persistence": 5.1,
+        "persistence": 5.2,
         "engagement": 0,
         "conviction": 4.7,
         "themeFit": 15,
@@ -6054,6 +6127,11 @@
           "date": "2026-09-15",
           "count": 1,
           "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-19",
+          "count": 1,
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -6887,6 +6965,55 @@
       ]
     },
     {
+      "ticker": "MRVL",
+      "count": 7,
+      "firstSeen": "2026-08-19T15:49:36.503Z",
+      "lastSeen": "2026-09-19T20:06:50.222Z",
+      "avgSentiment": 0.214,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 57.1,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 3.3,
+        "engagement": 0,
+        "conviction": 2.8,
+        "themeFit": 15,
+        "catalyst": 4.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-22",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-31",
+          "count": 3,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-19",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
       "ticker": "CCXI",
       "count": 7,
       "firstSeen": "2026-07-28T18:45:19.920Z",
@@ -7103,50 +7230,6 @@
       ]
     },
     {
-      "ticker": "MRVL",
-      "count": 6,
-      "firstSeen": "2026-08-19T15:49:36.503Z",
-      "lastSeen": "2026-09-02T10:53:20.490Z",
-      "avgSentiment": 0.167,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 53,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.9,
-        "recency": 8,
-        "persistence": 3,
-        "engagement": 0,
-        "conviction": 2.6,
-        "themeFit": 15,
-        "catalyst": 3.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-22",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-31",
-          "count": 3,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "TSM",
       "count": 6,
       "firstSeen": "2026-08-06T09:56:42.084Z",
@@ -7280,6 +7363,45 @@
           "date": "2026-08-27",
           "count": 1,
           "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "count": 4,
+      "firstSeen": "2026-07-26T20:12:11.346Z",
+      "lastSeen": "2026-09-19T20:06:50.222Z",
+      "avgSentiment": 0.125,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 54.8,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 10,
+        "persistence": 5.1,
+        "engagement": 0,
+        "conviction": 2.3,
+        "themeFit": 15,
+        "catalyst": 3,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-26",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-31",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-19",
+          "count": 1,
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -7489,40 +7611,6 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "count": 3,
-      "firstSeen": "2026-07-26T20:12:11.346Z",
-      "lastSeen": "2026-08-31T13:26:03.952Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 48.9,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 8,
-        "persistence": 3.4,
-        "engagement": 0,
-        "conviction": 2.2,
-        "themeFit": 15,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-26",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-31",
-          "count": 2,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "RDDT",
       "count": 3,
       "firstSeen": "2026-07-31T16:18:47.056Z",
@@ -7681,12 +7769,12 @@
       "avgSentiment": -0.5,
       "sentimentLabel": "bearish",
       "engagement": 0,
-      "signalScore": 44.3,
+      "signalScore": 42.3,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.3,
         "engagement": 0,
         "conviction": 0.3,
@@ -9402,31 +9490,31 @@
     }
   ],
   "digest": {
-    "date": "2026-09-17",
+    "date": "2026-09-19",
     "window": {
-      "from": "2026-09-11",
-      "to": "2026-09-17"
+      "from": "2026-09-13",
+      "to": "2026-09-19"
     },
     "totalMentions": 32,
     "topTickers": [
       {
-        "ticker": "AXTI",
-        "count": 3
-      },
-      {
         "ticker": "NVDA",
-        "count": 3
+        "count": 4
       },
       {
         "ticker": "IREN",
         "count": 3
       },
       {
+        "ticker": "SIVE",
+        "count": 2
+      },
+      {
         "ticker": "NBIS",
         "count": 2
       },
       {
-        "ticker": "SIVE",
+        "ticker": "AXTI",
         "count": 2
       }
     ],
@@ -10843,55 +10931,55 @@
       {
         "key": "2026-W38",
         "from": "2026-09-14",
-        "to": "2026-09-19",
-        "posts": 27,
-        "mentions": 16,
-        "unclassified": 19,
+        "to": "2026-09-20",
+        "posts": 29,
+        "mentions": 20,
+        "unclassified": 20,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 6,
-            "share": 0.333,
+            "posts": 7,
+            "share": 0.304,
             "prevPosts": 4,
-            "deltaShare": 0.048,
+            "deltaShare": 0.019,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 5,
-            "share": 0.278,
+            "posts": 6,
+            "share": 0.261,
             "prevPosts": 0,
-            "deltaShare": 0.278,
+            "deltaShare": 0.261,
             "trend": "new"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 3,
-            "share": 0.167,
+            "posts": 4,
+            "share": 0.174,
             "prevPosts": 2,
-            "deltaShare": 0.024,
+            "deltaShare": 0.031,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 2,
-            "share": 0.111,
+            "posts": 3,
+            "share": 0.13,
             "prevPosts": 3,
-            "deltaShare": -0.103,
+            "deltaShare": -0.084,
             "trend": "cooling"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 2,
-            "share": 0.111,
+            "posts": 3,
+            "share": 0.13,
             "prevPosts": 3,
-            "deltaShare": -0.103,
+            "deltaShare": -0.084,
             "trend": "cooling"
           },
           {
@@ -10906,6 +10994,28 @@
         ],
         "topTickers": [
           {
+            "ticker": "NVDA",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
             "ticker": "CCXI",
             "count": 2,
             "themes": []
@@ -10914,6 +11024,28 @@
             "ticker": "IREN",
             "count": 2,
             "themes": []
+          },
+          {
+            "ticker": "MRVL",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AVGO",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
           },
           {
             "ticker": "PSMC",
@@ -10932,52 +11064,13 @@
               "memory",
               "semicap"
             ]
-          },
-          {
-            "ticker": "SNDK",
-            "count": 1,
-            "themes": [
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "AXTI",
-            "count": 1,
-            "themes": [
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "IQE",
-            "count": 1,
-            "themes": [
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "SIVE",
-            "count": 1,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
-            ]
           }
         ],
         "newTickers": [
           "CCXI",
-          "PSMC",
-          "SNDK",
-          "IQE"
+          "MRVL",
+          "AVGO",
+          "PSMC"
         ]
       }
     ],
@@ -11333,26 +11426,26 @@
       {
         "key": "2026-09",
         "from": "2026-09-01",
-        "to": "2026-09-19",
-        "posts": 52,
-        "mentions": 58,
-        "unclassified": 29,
+        "to": "2026-09-20",
+        "posts": 54,
+        "mentions": 62,
+        "unclassified": 30,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 18,
-            "share": 0.31,
+            "posts": 19,
+            "share": 0.302,
             "prevPosts": 51,
-            "deltaShare": 0.1,
+            "deltaShare": 0.092,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 12,
-            "share": 0.207,
+            "posts": 13,
+            "share": 0.206,
             "prevPosts": 56,
             "deltaShare": -0.024,
             "trend": "steady"
@@ -11360,37 +11453,37 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 10,
-            "share": 0.172,
+            "posts": 11,
+            "share": 0.175,
             "prevPosts": 50,
-            "deltaShare": -0.033,
+            "deltaShare": -0.031,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 9,
-            "share": 0.155,
+            "posts": 10,
+            "share": 0.159,
             "prevPosts": 45,
-            "deltaShare": -0.03,
+            "deltaShare": -0.026,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 7,
-            "share": 0.121,
+            "posts": 8,
+            "share": 0.127,
             "prevPosts": 26,
-            "deltaShare": 0.014,
+            "deltaShare": 0.02,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 2,
-            "share": 0.034,
+            "share": 0.032,
             "prevPosts": 4,
-            "deltaShare": 0.018,
+            "deltaShare": 0.015,
             "trend": "steady"
           },
           {
@@ -11424,12 +11517,24 @@
         "topTickers": [
           {
             "ticker": "NVDA",
-            "count": 7,
+            "count": 8,
             "themes": [
               "neocloud",
-              "semicap",
               "optics",
-              "networking"
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "SIVE",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
             ]
           },
           {
@@ -11463,10 +11568,12 @@
             ]
           },
           {
-            "ticker": "SIVE",
-            "count": 3,
+            "ticker": "MRVL",
+            "count": 2,
             "themes": [
+              "neocloud",
               "optics",
+              "memory",
               "networking",
               "semicap"
             ]
@@ -11486,15 +11593,6 @@
             "ticker": "CCXI",
             "count": 2,
             "themes": []
-          },
-          {
-            "ticker": "MU",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
           }
         ],
         "newTickers": []

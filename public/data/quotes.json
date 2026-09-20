@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:19:39.231Z",
+  "updatedAt": "2026-09-20T11:41:38.684Z",
   "quotes": {
     "NVDA": {
       "price": 222.27,
@@ -12,7 +12,7 @@
       "price": 105.17,
       "changePct": 7.25,
       "currency": "USD",
-      "asOf": "2026-09-18T20:00:01.000Z",
+      "asOf": "2026-09-18T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "LITE": {
@@ -33,7 +33,7 @@
       "price": 349.54,
       "changePct": 0.64,
       "currency": "USD",
-      "asOf": "2026-09-18T20:00:01.000Z",
+      "asOf": "2026-09-18T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "MU": {
@@ -75,7 +75,7 @@
       "price": 559.82,
       "changePct": 2.7,
       "currency": "USD",
-      "asOf": "2026-09-18T20:00:01.000Z",
+      "asOf": "2026-09-18T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "SKHY": {
@@ -83,6 +83,13 @@
       "changePct": 2.46,
       "currency": "USD",
       "asOf": "2026-09-18T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "MRVL": {
+      "price": 244.25,
+      "changePct": 1.45,
+      "currency": "USD",
+      "asOf": "2026-09-18T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "CCXI": {
@@ -113,13 +120,6 @@
       "asOf": "2026-09-18T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
-    "MRVL": {
-      "price": 244.25,
-      "changePct": 1.45,
-      "currency": "USD",
-      "asOf": "2026-09-18T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
     "TSM": {
       "price": 434.67,
       "changePct": 1.02,
@@ -139,6 +139,13 @@
       "changePct": 3.86,
       "currency": "USD",
       "asOf": "2026-09-18T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "AVGO": {
+      "price": 357.61,
+      "changePct": 2.97,
+      "currency": "USD",
+      "asOf": "2026-09-18T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "TSLA": {
@@ -174,13 +181,6 @@
       "changePct": 1.85,
       "currency": "USD",
       "asOf": "2026-09-18T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AVGO": {
-      "price": 357.61,
-      "changePct": 2.97,
-      "currency": "USD",
-      "asOf": "2026-09-18T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "RDDT": {
