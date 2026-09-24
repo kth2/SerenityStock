@@ -1,85 +1,13 @@
 {
-  "updatedAt": "2026-09-24T00:31:51.700Z",
+  "updatedAt": "2026-09-24T12:03:50.809Z",
   "source": "trackserenity",
   "sourceUrl": "https://www.trackserenity.com/",
   "handle": "aleabitoreddit",
   "tweets": [
     {
-      "id": "a2b5799aaf3fc87f",
-      "text": "Serenity @aleabitoreddit 2026-09-24 03:17",
-      "createdAt": "2026-09-24T03:17:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "b8c6116dccca75a2",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:02:45 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "f3432c34122dcd3d",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:36:00 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "76167efec079b365",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:08:13 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "ece7ab28c30835e9",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:00:06 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "4e741043d3c69a45",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 11:10:03 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "b5b124f816f01fa8",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 13:36:39 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
+      "id": "e8b27604841f8f4f",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 04:05:35 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
         "replies": 0,
@@ -91,7 +19,7 @@
     {
       "id": "88778f57ead66f73",
       "text": "Serenity @aleabitoreddit Tue Sep 22 04:37:54 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
+      "createdAt": "2026-09-24T12:03:50.776Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
         "replies": 0,
@@ -101,9 +29,81 @@
       }
     },
     {
-      "id": "e8b27604841f8f4f",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 04:05:35 +0000 2026",
-      "createdAt": "2026-09-24T00:31:51.662Z",
+      "id": "b5b124f816f01fa8",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 13:36:39 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "4e741043d3c69a45",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 11:10:03 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "ece7ab28c30835e9",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:00:06 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "76167efec079b365",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:08:13 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "f3432c34122dcd3d",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:36:00 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "b8c6116dccca75a2",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:02:45 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "a2b5799aaf3fc87f",
+      "text": "Serenity @aleabitoreddit 2026-09-24 03:17",
+      "createdAt": "2026-09-24T03:17:00.000Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
         "replies": 0,
@@ -426,7 +426,7 @@
     },
     {
       "id": "2102569588433334309",
-      "text": "Serenity @aleabitoreddit 2026-09-23 09:23 Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years. $NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up). $SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years. I think semi supply chain growth needs to be re-accessed year by year, but at least for the next year and half I see unprecedented growth. $AVGO $AVGO NASDAQ Broadcom Semiconductors $354.99 -$9.55 (-2.62%) Since mention (2026-06-07): -7.97% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.51 -$3.36 (-1.47%) Since mention (2026-06-05): +9.95% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 32.80 SEK 2.84 (+9.48%) Since mention (2026-06-04): -62.19% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-09-23 09:23 Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years. $NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up). $SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years. I think semi supply chain growth needs to be re-accessed year by year, but at least for the next year and half I see unprecedented growth. $AVGO $AVGO NASDAQ Broadcom Semiconductors $354.99 -$9.55 (-2.62%) Since mention (2026-06-07): -7.97% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.51 -$3.36 (-1.47%) Since mention (2026-06-05): +9.95% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 31.86 SEK 0.86 (+2.77%) Since mention (2026-06-04): -63.27% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-09-23T01:23:48.393Z",
       "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
       "stats": {
