@@ -1,14 +1,31 @@
 {
-  "updatedAt": "2026-09-25T12:04:16.409Z",
+  "updatedAt": "2026-09-26T11:39:30.637Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 355,
-  "totalMentions": 414,
+  "totalTweets": 357,
+  "totalMentions": 415,
   "mentions": [
+    {
+      "tweetId": "2103490181525631382",
+      "ticker": "SPY",
+      "text": "$SPY $SPY SPY $771.35 $4.17 (+0.54%) $SUBWAY $SUBWAY SUBWAY Quote unavailable Open on X",
+      "createdAt": "2026-09-25T14:21:54.890Z",
+      "url": "https://x.com/aleabitoreddit/status/2103490181525631382",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2103237386054570314",
       "ticker": "AKAM",
-      "text": "$AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) Open on X",
+      "text": "$AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) Open on X",
       "createdAt": "2026-09-24T21:37:23.753Z",
       "url": "https://x.com/aleabitoreddit/status/2103237386054570314",
       "stats": {
@@ -25,7 +42,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "JBL",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -42,7 +59,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -59,7 +76,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -76,7 +93,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "INTC",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -93,7 +110,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "ARM",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -110,7 +127,7 @@
     {
       "tweetId": "2103233602721132744",
       "ticker": "AKAM",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $306.34 -$26.22 (-7.88%) $INTC $INTC NASDAQ Intel Semiconductors $127.39 $4.79 (+3.91%) Since mention (2026-06-07): +28.46% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $310.69 $1.94 (+0.63%) $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:22:21 +0000 2026 Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1. So your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries. Component procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too. $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ARM $ARM ARM $310.32 $3.98 (+1.30%) $INTC $INTC NASDAQ Intel Semiconductors $123.00 -$4.39 (-3.45%) Since mention (2026-06-07): +24.03% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $JBL $JBL JBL $316.74 $6.05 (+1.95%) $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:22:21.736Z",
       "url": "https://x.com/aleabitoreddit/status/2103233602721132744",
       "stats": {
@@ -127,7 +144,7 @@
     {
       "tweetId": "2103232350348001701",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:17:23.147Z",
       "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
       "stats": {
@@ -144,7 +161,7 @@
     {
       "tweetId": "2103232350348001701",
       "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:17:23.147Z",
       "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
       "stats": {
@@ -161,7 +178,7 @@
     {
       "tweetId": "2103232350348001701",
       "ticker": "AKAM",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $110.41 -$8.03 (-6.78%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $629.26 $14.65 (+2.38%) Since mention (2026-06-07): +34.92% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,080.53 $8.65 (+0.81%) Since mention (2026-06-05): +25.06% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026 $AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years. $AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory. So much for Anthropic/OpenAI calling for an AI slowdown? $AKAM $AKAM AKAM $113.94 $3.53 (+3.20%) $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $630.63 $1.37 (+0.22%) Since mention (2026-06-07): +35.22% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $MU $MU NASDAQ Micron Technology Memory $1,082.28 $1.75 (+0.16%) Since mention (2026-06-05): +25.26% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-24T21:17:23.147Z",
       "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
       "stats": {
@@ -178,7 +195,7 @@
     {
       "tweetId": "2103161145934963178",
       "ticker": "SPY",
-      "text": "$QQQ $QQQ QQQ $741.10 -$0.11 (-0.01%) $SPY $SPY SPY $767.18 -$0.63 (-0.08%) Open on X",
+      "text": "$QQQ $QQQ QQQ $744.50 $3.40 (+0.46%) $SPY $SPY SPY $771.35 $4.17 (+0.54%) Open on X",
       "createdAt": "2026-09-24T16:34:26.692Z",
       "url": "https://x.com/aleabitoreddit/status/2103161145934963178",
       "stats": {
@@ -195,7 +212,7 @@
     {
       "tweetId": "2103161145934963178",
       "ticker": "QQQ",
-      "text": "$QQQ $QQQ QQQ $741.10 -$0.11 (-0.01%) $SPY $SPY SPY $767.18 -$0.63 (-0.08%) Open on X",
+      "text": "$QQQ $QQQ QQQ $744.50 $3.40 (+0.46%) $SPY $SPY SPY $771.35 $4.17 (+0.54%) Open on X",
       "createdAt": "2026-09-24T16:34:26.692Z",
       "url": "https://x.com/aleabitoreddit/status/2103161145934963178",
       "stats": {
@@ -212,7 +229,7 @@
     {
       "tweetId": "2103156967053394241",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.03 -$0.03 (-0.03%) Since mention (2026-06-05): -42.92% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $290.61 -$9.99 (-3.32%) $LITE $LITE NASDAQ Lumentum Optical components $929.04 -$7.96 (-0.85%) Since mention (2026-06-09): +13.05% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $224.58 -$0.93 (-0.41%) Since mention (2026-06-05): +9.50% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.40 $0.37 (+0.37%) Since mention (2026-06-05): -42.71% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $295.83 $5.22 (+1.80%) $LITE $LITE NASDAQ Lumentum Optical components $941.65 $12.61 (+1.36%) Since mention (2026-06-09): +14.59% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.07 $0.49 (+0.22%) Since mention (2026-06-05): +9.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-09-24T16:17:50.369Z",
       "url": "https://x.com/aleabitoreddit/status/2103156967053394241",
       "stats": {
@@ -229,7 +246,7 @@
     {
       "tweetId": "2103156967053394241",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.03 -$0.03 (-0.03%) Since mention (2026-06-05): -42.92% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $290.61 -$9.99 (-3.32%) $LITE $LITE NASDAQ Lumentum Optical components $929.04 -$7.96 (-0.85%) Since mention (2026-06-09): +13.05% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $224.58 -$0.93 (-0.41%) Since mention (2026-06-05): +9.50% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.40 $0.37 (+0.37%) Since mention (2026-06-05): -42.71% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $295.83 $5.22 (+1.80%) $LITE $LITE NASDAQ Lumentum Optical components $941.65 $12.61 (+1.36%) Since mention (2026-06-09): +14.59% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.07 $0.49 (+0.22%) Since mention (2026-06-05): +9.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-09-24T16:17:50.369Z",
       "url": "https://x.com/aleabitoreddit/status/2103156967053394241",
       "stats": {
@@ -246,7 +263,7 @@
     {
       "tweetId": "2103156967053394241",
       "ticker": "COHR",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.03 -$0.03 (-0.03%) Since mention (2026-06-05): -42.92% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $290.61 -$9.99 (-3.32%) $LITE $LITE NASDAQ Lumentum Optical components $929.04 -$7.96 (-0.85%) Since mention (2026-06-09): +13.05% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $224.58 -$0.93 (-0.41%) Since mention (2026-06-05): +9.50% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.40 $0.37 (+0.37%) Since mention (2026-06-05): -42.71% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $295.83 $5.22 (+1.80%) $LITE $LITE NASDAQ Lumentum Optical components $941.65 $12.61 (+1.36%) Since mention (2026-06-09): +14.59% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.07 $0.49 (+0.22%) Since mention (2026-06-05): +9.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-09-24T16:17:50.369Z",
       "url": "https://x.com/aleabitoreddit/status/2103156967053394241",
       "stats": {
@@ -263,7 +280,7 @@
     {
       "tweetId": "2103156967053394241",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.03 -$0.03 (-0.03%) Since mention (2026-06-05): -42.92% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $290.61 -$9.99 (-3.32%) $LITE $LITE NASDAQ Lumentum Optical components $929.04 -$7.96 (-0.85%) Since mention (2026-06-09): +13.05% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $224.58 -$0.93 (-0.41%) Since mention (2026-06-05): +9.50% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026 I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. But Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027. 2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $101.40 $0.37 (+0.37%) Since mention (2026-06-05): -42.71% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $COHR $COHR COHR $295.83 $5.22 (+1.80%) $LITE $LITE NASDAQ Lumentum Optical components $941.65 $12.61 (+1.36%) Since mention (2026-06-09): +14.59% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.07 $0.49 (+0.22%) Since mention (2026-06-05): +9.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-09-24T16:17:50.369Z",
       "url": "https://x.com/aleabitoreddit/status/2103156967053394241",
       "stats": {
@@ -280,7 +297,7 @@
     {
       "tweetId": "2103144796110061704",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $90.13 $3.23 (+3.72%) $IREN $IREN IREN $46.15 -$0.90 (-1.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $243.48 $16.87 (+7.44%) Since mention (2026-06-07): +6.88% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-09-24T15:29:28.590Z",
       "url": "https://x.com/aleabitoreddit/status/2103144796110061704",
       "stats": {
@@ -297,7 +314,7 @@
     {
       "tweetId": "2103144796110061704",
       "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $90.13 $3.23 (+3.72%) $IREN $IREN IREN $46.15 -$0.90 (-1.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $243.48 $16.87 (+7.44%) Since mention (2026-06-07): +6.88% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-09-24T15:29:28.590Z",
       "url": "https://x.com/aleabitoreddit/status/2103144796110061704",
       "stats": {
@@ -314,7 +331,7 @@
     {
       "tweetId": "2103144796110061704",
       "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $90.13 $3.23 (+3.72%) $IREN $IREN IREN $46.15 -$0.90 (-1.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $243.48 $16.87 (+7.44%) Since mention (2026-06-07): +6.88% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026 I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through). I think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration. I've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before. But M&A to get that gap fixed is probably the most bullish part of what they've done. $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-09-24T15:29:28.590Z",
       "url": "https://x.com/aleabitoreddit/status/2103144796110061704",
       "stats": {
@@ -331,7 +348,7 @@
     {
       "tweetId": "2103142451020267583",
       "ticker": "CCXI",
-      "text": "$CCXI $CCXI CCXI $12.23 -$0.49 (-3.85%) Open on X",
+      "text": "$CCXI $CCXI CCXI $12.43 $0.20 (+1.64%) Open on X",
       "createdAt": "2026-09-24T15:20:09.477Z",
       "url": "https://x.com/aleabitoreddit/status/2103142451020267583",
       "stats": {
@@ -348,7 +365,7 @@
     {
       "tweetId": "2103142262729556021",
       "ticker": "IREN",
-      "text": "$IREN $IREN IREN $46.15 -$0.90 (-1.91%) Open on X",
+      "text": "$IREN $IREN IREN $44.13 -$2.03 (-4.39%) Open on X",
       "createdAt": "2026-09-24T15:19:24.585Z",
       "url": "https://x.com/aleabitoreddit/status/2103142262729556021",
       "stats": {
@@ -382,7 +399,7 @@
     {
       "tweetId": "2103139832428155386",
       "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026 @aleabitoreddit @FransBakker9812 everybody needs to remember what this guy said about $NBIS being a scam 🤣🤦🤡 $IREN $IREN $IREN IREN $46.15 -$0.90 (-1.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $243.48 $16.87 (+7.44%) Since mention (2026-06-07): +6.88% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026 @aleabitoreddit @FransBakker9812 everybody needs to remember what this guy said about $NBIS being a scam 🤣🤦🤡 $IREN $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-09-24T15:09:45.156Z",
       "url": "https://x.com/aleabitoreddit/status/2103139832428155386",
       "stats": {
@@ -399,7 +416,7 @@
     {
       "tweetId": "2103139832428155386",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026 @aleabitoreddit @FransBakker9812 everybody needs to remember what this guy said about $NBIS being a scam 🤣🤦🤡 $IREN $IREN $IREN IREN $46.15 -$0.90 (-1.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $243.48 $16.87 (+7.44%) Since mention (2026-06-07): +6.88% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026 @aleabitoreddit @FransBakker9812 everybody needs to remember what this guy said about $NBIS being a scam 🤣🤦🤡 $IREN $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-09-24T15:09:45.156Z",
       "url": "https://x.com/aleabitoreddit/status/2103139832428155386",
       "stats": {
@@ -416,7 +433,7 @@
     {
       "tweetId": "2103139351790227665",
       "ticker": "FLNC",
-      "text": "$FLNC $FLNC FLNC $7.46 -$0.12 (-1.58%) Open on X",
+      "text": "$FLNC $FLNC FLNC $7.85 $0.39 (+5.23%) Open on X",
       "createdAt": "2026-09-24T15:07:50.563Z",
       "url": "https://x.com/aleabitoreddit/status/2103139351790227665",
       "stats": {
@@ -9261,6 +9278,40 @@
       ]
     },
     {
+      "ticker": "SPY",
+      "count": 2,
+      "firstSeen": "2026-09-24T16:34:26.692Z",
+      "lastSeen": "2026-09-25T14:21:54.890Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 30.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 2.1,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-25",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "ARM",
       "count": 2,
       "firstSeen": "2026-09-22T04:05:35.530Z",
@@ -9776,35 +9827,6 @@
           "date": "2026-07-27",
           "count": 2,
           "avgSentiment": 0.25
-        }
-      ]
-    },
-    {
-      "ticker": "SPY",
-      "count": 1,
-      "firstSeen": "2026-09-24T16:34:26.692Z",
-      "lastSeen": "2026-09-24T16:34:26.692Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 10,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "avgSentiment": 0
         }
       ]
     },
@@ -11202,12 +11224,12 @@
     }
   ],
   "digest": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "window": {
-      "from": "2026-09-18",
-      "to": "2026-09-24"
+      "from": "2026-09-19",
+      "to": "2026-09-25"
     },
-    "totalMentions": 73,
+    "totalMentions": 74,
     "topTickers": [
       {
         "ticker": "NBIS",
@@ -11232,9 +11254,9 @@
     ],
     "newTickers": [
       "AKAM",
+      "SPY",
       "ARM",
       "FLNC",
-      "SPY",
       "LPK",
       "LPKF",
       "UPWK",
@@ -12802,10 +12824,10 @@
       {
         "key": "2026-W39",
         "from": "2026-09-21",
-        "to": "2026-09-25",
-        "posts": 119,
-        "mentions": 59,
-        "unclassified": 102,
+        "to": "2026-09-26",
+        "posts": 121,
+        "mentions": 60,
+        "unclassified": 104,
         "thin": false,
         "themes": [
           {
@@ -12913,6 +12935,11 @@
             ]
           },
           {
+            "ticker": "SPY",
+            "count": 2,
+            "themes": []
+          },
+          {
             "ticker": "INTC",
             "count": 2,
             "themes": [
@@ -12931,23 +12958,13 @@
               "networking",
               "semicap"
             ]
-          },
-          {
-            "ticker": "AAOI",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking",
-              "semicap"
-            ]
           }
         ],
         "newTickers": [
           "AKAM",
           "AMD",
-          "ARM",
-          "AAOI"
+          "SPY",
+          "ARM"
         ]
       }
     ],
@@ -13303,10 +13320,10 @@
       {
         "key": "2026-09",
         "from": "2026-09-01",
-        "to": "2026-09-25",
-        "posts": 186,
-        "mentions": 131,
-        "unclassified": 141,
+        "to": "2026-09-26",
+        "posts": 188,
+        "mentions": 132,
+        "unclassified": 143,
         "thin": false,
         "themes": [
           {
