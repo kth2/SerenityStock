@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T11:39:30.637Z",
+  "updatedAt": "2026-09-27T12:17:43.509Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 357,
-  "totalMentions": 415,
+  "totalTweets": 359,
+  "totalMentions": 429,
   "mentions": [
     {
       "tweetId": "2103490181525631382",
@@ -7059,6 +7059,244 @@
         "score": -0.25,
         "label": "bearish"
       }
+    },
+    {
+      "tweetId": "1988048592754589970",
+      "ticker": "WULF",
+      "text": "$CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) Open on X",
+      "createdAt": "2025-11-11T00:58:15.326Z",
+      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1988048592754589970",
+      "ticker": "CRWV",
+      "text": "$CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) Open on X",
+      "createdAt": "2025-11-11T00:58:15.326Z",
+      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1988048592754589970",
+      "ticker": "CIFR",
+      "text": "$CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) Open on X",
+      "createdAt": "2025-11-11T00:58:15.326Z",
+      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "WYFI",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "HIVE",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "CLSK",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "HUT",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "WULF",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "CIFR",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "RIOT",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "APLD",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "IREN",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "NBIS",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "1984837960735285593",
+      "ticker": "CRWV",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $26.25 -$0.81 (-2.99%) $CIFR $CIFR CIFR $17.73 -$0.37 (-2.04%) $CLSK $CLSK CLSK $13.95 -$0.31 (-2.17%) $CRWV $CRWV CRWV $87.59 -$2.54 (-2.82%) $HIVE $HIVE HIVE $3.16 -$0.14 (-4.24%) $HUT $HUT HUT $96.82 -$4.72 (-4.65%) $IREN $IREN IREN $44.13 -$2.03 (-4.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $237.33 -$6.15 (-2.53%) Since mention (2026-06-07): +4.18% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $23.00 -$0.48 (-2.04%) $WULF $WULF WULF $15.74 -$0.55 (-3.38%) $WYFI $WYFI WYFI $19.62 -$0.64 (-3.16%) Open on X",
+      "createdAt": "2025-11-02T04:20:21.002Z",
+      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
     }
   ],
   "tickers": [
@@ -7470,6 +7708,115 @@
       ]
     },
     {
+      "ticker": "NBIS",
+      "count": 21,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-09-24T15:29:28.590Z",
+      "avgSentiment": 0.151,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 77.5,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 14.2,
+        "recency": 10,
+        "persistence": 8,
+        "engagement": 0,
+        "conviction": 8.1,
+        "themeFit": 15,
+        "catalyst": 12,
+        "risk": 1.8
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-18",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 2,
+          "avgSentiment": 0.25
+        },
+        {
+          "date": "2026-07-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-30",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-12",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-23",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-31",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-13",
+          "count": 1,
+          "avgSentiment": -1
+        },
+        {
+          "date": "2026-09-17",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-09-20",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-21",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-22",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-09-24",
+          "count": 2,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
       "ticker": "LITE",
       "count": 20,
       "firstSeen": "2026-07-29T17:07:41.689Z",
@@ -7574,110 +7921,6 @@
       ]
     },
     {
-      "ticker": "NBIS",
-      "count": 20,
-      "firstSeen": "2026-07-18T01:51:00.000Z",
-      "lastSeen": "2026-09-24T15:29:28.590Z",
-      "avgSentiment": 0.158,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 74.6,
-      "signalBand": "constructive",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 13.9,
-        "recency": 10,
-        "persistence": 5.3,
-        "engagement": 0,
-        "conviction": 8.1,
-        "themeFit": 15,
-        "catalyst": 12,
-        "risk": 1.8
-      },
-      "history": [
-        {
-          "date": "2026-07-18",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 2,
-          "avgSentiment": 0.25
-        },
-        {
-          "date": "2026-07-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-30",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-12",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-23",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-31",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": -1
-        },
-        {
-          "date": "2026-09-17",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-09-20",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-09-21",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-22",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-09-24",
-          "count": 2,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
       "ticker": "MU",
       "count": 16,
       "firstSeen": "2026-07-31T07:14:23.409Z",
@@ -7767,6 +8010,80 @@
       ]
     },
     {
+      "ticker": "IREN",
+      "count": 14,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-09-24T15:29:28.590Z",
+      "avgSentiment": 0.036,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 71.6,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 12.4,
+        "recency": 10,
+        "persistence": 8,
+        "engagement": 0,
+        "conviction": 8.9,
+        "themeFit": 15,
+        "catalyst": 8.5,
+        "risk": 3.2
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-18",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-29",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-30",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-13",
+          "count": 1,
+          "avgSentiment": -1
+        },
+        {
+          "date": "2026-09-14",
+          "count": 2,
+          "avgSentiment": 0.25
+        },
+        {
+          "date": "2026-09-24",
+          "count": 3,
+          "avgSentiment": 0.333
+        }
+      ]
+    },
+    {
       "ticker": "AMD",
       "count": 13,
       "firstSeen": "2026-07-21T17:14:00.000Z",
@@ -7837,75 +8154,6 @@
           "date": "2026-09-24",
           "count": 2,
           "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "IREN",
-      "count": 13,
-      "firstSeen": "2026-07-18T01:51:00.000Z",
-      "lastSeen": "2026-09-24T15:29:28.590Z",
-      "avgSentiment": 0.038,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 68,
-      "signalBand": "constructive",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 12.1,
-        "recency": 10,
-        "persistence": 5.3,
-        "engagement": 0,
-        "conviction": 8.8,
-        "themeFit": 15,
-        "catalyst": 8,
-        "risk": 3.2
-      },
-      "history": [
-        {
-          "date": "2026-07-18",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-29",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-30",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": -1
-        },
-        {
-          "date": "2026-09-14",
-          "count": 2,
-          "avgSentiment": 0.25
-        },
-        {
-          "date": "2026-09-24",
-          "count": 3,
-          "avgSentiment": 0.333
         }
       ]
     },
@@ -8452,6 +8700,65 @@
       ]
     },
     {
+      "ticker": "CRWV",
+      "count": 7,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-09-24T15:29:28.590Z",
+      "avgSentiment": 0.214,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 62.8,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 8,
+        "engagement": 0,
+        "conviction": 2.8,
+        "themeFit": 15,
+        "catalyst": 5.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2025-11-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "avgSentiment": 1
+        }
+      ]
+    },
+    {
       "ticker": "RDDT",
       "count": 7,
       "firstSeen": "2026-07-31T16:18:47.056Z",
@@ -8746,55 +9053,6 @@
       ]
     },
     {
-      "ticker": "CRWV",
-      "count": 5,
-      "firstSeen": "2026-07-21T01:18:00.000Z",
-      "lastSeen": "2026-09-24T15:29:28.590Z",
-      "avgSentiment": 0.3,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 57.9,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.2,
-        "recency": 10,
-        "persistence": 5.3,
-        "engagement": 0,
-        "conviction": 2.5,
-        "themeFit": 15,
-        "catalyst": 5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "avgSentiment": 1
-        }
-      ]
-    },
-    {
       "ticker": "AVGO",
       "count": 5,
       "firstSeen": "2026-07-26T20:12:11.346Z",
@@ -8846,12 +9104,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 40.5,
+      "signalScore": 37.5,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 8.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 3.3,
         "engagement": 0,
         "conviction": 0.8,
@@ -9200,6 +9458,84 @@
       ]
     },
     {
+      "ticker": "RIOT",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-09-02T09:54:21.024Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 50,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 8,
+        "persistence": 7.2,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 13.5,
+        "catalyst": 2.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "HUT",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-09-01T00:37:28.393Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 52,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 8,
+        "persistence": 7.2,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 15,
+        "catalyst": 3,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-01",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "RKLB",
       "count": 3,
       "firstSeen": "2026-08-05T00:16:18.710Z",
@@ -9272,6 +9608,45 @@
         },
         {
           "date": "2026-08-13",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CIFR",
+      "count": 3,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 41.1,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 5,
+        "persistence": 5.8,
+        "engagement": 0,
+        "conviction": 0.5,
+        "themeFit": 9.1,
+        "catalyst": 2.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2025-11-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
           "count": 1,
           "avgSentiment": 0
         }
@@ -9579,68 +9954,34 @@
       ]
     },
     {
-      "ticker": "RIOT",
+      "ticker": "APLD",
       "count": 2,
-      "firstSeen": "2026-08-11T01:29:11.268Z",
+      "firstSeen": "2025-11-02T04:20:21.002Z",
       "lastSeen": "2026-09-02T09:54:21.024Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 42.1,
+      "signalScore": 44.6,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
         "recency": 8,
-        "persistence": 3.2,
+        "persistence": 5.8,
         "engagement": 0,
         "conviction": 0.3,
-        "themeFit": 11.5,
-        "catalyst": 2,
+        "themeFit": 12.5,
+        "catalyst": 1,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-08-11",
+          "date": "2025-11-02",
           "count": 1,
           "avgSentiment": 0
         },
         {
           "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "HUT",
-      "count": 2,
-      "firstSeen": "2026-07-21T01:18:00.000Z",
-      "lastSeen": "2026-09-01T00:37:28.393Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 43.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 8,
-        "persistence": 3.5,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 12.5,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-01",
           "count": 1,
           "avgSentiment": 0
         }
@@ -9827,6 +10168,108 @@
           "date": "2026-07-27",
           "count": 2,
           "avgSentiment": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "WYFI",
+      "count": 2,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 39.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 5,
+        "persistence": 5.8,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 9.1,
+        "catalyst": 2.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CLSK",
+      "count": 2,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 39.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 5,
+        "persistence": 5.8,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 9.1,
+        "catalyst": 2.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "WULF",
+      "count": 2,
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2025-11-11T00:58:15.326Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.4,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 1,
+        "persistence": 1.5,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 6.1,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2025-11-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2025-11-11",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -10146,35 +10589,6 @@
           "date": "2026-09-13",
           "count": 1,
           "avgSentiment": 0.1
-        }
-      ]
-    },
-    {
-      "ticker": "APLD",
-      "count": 1,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 36.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 8,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
         }
       ]
     },
@@ -11136,87 +11550,29 @@
       ]
     },
     {
-      "ticker": "WYFI",
+      "ticker": "HIVE",
       "count": 1,
-      "firstSeen": "2026-07-21T01:18:00.000Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "lastSeen": "2025-11-02T04:20:21.002Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 30.1,
+      "signalScore": 24.3,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 5,
+        "recency": 1,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
-        "themeFit": 6.4,
-        "catalyst": 2,
+        "themeFit": 6.1,
+        "catalyst": 0.5,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CLSK",
-      "count": 1,
-      "firstSeen": "2026-07-21T01:18:00.000Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 30.1,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 6.4,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CIFR",
-      "count": 1,
-      "firstSeen": "2026-07-21T01:18:00.000Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 30.1,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 6.4,
-        "catalyst": 2,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-21",
+          "date": "2025-11-02",
           "count": 1,
           "avgSentiment": 0
         }
@@ -11270,6 +11626,149 @@
     "minSample": 4,
     "weekly": [
       {
+        "key": "2025-W44",
+        "from": "2025-11-02",
+        "to": "2025-11-02",
+        "posts": 1,
+        "mentions": 11,
+        "unclassified": 0,
+        "thin": true,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 1,
+            "share": 0.5,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "cooling",
+            "title": "Liquid cooling / thermal",
+            "posts": 1,
+            "share": 0.5,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "WYFI",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "HIVE",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "CLSK",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "HUT",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "WULF",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "CIFR",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "RIOT",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "APLD",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          }
+        ],
+        "newTickers": []
+      },
+      {
+        "key": "2025-W46",
+        "from": "2025-11-11",
+        "to": "2025-11-11",
+        "posts": 1,
+        "mentions": 3,
+        "unclassified": 1,
+        "thin": true,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.5,
+            "trend": "thin"
+          },
+          {
+            "id": "cooling",
+            "title": "Liquid cooling / thermal",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.5,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "WULF",
+            "count": 1,
+            "themes": []
+          },
+          {
+            "ticker": "CRWV",
+            "count": 1,
+            "themes": []
+          },
+          {
+            "ticker": "CIFR",
+            "count": 1,
+            "themes": []
+          }
+        ],
+        "newTickers": []
+      },
+      {
         "key": "2026-W29",
         "from": "2026-07-17",
         "to": "2026-07-18",
@@ -11284,7 +11783,7 @@
             "posts": 2,
             "share": 0.5,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.5,
             "trend": "thin"
           },
           {
@@ -11293,7 +11792,7 @@
             "posts": 1,
             "share": 0.25,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.25,
             "trend": "thin"
           },
           {
@@ -11302,7 +11801,7 @@
             "posts": 1,
             "share": 0.25,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.25,
             "trend": "thin"
           }
         ],
@@ -11350,7 +11849,14 @@
             ]
           }
         ],
-        "newTickers": []
+        "newTickers": [
+          "SKHY",
+          "IREN",
+          "NBIS",
+          "SPCX",
+          "META",
+          "AAOI"
+        ]
       },
       {
         "key": "2026-W30",
@@ -12970,6 +13476,102 @@
     ],
     "monthly": [
       {
+        "key": "2025-11",
+        "from": "2025-11-02",
+        "to": "2025-11-11",
+        "posts": 2,
+        "mentions": 14,
+        "unclassified": 1,
+        "thin": true,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 1,
+            "share": 0.5,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "cooling",
+            "title": "Liquid cooling / thermal",
+            "posts": 1,
+            "share": 0.5,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "WULF",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "CRWV",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "CIFR",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "WYFI",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "HIVE",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "CLSK",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "HUT",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          },
+          {
+            "ticker": "RIOT",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "cooling"
+            ]
+          }
+        ],
+        "newTickers": []
+      },
+      {
         "key": "2026-07",
         "from": "2026-07-17",
         "to": "2026-07-31",
@@ -12983,8 +13585,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 21,
             "share": 0.28,
-            "prevPosts": 0,
-            "deltaShare": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.22,
             "trend": "thin"
           },
           {
@@ -12993,7 +13595,7 @@
             "posts": 19,
             "share": 0.253,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.253,
             "trend": "thin"
           },
           {
@@ -13002,7 +13604,7 @@
             "posts": 12,
             "share": 0.16,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.16,
             "trend": "thin"
           },
           {
@@ -13011,7 +13613,7 @@
             "posts": 11,
             "share": 0.147,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.147,
             "trend": "thin"
           },
           {
@@ -13020,7 +13622,7 @@
             "posts": 5,
             "share": 0.067,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.067,
             "trend": "thin"
           },
           {
@@ -13029,7 +13631,7 @@
             "posts": 4,
             "share": 0.053,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.053,
             "trend": "thin"
           },
           {
@@ -13038,7 +13640,7 @@
             "posts": 2,
             "share": 0.027,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.027,
             "trend": "thin"
           },
           {
@@ -13047,7 +13649,16 @@
             "posts": 1,
             "share": 0.013,
             "prevPosts": 0,
-            "deltaShare": 0,
+            "deltaShare": 0.013,
+            "trend": "thin"
+          },
+          {
+            "id": "cooling",
+            "title": "Liquid cooling / thermal",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.5,
             "trend": "thin"
           }
         ],
@@ -13124,7 +13735,14 @@
             ]
           }
         ],
-        "newTickers": []
+        "newTickers": [
+          "META",
+          "GOOGL",
+          "AMD",
+          "BE",
+          "MSFT",
+          "SIVE"
+        ]
       },
       {
         "key": "2026-08",
