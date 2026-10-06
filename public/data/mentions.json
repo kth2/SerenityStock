@@ -1,14 +1,31 @@
 {
-  "updatedAt": "2026-10-05T15:06:33.911Z",
+  "updatedAt": "2026-10-06T13:30:26.893Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 374,
-  "totalMentions": 436,
+  "totalTweets": 376,
+  "totalMentions": 437,
   "mentions": [
+    {
+      "tweetId": "2107199278561333744",
+      "ticker": "AAOI",
+      "text": "Serenity @aleabitoreddit 2026-10-06 04:00 @Blinklebloop I think we’ll go back to regularly scheduled programming now It’s just that ATM was holding $AAOI back for the longest time $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $121.60 $6.01 (+5.20%) Since mention (2026-06-05): -31.30% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
+      "createdAt": "2026-10-05T20:00:32.535Z",
+      "url": "https://x.com/aleabitoreddit/status/2107199278561333744",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2105943565918703696",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-10-02 16:50 $LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand... By 70%. Literally 70%. So we can only supply 30%. And this has caught us by supply. By 2029-2030, we get to some level of balance.\" Source: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00) Any other players with laser capacity coming online are probably going to get more market attention soon. $LITE $LITE NASDAQ Lumentum Optical components $1,087.54 $2.12 (+0.20%) Since mention (2026-06-09): +32.34% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-02 16:50 $LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand... By 70%. Literally 70%. So we can only supply 30%. And this has caught us by supply. By 2029-2030, we get to some level of balance.\" Source: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00) Any other players with laser capacity coming online are probably going to get more market attention soon. $LITE $LITE NASDAQ Lumentum Optical components $1,091.71 $6.29 (+0.58%) Since mention (2026-06-09): +32.85% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-10-02T08:50:47.311Z",
       "url": "https://x.com/aleabitoreddit/status/2105943565918703696",
       "stats": {
@@ -25,7 +42,7 @@
     {
       "tweetId": "2105714014307397969",
       "ticker": "CCXI",
-      "text": "$CCXI $CCXI CCXI $12.01 $0.02 (+0.17%) Open on X",
+      "text": "$CCXI $CCXI CCXI $12.09 $0.10 (+0.83%) Open on X",
       "createdAt": "2026-10-01T17:38:37.942Z",
       "url": "https://x.com/aleabitoreddit/status/2105714014307397969",
       "stats": {
@@ -42,7 +59,7 @@
     {
       "tweetId": "2105397070681248021",
       "ticker": "JBL",
-      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $344.60 $1.10 (+0.32%) $JBL $JBL JBL $304.81 $0.40 (+0.13%) $MU $MU NASDAQ Micron Technology Memory $1,067.29 -$7.60 (-0.71%) Since mention (2026-06-05): +23.53% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $346.51 $3.01 (+0.88%) $JBL $JBL JBL $300.98 -$3.43 (-1.13%) $MU $MU NASDAQ Micron Technology Memory $1,064.00 -$10.89 (-1.01%) Since mention (2026-06-05): +23.15% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-30T20:39:12.693Z",
       "url": "https://x.com/aleabitoreddit/status/2105397070681248021",
       "stats": {
@@ -59,7 +76,7 @@
     {
       "tweetId": "2105397070681248021",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $344.60 $1.10 (+0.32%) $JBL $JBL JBL $304.81 $0.40 (+0.13%) $MU $MU NASDAQ Micron Technology Memory $1,067.29 -$7.60 (-0.71%) Since mention (2026-06-05): +23.53% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $346.51 $3.01 (+0.88%) $JBL $JBL JBL $300.98 -$3.43 (-1.13%) $MU $MU NASDAQ Micron Technology Memory $1,064.00 -$10.89 (-1.01%) Since mention (2026-06-05): +23.15% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-30T20:39:12.693Z",
       "url": "https://x.com/aleabitoreddit/status/2105397070681248021",
       "stats": {
@@ -76,7 +93,7 @@
     {
       "tweetId": "2105397070681248021",
       "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $344.60 $1.10 (+0.32%) $JBL $JBL JBL $304.81 $0.40 (+0.13%) $MU $MU NASDAQ Micron Technology Memory $1,067.29 -$7.60 (-0.71%) Since mention (2026-06-05): +23.53% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-01 04:39 $GOOGL Gemini 4 Argon benchmarks got released. Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5. Still coughing nonstop, so will comment on $MU / $JBL earnings later. I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints? But yeah, looks like Google is back. $GOOGL $GOOGL GOOGL $346.51 $3.01 (+0.88%) $JBL $JBL JBL $300.98 -$3.43 (-1.13%) $MU $MU NASDAQ Micron Technology Memory $1,064.00 -$10.89 (-1.01%) Since mention (2026-06-05): +23.15% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-09-30T20:39:12.693Z",
       "url": "https://x.com/aleabitoreddit/status/2105397070681248021",
       "stats": {
@@ -93,7 +110,7 @@
     {
       "tweetId": "2105377657043206492",
       "ticker": "JBL",
-      "text": "$JBL $JBL JBL $304.81 $0.40 (+0.13%) Open on X",
+      "text": "$JBL $JBL JBL $300.98 -$3.43 (-1.13%) Open on X",
       "createdAt": "2026-09-30T19:22:04.121Z",
       "url": "https://x.com/aleabitoreddit/status/2105377657043206492",
       "stats": {
@@ -110,7 +127,7 @@
     {
       "tweetId": "2104709202891735244",
       "ticker": "SPCX",
-      "text": "$SPCX $SPCX SPCX $168.08 $9.12 (+5.74%) Open on X",
+      "text": "$SPCX $SPCX SPCX $171.12 $12.16 (+7.65%) Open on X",
       "createdAt": "2026-09-28T23:05:52.232Z",
       "url": "https://x.com/aleabitoreddit/status/2104709202891735244",
       "stats": {
@@ -127,7 +144,7 @@
     {
       "tweetId": "2103490181525631382",
       "ticker": "SPY",
-      "text": "$SPY $SPY SPY $772.68 $3.04 (+0.40%) $SUBWAY $SUBWAY SUBWAY Quote unavailable Open on X",
+      "text": "$SPY $SPY SPY $774.87 $5.23 (+0.68%) $SUBWAY $SUBWAY SUBWAY Quote unavailable Open on X",
       "createdAt": "2026-09-25T14:21:54.890Z",
       "url": "https://x.com/aleabitoreddit/status/2103490181525631382",
       "stats": {
@@ -7182,7 +7199,7 @@
     {
       "tweetId": "1988048592754589970",
       "ticker": "WULF",
-      "text": "$CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) Open on X",
+      "text": "$CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) Open on X",
       "createdAt": "2025-11-11T00:58:15.326Z",
       "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
       "stats": {
@@ -7199,7 +7216,7 @@
     {
       "tweetId": "1988048592754589970",
       "ticker": "CRWV",
-      "text": "$CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) Open on X",
+      "text": "$CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) Open on X",
       "createdAt": "2025-11-11T00:58:15.326Z",
       "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
       "stats": {
@@ -7216,7 +7233,7 @@
     {
       "tweetId": "1988048592754589970",
       "ticker": "CIFR",
-      "text": "$CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) Open on X",
+      "text": "$CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) Open on X",
       "createdAt": "2025-11-11T00:58:15.326Z",
       "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
       "stats": {
@@ -7233,7 +7250,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "WYFI",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7250,7 +7267,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "HIVE",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7267,7 +7284,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "CLSK",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7284,7 +7301,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "HUT",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7301,7 +7318,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "WULF",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7318,7 +7335,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "CIFR",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7335,7 +7352,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "RIOT",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7352,7 +7369,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "APLD",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7369,7 +7386,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7386,7 +7403,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7403,7 +7420,7 @@
     {
       "tweetId": "1984837960735285593",
       "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.47 -$0.91 (-3.59%) $CIFR $CIFR CIFR $15.35 -$0.36 (-2.29%) $CLSK $CLSK CLSK $12.42 -$0.32 (-2.51%) $CRWV $CRWV CRWV $88.37 -$1.25 (-1.39%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $87.59 -$2.04 (-2.28%) $IREN $IREN IREN $40.28 -$1.48 (-3.54%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $235.21 -$7.60 (-3.13%) Since mention (2026-06-07): +3.25% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.31 -$0.42 (-2.13%) $WULF $WULF WULF $14.82 -$0.67 (-4.33%) $WYFI $WYFI WYFI $17.43 -$0.50 (-2.79%) Open on X",
+      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $24.72 -$0.66 (-2.60%) $CIFR $CIFR CIFR $15.50 -$0.21 (-1.34%) $CLSK $CLSK CLSK $12.50 -$0.24 (-1.88%) $CRWV $CRWV CRWV $87.41 -$2.21 (-2.47%) $HIVE $HIVE HIVE $2.92 -$0.06 (-1.85%) $HUT $HUT HUT $89.29 -$0.34 (-0.38%) $IREN $IREN IREN $40.50 -$1.26 (-3.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $232.61 -$10.20 (-4.20%) Since mention (2026-06-07): +2.11% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $19.34 -$0.39 (-1.98%) $WULF $WULF WULF $14.81 -$0.68 (-4.39%) $WYFI $WYFI WYFI $17.48 -$0.45 (-2.51%) Open on X",
       "createdAt": "2025-11-02T04:20:21.002Z",
       "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
       "stats": {
@@ -7709,19 +7726,19 @@
     },
     {
       "ticker": "AAOI",
-      "count": 23,
+      "count": 24,
       "firstSeen": "2026-07-17T22:52:00.000Z",
-      "lastSeen": "2026-09-24T16:17:50.369Z",
-      "avgSentiment": 0.207,
+      "lastSeen": "2026-10-05T20:00:32.535Z",
+      "avgSentiment": 0.198,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 78.7,
-      "signalBand": "constructive",
+      "signalScore": 82.5,
+      "signalBand": "high",
       "signalComponents": {
         "base": 12,
-        "frequency": 14.5,
-        "recency": 8,
-        "persistence": 5.3,
+        "frequency": 14.7,
+        "recency": 10,
+        "persistence": 6.9,
         "engagement": 0,
         "conviction": 15,
         "themeFit": 15,
@@ -7823,6 +7840,11 @@
           "date": "2026-09-24",
           "count": 1,
           "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-10-05",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -8846,12 +8868,12 @@
       "avgSentiment": -0.129,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 66.6,
-      "signalBand": "constructive",
+      "signalScore": 64.6,
+      "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 9.5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 5.4,
         "engagement": 0,
         "conviction": 6.1,
@@ -11729,16 +11751,20 @@
     }
   ],
   "digest": {
-    "date": "2026-10-02",
+    "date": "2026-10-05",
     "window": {
-      "from": "2026-09-26",
-      "to": "2026-10-02"
+      "from": "2026-09-29",
+      "to": "2026-10-05"
     },
     "totalMentions": 7,
     "topTickers": [
       {
         "ticker": "JBL",
         "count": 2
+      },
+      {
+        "ticker": "AAOI",
+        "count": 1
       },
       {
         "ticker": "LITE",
@@ -11750,10 +11776,6 @@
       },
       {
         "ticker": "MU",
-        "count": 1
-      },
-      {
-        "ticker": "GOOGL",
         "count": 1
       }
     ],
@@ -13714,6 +13736,76 @@
           "GOOGL",
           "SPCX"
         ]
+      },
+      {
+        "key": "2026-W41",
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "posts": 2,
+        "mentions": 1,
+        "unclassified": 1,
+        "thin": true,
+        "themes": [
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 1,
+            "share": 0.333,
+            "prevPosts": 2,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 1,
+            "share": 0.333,
+            "prevPosts": 1,
+            "deltaShare": 0.167,
+            "trend": "thin"
+          },
+          {
+            "id": "networking",
+            "title": "AI networking / Ethernet",
+            "posts": 1,
+            "share": 0.333,
+            "prevPosts": 1,
+            "deltaShare": 0.167,
+            "trend": "thin"
+          },
+          {
+            "id": "memory",
+            "title": "HBM / memory & storage",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.167,
+            "trend": "thin"
+          },
+          {
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 0,
+            "share": 0,
+            "prevPosts": 1,
+            "deltaShare": -0.167,
+            "trend": "thin"
+          }
+        ],
+        "topTickers": [
+          {
+            "ticker": "AAOI",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking"
+            ]
+          }
+        ],
+        "newTickers": [
+          "AAOI"
+        ]
       }
     ],
     "monthly": [
@@ -14361,47 +14453,47 @@
       {
         "key": "2026-10",
         "from": "2026-10-01",
-        "to": "2026-10-02",
-        "posts": 5,
-        "mentions": 2,
-        "unclassified": 3,
+        "to": "2026-10-05",
+        "posts": 7,
+        "mentions": 3,
+        "unclassified": 4,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 1,
-            "share": 0.25,
+            "posts": 2,
+            "share": 0.286,
             "prevPosts": 29,
-            "deltaShare": 0.014,
+            "deltaShare": 0.05,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 1,
-            "share": 0.25,
+            "posts": 2,
+            "share": 0.286,
             "prevPosts": 19,
-            "deltaShare": 0.096,
+            "deltaShare": 0.131,
             "trend": "rising"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 1,
-            "share": 0.25,
+            "posts": 2,
+            "share": 0.286,
             "prevPosts": 23,
-            "deltaShare": 0.063,
+            "deltaShare": 0.099,
             "trend": "rising"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
             "posts": 1,
-            "share": 0.25,
+            "share": 0.143,
             "prevPosts": 31,
-            "deltaShare": -0.002,
-            "trend": "steady"
+            "deltaShare": -0.109,
+            "trend": "cooling"
           },
           {
             "id": "memory",
@@ -14432,6 +14524,15 @@
           }
         ],
         "topTickers": [
+          {
+            "ticker": "AAOI",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking"
+            ]
+          },
           {
             "ticker": "LITE",
             "count": 1,
