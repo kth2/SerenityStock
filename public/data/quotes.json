@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:51:38.193Z",
+  "updatedAt": "2026-10-11T13:15:44.161Z",
   "quotes": {
     "NVDA": {
       "price": 229.28,
@@ -50,6 +50,13 @@
       "asOf": "2026-10-09T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
+    "AXTI": {
+      "price": 68.46,
+      "changePct": -4.47,
+      "currency": "USD",
+      "asOf": "2026-10-09T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
     "AMD": {
       "price": 608.1,
       "changePct": -2.03,
@@ -60,13 +67,6 @@
     "AMZN": {
       "price": 262.43,
       "changePct": 3.29,
-      "currency": "USD",
-      "asOf": "2026-10-09T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AXTI": {
-      "price": 68.46,
-      "changePct": -4.47,
       "currency": "USD",
       "asOf": "2026-10-09T20:00:01.000Z",
       "source": "Yahoo Finance"
@@ -90,6 +90,13 @@
       "changePct": -0.86,
       "currency": "USD",
       "asOf": "2026-10-09T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "RDDT": {
+      "price": 159.91,
+      "changePct": 2.2,
+      "currency": "USD",
+      "asOf": "2026-10-09T20:03:51.000Z",
       "source": "Yahoo Finance"
     },
     "META": {
@@ -125,13 +132,6 @@
       "changePct": 0.61,
       "currency": "USD",
       "asOf": "2026-10-09T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "RDDT": {
-      "price": 159.91,
-      "changePct": 2.2,
-      "currency": "USD",
-      "asOf": "2026-10-09T20:03:51.000Z",
       "source": "Yahoo Finance"
     },
     "BE": {
