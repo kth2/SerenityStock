@@ -1,14 +1,99 @@
 {
-  "updatedAt": "2026-10-13T14:28:14.810Z",
+  "updatedAt": "2026-10-14T12:13:35.104Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 407,
-  "totalMentions": 461,
+  "totalTweets": 412,
+  "totalMentions": 466,
   "mentions": [
+    {
+      "tweetId": "2110146513766900019",
+      "ticker": "SKHY",
+      "text": "$SKHY $SKHY SKHY $157.06 -$5.17 (-3.19%) Open on X",
+      "createdAt": "2026-10-13T23:11:48.165Z",
+      "url": "https://x.com/aleabitoreddit/status/2110146513766900019",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2110145100085150052",
+      "ticker": "AMZN",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 23:06:11 +0000 2026 @AllTheWayRay8 I have positions in Agility! I do want to see US humanoid programs succeed, even if they’re behind Unitree and others now. So I have a personal preference in funding US players over foreign programs. But $NVDA and $AMZN are heavily backing Agility so that’s always positive $AMZN $AMZN AMZN $258.58 -$0.95 (-0.37%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $228.52 $2.20 (+0.97%) Since mention (2026-06-05): +11.42% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-10-13T23:06:11.117Z",
+      "url": "https://x.com/aleabitoreddit/status/2110145100085150052",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2110145100085150052",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 23:06:11 +0000 2026 @AllTheWayRay8 I have positions in Agility! I do want to see US humanoid programs succeed, even if they’re behind Unitree and others now. So I have a personal preference in funding US players over foreign programs. But $NVDA and $AMZN are heavily backing Agility so that’s always positive $AMZN $AMZN AMZN $258.58 -$0.95 (-0.37%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $228.52 $2.20 (+0.97%) Since mention (2026-06-05): +11.42% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-10-13T23:06:11.117Z",
+      "url": "https://x.com/aleabitoreddit/status/2110145100085150052",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2110142633716965836",
+      "ticker": "CCXI",
+      "text": "$AGLT $AGLT AGLT Quote unavailable $CCXI $CCXI CCXI $11.16 $0.38 (+3.52%) Open on X",
+      "createdAt": "2026-10-13T22:56:23.089Z",
+      "url": "https://x.com/aleabitoreddit/status/2110142633716965836",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2110142633716965836",
+      "ticker": "AGLT",
+      "text": "$AGLT $AGLT AGLT Quote unavailable $CCXI $CCXI CCXI $11.16 $0.38 (+3.52%) Open on X",
+      "createdAt": "2026-10-13T22:56:23.089Z",
+      "url": "https://x.com/aleabitoreddit/status/2110142633716965836",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2109939928717308203",
       "ticker": "CCXI",
-      "text": "$CCXI $CCXI CCXI $10.83 $0.05 (+0.46%) Open on X",
+      "text": "$CCXI $CCXI CCXI $11.16 $0.38 (+3.52%) Open on X",
       "createdAt": "2026-10-13T09:30:54.451Z",
       "url": "https://x.com/aleabitoreddit/status/2109939928717308203",
       "stats": {
@@ -25,7 +110,7 @@
     {
       "tweetId": "2109938029414461494",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit Tue Oct 13 09:23:21 +0000 2026 @aleabitoreddit Market doesn't even care about Datacentre stocks 90% lease rental margins in 2027, or your favourite $AAOI revenue ramp in 2027. Extremely short term market right now. Robotics won't be ready for a while. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.97 -$2.71 (-2.69%) Since mention (2026-06-05): -44.65% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 09:23:21 +0000 2026 @aleabitoreddit Market doesn't even care about Datacentre stocks 90% lease rental margins in 2027, or your favourite $AAOI revenue ramp in 2027. Extremely short term market right now. Robotics won't be ready for a while. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.78 -$2.90 (-2.88%) Since mention (2026-06-05): -44.76% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
       "createdAt": "2026-10-13T09:23:21.622Z",
       "url": "https://x.com/aleabitoreddit/status/2109938029414461494",
       "stats": {
@@ -42,7 +127,7 @@
     {
       "tweetId": "2109906912989028547",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit Tue Oct 13 07:19:42 +0000 2026 Samsung has LTAs covering 70% of memory capacity spanning until 2031. $LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. There's the actual demand. Then there's short term media narratives that cause people to sell. There's been many scares over the past few years over $NVDA GPUs from Deepseek to macro but in the end fundamentals matter more. $LITE $LITE NASDAQ Lumentum Optical components $975.70 -$19.71 (-1.98%) Since mention (2026-06-09): +18.73% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.95 -$0.37 (-0.16%) Since mention (2026-06-05): +10.17% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 07:19:42 +0000 2026 Samsung has LTAs covering 70% of memory capacity spanning until 2031. $LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. There's the actual demand. Then there's short term media narratives that cause people to sell. There's been many scares over the past few years over $NVDA GPUs from Deepseek to macro but in the end fundamentals matter more. $LITE $LITE NASDAQ Lumentum Optical components $987.99 -$7.42 (-0.75%) Since mention (2026-06-09): +20.23% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $228.52 $2.20 (+0.97%) Since mention (2026-06-05): +11.42% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-13T07:19:42.888Z",
       "url": "https://x.com/aleabitoreddit/status/2109906912989028547",
       "stats": {
@@ -59,7 +144,7 @@
     {
       "tweetId": "2109906912989028547",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit Tue Oct 13 07:19:42 +0000 2026 Samsung has LTAs covering 70% of memory capacity spanning until 2031. $LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. There's the actual demand. Then there's short term media narratives that cause people to sell. There's been many scares over the past few years over $NVDA GPUs from Deepseek to macro but in the end fundamentals matter more. $LITE $LITE NASDAQ Lumentum Optical components $975.70 -$19.71 (-1.98%) Since mention (2026-06-09): +18.73% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $225.95 -$0.37 (-0.16%) Since mention (2026-06-05): +10.17% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 07:19:42 +0000 2026 Samsung has LTAs covering 70% of memory capacity spanning until 2031. $LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. There's the actual demand. Then there's short term media narratives that cause people to sell. There's been many scares over the past few years over $NVDA GPUs from Deepseek to macro but in the end fundamentals matter more. $LITE $LITE NASDAQ Lumentum Optical components $987.99 -$7.42 (-0.75%) Since mention (2026-06-09): +20.23% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $228.52 $2.20 (+0.97%) Since mention (2026-06-05): +11.42% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-13T07:19:42.888Z",
       "url": "https://x.com/aleabitoreddit/status/2109906912989028547",
       "stats": {
@@ -76,7 +161,7 @@
     {
       "tweetId": "2109852646484201736",
       "ticker": "AVGO",
-      "text": "Serenity @aleabitoreddit Tue Oct 13 03:44:04 +0000 2026 Wow this is sad to see Korean markets with $SKHY / Samsung crash like this. Special thanks to $AVGO CEO adding fuel the fire… Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. $AVGO $AVGO NASDAQ Broadcom Semiconductors $356.43 $1.70 (+0.48%) Since mention (2026-06-07): -7.60% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $SKHY $SKHY SKHY $155.84 -$6.39 (-3.94%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 03:44:04 +0000 2026 Wow this is sad to see Korean markets with $SKHY / Samsung crash like this. Special thanks to $AVGO CEO adding fuel the fire… Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.31 $2.58 (+0.73%) Since mention (2026-06-07): -7.37% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $SKHY $SKHY SKHY $157.06 -$5.17 (-3.19%) Open on X",
       "createdAt": "2026-10-13T03:44:04.745Z",
       "url": "https://x.com/aleabitoreddit/status/2109852646484201736",
       "stats": {
@@ -93,7 +178,7 @@
     {
       "tweetId": "2109852646484201736",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit Tue Oct 13 03:44:04 +0000 2026 Wow this is sad to see Korean markets with $SKHY / Samsung crash like this. Special thanks to $AVGO CEO adding fuel the fire… Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. $AVGO $AVGO NASDAQ Broadcom Semiconductors $356.43 $1.70 (+0.48%) Since mention (2026-06-07): -7.60% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $SKHY $SKHY SKHY $155.84 -$6.39 (-3.94%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 13 03:44:04 +0000 2026 Wow this is sad to see Korean markets with $SKHY / Samsung crash like this. Special thanks to $AVGO CEO adding fuel the fire… Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. $AVGO $AVGO NASDAQ Broadcom Semiconductors $357.31 $2.58 (+0.73%) Since mention (2026-06-07): -7.37% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $SKHY $SKHY SKHY $157.06 -$5.17 (-3.19%) Open on X",
       "createdAt": "2026-10-13T03:44:04.745Z",
       "url": "https://x.com/aleabitoreddit/status/2109852646484201736",
       "stats": {
@@ -110,7 +195,7 @@
     {
       "tweetId": "2108911303037477013",
       "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-10-10 21:23 @aleabitoreddit What’s your thought about $AXTI ? $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $61.93 -$0.05 (-0.08%) Since mention (2026-06-07): -30.45% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-10 21:23 @aleabitoreddit What’s your thought about $AXTI ? $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.63 $2.65 (+4.28%) Since mention (2026-06-07): -27.41% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Open on X",
       "createdAt": "2026-10-10T13:23:30.978Z",
       "url": "https://x.com/aleabitoreddit/status/2108911303037477013",
       "stats": {
@@ -127,7 +212,7 @@
     {
       "tweetId": "2108900808956039390",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-10-10 20:41 Someone did ask “How is Serenity” this time around! So I’m happy. I’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI. Not advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason! Also I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event… Maybe I’ll drop by if there’s a Kiss of Life group like at ICML. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.97 -$2.71 (-2.69%) Since mention (2026-06-05): -44.65% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $975.70 -$19.71 (-1.98%) Since mention (2026-06-09): +18.73% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-10 20:41 Someone did ask “How is Serenity” this time around! So I’m happy. I’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI. Not advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason! Also I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event… Maybe I’ll drop by if there’s a Kiss of Life group like at ICML. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.78 -$2.90 (-2.88%) Since mention (2026-06-05): -44.76% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $987.99 -$7.42 (-0.75%) Since mention (2026-06-09): +20.23% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-10-10T12:41:48.994Z",
       "url": "https://x.com/aleabitoreddit/status/2108900808956039390",
       "stats": {
@@ -144,7 +229,7 @@
     {
       "tweetId": "2108900808956039390",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-10-10 20:41 Someone did ask “How is Serenity” this time around! So I’m happy. I’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI. Not advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason! Also I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event… Maybe I’ll drop by if there’s a Kiss of Life group like at ICML. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.97 -$2.71 (-2.69%) Since mention (2026-06-05): -44.65% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $975.70 -$19.71 (-1.98%) Since mention (2026-06-09): +18.73% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-10 20:41 Someone did ask “How is Serenity” this time around! So I’m happy. I’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI. Not advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason! Also I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event… Maybe I’ll drop by if there’s a Kiss of Life group like at ICML. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $97.78 -$2.90 (-2.88%) Since mention (2026-06-05): -44.76% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $987.99 -$7.42 (-0.75%) Since mention (2026-06-09): +20.23% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-10-10T12:41:48.994Z",
       "url": "https://x.com/aleabitoreddit/status/2108900808956039390",
       "stats": {
@@ -7846,21 +7931,21 @@
   "tickers": [
     {
       "ticker": "NVDA",
-      "count": 34,
+      "count": 35,
       "firstSeen": "2026-07-21T05:38:00.000Z",
-      "lastSeen": "2026-10-13T07:19:42.888Z",
-      "avgSentiment": 0.161,
+      "lastSeen": "2026-10-13T23:06:11.117Z",
+      "avgSentiment": 0.156,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 74.8,
+      "signalScore": 78.3,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 16.3,
+        "frequency": 16.4,
         "recency": 10,
         "persistence": 7,
         "engagement": 0,
-        "conviction": 11.5,
+        "conviction": 14.9,
         "themeFit": 15,
         "catalyst": 12,
         "risk": 9
@@ -7988,7 +8073,7 @@
         },
         {
           "date": "2026-10-13",
-          "count": 1,
+          "count": 2,
           "avgSentiment": 0
         }
       ]
@@ -8782,6 +8867,85 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "count": 13,
+      "firstSeen": "2026-07-31T07:14:23.409Z",
+      "lastSeen": "2026-10-13T23:06:11.117Z",
+      "avgSentiment": 0.167,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 72.3,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 12.1,
+        "recency": 10,
+        "persistence": 6.8,
+        "engagement": 0,
+        "conviction": 5.4,
+        "themeFit": 15,
+        "catalyst": 11,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-31",
+          "count": 3,
+          "avgSentiment": 0.333
+        },
+        {
+          "date": "2026-08-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-08",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-31",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-15",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-22",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-10-08",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "AXTI",
       "count": 13,
       "firstSeen": "2026-07-29T21:27:33.780Z",
@@ -8940,170 +9104,22 @@
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "SKHY",
       "count": 12,
-      "firstSeen": "2026-07-31T07:14:23.409Z",
-      "lastSeen": "2026-10-08T19:26:53.473Z",
-      "avgSentiment": 0.181,
-      "sentimentLabel": "bullish",
+      "firstSeen": "2026-07-18T12:39:00.000Z",
+      "lastSeen": "2026-10-13T23:11:48.165Z",
+      "avgSentiment": -0.083,
+      "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 68.3,
-      "signalBand": "constructive",
+      "signalScore": 60.5,
+      "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 11.7,
         "recency": 10,
-        "persistence": 6.8,
+        "persistence": 7.1,
         "engagement": 0,
-        "conviction": 1.8,
-        "themeFit": 15,
-        "catalyst": 11,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-31",
-          "count": 3,
-          "avgSentiment": 0.333
-        },
-        {
-          "date": "2026-08-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-08",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-31",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-15",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-22",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-10-08",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CCXI",
-      "count": 11,
-      "firstSeen": "2026-07-28T18:45:19.920Z",
-      "lastSeen": "2026-10-13T09:30:54.451Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 52.9,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 11.4,
-        "recency": 10,
-        "persistence": 6.9,
-        "engagement": 0,
-        "conviction": 1.7,
-        "themeFit": 11,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-07-28",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-29",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-07",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-15",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-08",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "SKHY",
-      "count": 11,
-      "firstSeen": "2026-07-18T12:39:00.000Z",
-      "lastSeen": "2026-10-13T03:44:04.745Z",
-      "avgSentiment": -0.091,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 60,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 11.4,
-        "recency": 10,
-        "persistence": 7,
-        "engagement": 0,
-        "conviction": 6.5,
+        "conviction": 6.6,
         "themeFit": 15,
         "catalyst": 5.5,
         "risk": 7.4
@@ -9161,8 +9177,82 @@
         },
         {
           "date": "2026-10-13",
+          "count": 2,
+          "avgSentiment": -0.5
+        }
+      ]
+    },
+    {
+      "ticker": "CCXI",
+      "count": 12,
+      "firstSeen": "2026-07-28T18:45:19.920Z",
+      "lastSeen": "2026-10-13T22:56:23.089Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 53.8,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11.7,
+        "recency": 10,
+        "persistence": 6.9,
+        "engagement": 0,
+        "conviction": 1.8,
+        "themeFit": 11.4,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-28",
           "count": 1,
-          "avgSentiment": -1
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-07-29",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-07",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-15",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-01",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-08",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-13",
+          "count": 2,
+          "avgSentiment": 0
         }
       ]
     },
@@ -10953,6 +11043,35 @@
       ]
     },
     {
+      "ticker": "AGLT",
+      "count": 1,
+      "firstSeen": "2026-10-13T22:56:23.089Z",
+      "lastSeen": "2026-10-13T22:56:23.089Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 28.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 2.1,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "SNAP",
       "count": 1,
       "firstSeen": "2026-10-08T19:17:03.667Z",
@@ -12322,30 +12441,31 @@
       "from": "2026-10-07",
       "to": "2026-10-13"
     },
-    "totalMentions": 24,
+    "totalMentions": 29,
     "topTickers": [
       {
         "ticker": "AAOI",
         "count": 6
       },
       {
+        "ticker": "CCXI",
+        "count": 3
+      },
+      {
         "ticker": "LITE",
         "count": 3
       },
       {
-        "ticker": "CCXI",
+        "ticker": "SKHY",
         "count": 2
       },
       {
-        "ticker": "MU",
+        "ticker": "AMZN",
         "count": 2
-      },
-      {
-        "ticker": "NVDA",
-        "count": 1
       }
     ],
     "newTickers": [
+      "AGLT",
       "SNAP",
       "OKLO"
     ]
@@ -14460,64 +14580,64 @@
         "key": "2026-W42",
         "from": "2026-10-12",
         "to": "2026-10-13",
-        "posts": 15,
-        "mentions": 6,
-        "unclassified": 7,
+        "posts": 20,
+        "mentions": 11,
+        "unclassified": 11,
         "thin": false,
         "themes": [
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 7,
-            "share": 0.35,
+            "share": 0.304,
             "prevPosts": 7,
-            "deltaShare": 0.07,
-            "trend": "rising"
+            "deltaShare": 0.024,
+            "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 4,
-            "share": 0.2,
+            "share": 0.174,
             "prevPosts": 7,
-            "deltaShare": -0.08,
+            "deltaShare": -0.106,
             "trend": "cooling"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 3,
-            "share": 0.15,
+            "posts": 4,
+            "share": 0.174,
             "prevPosts": 2,
-            "deltaShare": 0.07,
+            "deltaShare": 0.094,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 2,
-            "share": 0.1,
+            "posts": 3,
+            "share": 0.13,
             "prevPosts": 6,
-            "deltaShare": -0.14,
+            "deltaShare": -0.11,
             "trend": "cooling"
+          },
+          {
+            "id": "robotics",
+            "title": "Robotics / humanoids",
+            "posts": 3,
+            "share": 0.13,
+            "prevPosts": 0,
+            "deltaShare": 0.13,
+            "trend": "new"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 2,
-            "share": 0.1,
+            "share": 0.087,
             "prevPosts": 2,
-            "deltaShare": 0.02,
+            "deltaShare": 0.007,
             "trend": "steady"
-          },
-          {
-            "id": "robotics",
-            "title": "Robotics / humanoids",
-            "posts": 2,
-            "share": 0.1,
-            "prevPosts": 0,
-            "deltaShare": 0.1,
-            "trend": "new"
           },
           {
             "id": "power",
@@ -14531,7 +14651,41 @@
         ],
         "topTickers": [
           {
+            "ticker": "SKHY",
+            "count": 2,
+            "themes": [
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap",
+              "optics",
+              "memory",
+              "networking"
+            ]
+          },
+          {
             "ticker": "CCXI",
+            "count": 2,
+            "themes": []
+          },
+          {
+            "ticker": "AMZN",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AGLT",
             "count": 1,
             "themes": []
           },
@@ -14543,17 +14697,6 @@
               "optics",
               "networking",
               "robotics"
-            ]
-          },
-          {
-            "ticker": "NVDA",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
             ]
           },
           {
@@ -14574,20 +14717,13 @@
               "networking",
               "semicap"
             ]
-          },
-          {
-            "ticker": "SKHY",
-            "count": 1,
-            "themes": [
-              "networking",
-              "semicap"
-            ]
           }
         ],
         "newTickers": [
+          "SKHY",
           "NVDA",
-          "AVGO",
-          "SKHY"
+          "AGLT",
+          "AVGO"
         ]
       }
     ],
@@ -15237,72 +15373,72 @@
         "key": "2026-10",
         "from": "2026-10-01",
         "to": "2026-10-13",
-        "posts": 38,
-        "mentions": 27,
-        "unclassified": 21,
+        "posts": 43,
+        "mentions": 32,
+        "unclassified": 25,
         "thin": false,
         "themes": [
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 15,
-            "share": 0.306,
+            "share": 0.288,
             "prevPosts": 23,
-            "deltaShare": 0.119,
+            "deltaShare": 0.101,
             "trend": "rising"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 12,
-            "share": 0.245,
+            "share": 0.231,
             "prevPosts": 19,
-            "deltaShare": 0.09,
+            "deltaShare": 0.076,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 9,
-            "share": 0.184,
+            "posts": 10,
+            "share": 0.192,
             "prevPosts": 29,
-            "deltaShare": -0.052,
+            "deltaShare": -0.043,
             "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 6,
-            "share": 0.122,
+            "posts": 7,
+            "share": 0.135,
             "prevPosts": 31,
-            "deltaShare": -0.13,
+            "deltaShare": -0.117,
             "trend": "cooling"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 4,
-            "share": 0.082,
+            "share": 0.077,
             "prevPosts": 17,
-            "deltaShare": -0.057,
-            "trend": "steady"
+            "deltaShare": -0.061,
+            "trend": "cooling"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
-            "posts": 2,
-            "share": 0.041,
+            "posts": 3,
+            "share": 0.058,
             "prevPosts": 2,
-            "deltaShare": 0.025,
+            "deltaShare": 0.041,
             "trend": "steady"
           },
           {
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 1,
-            "share": 0.02,
+            "share": 0.019,
             "prevPosts": 0,
-            "deltaShare": 0.02,
+            "deltaShare": 0.019,
             "trend": "new"
           },
           {
@@ -15330,6 +15466,11 @@
             ]
           },
           {
+            "ticker": "CCXI",
+            "count": 4,
+            "themes": []
+          },
+          {
             "ticker": "LITE",
             "count": 4,
             "themes": [
@@ -15342,9 +15483,33 @@
             ]
           },
           {
-            "ticker": "CCXI",
-            "count": 3,
-            "themes": []
+            "ticker": "SKHY",
+            "count": 2,
+            "themes": [
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AMZN",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "robotics",
+              "semicap",
+              "optics",
+              "memory",
+              "networking"
+            ]
           },
           {
             "ticker": "MU",
@@ -15359,43 +15524,14 @@
             ]
           },
           {
-            "ticker": "NVDA",
+            "ticker": "AGLT",
             "count": 1,
-            "themes": [
-              "neocloud",
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "AVGO",
-            "count": 1,
-            "themes": [
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "SKHY",
-            "count": 1,
-            "themes": [
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "AXTI",
-            "count": 1,
-            "themes": [
-              "optics",
-              "networking",
-              "semicap"
-            ]
+            "themes": []
           }
         ],
-        "newTickers": []
+        "newTickers": [
+          "AGLT"
+        ]
       }
     ]
   }
