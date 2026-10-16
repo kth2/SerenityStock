@@ -1,410 +1,410 @@
 {
-  "updatedAt": "2026-10-15T11:54:46.177Z",
+  "updatedAt": "2026-10-16T11:45:37.065Z",
   "quotes": {
     "NVDA": {
-      "price": 221.3,
-      "changePct": -3.16,
+      "price": 217.23,
+      "changePct": -1.84,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "AAOI": {
-      "price": 86.22,
-      "changePct": -11.82,
+      "price": 83.73,
+      "changePct": -2.89,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "LITE": {
-      "price": 896.33,
-      "changePct": -9.28,
+      "price": 869.54,
+      "changePct": -2.99,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "NBIS": {
-      "price": 186.01,
-      "changePct": -10.08,
+      "price": 188.41,
+      "changePct": 1.29,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "MU": {
-      "price": 914.13,
-      "changePct": -4.08,
+      "price": 931.24,
+      "changePct": 1.87,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "GOOGL": {
-      "price": 347.64,
-      "changePct": -1.74,
+      "price": 349.22,
+      "changePct": 0.45,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "IREN": {
-      "price": 30.56,
-      "changePct": -12.18,
+      "price": 30.39,
+      "changePct": -0.56,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AMZN": {
-      "price": 254.08,
-      "changePct": -1.74,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AXTI": {
-      "price": 61.59,
-      "changePct": -4.7,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AMD": {
-      "price": 570.82,
-      "changePct": -5.73,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "SKHY": {
-      "price": 147.55,
-      "changePct": -6.06,
+      "price": 146.11,
+      "changePct": -0.98,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
-    "CCXI": {
-      "price": 10.83,
-      "changePct": -2.96,
+    "AMZN": {
+      "price": 254.76,
+      "changePct": 0.27,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "AXTI": {
+      "price": 57.91,
+      "changePct": -5.97,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "AMD": {
+      "price": 562.23,
+      "changePct": -1.5,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "SNDK": {
-      "price": 1403.34,
-      "changePct": -5.33,
+      "price": 1394.83,
+      "changePct": -0.61,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
-    "RDDT": {
-      "price": 148.6,
-      "changePct": -4.31,
+    "CCXI": {
+      "price": 11.35,
+      "changePct": 4.8,
       "currency": "USD",
-      "asOf": "2026-10-14T20:04:06.000Z",
-      "source": "Yahoo Finance"
-    },
-    "META": {
-      "price": 737.54,
-      "changePct": -3.27,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "MRVL": {
-      "price": 245.28,
-      "changePct": -8.72,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "MSFT": {
-      "price": 533.69,
-      "changePct": -1.8,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "SPCX": {
-      "price": 152.16,
-      "changePct": -2.8,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "CRWV": {
-      "price": 65.78,
-      "changePct": -15.46,
+      "price": 69.69,
+      "changePct": 5.94,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "RDDT": {
+      "price": 159.36,
+      "changePct": 7.24,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:04:19.000Z",
+      "source": "Yahoo Finance"
+    },
+    "META": {
+      "price": 736.72,
+      "changePct": -0.11,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "MRVL": {
+      "price": 241.24,
+      "changePct": -1.65,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "MSFT": {
+      "price": 539.44,
+      "changePct": 1.08,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "SPCX": {
+      "price": 148.62,
+      "changePct": -2.33,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "BE": {
-      "price": 239.34,
-      "changePct": -9.15,
+      "price": 236.3,
+      "changePct": -1.27,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:03.000Z",
+      "asOf": "2026-10-15T20:00:03.000Z",
       "source": "Yahoo Finance"
     },
     "AVGO": {
-      "price": 346.25,
-      "changePct": -3.1,
+      "price": 344.33,
+      "changePct": -0.55,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "JBL": {
-      "price": 293.91,
-      "changePct": -7.53,
+      "price": 287.14,
+      "changePct": -2.3,
       "currency": "USD",
-      "asOf": "2026-10-14T20:02:04.000Z",
+      "asOf": "2026-10-15T20:02:10.000Z",
       "source": "Yahoo Finance"
     },
     "TSM": {
-      "price": 430,
-      "changePct": -3.4,
+      "price": 422.25,
+      "changePct": -1.8,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
-      "source": "Yahoo Finance"
-    },
-    "INTC": {
-      "price": 98.12,
-      "changePct": -4.56,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
-      "source": "Yahoo Finance"
-    },
-    "POET": {
-      "price": 5.84,
-      "changePct": -7.59,
-      "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "TSLA": {
-      "price": 367.16,
-      "changePct": -2.15,
+      "price": 362.44,
+      "changePct": -1.29,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
+      "source": "Yahoo Finance"
+    },
+    "INTC": {
+      "price": 95.37,
+      "changePct": -2.8,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:01.000Z",
+      "source": "Yahoo Finance"
+    },
+    "POET": {
+      "price": 6.01,
+      "changePct": 2.91,
+      "currency": "USD",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "MTSI": {
-      "price": 291.33,
-      "changePct": -5.64,
+      "price": 271.39,
+      "changePct": -6.84,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "AKAM": {
-      "price": 91.71,
-      "changePct": -8.23,
+      "price": 92.32,
+      "changePct": 0.67,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "COHR": {
-      "price": 263.32,
-      "changePct": -9.19,
+      "price": 250.6,
+      "changePct": -4.83,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:03.000Z",
       "source": "Yahoo Finance"
     },
     "SMTC": {
-      "price": 160.26,
-      "changePct": -7.25,
+      "price": 144.21,
+      "changePct": -10.01,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "EWY": {
-      "price": 159.83,
-      "changePct": -4.04,
+      "price": 156.22,
+      "changePct": -2.26,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "GFS": {
-      "price": 48.94,
-      "changePct": 4.8,
+      "price": 48.76,
+      "changePct": -0.37,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "RIOT": {
-      "price": 15.1,
-      "changePct": -9.42,
+      "price": 15.5,
+      "changePct": 2.65,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "HUT": {
-      "price": 74.87,
-      "changePct": -10.45,
+      "price": 76.09,
+      "changePct": 1.63,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "RKLB": {
-      "price": 59.18,
-      "changePct": -7.85,
+      "price": 55.25,
+      "changePct": -6.64,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "SMCI": {
-      "price": 35.78,
-      "changePct": -8.42,
+      "price": 35.09,
+      "changePct": -1.93,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "CIFR": {
-      "price": 9.94,
-      "changePct": -12.35,
+      "price": 10.04,
+      "changePct": 1.01,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "SPY": {
-      "price": 769.6,
-      "changePct": -1.08,
+      "price": 771.79,
+      "changePct": 0.28,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "ARM": {
-      "price": 238.01,
-      "changePct": -6.81,
+      "price": 244.79,
+      "changePct": 2.85,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "QQQ": {
-      "price": 728.95,
-      "changePct": -1.97,
+      "price": 728,
+      "changePct": -0.13,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "FLNC": {
-      "price": 6.21,
-      "changePct": -8.41,
+      "price": 6.43,
+      "changePct": 3.54,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "ORCL": {
-      "price": 130.55,
-      "changePct": -8.83,
+      "price": 134.47,
+      "changePct": 3,
       "currency": "USD",
-      "asOf": "2026-10-14T20:04:20.000Z",
+      "asOf": "2026-10-15T20:03:47.000Z",
       "source": "Yahoo Finance"
     },
     "APLD": {
-      "price": 20.32,
-      "changePct": -9.43,
+      "price": 20.39,
+      "changePct": 0.32,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "AAPL": {
-      "price": 342.96,
-      "changePct": 0.5,
+      "price": 342,
+      "changePct": -0.28,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "SHAZ": {
-      "price": 31,
-      "changePct": -10.69,
+      "price": 31.03,
+      "changePct": 0.1,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "FORM": {
-      "price": 119.71,
-      "changePct": -6.54,
+      "price": 113.34,
+      "changePct": -5.32,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "TER": {
-      "price": 359.44,
-      "changePct": -5.48,
+      "price": 343.21,
+      "changePct": -4.52,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "WYFI": {
-      "price": 12.73,
-      "changePct": -12.45,
+      "price": 13.01,
+      "changePct": 2.2,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "CLSK": {
-      "price": 9.22,
-      "changePct": -9.11,
+      "price": 9.35,
+      "changePct": 1.36,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "WULF": {
-      "price": 11.54,
-      "changePct": -12.64,
+      "price": 12.62,
+      "changePct": 9.36,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "SNAP": {
-      "price": 6.1,
-      "changePct": -6.01,
+      "price": 6.44,
+      "changePct": 5.57,
       "currency": "USD",
-      "asOf": "2026-10-14T20:02:12.000Z",
+      "asOf": "2026-10-15T20:04:10.000Z",
       "source": "Yahoo Finance"
     },
     "OKLO": {
-      "price": 29.04,
-      "changePct": -8.62,
+      "price": 30.01,
+      "changePct": 3.34,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "UPWK": {
-      "price": 8.43,
-      "changePct": -2.43,
+      "price": 8.74,
+      "changePct": 3.68,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "PYPL": {
-      "price": 56.1,
-      "changePct": -0.12,
+      "price": 57.16,
+      "changePct": 1.89,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "HOOD": {
-      "price": 101.08,
-      "changePct": -8.54,
+      "price": 103.99,
+      "changePct": 2.88,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "COIN": {
-      "price": 172.89,
-      "changePct": -4.9,
+      "price": 183.81,
+      "changePct": 6.32,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "DRAM": {
-      "price": 50.14,
-      "changePct": -5.11,
+      "price": 49.33,
+      "changePct": -1.62,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "MELI": {
-      "price": 1839.11,
-      "changePct": -1.97,
+      "price": 1856.98,
+      "changePct": 0.97,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "EQR": {
@@ -415,73 +415,73 @@
       "source": "Yahoo Finance"
     },
     "LULU": {
-      "price": 94.09,
-      "changePct": -0.26,
+      "price": 99.09,
+      "changePct": 5.31,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "PLTR": {
-      "price": 200.97,
-      "changePct": -3.69,
+      "price": 200.5,
+      "changePct": -0.23,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:00.000Z",
+      "asOf": "2026-10-15T20:00:00.000Z",
       "source": "Yahoo Finance"
     },
     "STM": {
-      "price": 46.9,
-      "changePct": -5.39,
+      "price": 46.6,
+      "changePct": -0.64,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "CORZ": {
-      "price": 13.51,
-      "changePct": -12.44,
+      "price": 14.46,
+      "changePct": 6.99,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "AA": {
-      "price": 40.08,
-      "changePct": -3.4,
+      "price": 40.42,
+      "changePct": 0.85,
       "currency": "USD",
-      "asOf": "2026-10-14T20:01:33.000Z",
+      "asOf": "2026-10-15T20:01:18.000Z",
       "source": "Yahoo Finance"
     },
     "GPRO": {
-      "price": 1.16,
-      "changePct": -1.69,
+      "price": 1.15,
+      "changePct": -0.86,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "CAPA": {
-      "price": 26.17,
-      "changePct": -1.14,
+      "price": 24.74,
+      "changePct": -5.46,
       "currency": "USD",
-      "asOf": "2026-10-14T17:58:45.000Z",
+      "asOf": "2026-10-15T19:20:24.000Z",
       "source": "Yahoo Finance"
     },
     "CRDO": {
-      "price": 179.22,
-      "changePct": -9.62,
+      "price": 178.5,
+      "changePct": -0.4,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:01.000Z",
+      "asOf": "2026-10-15T20:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "HPS": {
-      "price": 11.51,
-      "changePct": -1.54,
+      "price": 11.69,
+      "changePct": 1.56,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:02.000Z",
       "source": "Yahoo Finance"
     },
     "JCI": {
-      "price": 152.44,
-      "changePct": -2.58,
+      "price": 147.63,
+      "changePct": -3.16,
       "currency": "USD",
-      "asOf": "2026-10-14T20:00:02.000Z",
+      "asOf": "2026-10-15T20:00:02.000Z",
       "source": "Yahoo Finance"
     }
   }
