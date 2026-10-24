@@ -1,14 +1,31 @@
 {
-  "updatedAt": "2026-10-23T11:55:13.932Z",
+  "updatedAt": "2026-10-24T11:23:40.690Z",
   "isSample": false,
   "handle": "aleabitoreddit",
-  "totalTweets": 494,
-  "totalMentions": 522,
+  "totalTweets": 500,
+  "totalMentions": 508,
   "mentions": [
+    {
+      "tweetId": "2113578093935997334",
+      "ticker": "NBIS",
+      "text": "Serenity @aleabitoreddit 2026-10-23 18:27 @Joshuachaisson I almost forgot about that, I’ll go look for some billboard space next to the $NBIS and OpenAI ones. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $158.74 -$0.43 (-0.27%) Since mention (2026-06-07): -30.32% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "createdAt": "2026-10-23T10:27:40.633Z",
+      "url": "https://x.com/aleabitoreddit/status/2113578093935997334",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2113575601390936238",
       "ticker": "TSM",
-      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $159.17 -$12.40 (-7.23%) Since mention (2026-06-07): -30.13% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,260.93 -$117.29 (-8.51%) Since mention (2026-06-10): -23.27% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $412.35 -$19.54 (-4.52%) Since mention (2026-06-05): -0.68% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $158.74 -$0.43 (-0.27%) Since mention (2026-06-07): -30.32% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,238.03 -$22.90 (-1.82%) Since mention (2026-06-10): -24.66% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $418.51 $6.16 (+1.49%) Since mention (2026-06-05): +0.80% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-10-23T10:17:46.364Z",
       "url": "https://x.com/aleabitoreddit/status/2113575601390936238",
       "stats": {
@@ -25,7 +42,7 @@
     {
       "tweetId": "2113575601390936238",
       "ticker": "SNDK",
-      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $159.17 -$12.40 (-7.23%) Since mention (2026-06-07): -30.13% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,260.93 -$117.29 (-8.51%) Since mention (2026-06-10): -23.27% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $412.35 -$19.54 (-4.52%) Since mention (2026-06-05): -0.68% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $158.74 -$0.43 (-0.27%) Since mention (2026-06-07): -30.32% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,238.03 -$22.90 (-1.82%) Since mention (2026-06-10): -24.66% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $418.51 $6.16 (+1.49%) Since mention (2026-06-05): +0.80% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-10-23T10:17:46.364Z",
       "url": "https://x.com/aleabitoreddit/status/2113575601390936238",
       "stats": {
@@ -42,7 +59,7 @@
     {
       "tweetId": "2113575601390936238",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $159.17 -$12.40 (-7.23%) Since mention (2026-06-07): -30.13% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,260.93 -$117.29 (-8.51%) Since mention (2026-06-10): -23.27% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $412.35 -$19.54 (-4.52%) Since mention (2026-06-05): -0.68% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 18:17 Pretty crazy Reuters piece on the global selloff. - October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day. - Tech-focused hedge funds: down ~10% in October - Asia-focused hedge funds: down ~9% in October There’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks. And the stocks bought by most retail were $NBIS, $SNDK, and $TSM. Reuters stated this downturn triggered institutional deleveraging events among hedge funds. Quite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $158.74 -$0.43 (-0.27%) Since mention (2026-06-07): -30.32% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SNDK $SNDK NASDAQ SanDisk Storage $1,238.03 -$22.90 (-1.82%) Since mention (2026-06-10): -24.66% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $TSM $TSM NYSE TSMC Semiconductor foundry $418.51 $6.16 (+1.49%) Since mention (2026-06-05): +0.80% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
       "createdAt": "2026-10-23T10:17:46.364Z",
       "url": "https://x.com/aleabitoreddit/status/2113575601390936238",
       "stats": {
@@ -59,7 +76,7 @@
     {
       "tweetId": "2113433338522546399",
       "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $324.22 -$10.54 (-3.15%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.21 -$9.76 (-4.40%) Since mention (2026-06-05): +3.47% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $320.21 -$4.01 (-1.24%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$1.25 (-0.59%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-23T00:52:28.253Z",
       "url": "https://x.com/aleabitoreddit/status/2113433338522546399",
       "stats": {
@@ -76,7 +93,7 @@
     {
       "tweetId": "2113433338522546399",
       "ticker": "KOSPI",
-      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $324.22 -$10.54 (-3.15%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.21 -$9.76 (-4.40%) Since mention (2026-06-05): +3.47% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $320.21 -$4.01 (-1.24%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$1.25 (-0.59%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-23T00:52:28.253Z",
       "url": "https://x.com/aleabitoreddit/status/2113433338522546399",
       "stats": {
@@ -93,7 +110,7 @@
     {
       "tweetId": "2113433338522546399",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $324.22 -$10.54 (-3.15%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.21 -$9.76 (-4.40%) Since mention (2026-06-05): +3.47% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-23 08:52 $NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\" \"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs. And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. Just my personal opinion, Nvidia probably has the most visibility in the entire industry. Especially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. On durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. Yet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here. $GOOGL $GOOGL GOOGL $320.21 -$4.01 (-1.24%) $KOSPI $KOSPI KOSPI Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$1.25 (-0.59%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-23T00:52:28.253Z",
       "url": "https://x.com/aleabitoreddit/status/2113433338522546399",
       "stats": {
@@ -110,7 +127,7 @@
     {
       "tweetId": "2113329741654806551",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026 I feel like markets are seeing a lot of forced liquidations and panic selling right now. You have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030. So seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $68.07 -$9.25 (-11.96%) Since mention (2026-06-05): -61.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $752.54 -$98.16 (-11.54%) Since mention (2026-06-09): -8.42% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026 I feel like markets are seeing a lot of forced liquidations and panic selling right now. You have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030. So seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $67.51 -$0.56 (-0.82%) Since mention (2026-06-05): -61.86% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $756.17 $3.63 (+0.48%) Since mention (2026-06-09): -7.98% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-10-22T18:00:48.835Z",
       "url": "https://x.com/aleabitoreddit/status/2113329741654806551",
       "stats": {
@@ -127,7 +144,7 @@
     {
       "tweetId": "2113329741654806551",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026 I feel like markets are seeing a lot of forced liquidations and panic selling right now. You have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030. So seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $68.07 -$9.25 (-11.96%) Since mention (2026-06-05): -61.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $752.54 -$98.16 (-11.54%) Since mention (2026-06-09): -8.42% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026 I feel like markets are seeing a lot of forced liquidations and panic selling right now. You have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030. So seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $67.51 -$0.56 (-0.82%) Since mention (2026-06-05): -61.86% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $LITE $LITE NASDAQ Lumentum Optical components $756.17 $3.63 (+0.48%) Since mention (2026-06-09): -7.98% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
       "createdAt": "2026-10-22T18:00:48.835Z",
       "url": "https://x.com/aleabitoreddit/status/2113329741654806551",
       "stats": {
@@ -144,7 +161,7 @@
     {
       "tweetId": "2113269774188757076",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 14:02:31 +0000 2026 @aleabitoreddit Max pain right now with $AAOI. Just holding until we get catalysts next year. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $68.07 -$9.25 (-11.96%) Since mention (2026-06-05): -61.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 14:02:31 +0000 2026 @aleabitoreddit Max pain right now with $AAOI. Just holding until we get catalysts next year. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $67.51 -$0.56 (-0.82%) Since mention (2026-06-05): -61.86% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
       "createdAt": "2026-10-22T14:02:31.477Z",
       "url": "https://x.com/aleabitoreddit/status/2113269774188757076",
       "stats": {
@@ -161,7 +178,7 @@
     {
       "tweetId": "2113253354986144171",
       "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 21.24 -SEK 2.20 (-9.39%) Since mention (2026-06-04): -75.52% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
+      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 20.64 -SEK 2.80 (-11.95%) Since mention (2026-06-04): -76.21% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
       "createdAt": "2026-10-22T12:57:16.834Z",
       "url": "https://x.com/aleabitoreddit/status/2113253354986144171",
       "stats": {
@@ -178,7 +195,7 @@
     {
       "tweetId": "2113250625635135813",
       "ticker": "RKLB",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:46:26 +0000 2026 @YH62284741 What do you mean by completely new industry? I’ve liked space companies like $RKLB since 2024 and well aware there’s a gap that needs to be bridged. But my opinion is that Rocketlab does build into what SpaceX is today, and there’s room for others in the final frontier. $RKLB $RKLB NYSE Rocket Lab USA Space launch $51.22 -$2.45 (-4.56%) Since mention (2026-06-12): -53.47% Space launch and satellite components provider. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:46:26 +0000 2026 @YH62284741 What do you mean by completely new industry? I’ve liked space companies like $RKLB since 2024 and well aware there’s a gap that needs to be bridged. But my opinion is that Rocketlab does build into what SpaceX is today, and there’s room for others in the final frontier. $RKLB $RKLB NYSE Rocket Lab USA Space launch $52.60 $1.38 (+2.69%) Since mention (2026-06-12): -52.22% Space launch and satellite components provider. Open on X",
       "createdAt": "2026-10-22T12:46:26.106Z",
       "url": "https://x.com/aleabitoreddit/status/2113250625635135813",
       "stats": {
@@ -195,7 +212,7 @@
     {
       "tweetId": "2113246620712370367",
       "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:30:31 +0000 2026 @amitisinvesting Yeah $AMD is a great example you gave. It even got the popular nickname “Advanced Money Destroyer” for awhile… Then it had that massive rally to a $1T valuation, but lot of people didn’t give it time to play out. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $507.93 -$44.79 (-8.10%) Since mention (2026-06-07): +8.91% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:30:31 +0000 2026 @amitisinvesting Yeah $AMD is a great example you gave. It even got the popular nickname “Advanced Money Destroyer” for awhile… Then it had that massive rally to a $1T valuation, but lot of people didn’t give it time to play out. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $516.79 $8.86 (+1.74%) Since mention (2026-06-07): +10.81% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. Open on X",
       "createdAt": "2026-10-22T12:30:31.258Z",
       "url": "https://x.com/aleabitoreddit/status/2113246620712370367",
       "stats": {
@@ -212,7 +229,7 @@
     {
       "tweetId": "2113245225506218110",
       "ticker": "AMD",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026 Agreed. Not sure what happens to $ASTS long term but if price action within a range for several months, if not years, is what breaks a thesis, then there never was a thesis. Many of the names you mentioned were stuck for 2-3 years before the market recognized them. $AMD is the most recent example of that. Either you chase the new shiny thing or actually become an investor and believe in a thesis long enough to give it time to become real. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $507.93 -$44.79 (-8.10%) Since mention (2026-06-07): +8.91% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ASTS $ASTS ASTS $38.77 -$2.13 (-5.21%) Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026 Agreed. Not sure what happens to $ASTS long term but if price action within a range for several months, if not years, is what breaks a thesis, then there never was a thesis. Many of the names you mentioned were stuck for 2-3 years before the market recognized them. $AMD is the most recent example of that. Either you chase the new shiny thing or actually become an investor and believe in a thesis long enough to give it time to become real. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $516.79 $8.86 (+1.74%) Since mention (2026-06-07): +10.81% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ASTS $ASTS ASTS $39.79 $1.02 (+2.63%) Open on X",
       "createdAt": "2026-10-22T12:24:58.615Z",
       "url": "https://x.com/aleabitoreddit/status/2113245225506218110",
       "stats": {
@@ -229,7 +246,7 @@
     {
       "tweetId": "2113245225506218110",
       "ticker": "ASTS",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026 Agreed. Not sure what happens to $ASTS long term but if price action within a range for several months, if not years, is what breaks a thesis, then there never was a thesis. Many of the names you mentioned were stuck for 2-3 years before the market recognized them. $AMD is the most recent example of that. Either you chase the new shiny thing or actually become an investor and believe in a thesis long enough to give it time to become real. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $507.93 -$44.79 (-8.10%) Since mention (2026-06-07): +8.91% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ASTS $ASTS ASTS $38.77 -$2.13 (-5.21%) Open on X",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026 Agreed. Not sure what happens to $ASTS long term but if price action within a range for several months, if not years, is what breaks a thesis, then there never was a thesis. Many of the names you mentioned were stuck for 2-3 years before the market recognized them. $AMD is the most recent example of that. Either you chase the new shiny thing or actually become an investor and believe in a thesis long enough to give it time to become real. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $516.79 $8.86 (+1.74%) Since mention (2026-06-07): +10.81% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $ASTS $ASTS ASTS $39.79 $1.02 (+2.63%) Open on X",
       "createdAt": "2026-10-22T12:24:58.615Z",
       "url": "https://x.com/aleabitoreddit/status/2113245225506218110",
       "stats": {
@@ -246,7 +263,7 @@
     {
       "tweetId": "2113240747264897108",
       "ticker": "ASTS",
-      "text": "$ASTS $ASTS ASTS $38.77 -$2.13 (-5.21%) Open on X",
+      "text": "$ASTS $ASTS ASTS $39.79 $1.02 (+2.63%) Open on X",
       "createdAt": "2026-10-22T12:07:10.919Z",
       "url": "https://x.com/aleabitoreddit/status/2113240747264897108",
       "stats": {
@@ -263,7 +280,7 @@
     {
       "tweetId": "2113191492067983849",
       "ticker": "GOOGL",
-      "text": "$GOOGL $GOOGL GOOGL $324.22 -$10.54 (-3.15%) Open on X",
+      "text": "$GOOGL $GOOGL GOOGL $320.21 -$4.01 (-1.24%) Open on X",
       "createdAt": "2026-10-22T08:51:27.565Z",
       "url": "https://x.com/aleabitoreddit/status/2113191492067983849",
       "stats": {
@@ -8623,261 +8640,6 @@
         "score": 0,
         "label": "neutral"
       }
-    },
-    {
-      "tweetId": "27e654c3f84e5ffc",
-      "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-07-17 22:52 Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $100.15 -$11.87 (-10.60%) Since mention (2026-06-05): -43.42% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. Open on X",
-      "createdAt": "2026-07-17T22:52:00.000Z",
-      "url": "https://www.trackserenity.com/stocks/AAOI",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.25,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "1988048592754589970",
-      "ticker": "WULF",
-      "text": "$CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) Open on X",
-      "createdAt": "2025-11-11T00:58:15.326Z",
-      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1988048592754589970",
-      "ticker": "CRWV",
-      "text": "$CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) Open on X",
-      "createdAt": "2025-11-11T00:58:15.326Z",
-      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1988048592754589970",
-      "ticker": "CIFR",
-      "text": "$CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) Open on X",
-      "createdAt": "2025-11-11T00:58:15.326Z",
-      "url": "https://x.com/aleabitoreddit/status/1988048592754589970",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "WYFI",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "HIVE",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "CLSK",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "HUT",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "WULF",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "CIFR",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "RIOT",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "APLD",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "1984837960735285593",
-      "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit 2025-11-02 12:20 Neocloud Ecosystem Cheat Sheet Part 1/2: Bullet Point Positive vs. Negatives. Full List by Marketcap: $CRWV ($66.2B) $NBIS ($32.85B) $IREN ($16.52B) $APLD ($9.69B) $RIOT ($7.34B) $CIFR ($7.3B) $WULF ($6.36B) $HUT($5.39B) $CLSK ($5.01B) $HIVE ($1.74B CAD) $WYFI ($1.29B) https://t.co/z3HZ07q5wn $APLD $APLD APLD $23.58 -$0.23 (-0.97%) $CIFR $CIFR CIFR $13.86 -$0.70 (-4.81%) $CLSK $CLSK CLSK $11.01 -$0.51 (-4.43%) $CRWV $CRWV CRWV $84.93 -$3.52 (-3.98%) $HIVE $HIVE HIVE $2.69 -$0.06 (-2.18%) $HUT $HUT HUT $85.20 -$4.10 (-4.59%) $IREN $IREN IREN $37.00 -$1.69 (-4.37%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $228.67 -$8.48 (-3.58%) Since mention (2026-06-07): +0.38% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $17.52 -$1.02 (-5.50%) $WULF $WULF WULF $13.84 -$0.56 (-3.89%) $WYFI $WYFI WYFI $16.09 -$0.74 (-4.40%) Open on X",
-      "createdAt": "2025-11-02T04:20:21.002Z",
-      "url": "https://x.com/aleabitoreddit/status/1984837960735285593",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
     }
   ],
   "tickers": [
@@ -9221,19 +8983,19 @@
     },
     {
       "ticker": "AAOI",
-      "count": 35,
-      "firstSeen": "2026-07-17T22:52:00.000Z",
+      "count": 34,
+      "firstSeen": "2026-07-24T08:11:00.000Z",
       "lastSeen": "2026-10-22T18:00:48.835Z",
-      "avgSentiment": 0.242,
+      "avgSentiment": 0.256,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 69.6,
+      "signalScore": 69.4,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 16.4,
+        "frequency": 16.3,
         "recency": 10,
-        "persistence": 7.2,
+        "persistence": 7.1,
         "engagement": 0,
         "conviction": 15,
         "themeFit": 15,
@@ -9241,11 +9003,6 @@
         "risk": 18
       },
       "history": [
-        {
-          "date": "2026-07-17",
-          "count": 1,
-          "avgSentiment": -0.25
-        },
         {
           "date": "2026-07-24",
           "count": 1,
@@ -9520,18 +9277,18 @@
     {
       "ticker": "NBIS",
       "count": 25,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-10-23T10:17:46.364Z",
+      "firstSeen": "2026-07-18T01:51:00.000Z",
+      "lastSeen": "2026-10-23T10:27:40.633Z",
       "avgSentiment": 0.143,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 85,
+      "signalScore": 84.2,
       "signalBand": "high",
       "signalComponents": {
         "base": 12,
         "frequency": 14.9,
         "recency": 10,
-        "persistence": 8,
+        "persistence": 7.2,
         "engagement": 0,
         "conviction": 14.9,
         "themeFit": 15,
@@ -9539,11 +9296,6 @@
         "risk": 1.8
       },
       "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-07-18",
           "count": 1,
@@ -9641,8 +9393,8 @@
         },
         {
           "date": "2026-10-23",
-          "count": 1,
-          "avgSentiment": -0.333
+          "count": 2,
+          "avgSentiment": -0.167
         }
       ]
     },
@@ -9935,31 +9687,26 @@
     },
     {
       "ticker": "IREN",
-      "count": 15,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "count": 14,
+      "firstSeen": "2026-07-18T01:51:00.000Z",
       "lastSeen": "2026-10-19T10:34:45.068Z",
-      "avgSentiment": 0.033,
+      "avgSentiment": 0.036,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 75.5,
+      "signalScore": 74.3,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 12.7,
+        "frequency": 12.4,
         "recency": 10,
-        "persistence": 8,
+        "persistence": 7.2,
         "engagement": 0,
-        "conviction": 9.1,
+        "conviction": 8.9,
         "themeFit": 15,
         "catalyst": 12,
         "risk": 3.2
       },
       "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-07-18",
           "count": 1,
@@ -10541,70 +10288,6 @@
       ]
     },
     {
-      "ticker": "CRWV",
-      "count": 8,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-10-15T21:42:12.079Z",
-      "avgSentiment": 0.188,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 62,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.1,
-        "recency": 8,
-        "persistence": 8,
-        "engagement": 0,
-        "conviction": 2.9,
-        "themeFit": 15,
-        "catalyst": 6,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2025-11-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-10-15",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "RDDT",
       "count": 8,
       "firstSeen": "2026-07-31T16:18:47.056Z",
@@ -10918,6 +10601,60 @@
         },
         {
           "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "count": 6,
+      "firstSeen": "2026-07-21T01:18:00.000Z",
+      "lastSeen": "2026-10-15T21:42:12.079Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 59.1,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 8.9,
+        "recency": 8,
+        "persistence": 7,
+        "engagement": 0,
+        "conviction": 2.6,
+        "themeFit": 15,
+        "catalyst": 5.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-08-11",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-10-15",
           "count": 1,
           "avgSentiment": 0
         }
@@ -11439,12 +11176,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 40.3,
+      "signalScore": 37.3,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 6.3,
-        "recency": 8,
+        "recency": 5,
         "persistence": 3.6,
         "engagement": 0,
         "conviction": 3.9,
@@ -11504,123 +11241,6 @@
         },
         {
           "date": "2026-09-21",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "RIOT",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 47,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 5,
-        "persistence": 7.2,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 13.5,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-08-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "HUT",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-09-01T00:37:28.393Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 49,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 5,
-        "persistence": 7.2,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 15,
-        "catalyst": 3,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CIFR",
-      "count": 3,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 39.1,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 3,
-        "persistence": 5.8,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 9.1,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2025-11-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
           "count": 1,
           "avgSentiment": 0
         }
@@ -11962,34 +11582,68 @@
       ]
     },
     {
-      "ticker": "APLD",
+      "ticker": "RIOT",
       "count": 2,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
+      "firstSeen": "2026-08-11T01:29:11.268Z",
       "lastSeen": "2026-09-02T09:54:21.024Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 41.6,
+      "signalScore": 39.1,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
         "recency": 5,
-        "persistence": 5.8,
+        "persistence": 3.2,
         "engagement": 0,
         "conviction": 0.3,
-        "themeFit": 12.5,
-        "catalyst": 1,
+        "themeFit": 11.5,
+        "catalyst": 2,
         "risk": 0
       },
       "history": [
         {
-          "date": "2025-11-02",
+          "date": "2026-08-11",
           "count": 1,
           "avgSentiment": 0
         },
         {
           "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "HUT",
+      "count": 2,
+      "firstSeen": "2026-07-21T01:18:00.000Z",
+      "lastSeen": "2026-09-01T00:37:28.393Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 40.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 5,
+        "recency": 5,
+        "persistence": 3.5,
+        "engagement": 0,
+        "conviction": 0.3,
+        "themeFit": 12.5,
+        "catalyst": 2.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-01",
           "count": 1,
           "avgSentiment": 0
         }
@@ -12180,108 +11834,6 @@
       ]
     },
     {
-      "ticker": "WYFI",
-      "count": 2,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 37.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 3,
-        "persistence": 5.8,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 9.1,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CLSK",
-      "count": 2,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2026-07-21T01:18:00.000Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 37.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 3,
-        "persistence": 5.8,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 9.1,
-        "catalyst": 2.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-07-21",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "WULF",
-      "count": 2,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2025-11-11T00:58:15.326Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 26.4,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 5,
-        "recency": 1,
-        "persistence": 1.5,
-        "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 6.1,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2025-11-11",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "KOSPI",
       "count": 1,
       "firstSeen": "2026-10-23T00:52:28.253Z",
@@ -12405,12 +11957,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.8,
+      "signalScore": 23.8,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -12434,12 +11986,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.2,
+      "signalScore": 23.2,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -12713,6 +12265,35 @@
           "date": "2026-09-13",
           "count": 1,
           "avgSentiment": 0.1
+        }
+      ]
+    },
+    {
+      "ticker": "APLD",
+      "count": 1,
+      "firstSeen": "2026-09-02T09:54:21.024Z",
+      "lastSeen": "2026-09-02T09:54:21.024Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 33.8,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 5,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 11.5,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
         }
       ]
     },
@@ -13587,29 +13168,87 @@
       ]
     },
     {
-      "ticker": "HIVE",
+      "ticker": "WYFI",
       "count": 1,
-      "firstSeen": "2025-11-02T04:20:21.002Z",
-      "lastSeen": "2025-11-02T04:20:21.002Z",
+      "firstSeen": "2026-07-21T01:18:00.000Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 24.3,
+      "signalScore": 28.1,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 1,
+        "recency": 3,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
-        "themeFit": 6.1,
-        "catalyst": 0.5,
+        "themeFit": 6.4,
+        "catalyst": 2,
         "risk": 0
       },
       "history": [
         {
-          "date": "2025-11-02",
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CLSK",
+      "count": 1,
+      "firstSeen": "2026-07-21T01:18:00.000Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 28.1,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 3,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 6.4,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-21",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "CIFR",
+      "count": 1,
+      "firstSeen": "2026-07-21T01:18:00.000Z",
+      "lastSeen": "2026-07-21T01:18:00.000Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 28.1,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 3,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 6.4,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-07-21",
           "count": 1,
           "avgSentiment": 0
         }
@@ -13622,7 +13261,7 @@
       "from": "2026-10-17",
       "to": "2026-10-23"
     },
-    "totalMentions": 44,
+    "totalMentions": 45,
     "topTickers": [
       {
         "ticker": "NVDA",
@@ -13637,12 +13276,12 @@
         "count": 5
       },
       {
-        "ticker": "AEVA",
+        "ticker": "NBIS",
         "count": 4
       },
       {
-        "ticker": "NBIS",
-        "count": 3
+        "ticker": "AEVA",
+        "count": 4
       }
     ],
     "newTickers": [
@@ -13653,182 +13292,21 @@
     "minSample": 4,
     "weekly": [
       {
-        "key": "2025-W44",
-        "from": "2025-11-02",
-        "to": "2025-11-02",
-        "posts": 1,
-        "mentions": 11,
-        "unclassified": 0,
-        "thin": true,
-        "themes": [
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 1,
-            "share": 0.5,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "cooling",
-            "title": "Liquid cooling / thermal",
-            "posts": 1,
-            "share": 0.5,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          }
-        ],
-        "topTickers": [
-          {
-            "ticker": "WYFI",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "HIVE",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "CLSK",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "HUT",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "WULF",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "CIFR",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "RIOT",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "APLD",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          }
-        ],
-        "newTickers": []
-      },
-      {
-        "key": "2025-W46",
-        "from": "2025-11-11",
-        "to": "2025-11-11",
-        "posts": 1,
-        "mentions": 3,
-        "unclassified": 1,
-        "thin": true,
-        "themes": [
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 0,
-            "share": 0,
-            "prevPosts": 1,
-            "deltaShare": -0.5,
-            "trend": "thin"
-          },
-          {
-            "id": "cooling",
-            "title": "Liquid cooling / thermal",
-            "posts": 0,
-            "share": 0,
-            "prevPosts": 1,
-            "deltaShare": -0.5,
-            "trend": "thin"
-          }
-        ],
-        "topTickers": [
-          {
-            "ticker": "WULF",
-            "count": 1,
-            "themes": []
-          },
-          {
-            "ticker": "CRWV",
-            "count": 1,
-            "themes": []
-          },
-          {
-            "ticker": "CIFR",
-            "count": 1,
-            "themes": []
-          }
-        ],
-        "newTickers": []
-      },
-      {
         "key": "2026-W29",
-        "from": "2026-07-17",
+        "from": "2026-07-18",
         "to": "2026-07-18",
-        "posts": 3,
-        "mentions": 6,
+        "posts": 2,
+        "mentions": 5,
         "unclassified": 1,
         "thin": true,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 2,
-            "share": 0.5,
-            "prevPosts": 0,
-            "deltaShare": 0.5,
-            "trend": "thin"
-          },
-          {
-            "id": "optics",
-            "title": "AI optical interconnect / CPO",
             "posts": 1,
-            "share": 0.25,
+            "share": 1,
             "prevPosts": 0,
-            "deltaShare": 0.25,
-            "trend": "thin"
-          },
-          {
-            "id": "networking",
-            "title": "AI networking / Ethernet",
-            "posts": 1,
-            "share": 0.25,
-            "prevPosts": 0,
-            "deltaShare": 0.25,
+            "deltaShare": 0,
             "trend": "thin"
           }
         ],
@@ -13865,25 +13343,9 @@
             "themes": [
               "neocloud"
             ]
-          },
-          {
-            "ticker": "AAOI",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking"
-            ]
           }
         ],
-        "newTickers": [
-          "SKHY",
-          "IREN",
-          "NBIS",
-          "SPCX",
-          "META",
-          "AAOI"
-        ]
+        "newTickers": []
       },
       {
         "key": "2026-W30",
@@ -13899,8 +13361,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 13,
             "share": 0.419,
-            "prevPosts": 2,
-            "deltaShare": -0.081,
+            "prevPosts": 1,
+            "deltaShare": -0.581,
             "trend": "thin"
           },
           {
@@ -13917,8 +13379,8 @@
             "title": "AI optical interconnect / CPO",
             "posts": 3,
             "share": 0.097,
-            "prevPosts": 1,
-            "deltaShare": -0.153,
+            "prevPosts": 0,
+            "deltaShare": 0.097,
             "trend": "thin"
           },
           {
@@ -13926,8 +13388,8 @@
             "title": "AI networking / Ethernet",
             "posts": 3,
             "share": 0.097,
-            "prevPosts": 1,
-            "deltaShare": -0.153,
+            "prevPosts": 0,
+            "deltaShare": 0.097,
             "trend": "thin"
           },
           {
@@ -15918,71 +15380,71 @@
       {
         "key": "2026-W43",
         "from": "2026-10-19",
-        "to": "2026-10-23",
-        "posts": 71,
-        "mentions": 44,
-        "unclassified": 49,
+        "to": "2026-10-24",
+        "posts": 80,
+        "mentions": 45,
+        "unclassified": 57,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 16,
-            "share": 0.229,
+            "posts": 17,
+            "share": 0.239,
             "prevPosts": 6,
-            "deltaShare": 0.071,
+            "deltaShare": 0.082,
             "trend": "rising"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 15,
-            "share": 0.214,
+            "share": 0.211,
             "prevPosts": 7,
-            "deltaShare": 0.03,
+            "deltaShare": 0.027,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 15,
-            "share": 0.214,
+            "share": 0.211,
             "prevPosts": 8,
-            "deltaShare": 0.004,
+            "deltaShare": 0.001,
             "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
             "posts": 13,
-            "share": 0.186,
+            "share": 0.183,
             "prevPosts": 8,
-            "deltaShare": -0.025,
+            "deltaShare": -0.027,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 5,
-            "share": 0.071,
+            "share": 0.07,
             "prevPosts": 5,
-            "deltaShare": -0.06,
+            "deltaShare": -0.061,
             "trend": "cooling"
           },
           {
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 2,
-            "share": 0.029,
+            "share": 0.028,
             "prevPosts": 0,
-            "deltaShare": 0.029,
+            "deltaShare": 0.028,
             "trend": "new"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 2,
-            "share": 0.029,
+            "share": 0.028,
             "prevPosts": 1,
             "deltaShare": 0.002,
             "trend": "steady"
@@ -16043,6 +15505,16 @@
             ]
           },
           {
+            "ticker": "NBIS",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "memory",
+              "semicap",
+              "power"
+            ]
+          },
+          {
             "ticker": "AEVA",
             "count": 4,
             "themes": [
@@ -16051,16 +15523,6 @@
               "robotics",
               "semicap",
               "networking"
-            ]
-          },
-          {
-            "ticker": "NBIS",
-            "count": 3,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap",
-              "power"
             ]
           },
           {
@@ -16101,189 +15563,84 @@
     ],
     "monthly": [
       {
-        "key": "2025-11",
-        "from": "2025-11-02",
-        "to": "2025-11-11",
-        "posts": 2,
-        "mentions": 14,
-        "unclassified": 1,
-        "thin": true,
-        "themes": [
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 1,
-            "share": 0.5,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "cooling",
-            "title": "Liquid cooling / thermal",
-            "posts": 1,
-            "share": 0.5,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          }
-        ],
-        "topTickers": [
-          {
-            "ticker": "WULF",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "CRWV",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "CIFR",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "WYFI",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "HIVE",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "CLSK",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "HUT",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          },
-          {
-            "ticker": "RIOT",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "cooling"
-            ]
-          }
-        ],
-        "newTickers": []
-      },
-      {
         "key": "2026-07",
-        "from": "2026-07-17",
+        "from": "2026-07-18",
         "to": "2026-07-31",
-        "posts": 46,
-        "mentions": 89,
+        "posts": 45,
+        "mentions": 88,
         "unclassified": 15,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 21,
-            "share": 0.28,
-            "prevPosts": 1,
-            "deltaShare": -0.22,
+            "posts": 20,
+            "share": 0.278,
+            "prevPosts": 0,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
             "posts": 19,
-            "share": 0.253,
+            "share": 0.264,
             "prevPosts": 0,
-            "deltaShare": 0.253,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 12,
-            "share": 0.16,
+            "posts": 11,
+            "share": 0.153,
             "prevPosts": 0,
-            "deltaShare": 0.16,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 11,
-            "share": 0.147,
+            "posts": 10,
+            "share": 0.139,
             "prevPosts": 0,
-            "deltaShare": 0.147,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 5,
-            "share": 0.067,
+            "share": 0.069,
             "prevPosts": 0,
-            "deltaShare": 0.067,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 4,
-            "share": 0.053,
+            "share": 0.056,
             "prevPosts": 0,
-            "deltaShare": 0.053,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 2,
-            "share": 0.027,
+            "share": 0.028,
             "prevPosts": 0,
-            "deltaShare": 0.027,
+            "deltaShare": 0,
             "trend": "thin"
           },
           {
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 1,
-            "share": 0.013,
+            "share": 0.014,
             "prevPosts": 0,
-            "deltaShare": 0.013,
-            "trend": "thin"
-          },
-          {
-            "id": "cooling",
-            "title": "Liquid cooling / thermal",
-            "posts": 0,
-            "share": 0,
-            "prevPosts": 1,
-            "deltaShare": -0.5,
+            "deltaShare": 0,
             "trend": "thin"
           }
         ],
@@ -16360,14 +15717,7 @@
             ]
           }
         ],
-        "newTickers": [
-          "META",
-          "GOOGL",
-          "AMD",
-          "BE",
-          "MSFT",
-          "SIVE"
-        ]
+        "newTickers": []
       },
       {
         "key": "2026-08",
@@ -16383,8 +15733,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 56,
             "share": 0.23,
-            "prevPosts": 21,
-            "deltaShare": -0.05,
+            "prevPosts": 20,
+            "deltaShare": -0.047,
             "trend": "steady"
           },
           {
@@ -16393,7 +15743,7 @@
             "posts": 51,
             "share": 0.21,
             "prevPosts": 19,
-            "deltaShare": -0.043,
+            "deltaShare": -0.054,
             "trend": "steady"
           },
           {
@@ -16401,17 +15751,17 @@
             "title": "AI networking / Ethernet",
             "posts": 50,
             "share": 0.206,
-            "prevPosts": 11,
-            "deltaShare": 0.059,
-            "trend": "steady"
+            "prevPosts": 10,
+            "deltaShare": 0.067,
+            "trend": "rising"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 45,
             "share": 0.185,
-            "prevPosts": 12,
-            "deltaShare": 0.025,
+            "prevPosts": 11,
+            "deltaShare": 0.032,
             "trend": "steady"
           },
           {
@@ -16420,7 +15770,7 @@
             "posts": 26,
             "share": 0.107,
             "prevPosts": 5,
-            "deltaShare": 0.04,
+            "deltaShare": 0.038,
             "trend": "steady"
           },
           {
@@ -16429,7 +15779,7 @@
             "posts": 6,
             "share": 0.025,
             "prevPosts": 2,
-            "deltaShare": -0.002,
+            "deltaShare": -0.003,
             "trend": "steady"
           },
           {
@@ -16447,7 +15797,7 @@
             "posts": 4,
             "share": 0.016,
             "prevPosts": 4,
-            "deltaShare": -0.037,
+            "deltaShare": -0.039,
             "trend": "steady"
           },
           {
@@ -16744,53 +16094,53 @@
       {
         "key": "2026-10",
         "from": "2026-10-01",
-        "to": "2026-10-23",
-        "posts": 125,
-        "mentions": 88,
-        "unclassified": 78,
+        "to": "2026-10-24",
+        "posts": 134,
+        "mentions": 89,
+        "unclassified": 86,
         "thin": false,
         "themes": [
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 31,
-            "share": 0.226,
+            "share": 0.225,
             "prevPosts": 23,
-            "deltaShare": 0.039,
+            "deltaShare": 0.038,
+            "trend": "steady"
+          },
+          {
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 30,
+            "share": 0.217,
+            "prevPosts": 29,
+            "deltaShare": -0.018,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 30,
-            "share": 0.219,
+            "share": 0.217,
             "prevPosts": 19,
-            "deltaShare": 0.065,
+            "deltaShare": 0.063,
             "trend": "rising"
-          },
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 29,
-            "share": 0.212,
-            "prevPosts": 29,
-            "deltaShare": -0.024,
-            "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
             "posts": 24,
-            "share": 0.175,
+            "share": 0.174,
             "prevPosts": 31,
-            "deltaShare": -0.077,
+            "deltaShare": -0.078,
             "trend": "cooling"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 12,
-            "share": 0.088,
+            "share": 0.087,
             "prevPosts": 17,
             "deltaShare": -0.051,
             "trend": "steady"
@@ -16819,7 +16169,7 @@
             "posts": 3,
             "share": 0.022,
             "prevPosts": 2,
-            "deltaShare": 0.006,
+            "deltaShare": 0.005,
             "trend": "steady"
           },
           {
@@ -16898,7 +16248,7 @@
           },
           {
             "ticker": "NBIS",
-            "count": 4,
+            "count": 5,
             "themes": [
               "neocloud",
               "memory",
