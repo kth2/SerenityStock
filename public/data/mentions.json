@@ -1,10 +1,44 @@
 {
-  "updatedAt": "2026-10-28T13:20:53.484Z",
+  "updatedAt": "2026-10-29T13:30:06.611Z",
   "isSample": false,
   "handle": "aleabitoreddit",
   "totalTweets": 500,
-  "totalMentions": 436,
+  "totalMentions": 437,
   "mentions": [
+    {
+      "tweetId": "2115624832947917083",
+      "ticker": "LITE",
+      "text": "Serenity @aleabitoreddit Thu Oct 29 02:00:41 +0000 2026 Holy sht, $MRVL is in the final stages of a deal to acquire $LITE. Attempting to vertically integrate the most supply constrained chokepoints… with lasers. Is very big brain if they pull it off and suddenly makes other laser players more strategically valuable. $LITE $LITE NASDAQ Lumentum Optical components $913.99 $47.81 (+5.52%) Since mention (2026-06-09): +11.22% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $251.69 $8.12 (+3.33%) Since mention (2026-06-06): -4.47% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
+      "createdAt": "2026-10-29T02:00:41.240Z",
+      "url": "https://x.com/aleabitoreddit/status/2115624832947917083",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2115624832947917083",
+      "ticker": "MRVL",
+      "text": "Serenity @aleabitoreddit Thu Oct 29 02:00:41 +0000 2026 Holy sht, $MRVL is in the final stages of a deal to acquire $LITE. Attempting to vertically integrate the most supply constrained chokepoints… with lasers. Is very big brain if they pull it off and suddenly makes other laser players more strategically valuable. $LITE $LITE NASDAQ Lumentum Optical components $913.99 $47.81 (+5.52%) Since mention (2026-06-09): +11.22% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $251.69 $8.12 (+3.33%) Since mention (2026-06-06): -4.47% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
+      "createdAt": "2026-10-29T02:00:41.240Z",
+      "url": "https://x.com/aleabitoreddit/status/2115624832947917083",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
     {
       "tweetId": "2115265167919653233",
       "ticker": "SKHY",
@@ -59,7 +93,7 @@
     {
       "tweetId": "2115118430785606077",
       "ticker": "EOSE",
-      "text": "$EOSE $EOSE EOSE $1.82 $0.20 (+12.35%) Open on X",
+      "text": "$EOSE $EOSE EOSE $1.97 $0.15 (+8.24%) Open on X",
       "createdAt": "2026-10-27T16:28:25.556Z",
       "url": "https://x.com/aleabitoreddit/status/2115118430785606077",
       "stats": {
@@ -76,7 +110,7 @@
     {
       "tweetId": "2115115209413292219",
       "ticker": "TSEM",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 16:15:37 +0000 2026 @GusPaschal91721 Wow $LWLG crashed from $18->$4. I was pretty negative on it, but I'm surprised it's lower than when they announced a partnership with $TSEM. and even last year. Perfect addition to my \"It's all over\" portfolio $LWLG $LWLG LWLG $4.60 $0.49 (+11.92%) $TSEM $TSEM NASDAQ Tower Semiconductor Semiconductor foundry $189.08 $10.33 (+5.78%) Since mention (2026-06-06): -19.70% Specialty analog foundry with photonics, RF, and power management fab services. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 16:15:37 +0000 2026 @GusPaschal91721 Wow $LWLG crashed from $18->$4. I was pretty negative on it, but I'm surprised it's lower than when they announced a partnership with $TSEM. and even last year. Perfect addition to my \"It's all over\" portfolio $LWLG $LWLG LWLG $4.73 $0.13 (+2.83%) $TSEM $TSEM NASDAQ Tower Semiconductor Semiconductor foundry $193.55 $4.47 (+2.36%) Since mention (2026-06-06): -17.81% Specialty analog foundry with photonics, RF, and power management fab services. Open on X",
       "createdAt": "2026-10-27T16:15:37.521Z",
       "url": "https://x.com/aleabitoreddit/status/2115115209413292219",
       "stats": {
@@ -93,7 +127,7 @@
     {
       "tweetId": "2115115209413292219",
       "ticker": "LWLG",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 16:15:37 +0000 2026 @GusPaschal91721 Wow $LWLG crashed from $18->$4. I was pretty negative on it, but I'm surprised it's lower than when they announced a partnership with $TSEM. and even last year. Perfect addition to my \"It's all over\" portfolio $LWLG $LWLG LWLG $4.60 $0.49 (+11.92%) $TSEM $TSEM NASDAQ Tower Semiconductor Semiconductor foundry $189.08 $10.33 (+5.78%) Since mention (2026-06-06): -19.70% Specialty analog foundry with photonics, RF, and power management fab services. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 16:15:37 +0000 2026 @GusPaschal91721 Wow $LWLG crashed from $18->$4. I was pretty negative on it, but I'm surprised it's lower than when they announced a partnership with $TSEM. and even last year. Perfect addition to my \"It's all over\" portfolio $LWLG $LWLG LWLG $4.73 $0.13 (+2.83%) $TSEM $TSEM NASDAQ Tower Semiconductor Semiconductor foundry $193.55 $4.47 (+2.36%) Since mention (2026-06-06): -17.81% Specialty analog foundry with photonics, RF, and power management fab services. Open on X",
       "createdAt": "2026-10-27T16:15:37.521Z",
       "url": "https://x.com/aleabitoreddit/status/2115115209413292219",
       "stats": {
@@ -110,7 +144,7 @@
     {
       "tweetId": "2115112523674304628",
       "ticker": "LWLG",
-      "text": "$LWLG $LWLG LWLG $4.60 $0.49 (+11.92%) Open on X",
+      "text": "$LWLG $LWLG LWLG $4.73 $0.13 (+2.83%) Open on X",
       "createdAt": "2026-10-27T16:04:57.191Z",
       "url": "https://x.com/aleabitoreddit/status/2115112523674304628",
       "stats": {
@@ -127,7 +161,7 @@
     {
       "tweetId": "2115100801538683149",
       "ticker": "BRUN",
-      "text": "$BRUN $BRUN BRUN $8.11 $0.63 (+8.42%) Open on X",
+      "text": "$BRUN $BRUN BRUN $8.82 $0.71 (+8.75%) Open on X",
       "createdAt": "2026-10-27T15:18:22.416Z",
       "url": "https://x.com/aleabitoreddit/status/2115100801538683149",
       "stats": {
@@ -144,7 +178,7 @@
     {
       "tweetId": "2115099588218814674",
       "ticker": "CBRS",
-      "text": "$CBRS $CBRS CBRS $119.31 $10.94 (+10.10%) Open on X",
+      "text": "$CBRS $CBRS CBRS $112.59 -$6.72 (-5.63%) Open on X",
       "createdAt": "2026-10-27T15:13:33.138Z",
       "url": "https://x.com/aleabitoreddit/status/2115099588218814674",
       "stats": {
@@ -161,7 +195,7 @@
     {
       "tweetId": "2115097816779673903",
       "ticker": "GOOGL",
-      "text": "$AMZN $AMZN AMZN $253.10 $4.01 (+1.61%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) Open on X",
+      "text": "$AMZN $AMZN AMZN $254.64 $1.54 (+0.61%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) Open on X",
       "createdAt": "2026-10-27T15:06:30.794Z",
       "url": "https://x.com/aleabitoreddit/status/2115097816779673903",
       "stats": {
@@ -178,7 +212,7 @@
     {
       "tweetId": "2115097816779673903",
       "ticker": "CIFR",
-      "text": "$AMZN $AMZN AMZN $253.10 $4.01 (+1.61%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) Open on X",
+      "text": "$AMZN $AMZN AMZN $254.64 $1.54 (+0.61%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) Open on X",
       "createdAt": "2026-10-27T15:06:30.794Z",
       "url": "https://x.com/aleabitoreddit/status/2115097816779673903",
       "stats": {
@@ -195,7 +229,7 @@
     {
       "tweetId": "2115097816779673903",
       "ticker": "AMZN",
-      "text": "$AMZN $AMZN AMZN $253.10 $4.01 (+1.61%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) Open on X",
+      "text": "$AMZN $AMZN AMZN $254.64 $1.54 (+0.61%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) Open on X",
       "createdAt": "2026-10-27T15:06:30.794Z",
       "url": "https://x.com/aleabitoreddit/status/2115097816779673903",
       "stats": {
@@ -212,7 +246,7 @@
     {
       "tweetId": "2115096738537336997",
       "ticker": "WYFI",
-      "text": "$WYFI $WYFI WYFI $10.99 $1.47 (+15.44%) Open on X",
+      "text": "$WYFI $WYFI WYFI $11.89 $0.90 (+8.19%) Open on X",
       "createdAt": "2026-10-27T15:02:13.721Z",
       "url": "https://x.com/aleabitoreddit/status/2115096738537336997",
       "stats": {
@@ -229,7 +263,7 @@
     {
       "tweetId": "2115096629506457833",
       "ticker": "FLNC",
-      "text": "$FLNC $FLNC FLNC $6.01 $0.51 (+9.27%) Open on X",
+      "text": "$FLNC $FLNC FLNC $6.21 $0.20 (+3.33%) Open on X",
       "createdAt": "2026-10-27T15:01:47.726Z",
       "url": "https://x.com/aleabitoreddit/status/2115096629506457833",
       "stats": {
@@ -246,7 +280,7 @@
     {
       "tweetId": "2115095857414496664",
       "ticker": "CIFR",
-      "text": "$CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) Open on X",
+      "text": "$CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) Open on X",
       "createdAt": "2026-10-27T14:58:43.645Z",
       "url": "https://x.com/aleabitoreddit/status/2115095857414496664",
       "stats": {
@@ -263,7 +297,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "SHAZ",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -280,7 +314,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "TE",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -297,7 +331,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "ASTS",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -314,7 +348,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "CIFR",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -331,7 +365,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "ALMU",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -348,7 +382,7 @@
     {
       "tweetId": "2115094150626644115",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.75 $1.14 (+17.25%) $ASTS $ASTS ASTS $41.96 $2.51 (+6.36%) $CIFR $CIFR CIFR $8.48 $0.77 (+9.99%) $SHAZ $SHAZ SHAZ $25.75 $2.25 (+9.57%) $TE $TE TE $2.46 $0.34 (+16.04%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 14:51:56 +0000 2026 I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI. The requirements: 1. Fell off a cliff 2. Lower than when they announced their catalysts 3. Increasing fundamentals 4. Looks like the chart 5. Short interest spiking Stuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25. Not a recommendation, just curious how this performs into year end while doomposts are everywhere. Anyone got any other ones? $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ALMU $ALMU ALMU $7.89 $0.14 (+1.81%) $ASTS $ASTS ASTS $42.32 $0.36 (+0.86%) $CIFR $CIFR CIFR $8.89 $0.41 (+4.83%) $SHAZ $SHAZ SHAZ $28.49 $2.74 (+10.64%) $TE $TE TE $2.64 $0.18 (+7.32%) Open on X",
       "createdAt": "2026-10-27T14:51:56.715Z",
       "url": "https://x.com/aleabitoreddit/status/2115094150626644115",
       "stats": {
@@ -365,7 +399,7 @@
     {
       "tweetId": "2115060985396670793",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 12:40:09 +0000 2026 I'm seeing a pattern here with hyperscalers... They act like VCs + Goldfish. Just requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they don't want their allocation to be crowded out. $NVDA is usually always first one... but if they have visibility over their own supply chain, why not just be the first? $LITE $LITE NASDAQ Lumentum Optical components $866.18 $48.08 (+5.88%) Since mention (2026-06-09): +5.41% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.94 $1.94 (+0.90%) Since mention (2026-06-05): +6.26% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 12:40:09 +0000 2026 I'm seeing a pattern here with hyperscalers... They act like VCs + Goldfish. Just requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they don't want their allocation to be crowded out. $NVDA is usually always first one... but if they have visibility over their own supply chain, why not just be the first? $LITE $LITE NASDAQ Lumentum Optical components $913.99 $47.81 (+5.52%) Since mention (2026-06-09): +11.22% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $215.42 -$2.52 (-1.16%) Since mention (2026-06-05): +5.03% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-27T12:40:09.508Z",
       "url": "https://x.com/aleabitoreddit/status/2115060985396670793",
       "stats": {
@@ -382,7 +416,7 @@
     {
       "tweetId": "2115060985396670793",
       "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 12:40:09 +0000 2026 I'm seeing a pattern here with hyperscalers... They act like VCs + Goldfish. Just requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they don't want their allocation to be crowded out. $NVDA is usually always first one... but if they have visibility over their own supply chain, why not just be the first? $LITE $LITE NASDAQ Lumentum Optical components $866.18 $48.08 (+5.88%) Since mention (2026-06-09): +5.41% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.94 $1.94 (+0.90%) Since mention (2026-06-05): +6.26% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 12:40:09 +0000 2026 I'm seeing a pattern here with hyperscalers... They act like VCs + Goldfish. Just requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they don't want their allocation to be crowded out. $NVDA is usually always first one... but if they have visibility over their own supply chain, why not just be the first? $LITE $LITE NASDAQ Lumentum Optical components $913.99 $47.81 (+5.52%) Since mention (2026-06-09): +11.22% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $215.42 -$2.52 (-1.16%) Since mention (2026-06-05): +5.03% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-10-27T12:40:09.508Z",
       "url": "https://x.com/aleabitoreddit/status/2115060985396670793",
       "stats": {
@@ -399,7 +433,7 @@
     {
       "tweetId": "2115056034763137169",
       "ticker": "SKHY",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $145.36 $2.74 (+1.92%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $164.73 $19.37 (+13.33%) Open on X",
       "createdAt": "2026-10-27T12:20:29.185Z",
       "url": "https://x.com/aleabitoreddit/status/2115056034763137169",
       "stats": {
@@ -416,7 +450,7 @@
     {
       "tweetId": "2115056034763137169",
       "ticker": "GOOGL",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $145.36 $2.74 (+1.92%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $164.73 $19.37 (+13.33%) Open on X",
       "createdAt": "2026-10-27T12:20:29.185Z",
       "url": "https://x.com/aleabitoreddit/status/2115056034763137169",
       "stats": {
@@ -433,7 +467,7 @@
     {
       "tweetId": "2115056034763137169",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $320.58 $3.78 (+1.19%) $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $145.36 $2.74 (+1.92%) Open on X",
+      "text": "Serenity @aleabitoreddit Tue Oct 27 12:20:29 +0000 2026 Oh look… more memory durability evidence for $MU and co. Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung. Some customers are reportedly pushing for 10 year contracts as well, into 2035. “As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” Source: Maeil News Don't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… If there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029? @aleabitoreddit $GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. They also expect HBM prices up 80% to 100% in the Q1 2027. Having all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears. $GOOGL $GOOGL GOOGL $324.93 $4.35 (+1.36%) $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $SKHY $SKHY SKHY $164.73 $19.37 (+13.33%) Open on X",
       "createdAt": "2026-10-27T12:20:29.185Z",
       "url": "https://x.com/aleabitoreddit/status/2115056034763137169",
       "stats": {
@@ -450,7 +484,7 @@
     {
       "tweetId": "2114752489476309203",
       "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-10-26T16:14:18.349Z",
       "url": "https://x.com/aleabitoreddit/status/2114752489476309203",
       "stats": {
@@ -467,7 +501,7 @@
     {
       "tweetId": "2114752489476309203",
       "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-10-26T16:14:18.349Z",
       "url": "https://x.com/aleabitoreddit/status/2114752489476309203",
       "stats": {
@@ -484,7 +518,7 @@
     {
       "tweetId": "2114752489476309203",
       "ticker": "ANT",
-      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $76.95 $5.01 (+6.96%) Since mention (2026-06-05): -56.53% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $928.76 $25.06 (+2.77%) Since mention (2026-06-05): +7.49% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-27 00:14 TY $ANT for the positive $3.4B FCF for H1 2026. Still feels like all your AI infra names from $MU to $AAOI sold off way too hard. Considering the billions in financing raised by frontier labs to hyperscalers.. End up ultimately flowing back to GPUs, networking, to memory. $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $82.24 $5.29 (+6.87%) Since mention (2026-06-05): -53.54% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $ANT $ANT ANT Quote unavailable $MU $MU NASDAQ Micron Technology Memory $983.27 $54.51 (+5.87%) Since mention (2026-06-05): +13.80% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-10-26T16:14:18.349Z",
       "url": "https://x.com/aleabitoreddit/status/2114752489476309203",
       "stats": {
@@ -586,7 +620,7 @@
     {
       "tweetId": "2114519097526686033",
       "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $58.23 $1.96 (+3.48%) Since mention (2026-06-07): -34.60% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.94 $1.94 (+0.90%) Since mention (2026-06-05): +6.26% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.40 $6.17 (+10.60%) Since mention (2026-06-07): -27.67% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $215.42 -$2.52 (-1.16%) Since mention (2026-06-05): +5.03% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) Open on X",
       "createdAt": "2026-10-26T00:46:53.372Z",
       "url": "https://x.com/aleabitoreddit/status/2114519097526686033",
       "stats": {
@@ -603,7 +637,7 @@
     {
       "tweetId": "2114519097526686033",
       "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $58.23 $1.96 (+3.48%) Since mention (2026-06-07): -34.60% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.94 $1.94 (+0.90%) Since mention (2026-06-05): +6.26% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.40 $6.17 (+10.60%) Since mention (2026-06-07): -27.67% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $215.42 -$2.52 (-1.16%) Since mention (2026-06-05): +5.03% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) Open on X",
       "createdAt": "2026-10-26T00:46:53.372Z",
       "url": "https://x.com/aleabitoreddit/status/2114519097526686033",
       "stats": {
@@ -620,7 +654,7 @@
     {
       "tweetId": "2114519097526686033",
       "ticker": "SPCX",
-      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $58.23 $1.96 (+3.48%) Since mention (2026-06-07): -34.60% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $217.94 $1.94 (+0.90%) Since mention (2026-06-05): +6.26% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 08:46 Just another $40B going into the \"AI Infra\" Bubble... Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. In some other notes, VPEC today in UDN: \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. - Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks - VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. Very true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute. We're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure. Any slowdown seems unlikely. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.40 $6.17 (+10.60%) Since mention (2026-06-07): -27.67% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $215.42 -$2.52 (-1.16%) Since mention (2026-06-05): +5.03% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) Open on X",
       "createdAt": "2026-10-26T00:46:53.372Z",
       "url": "https://x.com/aleabitoreddit/status/2114519097526686033",
       "stats": {
@@ -637,7 +671,7 @@
     {
       "tweetId": "2114499541026455686",
       "ticker": "SPCX",
-      "text": "$SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) Open on X",
+      "text": "$SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) Open on X",
       "createdAt": "2026-10-25T23:29:10.739Z",
       "url": "https://x.com/aleabitoreddit/status/2114499541026455686",
       "stats": {
@@ -654,7 +688,7 @@
     {
       "tweetId": "2114495814538285526",
       "ticker": "TSLA",
-      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $59.57 $4.38 (+7.94%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $170.47 $17.20 (+11.22%) Since mention (2026-06-07): -25.17% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.65 $0.13 (+25.92%) $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) $TSLA $TSLA TSLA $407.46 $15.84 (+4.04%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $63.95 $4.38 (+7.35%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $182.37 $11.90 (+6.98%) Since mention (2026-06-07): -19.95% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.72 $0.07 (+10.25%) $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) $TSLA $TSLA TSLA $404.26 -$3.20 (-0.79%) Open on X",
       "createdAt": "2026-10-25T23:14:22.275Z",
       "url": "https://x.com/aleabitoreddit/status/2114495814538285526",
       "stats": {
@@ -671,7 +705,7 @@
     {
       "tweetId": "2114495814538285526",
       "ticker": "SPCX",
-      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $59.57 $4.38 (+7.94%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $170.47 $17.20 (+11.22%) Since mention (2026-06-07): -25.17% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.65 $0.13 (+25.92%) $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) $TSLA $TSLA TSLA $407.46 $15.84 (+4.04%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $63.95 $4.38 (+7.35%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $182.37 $11.90 (+6.98%) Since mention (2026-06-07): -19.95% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.72 $0.07 (+10.25%) $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) $TSLA $TSLA TSLA $404.26 -$3.20 (-0.79%) Open on X",
       "createdAt": "2026-10-25T23:14:22.275Z",
       "url": "https://x.com/aleabitoreddit/status/2114495814538285526",
       "stats": {
@@ -688,7 +722,7 @@
     {
       "tweetId": "2114495814538285526",
       "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $59.57 $4.38 (+7.94%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $170.47 $17.20 (+11.22%) Since mention (2026-06-07): -25.17% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.65 $0.13 (+25.92%) $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) $TSLA $TSLA TSLA $407.46 $15.84 (+4.04%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $63.95 $4.38 (+7.35%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $182.37 $11.90 (+6.98%) Since mention (2026-06-07): -19.95% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.72 $0.07 (+10.25%) $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) $TSLA $TSLA TSLA $404.26 -$3.20 (-0.79%) Open on X",
       "createdAt": "2026-10-25T23:14:22.275Z",
       "url": "https://x.com/aleabitoreddit/status/2114495814538285526",
       "stats": {
@@ -705,7 +739,7 @@
     {
       "tweetId": "2114495814538285526",
       "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $59.57 $4.38 (+7.94%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $170.47 $17.20 (+11.22%) Since mention (2026-06-07): -25.17% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.65 $0.13 (+25.92%) $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) $TSLA $TSLA TSLA $407.46 $15.84 (+4.04%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $63.95 $4.38 (+7.35%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $182.37 $11.90 (+6.98%) Since mention (2026-06-07): -19.95% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.72 $0.07 (+10.25%) $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) $TSLA $TSLA TSLA $404.26 -$3.20 (-0.79%) Open on X",
       "createdAt": "2026-10-25T23:14:22.275Z",
       "url": "https://x.com/aleabitoreddit/status/2114495814538285526",
       "stats": {
@@ -722,7 +756,7 @@
     {
       "tweetId": "2114495814538285526",
       "ticker": "SLNH",
-      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $59.57 $4.38 (+7.94%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $170.47 $17.20 (+11.22%) Since mention (2026-06-07): -25.17% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.65 $0.13 (+25.92%) $SPCX $SPCX SPCX $148.58 $1.68 (+1.14%) $TSLA $TSLA TSLA $407.46 $15.84 (+4.04%) Open on X",
+      "text": "Serenity @aleabitoreddit 2026-10-26 07:14 Not actively. I've been pointing out issues with Neocloud/Colo financing since 2025 from $SLNH to $CRWV debt interest. And maintain my opinion only a few neoclouds would survive in a few years, given they build enough of a moat to differentiate themselves against hyperscalers. So I don't think Elon's comments are completely wrong about Neoclouds, but there's nuances. One example was $NBIS SOFR + 2.75% $3.5B facility with Citibank, which actually has better rates than GPU financing from $2T+ companies. So kinda hard to say neocloud financing has \"entirely shut off\" since this Citibank facility was announced 3D ago I'm not arguing the merits of Elon's claims here. There's some truth to them, even if they're framed in extremes. I'm happy to hear his opinion on the direction of the industry... but if they're mainly amplifying concerns about competitor downfall (which benefits $SPCX + $TSLA) There's some cause for concern about how healthy that is to the town square dynamic Elon originally envisioned with X. $CRWV $CRWV CRWV $63.95 $4.38 (+7.35%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $182.37 $11.90 (+6.98%) Since mention (2026-06-07): -19.95% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $SLNH $SLNH SLNH $0.72 $0.07 (+10.25%) $SPCX $SPCX SPCX $145.26 -$3.32 (-2.23%) $TSLA $TSLA TSLA $404.26 -$3.20 (-0.79%) Open on X",
       "createdAt": "2026-10-25T23:14:22.275Z",
       "url": "https://x.com/aleabitoreddit/status/2114495814538285526",
       "stats": {
@@ -7399,23 +7433,6 @@
         "score": 0,
         "label": "neutral"
       }
-    },
-    {
-      "tweetId": "2087329770879197549",
-      "ticker": "LITE",
-      "text": "Serenity @aleabitoreddit 2026-08-12 08:06 $LITE earnings transcript TLDRs: - \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power laser chips in the second half of calendar 2027\" H2 2027 start of CPO scale up ramp confirmed from https://t.co/H2DOhjCrbQ $LITE $LITE NASDAQ Lumentum Optical components $968.90 $42.76 (+4.62%) Since mention (2026-06-09): +17.91% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. Open on X",
-      "createdAt": "2026-08-12T00:06:12.746Z",
-      "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
     }
   ],
   "tickers": [
@@ -7859,8 +7876,8 @@
     {
       "ticker": "LITE",
       "count": 21,
-      "firstSeen": "2026-08-12T00:06:12.746Z",
-      "lastSeen": "2026-10-27T12:40:09.508Z",
+      "firstSeen": "2026-08-12T07:54:08.135Z",
+      "lastSeen": "2026-10-29T02:00:41.240Z",
       "avgSentiment": 0.341,
       "sentimentLabel": "bullish",
       "engagement": 0,
@@ -7880,7 +7897,7 @@
       "history": [
         {
           "date": "2026-08-12",
-          "count": 2,
+          "count": 1,
           "avgSentiment": 0.5
         },
         {
@@ -7962,6 +7979,11 @@
           "date": "2026-10-27",
           "count": 1,
           "avgSentiment": -0.5
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -8638,6 +8660,65 @@
       ]
     },
     {
+      "ticker": "MRVL",
+      "count": 9,
+      "firstSeen": "2026-08-19T15:49:36.503Z",
+      "lastSeen": "2026-10-29T02:00:41.240Z",
+      "avgSentiment": 0.222,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 60.5,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 10.5,
+        "recency": 10,
+        "persistence": 5.4,
+        "engagement": 0,
+        "conviction": 3.1,
+        "themeFit": 15,
+        "catalyst": 4.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-08-19",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-22",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-08-31",
+          "count": 3,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-19",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-20",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
       "ticker": "JBL",
       "count": 9,
       "firstSeen": "2026-08-27T21:24:26.932Z",
@@ -8805,60 +8886,6 @@
         {
           "date": "2026-10-13",
           "count": 2,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "count": 8,
-      "firstSeen": "2026-08-19T15:49:36.503Z",
-      "lastSeen": "2026-09-20T17:51:10.112Z",
-      "avgSentiment": 0.188,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 52.8,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.1,
-        "recency": 5,
-        "persistence": 3.3,
-        "engagement": 0,
-        "conviction": 2.9,
-        "themeFit": 15,
-        "catalyst": 4.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-08-19",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-22",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-08-31",
-          "count": 3,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-19",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-09-20",
-          "count": 1,
           "avgSentiment": 0
         }
       ]
@@ -9691,12 +9718,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 45,
-      "signalBand": "mixed",
+      "signalScore": 43,
+      "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.8,
         "engagement": 0,
         "conviction": 0.3,
@@ -9725,12 +9752,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 49.5,
+      "signalScore": 47.5,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 5,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.7,
         "engagement": 0,
         "conviction": 0.3,
@@ -11640,23 +11667,15 @@
     }
   ],
   "digest": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "window": {
-      "from": "2026-10-22",
-      "to": "2026-10-28"
+      "from": "2026-10-23",
+      "to": "2026-10-29"
     },
-    "totalMentions": 100,
+    "totalMentions": 90,
     "topTickers": [
       {
-        "ticker": "AAOI",
-        "count": 8
-      },
-      {
         "ticker": "SIVE",
-        "count": 8
-      },
-      {
-        "ticker": "NVDA",
         "count": 7
       },
       {
@@ -11664,13 +11683,20 @@
         "count": 6
       },
       {
-        "ticker": "GOOGL",
+        "ticker": "AAOI",
+        "count": 6
+      },
+      {
+        "ticker": "NVDA",
+        "count": 6
+      },
+      {
+        "ticker": "SPCX",
         "count": 5
       }
     ],
     "newTickers": [
       "CIFR",
-      "ASTS",
       "LWLG",
       "EOSE",
       "TSEM",
@@ -11693,25 +11719,25 @@
         "key": "2026-W33",
         "from": "2026-08-12",
         "to": "2026-08-16",
-        "posts": 23,
-        "mentions": 28,
+        "posts": 22,
+        "mentions": 27,
         "unclassified": 10,
         "thin": false,
         "themes": [
           {
-            "id": "optics",
-            "title": "AI optical interconnect / CPO",
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
             "posts": 7,
-            "share": 0.226,
+            "share": 0.259,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
           },
           {
-            "id": "semicap",
-            "title": "Semis, packaging & equipment",
-            "posts": 7,
-            "share": 0.226,
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 6,
+            "share": 0.222,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11719,8 +11745,8 @@
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 6,
-            "share": 0.194,
+            "posts": 5,
+            "share": 0.185,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11728,8 +11754,8 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 6,
-            "share": 0.194,
+            "posts": 5,
+            "share": 0.185,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11738,33 +11764,13 @@
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 4,
-            "share": 0.129,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "power",
-            "title": "Data-center power & grid",
-            "posts": 1,
-            "share": 0.032,
+            "share": 0.148,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
           }
         ],
         "topTickers": [
-          {
-            "ticker": "LITE",
-            "count": 3,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking",
-              "semicap",
-              "power"
-            ]
-          },
           {
             "ticker": "NVDA",
             "count": 2,
@@ -11793,6 +11799,16 @@
             "count": 2,
             "themes": [
               "neocloud",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "LITE",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
               "semicap"
             ]
           },
@@ -11835,8 +11851,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 10,
             "share": 0.227,
-            "prevPosts": 6,
-            "deltaShare": 0.034,
+            "prevPosts": 5,
+            "deltaShare": 0.042,
             "trend": "steady"
           },
           {
@@ -11844,8 +11860,8 @@
             "title": "AI networking / Ethernet",
             "posts": 10,
             "share": 0.227,
-            "prevPosts": 6,
-            "deltaShare": 0.034,
+            "prevPosts": 5,
+            "deltaShare": 0.042,
             "trend": "steady"
           },
           {
@@ -11854,16 +11870,16 @@
             "posts": 8,
             "share": 0.182,
             "prevPosts": 7,
-            "deltaShare": -0.044,
-            "trend": "steady"
+            "deltaShare": -0.077,
+            "trend": "cooling"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 7,
             "share": 0.159,
-            "prevPosts": 7,
-            "deltaShare": -0.067,
+            "prevPosts": 6,
+            "deltaShare": -0.063,
             "trend": "cooling"
           },
           {
@@ -11872,7 +11888,7 @@
             "posts": 5,
             "share": 0.114,
             "prevPosts": 4,
-            "deltaShare": -0.015,
+            "deltaShare": -0.035,
             "trend": "steady"
           },
           {
@@ -11892,15 +11908,6 @@
             "prevPosts": 0,
             "deltaShare": 0.023,
             "trend": "new"
-          },
-          {
-            "id": "power",
-            "title": "Data-center power & grid",
-            "posts": 0,
-            "share": 0,
-            "prevPosts": 1,
-            "deltaShare": -0.032,
-            "trend": "steady"
           }
         ],
         "topTickers": [
@@ -13409,73 +13416,73 @@
       {
         "key": "2026-W44",
         "from": "2026-10-26",
-        "to": "2026-10-28",
-        "posts": 33,
-        "mentions": 37,
+        "to": "2026-10-29",
+        "posts": 34,
+        "mentions": 39,
         "unclassified": 25,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 7,
-            "share": 0.25,
+            "posts": 8,
+            "share": 0.242,
             "prevPosts": 30,
-            "deltaShare": 0.006,
+            "deltaShare": -0.001,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 5,
-            "share": 0.179,
+            "posts": 6,
+            "share": 0.182,
             "prevPosts": 26,
-            "deltaShare": -0.033,
+            "deltaShare": -0.03,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 5,
-            "share": 0.179,
+            "posts": 6,
+            "share": 0.182,
             "prevPosts": 6,
-            "deltaShare": 0.13,
+            "deltaShare": 0.133,
             "trend": "rising"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 5,
-            "share": 0.179,
+            "posts": 6,
+            "share": 0.182,
             "prevPosts": 28,
-            "deltaShare": -0.049,
+            "deltaShare": -0.046,
             "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 3,
-            "share": 0.107,
+            "posts": 4,
+            "share": 0.121,
             "prevPosts": 23,
-            "deltaShare": -0.08,
+            "deltaShare": -0.066,
             "trend": "cooling"
           },
           {
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 2,
-            "share": 0.071,
+            "share": 0.061,
             "prevPosts": 3,
-            "deltaShare": 0.047,
+            "deltaShare": 0.036,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 1,
-            "share": 0.036,
+            "share": 0.03,
             "prevPosts": 5,
-            "deltaShare": -0.005,
+            "deltaShare": -0.01,
             "trend": "steady"
           },
           {
@@ -13540,6 +13547,17 @@
             ]
           },
           {
+            "ticker": "LITE",
+            "count": 2,
+            "themes": [
+              "neocloud",
+              "optics",
+              "memory",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
             "ticker": "SKHY",
             "count": 2,
             "themes": [
@@ -13567,18 +13585,6 @@
               "networking",
               "memory"
             ]
-          },
-          {
-            "ticker": "SPCX",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "optics",
-              "power",
-              "memory",
-              "networking",
-              "semicap"
-            ]
           }
         ],
         "newTickers": [
@@ -13593,8 +13599,8 @@
         "key": "2026-08",
         "from": "2026-08-12",
         "to": "2026-08-31",
-        "posts": 88,
-        "mentions": 129,
+        "posts": 87,
+        "mentions": 128,
         "unclassified": 31,
         "thin": false,
         "themes": [
@@ -13602,7 +13608,7 @@
             "id": "semicap",
             "title": "Semis, packaging & equipment",
             "posts": 37,
-            "share": 0.233,
+            "share": 0.239,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13610,7 +13616,7 @@
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 36,
+            "posts": 35,
             "share": 0.226,
             "prevPosts": 0,
             "deltaShare": 0,
@@ -13619,8 +13625,8 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 30,
-            "share": 0.189,
+            "posts": 29,
+            "share": 0.187,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13628,8 +13634,8 @@
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 26,
-            "share": 0.164,
+            "posts": 25,
+            "share": 0.161,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13638,7 +13644,7 @@
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 21,
-            "share": 0.132,
+            "share": 0.135,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13647,16 +13653,7 @@
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 4,
-            "share": 0.025,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "power",
-            "title": "Data-center power & grid",
-            "posts": 2,
-            "share": 0.013,
+            "share": 0.026,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13666,6 +13663,15 @@
             "title": "Policy, export controls & tariffs",
             "posts": 2,
             "share": 0.013,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "power",
+            "title": "Data-center power & grid",
+            "posts": 1,
+            "share": 0.006,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -13725,17 +13731,6 @@
             ]
           },
           {
-            "ticker": "LITE",
-            "count": 6,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking",
-              "semicap",
-              "power"
-            ]
-          },
-          {
             "ticker": "NBIS",
             "count": 5,
             "themes": [
@@ -13756,6 +13751,16 @@
               "networking",
               "semicap",
               "optics"
+            ]
+          },
+          {
+            "ticker": "LITE",
+            "count": 5,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
             ]
           },
           {
@@ -13785,7 +13790,7 @@
             "posts": 31,
             "share": 0.252,
             "prevPosts": 37,
-            "deltaShare": 0.019,
+            "deltaShare": 0.013,
             "trend": "steady"
           },
           {
@@ -13793,8 +13798,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 29,
             "share": 0.236,
-            "prevPosts": 36,
-            "deltaShare": 0.009,
+            "prevPosts": 35,
+            "deltaShare": 0.01,
             "trend": "steady"
           },
           {
@@ -13802,8 +13807,8 @@
             "title": "AI networking / Ethernet",
             "posts": 23,
             "share": 0.187,
-            "prevPosts": 30,
-            "deltaShare": -0.002,
+            "prevPosts": 29,
+            "deltaShare": 0,
             "trend": "steady"
           },
           {
@@ -13811,8 +13816,8 @@
             "title": "AI optical interconnect / CPO",
             "posts": 19,
             "share": 0.154,
-            "prevPosts": 26,
-            "deltaShare": -0.009,
+            "prevPosts": 25,
+            "deltaShare": -0.007,
             "trend": "steady"
           },
           {
@@ -13821,7 +13826,7 @@
             "posts": 17,
             "share": 0.138,
             "prevPosts": 21,
-            "deltaShare": 0.006,
+            "deltaShare": 0.003,
             "trend": "steady"
           },
           {
@@ -13830,7 +13835,7 @@
             "posts": 2,
             "share": 0.016,
             "prevPosts": 4,
-            "deltaShare": -0.009,
+            "deltaShare": -0.01,
             "trend": "steady"
           },
           {
@@ -13839,7 +13844,7 @@
             "posts": 2,
             "share": 0.016,
             "prevPosts": 2,
-            "deltaShare": 0.004,
+            "deltaShare": 0.003,
             "trend": "steady"
           },
           {
@@ -13847,8 +13852,8 @@
             "title": "Data-center power & grid",
             "posts": 0,
             "share": 0,
-            "prevPosts": 2,
-            "deltaShare": -0.013,
+            "prevPosts": 1,
+            "deltaShare": -0.006,
             "trend": "steady"
           },
           {
@@ -13954,43 +13959,43 @@
       {
         "key": "2026-10",
         "from": "2026-10-01",
-        "to": "2026-10-28",
-        "posts": 214,
-        "mentions": 170,
+        "to": "2026-10-29",
+        "posts": 215,
+        "mentions": 172,
         "unclassified": 140,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 50,
+            "posts": 51,
             "share": 0.229,
             "prevPosts": 29,
-            "deltaShare": -0.006,
+            "deltaShare": -0.007,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 49,
-            "share": 0.225,
+            "posts": 50,
+            "share": 0.224,
             "prevPosts": 23,
-            "deltaShare": 0.038,
+            "deltaShare": 0.037,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 46,
+            "posts": 47,
             "share": 0.211,
             "prevPosts": 19,
-            "deltaShare": 0.057,
+            "deltaShare": 0.056,
             "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 37,
+            "posts": 38,
             "share": 0.17,
             "prevPosts": 31,
             "deltaShare": -0.082,
@@ -13999,28 +14004,28 @@
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 18,
-            "share": 0.083,
+            "posts": 19,
+            "share": 0.085,
             "prevPosts": 17,
-            "deltaShare": -0.056,
+            "deltaShare": -0.053,
             "trend": "steady"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 7,
-            "share": 0.032,
+            "share": 0.031,
             "prevPosts": 2,
-            "deltaShare": 0.016,
+            "deltaShare": 0.015,
             "trend": "steady"
           },
           {
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 6,
-            "share": 0.028,
+            "share": 0.027,
             "prevPosts": 0,
-            "deltaShare": 0.028,
+            "deltaShare": 0.027,
             "trend": "new"
           },
           {
@@ -14036,9 +14041,9 @@
             "id": "cooling",
             "title": "Liquid cooling / thermal",
             "posts": 1,
-            "share": 0.005,
+            "share": 0.004,
             "prevPosts": 0,
-            "deltaShare": 0.005,
+            "deltaShare": 0.004,
             "trend": "new"
           }
         ],
@@ -14087,7 +14092,7 @@
           },
           {
             "ticker": "LITE",
-            "count": 12,
+            "count": 13,
             "themes": [
               "neocloud",
               "optics",
