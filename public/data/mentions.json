@@ -1,14 +1,99 @@
 {
-  "updatedAt": "2026-11-06T14:29:43.736Z",
+  "updatedAt": "2026-11-07T13:24:12.916Z",
   "isSample": false,
   "handle": "aleabitoreddit",
   "totalTweets": 500,
-  "totalMentions": 358,
+  "totalMentions": 335,
   "mentions": [
+    {
+      "tweetId": "2118726497129423273",
+      "ticker": "SPCX",
+      "text": "Serenity @aleabitoreddit 2026-11-06 23:25 Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. Could be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\" But it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off Does anyone in the Spacemob think this is realistically achievable given AST capabilities? $ASTS $ASTS ASTS $32.33 $2.13 (+7.05%) $RKLB $RKLB NYSE Rocket Lab USA Space launch $53.07 $7.08 (+15.39%) Since mention (2026-06-12): -51.79% Space launch and satellite components provider. $SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) Open on X",
+      "createdAt": "2026-11-06T15:25:35.607Z",
+      "url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2118726497129423273",
+      "ticker": "RKLB",
+      "text": "Serenity @aleabitoreddit 2026-11-06 23:25 Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. Could be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\" But it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off Does anyone in the Spacemob think this is realistically achievable given AST capabilities? $ASTS $ASTS ASTS $32.33 $2.13 (+7.05%) $RKLB $RKLB NYSE Rocket Lab USA Space launch $53.07 $7.08 (+15.39%) Since mention (2026-06-12): -51.79% Space launch and satellite components provider. $SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) Open on X",
+      "createdAt": "2026-11-06T15:25:35.607Z",
+      "url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2118726497129423273",
+      "ticker": "ASTS",
+      "text": "Serenity @aleabitoreddit 2026-11-06 23:25 Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. Could be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\" But it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off Does anyone in the Spacemob think this is realistically achievable given AST capabilities? $ASTS $ASTS ASTS $32.33 $2.13 (+7.05%) $RKLB $RKLB NYSE Rocket Lab USA Space launch $53.07 $7.08 (+15.39%) Since mention (2026-06-12): -51.79% Space launch and satellite components provider. $SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) Open on X",
+      "createdAt": "2026-11-06T15:25:35.607Z",
+      "url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0.5,
+        "label": "bullish"
+      }
+    },
+    {
+      "tweetId": "2118683089383874576",
+      "ticker": "SKHY",
+      "text": "Serenity @aleabitoreddit 2026-11-06 20:33 In response to the recent market volatility across $TSM to $SKHY to Innolight: - Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction), effective Nov 9th. Taiwan is separately raising its minimum collateral requirement from 90% to 130% for margin short selling. And authorized the $15.3B stabilization fund for Government buying in the stock market. - South Korea to waive 140% margin-loan collateral maintenance for 3 months to reduce forced selling, effective Nov 9th. - China introduced a series of stock-market support package aimed at stabilizing equities. People's Bank of China introduced a $15 billion liquidity-swap operation for securities firms and fund managers. As well as reduced lending rates for the share buybacks and shareholder purchase programs from 1.25% -> 1% this month. _ Not saying what direction stocks would go, but with Countries heavily tied to the AI trade introducing short selling restrictions, share repurchases, and reduced margin collateral. These market mechanics are bullish for near term market stability + potential reversal in equities. $SKHY $SKHY SKHY $127.34 $3.44 (+2.78%) $TSM $TSM NYSE TSMC Semiconductor foundry $375.44 $22.34 (+6.33%) Since mention (2026-06-05): -9.57% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "createdAt": "2026-11-06T12:33:06.394Z",
+      "url": "https://x.com/aleabitoreddit/status/2118683089383874576",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.125,
+        "label": "neutral"
+      }
+    },
+    {
+      "tweetId": "2118683089383874576",
+      "ticker": "TSM",
+      "text": "Serenity @aleabitoreddit 2026-11-06 20:33 In response to the recent market volatility across $TSM to $SKHY to Innolight: - Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction), effective Nov 9th. Taiwan is separately raising its minimum collateral requirement from 90% to 130% for margin short selling. And authorized the $15.3B stabilization fund for Government buying in the stock market. - South Korea to waive 140% margin-loan collateral maintenance for 3 months to reduce forced selling, effective Nov 9th. - China introduced a series of stock-market support package aimed at stabilizing equities. People's Bank of China introduced a $15 billion liquidity-swap operation for securities firms and fund managers. As well as reduced lending rates for the share buybacks and shareholder purchase programs from 1.25% -> 1% this month. _ Not saying what direction stocks would go, but with Countries heavily tied to the AI trade introducing short selling restrictions, share repurchases, and reduced margin collateral. These market mechanics are bullish for near term market stability + potential reversal in equities. $SKHY $SKHY SKHY $127.34 $3.44 (+2.78%) $TSM $TSM NYSE TSMC Semiconductor foundry $375.44 $22.34 (+6.33%) Since mention (2026-06-05): -9.57% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
+      "createdAt": "2026-11-06T12:33:06.394Z",
+      "url": "https://x.com/aleabitoreddit/status/2118683089383874576",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": -0.125,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2118586028944687282",
       "ticker": "SPCX",
-      "text": "$SPCX $SPCX SPCX $123.65 -$12.27 (-9.03%) Open on X",
+      "text": "$SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) Open on X",
       "createdAt": "2026-11-06T06:07:25.382Z",
       "url": "https://x.com/aleabitoreddit/status/2118586028944687282",
       "stats": {
@@ -25,7 +110,7 @@
     {
       "tweetId": "2118570510783246410",
       "ticker": "IREN",
-      "text": "$IREN $IREN IREN $18.05 -$3.66 (-16.86%) Open on X",
+      "text": "$IREN $IREN IREN $21.64 -$2.31 (-9.65%) Open on X",
       "createdAt": "2026-11-06T05:05:45.564Z",
       "url": "https://x.com/aleabitoreddit/status/2118570510783246410",
       "stats": {
@@ -42,7 +127,7 @@
     {
       "tweetId": "2118446295274901803",
       "ticker": "GLXY",
-      "text": "$GLXY $GLXY GLXY $13.00 -$0.97 (-6.94%) Open on X",
+      "text": "$GLXY $GLXY GLXY $13.66 -$2.34 (-14.63%) Open on X",
       "createdAt": "2026-11-05T20:52:10.279Z",
       "url": "https://x.com/aleabitoreddit/status/2118446295274901803",
       "stats": {
@@ -59,7 +144,7 @@
     {
       "tweetId": "2118422637320007721",
       "ticker": "GOOGL",
-      "text": "$BE $BE BE $167.55 -$32.85 (-16.39%) $GOOGL $GOOGL GOOGL $282.61 -$6.32 (-2.19%) Open on X",
+      "text": "$BE $BE BE $173.24 -$29.93 (-14.73%) $GOOGL $GOOGL GOOGL $284.78 $4.94 (+1.77%) Open on X",
       "createdAt": "2026-11-05T19:18:09.783Z",
       "url": "https://x.com/aleabitoreddit/status/2118422637320007721",
       "stats": {
@@ -76,7 +161,7 @@
     {
       "tweetId": "2118422637320007721",
       "ticker": "BE",
-      "text": "$BE $BE BE $167.55 -$32.85 (-16.39%) $GOOGL $GOOGL GOOGL $282.61 -$6.32 (-2.19%) Open on X",
+      "text": "$BE $BE BE $173.24 -$29.93 (-14.73%) $GOOGL $GOOGL GOOGL $284.78 $4.94 (+1.77%) Open on X",
       "createdAt": "2026-11-05T19:18:09.783Z",
       "url": "https://x.com/aleabitoreddit/status/2118422637320007721",
       "stats": {
@@ -93,7 +178,7 @@
     {
       "tweetId": "2118258090328162483",
       "ticker": "TSLA",
-      "text": "$SPCX $SPCX SPCX $123.65 -$12.27 (-9.03%) $TSLA $TSLA TSLA $343.73 -$41.46 (-10.76%) Open on X",
+      "text": "$SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) $TSLA $TSLA TSLA $358.22 -$41.59 (-10.40%) Open on X",
       "createdAt": "2026-11-05T08:24:18.723Z",
       "url": "https://x.com/aleabitoreddit/status/2118258090328162483",
       "stats": {
@@ -110,7 +195,7 @@
     {
       "tweetId": "2118258090328162483",
       "ticker": "SPCX",
-      "text": "$SPCX $SPCX SPCX $123.65 -$12.27 (-9.03%) $TSLA $TSLA TSLA $343.73 -$41.46 (-10.76%) Open on X",
+      "text": "$SPCX $SPCX SPCX $134.27 $10.65 (+8.62%) $TSLA $TSLA TSLA $358.22 -$41.59 (-10.40%) Open on X",
       "createdAt": "2026-11-05T08:24:18.723Z",
       "url": "https://x.com/aleabitoreddit/status/2118258090328162483",
       "stats": {
@@ -127,7 +212,7 @@
     {
       "tweetId": "2118253723244007677",
       "ticker": "CBRS",
-      "text": "$CBRS $CBRS CBRS $81.73 -$10.12 (-11.02%) Open on X",
+      "text": "$CBRS $CBRS CBRS $89.68 -$19.50 (-17.86%) Open on X",
       "createdAt": "2026-11-05T08:06:57.529Z",
       "url": "https://x.com/aleabitoreddit/status/2118253723244007677",
       "stats": {
@@ -144,7 +229,7 @@
     {
       "tweetId": "2118240089025413421",
       "ticker": "COHR",
-      "text": "$COHR $COHR COHR $169.79 -$25.30 (-12.97%) Open on X",
+      "text": "$COHR $COHR COHR $192.81 $23.05 (+13.58%) Open on X",
       "createdAt": "2026-11-05T07:12:46.878Z",
       "url": "https://x.com/aleabitoreddit/status/2118240089025413421",
       "stats": {
@@ -5614,500 +5699,24 @@
         "score": 0.1,
         "label": "neutral"
       }
-    },
-    {
-      "tweetId": "2099048356345696391",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-09-13 16:11 It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts. Majority of the equipment was 4Y+ and older… So another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party. $IREN $IREN IREN $43.17 -$0.66 (-1.51%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $212.19 -$12.36 (-5.50%) Since mention (2026-06-07): -6.86% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$7.33 (-3.36%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $ORCL $ORCL ORCL $144.79 -$5.49 (-3.65%) Open on X",
-      "createdAt": "2026-09-13T08:11:41.242Z",
-      "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -1,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "2099048356345696391",
-      "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2026-09-13 16:11 It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts. Majority of the equipment was 4Y+ and older… So another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party. $IREN $IREN IREN $43.17 -$0.66 (-1.51%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $212.19 -$12.36 (-5.50%) Since mention (2026-06-07): -6.86% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$7.33 (-3.36%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $ORCL $ORCL ORCL $144.79 -$5.49 (-3.65%) Open on X",
-      "createdAt": "2026-09-13T08:11:41.242Z",
-      "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -1,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "2099048356345696391",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-09-13 16:11 It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts. Majority of the equipment was 4Y+ and older… So another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party. $IREN $IREN IREN $43.17 -$0.66 (-1.51%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $212.19 -$12.36 (-5.50%) Since mention (2026-06-07): -6.86% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$7.33 (-3.36%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $ORCL $ORCL ORCL $144.79 -$5.49 (-3.65%) Open on X",
-      "createdAt": "2026-09-13T08:11:41.242Z",
-      "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -1,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "2099048356345696391",
-      "ticker": "ORCL",
-      "text": "Serenity @aleabitoreddit 2026-09-13 16:11 It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts. Majority of the equipment was 4Y+ and older… So another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party. $IREN $IREN IREN $43.17 -$0.66 (-1.51%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $212.19 -$12.36 (-5.50%) Since mention (2026-06-07): -6.86% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $210.96 -$7.33 (-3.36%) Since mention (2026-06-05): +2.86% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $ORCL $ORCL ORCL $144.79 -$5.49 (-3.65%) Open on X",
-      "createdAt": "2026-09-13T08:11:41.242Z",
-      "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -1,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "2098473175558545919",
-      "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-09-12 02:06 @Itachidata I mean… short dated tanker freight futures outperformed $AXTI and all my ideas. So my main takeaway is that there’s always more obscure things I can learn $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $57.06 -$7.71 (-11.90%) Since mention (2026-06-07): -35.92% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. Open on X",
-      "createdAt": "2026-09-11T18:06:07.456Z",
-      "url": "https://x.com/aleabitoreddit/status/2098473175558545919",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": -0.5,
-        "label": "bearish"
-      }
-    },
-    {
-      "tweetId": "2098384284713414928",
-      "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 32.20 SEK 4.82 (+17.60%) Since mention (2026-06-04): -62.88% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
-      "createdAt": "2026-09-11T12:12:54.227Z",
-      "url": "https://x.com/aleabitoreddit/status/2098384284713414928",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2098361512712962364",
-      "ticker": "JBL",
-      "text": "$GFS $GFS GFS $43.03 $0.28 (+0.66%) $JBL $JBL JBL $297.24 $1.19 (+0.40%) Open on X",
-      "createdAt": "2026-09-11T10:42:24.959Z",
-      "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2098361512712962364",
-      "ticker": "GFS",
-      "text": "$GFS $GFS GFS $43.03 $0.28 (+0.66%) $JBL $JBL JBL $297.24 $1.19 (+0.40%) Open on X",
-      "createdAt": "2026-09-11T10:42:24.959Z",
-      "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095153855818547571",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-09-02 22:16 $NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y unconstrained. But ended up giving a ~70% growth projection because that's what Nvidia believes they can supply. FY27 est: ~$401B revenue... FY28: ~$682B at 70% or &gt;$802B unconstrained. - Nvidia IR https://t.co/6cKhZn3frV $NVDA $NVDA NASDAQ NVIDIA Semiconductors $218.29 -$0.07 (-0.03%) Since mention (2026-06-05): +6.43% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-09-02T14:16:19.960Z",
-      "url": "https://x.com/aleabitoreddit/status/2095153855818547571",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0.5,
-        "label": "bullish"
-      }
-    },
-    {
-      "tweetId": "2095102771418845551",
-      "ticker": "MRVL",
-      "text": "Serenity @aleabitoreddit 2026-09-02 18:53 $MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: 1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. Very interesting that Marvell's SVP had Europe in mind when giving examples of laser supply sourcing for SiPH modules. https://t.co/zB5pDH1XVC $MRVL $MRVL NASDAQ Marvell Technology Semiconductors $236.10 $9.14 (+4.03%) Since mention (2026-06-06): -10.39% Chipmaker with exposure to custom silicon, networking, storage, and AI datacenter infrastructure. Open on X",
-      "createdAt": "2026-09-02T10:53:20.490Z",
-      "url": "https://x.com/aleabitoreddit/status/2095102771418845551",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "RIOT",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "APLD",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "STM",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "CORZ",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "CRWV",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "NBIS",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "TSM",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "BE",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "MU",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095087925822190023",
-      "ticker": "SNDK",
-      "text": "Serenity @aleabitoreddit 2026-09-02 17:54 Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: 1. $SNDK - $5.674B 2. $MU - $5.574B 3. $BE - $1.899B 4. $TSM - $1.265B 5. $NBIS - $1.232B 6. $CRWV - $744.5M 7. $CORZ - $665.6M 8. $STM - $584.3M (new) 9. $APLD - $469.0M 10. $RIOT - https://t.co/z39L255LAu $APLD $APLD APLD $26.42 $0.64 (+2.48%) $BE $BE BE $275.75 $17.26 (+6.68%) $CORZ $CORZ CORZ $17.94 $0.57 (+3.28%) $CRWV $CRWV CRWV $88.99 -$0.13 (-0.15%) $MU $MU NASDAQ Micron Technology Memory $975.26 -$2.15 (-0.22%) Since mention (2026-06-05): +12.88% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $224.55 -$3.56 (-1.56%) Since mention (2026-06-07): -1.43% AI cloud and infrastructure company watched for compute capacity and AI platform demand. $RIOT $RIOT RIOT $21.47 $0.52 (+2.48%) $SNDK $SNDK NASDAQ SanDisk Storage $1,633.35 -$59.24 (-3.50%) Since mention (2026-06-10): -0.60% Flash storage brand/company; useful when following NAND and storage-cycle commentary. $STM $STM STM $51.51 $0.77 (+1.52%) $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T09:54:21.024Z",
-      "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095064848031678648",
-      "ticker": "SIVE",
-      "text": "$SIVE $SIVE OMX STOCKHOLM Sivers Semiconductors Photonics / wireless SEK 27.28 -SEK 2.96 (-9.79%) Since mention (2026-06-04): -68.55% Swedish semiconductor company tied to photonics, wireless, and CPO-related infrastructure themes. Open on X",
-      "createdAt": "2026-09-02T08:22:38.850Z",
-      "url": "https://x.com/aleabitoreddit/status/2095064848031678648",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095012962360828314",
-      "ticker": "TSM",
-      "text": "Serenity @aleabitoreddit 2026-09-02 12:56 Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU. Foci ($NVDA / $TSM FAU supplier) went from 400 -&gt; 900 -&gt; 400 -&gt; 800, and recovered insanely fast from July. Not sure if earnings like Etron or others are just absurd to not care about macro? https://t.co/WHzwj9n6e8 $NVDA $NVDA NASDAQ NVIDIA Semiconductors $218.29 -$0.07 (-0.03%) Since mention (2026-06-05): +6.43% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T04:56:28.342Z",
-      "url": "https://x.com/aleabitoreddit/status/2095012962360828314",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2095012962360828314",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit 2026-09-02 12:56 Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU. Foci ($NVDA / $TSM FAU supplier) went from 400 -&gt; 900 -&gt; 400 -&gt; 800, and recovered insanely fast from July. Not sure if earnings like Etron or others are just absurd to not care about macro? https://t.co/WHzwj9n6e8 $NVDA $NVDA NASDAQ NVIDIA Semiconductors $218.29 -$0.07 (-0.03%) Since mention (2026-06-05): +6.43% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSM $TSM NYSE TSMC Semiconductor foundry $433.24 $5.21 (+1.22%) Since mention (2026-06-05): +4.35% World's largest chip foundry; manufactures leading-edge chips for Apple, NVIDIA, AMD, and others. Open on X",
-      "createdAt": "2026-09-02T04:56:28.342Z",
-      "url": "https://x.com/aleabitoreddit/status/2095012962360828314",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2094854529967862140",
-      "ticker": "AA",
-      "text": "$AA $AA AA $48.26 -$0.04 (-0.08%) Open on X",
-      "createdAt": "2026-09-01T18:26:55.116Z",
-      "url": "https://x.com/aleabitoreddit/status/2094854529967862140",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2094831983306440746",
-      "ticker": "IREN",
-      "text": "Serenity @aleabitoreddit 2026-09-02 00:57 After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the: “September is the worst month of the year” myth. https://t.co/sck3Y0pOg2 $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.77 $0.07 (+0.11%) Since mention (2026-06-07): -27.26% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IREN $IREN IREN $43.83 $0.19 (+0.44%) Open on X",
-      "createdAt": "2026-09-01T16:57:19.573Z",
-      "url": "https://x.com/aleabitoreddit/status/2094831983306440746",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2094831983306440746",
-      "ticker": "AXTI",
-      "text": "Serenity @aleabitoreddit 2026-09-02 00:57 After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the: “September is the worst month of the year” myth. https://t.co/sck3Y0pOg2 $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $64.77 $0.07 (+0.11%) Since mention (2026-06-07): -27.26% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $IREN $IREN IREN $43.83 $0.19 (+0.44%) Open on X",
-      "createdAt": "2026-09-01T16:57:19.573Z",
-      "url": "https://x.com/aleabitoreddit/status/2094831983306440746",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2094786201605808566",
-      "ticker": "AAOI",
-      "text": "Serenity @aleabitoreddit 2026-09-01 21:55 What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\" To build US 800G/1.6T optical transceivers for AI data centers. GoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/5z2XXHaxvs $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $105.36 $2.07 (+2.00%) Since mention (2026-06-05): -40.47% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $GPRO $GPRO GPRO $1.38 -$0.02 (-1.43%) Open on X",
-      "createdAt": "2026-09-01T13:55:24.365Z",
-      "url": "https://x.com/aleabitoreddit/status/2094786201605808566",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2094786201605808566",
-      "ticker": "GPRO",
-      "text": "Serenity @aleabitoreddit 2026-09-01 21:55 What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\" To build US 800G/1.6T optical transceivers for AI data centers. GoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/5z2XXHaxvs $AAOI $AAOI NASDAQ Applied Optoelectronics Optical networking $105.36 $2.07 (+2.00%) Since mention (2026-06-05): -40.47% Datacenter optical transceiver supplier targeting 800G/1.6T for AI networking infrastructure. $GPRO $GPRO GPRO $1.38 -$0.02 (-1.43%) Open on X",
-      "createdAt": "2026-09-01T13:55:24.365Z",
-      "url": "https://x.com/aleabitoreddit/status/2094786201605808566",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
     }
   ],
   "tickers": [
     {
       "ticker": "SIVE",
-      "count": 26,
-      "firstSeen": "2026-09-02T08:22:38.850Z",
+      "count": 24,
+      "firstSeen": "2026-09-15T23:51:04.154Z",
       "lastSeen": "2026-11-05T04:44:46.525Z",
-      "avgSentiment": 0.292,
+      "avgSentiment": 0.316,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 72.4,
+      "signalScore": 71.8,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 15.1,
+        "frequency": 14.7,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 5,
         "engagement": 0,
         "conviction": 14.6,
         "themeFit": 15,
@@ -6115,16 +5724,6 @@
         "risk": 8.6
       },
       "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-09-15",
           "count": 1,
@@ -6204,19 +5803,19 @@
     },
     {
       "ticker": "AAOI",
-      "count": 25,
-      "firstSeen": "2026-09-01T13:55:24.365Z",
+      "count": 24,
+      "firstSeen": "2026-09-21T15:50:04.801Z",
       "lastSeen": "2026-11-05T04:44:46.525Z",
-      "avgSentiment": 0.282,
+      "avgSentiment": 0.293,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 66.2,
+      "signalScore": 65.7,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 14.9,
+        "frequency": 14.7,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 4.9,
         "engagement": 0,
         "conviction": 15,
         "themeFit": 15,
@@ -6224,11 +5823,6 @@
         "risk": 18
       },
       "history": [
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-09-21",
           "count": 1,
@@ -6422,35 +6016,30 @@
     },
     {
       "ticker": "NVDA",
-      "count": 23,
-      "firstSeen": "2026-09-02T04:56:28.342Z",
+      "count": 20,
+      "firstSeen": "2026-09-13T13:23:10.885Z",
       "lastSeen": "2026-11-03T15:06:13.375Z",
-      "avgSentiment": 0.066,
+      "avgSentiment": 0.101,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 74.8,
+      "signalScore": 75.8,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 14.5,
+        "frequency": 13.9,
         "recency": 10,
-        "persistence": 5.2,
+        "persistence": 5.1,
         "engagement": 0,
         "conviction": 15,
         "themeFit": 15,
         "catalyst": 12,
-        "risk": 9
+        "risk": 7.2
       },
       "history": [
         {
-          "date": "2026-09-02",
-          "count": 2,
-          "avgSentiment": 0.25
-        },
-        {
           "date": "2026-09-13",
-          "count": 2,
-          "avgSentiment": -0.45
+          "count": 1,
+          "avgSentiment": 0.1
         },
         {
           "date": "2026-09-15",
@@ -6521,36 +6110,26 @@
     },
     {
       "ticker": "NBIS",
-      "count": 17,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
+      "count": 15,
+      "firstSeen": "2026-09-17T10:21:13.626Z",
       "lastSeen": "2026-11-04T16:47:22.559Z",
-      "avgSentiment": 0.167,
+      "avgSentiment": 0.256,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 77,
+      "signalScore": 77.7,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 13.2,
+        "frequency": 12.7,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 5,
         "engagement": 0,
-        "conviction": 12.8,
+        "conviction": 12.5,
         "themeFit": 15,
         "catalyst": 12,
-        "risk": 3.2
+        "risk": 1.4
       },
       "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": -1
-        },
         {
           "date": "2026-09-17",
           "count": 1,
@@ -6615,31 +6194,26 @@
     },
     {
       "ticker": "MU",
-      "count": 14,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
+      "count": 13,
+      "firstSeen": "2026-09-15T01:41:27.255Z",
       "lastSeen": "2026-11-04T18:36:14.295Z",
-      "avgSentiment": 0.083,
+      "avgSentiment": 0.09,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 62.7,
+      "signalScore": 62,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
-        "frequency": 12.4,
+        "frequency": 12.1,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 5,
         "engagement": 0,
-        "conviction": 10.6,
+        "conviction": 10.5,
         "themeFit": 15,
         "catalyst": 12,
         "risk": 14.6
       },
       "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-09-15",
           "count": 1,
@@ -6699,6 +6273,65 @@
           "date": "2026-11-04",
           "count": 1,
           "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "count": 12,
+      "firstSeen": "2026-09-13T13:23:10.885Z",
+      "lastSeen": "2026-11-06T15:25:35.607Z",
+      "avgSentiment": 0.189,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 71.7,
+      "signalBand": "constructive",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 11.7,
+        "recency": 10,
+        "persistence": 5.1,
+        "engagement": 0,
+        "conviction": 15,
+        "themeFit": 15,
+        "catalyst": 7.5,
+        "risk": 4.6
+      },
+      "history": [
+        {
+          "date": "2026-09-13",
+          "count": 1,
+          "avgSentiment": 0.1
+        },
+        {
+          "date": "2026-09-28",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 2,
+          "avgSentiment": 0.875
+        },
+        {
+          "date": "2026-10-25",
+          "count": 3,
+          "avgSentiment": 0.083
+        },
+        {
+          "date": "2026-10-26",
+          "count": 2,
+          "avgSentiment": -0.167
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-06",
+          "count": 2,
+          "avgSentiment": 0.25
         }
       ]
     },
@@ -6772,96 +6405,145 @@
       ]
     },
     {
-      "ticker": "SPCX",
-      "count": 11,
-      "firstSeen": "2026-09-13T13:23:10.885Z",
-      "lastSeen": "2026-11-06T06:07:25.382Z",
-      "avgSentiment": 0.161,
+      "ticker": "MRVL",
+      "count": 10,
+      "firstSeen": "2026-09-19T20:06:50.222Z",
+      "lastSeen": "2026-11-03T09:55:29.662Z",
+      "avgSentiment": 0.2,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 66.9,
-      "signalBand": "constructive",
+      "signalScore": 62.5,
+      "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
-        "frequency": 11.4,
+        "frequency": 11,
         "recency": 10,
-        "persistence": 5.1,
+        "persistence": 4.9,
         "engagement": 0,
-        "conviction": 13.6,
+        "conviction": 6.6,
         "themeFit": 15,
-        "catalyst": 4.5,
-        "risk": 4.6
+        "catalyst": 3,
+        "risk": 0
       },
       "history": [
         {
-          "date": "2026-09-13",
+          "date": "2026-09-19",
           "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-09-20",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-10-30",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-02",
+          "count": 5,
           "avgSentiment": 0.1
         },
         {
-          "date": "2026-09-28",
+          "date": "2026-11-03",
+          "count": 1,
+          "avgSentiment": 0.5
+        }
+      ]
+    },
+    {
+      "ticker": "SKHY",
+      "count": 9,
+      "firstSeen": "2026-09-15T01:41:27.255Z",
+      "lastSeen": "2026-11-06T12:33:06.394Z",
+      "avgSentiment": -0.088,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 61.9,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 10.5,
+        "recency": 10,
+        "persistence": 5.1,
+        "engagement": 0,
+        "conviction": 6.5,
+        "themeFit": 15,
+        "catalyst": 12,
+        "risk": 9.2
+      },
+      "history": [
+        {
+          "date": "2026-09-15",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-10-20",
-          "count": 2,
-          "avgSentiment": 0.875
-        },
-        {
-          "date": "2026-10-25",
-          "count": 3,
-          "avgSentiment": 0.083
-        },
-        {
-          "date": "2026-10-26",
-          "count": 2,
-          "avgSentiment": -0.167
-        },
-        {
-          "date": "2026-11-05",
+          "date": "2026-09-21",
           "count": 1,
           "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-23",
+          "count": 1,
+          "avgSentiment": -0.5
+        },
+        {
+          "date": "2026-10-13",
+          "count": 2,
+          "avgSentiment": -0.5
+        },
+        {
+          "date": "2026-10-15",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-27",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "avgSentiment": 0.833
         },
         {
           "date": "2026-11-06",
           "count": 1,
-          "avgSentiment": 0
+          "avgSentiment": -0.125
         }
       ]
     },
     {
       "ticker": "AXTI",
-      "count": 11,
-      "firstSeen": "2026-09-01T16:57:19.573Z",
+      "count": 9,
+      "firstSeen": "2026-09-13T13:23:10.885Z",
       "lastSeen": "2026-11-04T17:49:07.927Z",
-      "avgSentiment": 0.197,
+      "avgSentiment": 0.296,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 64.4,
+      "signalScore": 63.1,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
-        "frequency": 11.4,
+        "frequency": 10.5,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 5.1,
         "engagement": 0,
-        "conviction": 9.9,
+        "conviction": 9.5,
         "themeFit": 15,
         "catalyst": 4.5,
         "risk": 3.6
       },
       "history": [
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-11",
-          "count": 1,
-          "avgSentiment": -0.5
-        },
         {
           "date": "2026-09-13",
           "count": 1,
@@ -6896,119 +6578,6 @@
           "date": "2026-11-04",
           "count": 2,
           "avgSentiment": 0.2
-        }
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "count": 11,
-      "firstSeen": "2026-09-02T10:53:20.490Z",
-      "lastSeen": "2026-11-03T09:55:29.662Z",
-      "avgSentiment": 0.182,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 63.4,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 11.4,
-        "recency": 10,
-        "persistence": 5.2,
-        "engagement": 0,
-        "conviction": 6.8,
-        "themeFit": 15,
-        "catalyst": 3,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-19",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-09-20",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-29",
-          "count": 1,
-          "avgSentiment": 0.5
-        },
-        {
-          "date": "2026-10-30",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-11-02",
-          "count": 5,
-          "avgSentiment": 0.1
-        },
-        {
-          "date": "2026-11-03",
-          "count": 1,
-          "avgSentiment": 0.5
-        }
-      ]
-    },
-    {
-      "ticker": "IREN",
-      "count": 9,
-      "firstSeen": "2026-09-01T16:57:19.573Z",
-      "lastSeen": "2026-11-06T05:05:45.564Z",
-      "avgSentiment": 0.056,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 63.6,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 10.5,
-        "recency": 10,
-        "persistence": 5.3,
-        "engagement": 0,
-        "conviction": 3.1,
-        "themeFit": 15,
-        "catalyst": 9.5,
-        "risk": 1.8
-      },
-      "history": [
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": -1
-        },
-        {
-          "date": "2026-09-14",
-          "count": 2,
-          "avgSentiment": 0.25
-        },
-        {
-          "date": "2026-09-24",
-          "count": 3,
-          "avgSentiment": 0.333
-        },
-        {
-          "date": "2026-10-19",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1,
-          "avgSentiment": 0
         }
       ]
     },
@@ -7131,61 +6700,46 @@
       ]
     },
     {
-      "ticker": "SKHY",
-      "count": 8,
-      "firstSeen": "2026-09-15T01:41:27.255Z",
-      "lastSeen": "2026-10-28T02:11:30.415Z",
-      "avgSentiment": -0.083,
-      "sentimentLabel": "neutral",
+      "ticker": "IREN",
+      "count": 7,
+      "firstSeen": "2026-09-14T11:21:45.645Z",
+      "lastSeen": "2026-11-06T05:05:45.564Z",
+      "avgSentiment": 0.214,
+      "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 55.5,
+      "signalScore": 59.8,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
-        "frequency": 10.1,
-        "recency": 8,
-        "persistence": 3.5,
+        "frequency": 9.5,
+        "recency": 10,
+        "persistence": 5.1,
         "engagement": 0,
-        "conviction": 4.6,
+        "conviction": 2.8,
         "themeFit": 15,
-        "catalyst": 11.5,
-        "risk": 9.2
+        "catalyst": 5.5,
+        "risk": 0
       },
       "history": [
         {
-          "date": "2026-09-15",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-23",
-          "count": 1,
-          "avgSentiment": -0.5
-        },
-        {
-          "date": "2026-10-13",
+          "date": "2026-09-14",
           "count": 2,
-          "avgSentiment": -0.5
+          "avgSentiment": 0.25
         },
         {
-          "date": "2026-10-15",
+          "date": "2026-09-24",
+          "count": 3,
+          "avgSentiment": 0.333
+        },
+        {
+          "date": "2026-10-19",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-10-27",
+          "date": "2026-11-06",
           "count": 1,
           "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "avgSentiment": 0.833
         }
       ]
     },
@@ -7239,60 +6793,6 @@
       ]
     },
     {
-      "ticker": "JBL",
-      "count": 7,
-      "firstSeen": "2026-09-11T10:42:24.959Z",
-      "lastSeen": "2026-10-25T05:18:51.915Z",
-      "avgSentiment": 0.119,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 54.9,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 9.5,
-        "recency": 8,
-        "persistence": 3.5,
-        "engagement": 0,
-        "conviction": 4.5,
-        "themeFit": 15,
-        "catalyst": 6,
-        "risk": 3.6
-      },
-      "history": [
-        {
-          "date": "2026-09-11",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-30",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-24",
-          "count": 1,
-          "avgSentiment": 0.833
-        },
-        {
-          "date": "2026-10-25",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "TSLA",
       "count": 6,
       "firstSeen": "2026-09-13T13:23:10.885Z",
@@ -7342,105 +6842,51 @@
       ]
     },
     {
-      "ticker": "CRWV",
+      "ticker": "JBL",
       "count": 6,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-10-25T23:14:22.275Z",
-      "avgSentiment": 0.208,
-      "sentimentLabel": "bullish",
+      "firstSeen": "2026-09-24T21:22:21.736Z",
+      "lastSeen": "2026-10-25T05:18:51.915Z",
+      "avgSentiment": 0.139,
+      "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 53,
+      "signalScore": 53.9,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 8.9,
         "recency": 8,
-        "persistence": 3.7,
+        "persistence": 3.3,
         "engagement": 0,
         "conviction": 4.3,
         "themeFit": 15,
-        "catalyst": 2.5,
-        "risk": 1.4
+        "catalyst": 6,
+        "risk": 3.6
       },
       "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-09-21",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-09-24",
           "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-10-15",
-          "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-09-30",
           "count": 2,
-          "avgSentiment": 0.125
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "count": 6,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-10-25T04:57:36.880Z",
-      "avgSentiment": 0.195,
-      "sentimentLabel": "bullish",
-      "engagement": 0,
-      "signalScore": 56.3,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 8.9,
-        "recency": 8,
-        "persistence": 3.7,
-        "engagement": 0,
-        "conviction": 7.7,
-        "themeFit": 15,
-        "catalyst": 1,
-        "risk": 0
-      },
-      "history": [
+          "avgSentiment": 0
+        },
         {
-          "date": "2026-09-02",
+          "date": "2026-10-20",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-10-24",
           "count": 1,
-          "avgSentiment": 1
-        },
-        {
-          "date": "2026-09-22",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-15",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 1,
-          "avgSentiment": -0.333
+          "avgSentiment": 0.833
         },
         {
           "date": "2026-10-25",
           "count": 1,
-          "avgSentiment": 0.5
+          "avgSentiment": 0
         }
       ]
     },
@@ -7626,51 +7072,95 @@
       ]
     },
     {
-      "ticker": "GFS",
+      "ticker": "CRWV",
       "count": 5,
-      "firstSeen": "2026-09-11T10:42:24.959Z",
-      "lastSeen": "2026-10-25T05:18:51.915Z",
-      "avgSentiment": 0.1,
-      "sentimentLabel": "neutral",
+      "firstSeen": "2026-09-21T16:19:25.575Z",
+      "lastSeen": "2026-10-25T23:14:22.275Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 44.6,
-      "signalBand": "weak",
+      "signalScore": 51.3,
+      "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 8.2,
         "recency": 8,
-        "persistence": 3.5,
+        "persistence": 3.4,
         "engagement": 0,
-        "conviction": 0.8,
-        "themeFit": 11.6,
+        "conviction": 4.2,
+        "themeFit": 15,
+        "catalyst": 2,
+        "risk": 1.4
+      },
+      "history": [
+        {
+          "date": "2026-09-21",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-25",
+          "count": 2,
+          "avgSentiment": 0.125
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "count": 5,
+      "firstSeen": "2026-09-16T18:41:39.580Z",
+      "lastSeen": "2026-10-25T04:57:36.880Z",
+      "avgSentiment": 0.233,
+      "sentimentLabel": "bullish",
+      "engagement": 0,
+      "signalScore": 54.7,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 8.2,
+        "recency": 8,
+        "persistence": 3.4,
+        "engagement": 0,
+        "conviction": 7.6,
+        "themeFit": 15,
         "catalyst": 0.5,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-09-11",
+          "date": "2026-09-16",
+          "count": 1,
+          "avgSentiment": 1
+        },
+        {
+          "date": "2026-09-22",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-15",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-10-20",
+          "date": "2026-10-23",
           "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-24",
-          "count": 1,
-          "avgSentiment": 0.5
+          "avgSentiment": -0.333
         },
         {
           "date": "2026-10-25",
           "count": 1,
-          "avgSentiment": 0
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -7709,41 +7199,41 @@
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "ASTS",
       "count": 4,
-      "firstSeen": "2026-09-02T04:56:28.342Z",
-      "lastSeen": "2026-11-04T18:36:14.295Z",
-      "avgSentiment": -0.083,
+      "firstSeen": "2026-10-22T12:07:10.919Z",
+      "lastSeen": "2026-11-06T15:25:35.607Z",
+      "avgSentiment": 0.125,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 62.9,
+      "signalScore": 48.5,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 7.4,
         "recency": 10,
-        "persistence": 5.3,
+        "persistence": 3.1,
         "engagement": 0,
-        "conviction": 10.8,
-        "themeFit": 15,
-        "catalyst": 2.5,
+        "conviction": 2.3,
+        "themeFit": 9.3,
+        "catalyst": 4.5,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-09-02",
+          "date": "2026-10-22",
           "count": 2,
-          "avgSentiment": 0
+          "avgSentiment": 0.25
         },
         {
-          "date": "2026-10-23",
+          "date": "2026-10-27",
           "count": 1,
-          "avgSentiment": -0.333
+          "avgSentiment": -0.5
         },
         {
-          "date": "2026-11-04",
+          "date": "2026-11-06",
           "count": 1,
-          "avgSentiment": 0
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -7792,6 +7282,50 @@
       ]
     },
     {
+      "ticker": "GFS",
+      "count": 4,
+      "firstSeen": "2026-10-19T09:19:27.392Z",
+      "lastSeen": "2026-10-25T05:18:51.915Z",
+      "avgSentiment": 0.125,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 41.6,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 7.4,
+        "recency": 8,
+        "persistence": 1.5,
+        "engagement": 0,
+        "conviction": 0.6,
+        "themeFit": 11.6,
+        "catalyst": 0.5,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-10-19",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-24",
+          "count": 1,
+          "avgSentiment": 0.5
+        },
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "AEVA",
       "count": 4,
       "firstSeen": "2026-10-20T06:24:08.839Z",
@@ -7817,6 +7351,45 @@
           "date": "2026-10-20",
           "count": 4,
           "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "count": 3,
+      "firstSeen": "2026-10-23T10:17:46.364Z",
+      "lastSeen": "2026-11-06T12:33:06.394Z",
+      "avgSentiment": -0.153,
+      "sentimentLabel": "bearish",
+      "engagement": 0,
+      "signalScore": 60.1,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 6.3,
+        "recency": 10,
+        "persistence": 3,
+        "engagement": 0,
+        "conviction": 12.4,
+        "themeFit": 14.4,
+        "catalyst": 2,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "avgSentiment": -0.333
+        },
+        {
+          "date": "2026-11-04",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-06",
+          "count": 1,
+          "avgSentiment": -0.125
         }
       ]
     },
@@ -7918,40 +7491,6 @@
       ]
     },
     {
-      "ticker": "ASTS",
-      "count": 3,
-      "firstSeen": "2026-10-22T12:07:10.919Z",
-      "lastSeen": "2026-10-27T14:51:56.715Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 37.3,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 6.3,
-        "recency": 8,
-        "persistence": 1.5,
-        "engagement": 0,
-        "conviction": 0.5,
-        "themeFit": 7.5,
-        "catalyst": 1.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-10-22",
-          "count": 2,
-          "avgSentiment": 0.25
-        },
-        {
-          "date": "2026-10-27",
-          "count": 1,
-          "avgSentiment": -0.5
-        }
-      ]
-    },
-    {
       "ticker": "MSFT",
       "count": 3,
       "firstSeen": "2026-10-08T19:26:53.473Z",
@@ -8020,12 +7559,12 @@
       ]
     },
     {
-      "ticker": "BE",
+      "ticker": "RKLB",
       "count": 2,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-11-05T19:18:09.783Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
+      "firstSeen": "2026-10-22T12:46:26.106Z",
+      "lastSeen": "2026-11-06T15:25:35.607Z",
+      "avgSentiment": 0.25,
+      "sentimentLabel": "bullish",
       "engagement": 0,
       "signalScore": 43.3,
       "signalBand": "weak",
@@ -8033,23 +7572,23 @@
         "base": 12,
         "frequency": 5,
         "recency": 10,
-        "persistence": 3.9,
+        "persistence": 3.1,
         "engagement": 0,
-        "conviction": 0.3,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
+        "conviction": 2,
+        "themeFit": 5.2,
+        "catalyst": 6,
         "risk": 0
       },
       "history": [
         {
-          "date": "2026-09-02",
+          "date": "2026-10-22",
           "count": 1,
           "avgSentiment": 0
         },
         {
-          "date": "2026-11-05",
+          "date": "2026-11-06",
           "count": 1,
-          "avgSentiment": 0
+          "avgSentiment": 0.5
         }
       ]
     },
@@ -8296,6 +7835,35 @@
       "count": 1,
       "firstSeen": "2026-11-05T20:52:10.279Z",
       "lastSeen": "2026-11-05T20:52:10.279Z",
+      "avgSentiment": 0,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 26.7,
+      "signalBand": "weak",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 3.2,
+        "recency": 10,
+        "persistence": 1.4,
+        "engagement": 0,
+        "conviction": 0.2,
+        "themeFit": 0,
+        "catalyst": 0,
+        "risk": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
+      "ticker": "BE",
+      "count": 1,
+      "firstSeen": "2026-11-05T19:18:09.783Z",
+      "lastSeen": "2026-11-05T19:18:09.783Z",
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
@@ -8756,35 +8324,6 @@
       ]
     },
     {
-      "ticker": "RKLB",
-      "count": 1,
-      "firstSeen": "2026-10-22T12:46:26.106Z",
-      "lastSeen": "2026-10-22T12:46:26.106Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 31.2,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 8,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 3.5,
-        "catalyst": 3,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "AMKR",
       "count": 1,
       "firstSeen": "2026-10-22T02:27:28.551Z",
@@ -8879,12 +8418,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 24.7,
+      "signalScore": 21.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -9363,209 +8902,6 @@
           "avgSentiment": 0.1
         }
       ]
-    },
-    {
-      "ticker": "ORCL",
-      "count": 1,
-      "firstSeen": "2026-09-13T08:11:41.242Z",
-      "lastSeen": "2026-09-13T08:11:41.242Z",
-      "avgSentiment": -1,
-      "sentimentLabel": "bearish",
-      "engagement": 0,
-      "signalScore": 35.4,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 4,
-        "risk": 1.8
-      },
-      "history": [
-        {
-          "date": "2026-09-13",
-          "count": 1,
-          "avgSentiment": -1
-        }
-      ]
-    },
-    {
-      "ticker": "RIOT",
-      "count": 1,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "APLD",
-      "count": 1,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "STM",
-      "count": 1,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "CORZ",
-      "count": 1,
-      "firstSeen": "2026-09-02T09:54:21.024Z",
-      "lastSeen": "2026-09-02T09:54:21.024Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 33.8,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 11.5,
-        "catalyst": 0.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "AA",
-      "count": 1,
-      "firstSeen": "2026-09-01T18:26:55.116Z",
-      "lastSeen": "2026-09-01T18:26:55.116Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 21.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 0,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
-      "ticker": "GPRO",
-      "count": 1,
-      "firstSeen": "2026-09-01T13:55:24.365Z",
-      "lastSeen": "2026-09-01T13:55:24.365Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 29.7,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 8,
-        "catalyst": 0,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-09-01",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
     }
   ],
   "digest": {
@@ -9574,7 +8910,7 @@
       "from": "2026-10-31",
       "to": "2026-11-06"
     },
-    "totalMentions": 52,
+    "totalMentions": 57,
     "topTickers": [
       {
         "ticker": "LITE",
@@ -9593,7 +8929,7 @@
         "count": 4
       },
       {
-        "ticker": "AEHR",
+        "ticker": "SPCX",
         "count": 3
       }
     ],
@@ -9601,6 +8937,7 @@
       "AEHR",
       "POET",
       "GLXY",
+      "BE",
       "FN",
       "CIEN",
       "CRDO"
@@ -9610,224 +8947,73 @@
     "minSample": 4,
     "weekly": [
       {
-        "key": "2026-W36",
-        "from": "2026-09-01",
-        "to": "2026-09-02",
-        "posts": 8,
-        "mentions": 20,
-        "unclassified": 1,
-        "thin": false,
-        "themes": [
-          {
-            "id": "semicap",
-            "title": "Semis, packaging & equipment",
-            "posts": 6,
-            "share": 0.286,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 5,
-            "share": 0.238,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "optics",
-            "title": "AI optical interconnect / CPO",
-            "posts": 4,
-            "share": 0.19,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "networking",
-            "title": "AI networking / Ethernet",
-            "posts": 4,
-            "share": 0.19,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "memory",
-            "title": "HBM / memory & storage",
-            "posts": 2,
-            "share": 0.095,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          }
-        ],
-        "topTickers": [
-          {
-            "ticker": "NVDA",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "TSM",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "MRVL",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "optics",
-              "memory",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "RIOT",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "APLD",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "STM",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "CORZ",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "CRWV",
-            "count": 1,
-            "themes": [
-              "neocloud",
-              "memory",
-              "semicap"
-            ]
-          }
-        ],
-        "newTickers": []
-      },
-      {
         "key": "2026-W37",
-        "from": "2026-09-11",
+        "from": "2026-09-13",
         "to": "2026-09-13",
-        "posts": 15,
-        "mentions": 16,
-        "unclassified": 9,
-        "thin": false,
+        "posts": 2,
+        "mentions": 8,
+        "unclassified": 0,
+        "thin": true,
         "themes": [
           {
-            "id": "semicap",
-            "title": "Semis, packaging & equipment",
-            "posts": 4,
-            "share": 0.286,
-            "prevPosts": 6,
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 1,
+            "share": 0.2,
+            "prevPosts": 0,
             "deltaShare": 0,
-            "trend": "steady"
+            "trend": "thin"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 3,
-            "share": 0.214,
-            "prevPosts": 4,
-            "deltaShare": 0.024,
-            "trend": "steady"
+            "posts": 1,
+            "share": 0.2,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 3,
-            "share": 0.214,
-            "prevPosts": 4,
-            "deltaShare": 0.024,
-            "trend": "steady"
+            "posts": 1,
+            "share": 0.2,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
           },
           {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 2,
-            "share": 0.143,
-            "prevPosts": 5,
-            "deltaShare": -0.095,
-            "trend": "cooling"
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 1,
+            "share": 0.2,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
-            "posts": 2,
-            "share": 0.143,
+            "posts": 1,
+            "share": 0.2,
             "prevPosts": 0,
-            "deltaShare": 0.143,
-            "trend": "new"
-          },
-          {
-            "id": "memory",
-            "title": "HBM / memory & storage",
-            "posts": 0,
-            "share": 0,
-            "prevPosts": 2,
-            "deltaShare": -0.095,
-            "trend": "cooling"
+            "deltaShare": 0,
+            "trend": "thin"
           }
         ],
         "topTickers": [
           {
-            "ticker": "NVDA",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
-            "ticker": "AXTI",
-            "count": 2,
-            "themes": [
-              "neocloud",
-              "optics",
-              "networking",
-              "semicap"
-            ]
-          },
-          {
             "ticker": "EQR",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "NVDA",
             "count": 1,
             "themes": [
               "neocloud",
@@ -9848,6 +9034,16 @@
           },
           {
             "ticker": "PLTR",
+            "count": 1,
+            "themes": [
+              "neocloud",
+              "optics",
+              "networking",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "AXTI",
             "count": 1,
             "themes": [
               "neocloud",
@@ -9887,14 +9083,7 @@
             ]
           }
         ],
-        "newTickers": [
-          "EQR",
-          "LULU",
-          "PLTR",
-          "SPCX",
-          "GOOGL",
-          "TSLA"
-        ]
+        "newTickers": []
       },
       {
         "key": "2026-W38",
@@ -9910,18 +9099,18 @@
             "title": "Semis, packaging & equipment",
             "posts": 10,
             "share": 0.278,
-            "prevPosts": 4,
-            "deltaShare": -0.008,
-            "trend": "steady"
+            "prevPosts": 1,
+            "deltaShare": 0.078,
+            "trend": "thin"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 7,
             "share": 0.194,
-            "prevPosts": 2,
-            "deltaShare": 0.052,
-            "trend": "steady"
+            "prevPosts": 1,
+            "deltaShare": -0.006,
+            "trend": "thin"
           },
           {
             "id": "memory",
@@ -9930,25 +9119,25 @@
             "share": 0.194,
             "prevPosts": 0,
             "deltaShare": 0.194,
-            "trend": "new"
+            "trend": "thin"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 5,
             "share": 0.139,
-            "prevPosts": 3,
-            "deltaShare": -0.075,
-            "trend": "cooling"
+            "prevPosts": 1,
+            "deltaShare": -0.061,
+            "trend": "thin"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 5,
             "share": 0.139,
-            "prevPosts": 3,
-            "deltaShare": -0.075,
-            "trend": "cooling"
+            "prevPosts": 1,
+            "deltaShare": -0.061,
+            "trend": "thin"
           },
           {
             "id": "robotics",
@@ -9957,16 +9146,16 @@
             "share": 0.056,
             "prevPosts": 0,
             "deltaShare": 0.056,
-            "trend": "new"
+            "trend": "thin"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 0,
             "share": 0,
-            "prevPosts": 2,
-            "deltaShare": -0.143,
-            "trend": "cooling"
+            "prevPosts": 1,
+            "deltaShare": -0.2,
+            "trend": "thin"
           }
         ],
         "topTickers": [
@@ -10045,8 +9234,11 @@
         ],
         "newTickers": [
           "RDDT",
+          "SIVE",
+          "NBIS",
           "MRVL",
           "CCXI",
+          "IREN",
           "INTC"
         ]
       },
@@ -10991,74 +10183,74 @@
       {
         "key": "2026-W45",
         "from": "2026-11-02",
-        "to": "2026-11-06",
-        "posts": 86,
-        "mentions": 52,
-        "unclassified": 65,
+        "to": "2026-11-07",
+        "posts": 107,
+        "mentions": 57,
+        "unclassified": 84,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 16,
-            "share": 0.246,
+            "posts": 18,
+            "share": 0.25,
             "prevPosts": 5,
-            "deltaShare": 0.111,
+            "deltaShare": 0.115,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 15,
-            "share": 0.231,
+            "posts": 16,
+            "share": 0.222,
             "prevPosts": 9,
-            "deltaShare": -0.012,
+            "deltaShare": -0.021,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 12,
-            "share": 0.185,
+            "posts": 13,
+            "share": 0.181,
             "prevPosts": 6,
-            "deltaShare": 0.022,
+            "deltaShare": 0.018,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 11,
-            "share": 0.169,
+            "posts": 13,
+            "share": 0.181,
             "prevPosts": 7,
-            "deltaShare": -0.02,
+            "deltaShare": -0.009,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 9,
-            "share": 0.138,
+            "share": 0.125,
             "prevPosts": 7,
-            "deltaShare": -0.051,
+            "deltaShare": -0.064,
+            "trend": "cooling"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 2,
+            "share": 0.028,
+            "prevPosts": 1,
+            "deltaShare": 0.001,
             "trend": "steady"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 1,
-            "share": 0.015,
+            "share": 0.014,
             "prevPosts": 0,
-            "deltaShare": 0.015,
+            "deltaShare": 0.014,
             "trend": "new"
-          },
-          {
-            "id": "policy",
-            "title": "Policy, export controls & tariffs",
-            "posts": 1,
-            "share": 0.015,
-            "prevPosts": 1,
-            "deltaShare": -0.012,
-            "trend": "steady"
           },
           {
             "id": "power",
@@ -11116,6 +10308,11 @@
             ]
           },
           {
+            "ticker": "SPCX",
+            "count": 3,
+            "themes": []
+          },
+          {
             "ticker": "AEHR",
             "count": 3,
             "themes": [
@@ -11127,22 +10324,17 @@
             ]
           },
           {
-            "ticker": "SPCX",
-            "count": 2,
-            "themes": []
-          },
-          {
-            "ticker": "COHR",
+            "ticker": "TSM",
             "count": 2,
             "themes": [
-              "neocloud",
-              "optics",
               "networking",
-              "semicap"
+              "semicap",
+              "policy",
+              "memory"
             ]
           },
           {
-            "ticker": "AXTI",
+            "ticker": "COHR",
             "count": 2,
             "themes": [
               "neocloud",
@@ -11155,6 +10347,7 @@
         "newTickers": [
           "SIVE",
           "AEHR",
+          "TSM",
           "COHR"
         ]
       }
@@ -11162,27 +10355,27 @@
     "monthly": [
       {
         "key": "2026-09",
-        "from": "2026-09-01",
+        "from": "2026-09-13",
         "to": "2026-09-30",
-        "posts": 196,
-        "mentions": 131,
-        "unclassified": 152,
+        "posts": 175,
+        "mentions": 103,
+        "unclassified": 142,
         "thin": false,
         "themes": [
           {
-            "id": "semicap",
-            "title": "Semis, packaging & equipment",
-            "posts": 29,
-            "share": 0.246,
+            "id": "neocloud",
+            "title": "Neocloud / GPU cloud & HPC",
+            "posts": 21,
+            "share": 0.239,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
           },
           {
-            "id": "neocloud",
-            "title": "Neocloud / GPU cloud & HPC",
-            "posts": 27,
-            "share": 0.229,
+            "id": "semicap",
+            "title": "Semis, packaging & equipment",
+            "posts": 20,
+            "share": 0.227,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11190,17 +10383,8 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 22,
-            "share": 0.186,
-            "prevPosts": 0,
-            "deltaShare": 0,
-            "trend": "thin"
-          },
-          {
-            "id": "optics",
-            "title": "AI optical interconnect / CPO",
-            "posts": 19,
-            "share": 0.161,
+            "posts": 16,
+            "share": 0.182,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11208,8 +10392,17 @@
           {
             "id": "memory",
             "title": "HBM / memory & storage",
-            "posts": 17,
-            "share": 0.144,
+            "posts": 15,
+            "share": 0.17,
+            "prevPosts": 0,
+            "deltaShare": 0,
+            "trend": "thin"
+          },
+          {
+            "id": "optics",
+            "title": "AI optical interconnect / CPO",
+            "posts": 13,
+            "share": 0.148,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11218,7 +10411,7 @@
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 2,
-            "share": 0.017,
+            "share": 0.023,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11226,8 +10419,8 @@
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
-            "posts": 2,
-            "share": 0.017,
+            "posts": 1,
+            "share": 0.011,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -11236,7 +10429,7 @@
         "topTickers": [
           {
             "ticker": "NBIS",
-            "count": 9,
+            "count": 7,
             "themes": [
               "neocloud",
               "memory",
@@ -11245,19 +10438,19 @@
             ]
           },
           {
-            "ticker": "NVDA",
-            "count": 8,
+            "ticker": "MU",
+            "count": 6,
             "themes": [
               "neocloud",
-              "optics",
+              "memory",
               "networking",
               "semicap",
-              "memory"
+              "optics"
             ]
           },
           {
             "ticker": "SIVE",
-            "count": 8,
+            "count": 6,
             "themes": [
               "neocloud",
               "optics",
@@ -11268,45 +10461,32 @@
             ]
           },
           {
-            "ticker": "MU",
-            "count": 7,
+            "ticker": "NVDA",
+            "count": 5,
             "themes": [
               "neocloud",
-              "memory",
+              "optics",
               "networking",
               "semicap",
-              "optics"
+              "memory"
             ]
           },
           {
             "ticker": "IREN",
-            "count": 7,
+            "count": 5,
             "themes": [
-              "neocloud",
-              "semicap",
-              "optics",
-              "networking"
+              "neocloud"
             ]
           },
           {
             "ticker": "AXTI",
-            "count": 6,
+            "count": 4,
             "themes": [
               "optics",
               "networking",
               "semicap",
               "memory",
               "neocloud"
-            ]
-          },
-          {
-            "ticker": "JBL",
-            "count": 4,
-            "themes": [
-              "neocloud",
-              "memory",
-              "networking",
-              "semicap"
             ]
           },
           {
@@ -11317,6 +10497,16 @@
               "optics",
               "networking",
               "robotics",
+              "semicap"
+            ]
+          },
+          {
+            "ticker": "JBL",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "memory",
+              "networking",
               "semicap"
             ]
           }
@@ -11337,8 +10527,8 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 52,
             "share": 0.229,
-            "prevPosts": 27,
-            "deltaShare": 0,
+            "prevPosts": 21,
+            "deltaShare": -0.01,
             "trend": "steady"
           },
           {
@@ -11346,8 +10536,8 @@
             "title": "AI networking / Ethernet",
             "posts": 51,
             "share": 0.225,
-            "prevPosts": 22,
-            "deltaShare": 0.038,
+            "prevPosts": 16,
+            "deltaShare": 0.043,
             "trend": "steady"
           },
           {
@@ -11355,8 +10545,8 @@
             "title": "AI optical interconnect / CPO",
             "posts": 47,
             "share": 0.207,
-            "prevPosts": 19,
-            "deltaShare": 0.046,
+            "prevPosts": 13,
+            "deltaShare": 0.059,
             "trend": "steady"
           },
           {
@@ -11364,26 +10554,26 @@
             "title": "Semis, packaging & equipment",
             "posts": 39,
             "share": 0.172,
-            "prevPosts": 29,
-            "deltaShare": -0.074,
-            "trend": "cooling"
+            "prevPosts": 20,
+            "deltaShare": -0.055,
+            "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 20,
             "share": 0.088,
-            "prevPosts": 17,
-            "deltaShare": -0.056,
-            "trend": "steady"
+            "prevPosts": 15,
+            "deltaShare": -0.082,
+            "trend": "cooling"
           },
           {
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 7,
             "share": 0.031,
-            "prevPosts": 2,
-            "deltaShare": 0.014,
+            "prevPosts": 1,
+            "deltaShare": 0.019,
             "trend": "steady"
           },
           {
@@ -11401,7 +10591,7 @@
             "posts": 4,
             "share": 0.018,
             "prevPosts": 2,
-            "deltaShare": 0.001,
+            "deltaShare": -0.005,
             "trend": "steady"
           },
           {
@@ -11523,73 +10713,73 @@
       {
         "key": "2026-11",
         "from": "2026-11-02",
-        "to": "2026-11-06",
-        "posts": 86,
-        "mentions": 52,
-        "unclassified": 65,
+        "to": "2026-11-07",
+        "posts": 107,
+        "mentions": 57,
+        "unclassified": 84,
         "thin": false,
         "themes": [
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 16,
-            "share": 0.246,
+            "posts": 18,
+            "share": 0.25,
             "prevPosts": 39,
-            "deltaShare": 0.074,
+            "deltaShare": 0.078,
             "trend": "rising"
           },
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 15,
-            "share": 0.231,
+            "posts": 16,
+            "share": 0.222,
             "prevPosts": 52,
-            "deltaShare": 0.002,
+            "deltaShare": -0.007,
             "trend": "steady"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 12,
-            "share": 0.185,
+            "posts": 13,
+            "share": 0.181,
             "prevPosts": 47,
-            "deltaShare": -0.022,
+            "deltaShare": -0.026,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 11,
-            "share": 0.169,
+            "posts": 13,
+            "share": 0.181,
             "prevPosts": 51,
-            "deltaShare": -0.055,
+            "deltaShare": -0.044,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 9,
-            "share": 0.138,
+            "share": 0.125,
             "prevPosts": 20,
-            "deltaShare": 0.05,
+            "deltaShare": 0.037,
+            "trend": "steady"
+          },
+          {
+            "id": "policy",
+            "title": "Policy, export controls & tariffs",
+            "posts": 2,
+            "share": 0.028,
+            "prevPosts": 7,
+            "deltaShare": -0.003,
             "trend": "steady"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 1,
-            "share": 0.015,
+            "share": 0.014,
             "prevPosts": 4,
-            "deltaShare": -0.002,
-            "trend": "steady"
-          },
-          {
-            "id": "policy",
-            "title": "Policy, export controls & tariffs",
-            "posts": 1,
-            "share": 0.015,
-            "prevPosts": 7,
-            "deltaShare": -0.015,
+            "deltaShare": -0.004,
             "trend": "steady"
           },
           {
@@ -11657,6 +10847,11 @@
             ]
           },
           {
+            "ticker": "SPCX",
+            "count": 3,
+            "themes": []
+          },
+          {
             "ticker": "AEHR",
             "count": 3,
             "themes": [
@@ -11668,22 +10863,17 @@
             ]
           },
           {
-            "ticker": "SPCX",
-            "count": 2,
-            "themes": []
-          },
-          {
-            "ticker": "COHR",
+            "ticker": "TSM",
             "count": 2,
             "themes": [
-              "neocloud",
-              "optics",
               "networking",
-              "semicap"
+              "semicap",
+              "policy",
+              "memory"
             ]
           },
           {
-            "ticker": "AXTI",
+            "ticker": "COHR",
             "count": 2,
             "themes": [
               "neocloud",
