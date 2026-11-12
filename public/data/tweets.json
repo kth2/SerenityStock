@@ -1,9 +1,189 @@
 {
-  "updatedAt": "2026-11-10T15:07:11.758Z",
+  "updatedAt": "2026-11-12T15:30:06.514Z",
   "source": "trackserenity",
   "sourceUrl": "https://www.trackserenity.com/",
   "handle": "aleabitoreddit",
   "tweets": [
+    {
+      "id": "2120792625477468583",
+      "text": "Serenity @aleabitoreddit Thu Nov 12 08:15:38 +0000 2026 \"Chinese AI firms rush to secure $NVDA chip capacity as spy scandal stirs fear of US curbs\" Wow, Jensen really took one for the team just to generate more GPU and Neocloud demand $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-11-12T08:15:38.992Z",
+      "url": "https://x.com/aleabitoreddit/status/2120792625477468583",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120658071274013137",
+      "text": "Serenity @aleabitoreddit 2026-11-12 07:20 All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures. The same way $TSLA and SpaceX stood up for Elon Musk around similar allegations. The AI trade won’t end off this but for Nvidia’s best interest, he should remain CEO. Otherwise I see Nvidia’s valuation crashing due to extreme uncertainty, with a lot of capital rotating to $AMD and other competitors. $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $561.47 $157.07 (+38.84%) Since mention (2026-06-07): +20.39% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. $TSLA $TSLA TSLA $390.10 $46.41 (+13.50%) Open on X",
+      "createdAt": "2026-11-11T23:20:58.770Z",
+      "url": "https://x.com/aleabitoreddit/status/2120658071274013137",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120650676762181843",
+      "text": "Serenity @aleabitoreddit 2026-11-12 06:51 I don’t know what’s happening anymore @aleabitoreddit Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right. The cluster of news coming out about Jensen feel extremely bizarre. Open on X",
+      "createdAt": "2026-11-11T22:51:35.781Z",
+      "url": "https://x.com/aleabitoreddit/status/2120650676762181843",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120648172192378945",
+      "text": "Serenity @aleabitoreddit 2026-11-12 06:41 Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right. The cluster of news coming out about Jensen feel extremely bizarre. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-11-11T22:41:38.645Z",
+      "url": "https://x.com/aleabitoreddit/status/2120648172192378945",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120581072610349141",
+      "text": "Serenity @aleabitoreddit 2026-11-12 02:15 Not always right on timing, but I'm pretty confident long term they'll play out. Just look at $AXTI, everyone thought it was a dead company last year and InP substrates were a commodity. -> Q4 2025 gross margins: 20.9% -> Q1 2026: 29.6% -> Q2 2026: 44.9% -> Q3 2026: 56.0% -> Q4 2026: 60%+ est. With legacy memory like $ESMT, I did guess earnings correctly, they made a whopping $331M+ net income relative to $1.9B MC But stock still dropped somehow... but eventually as time passes out I'm personally confident majority will play out directionally right. $AXTI $AXTI NASDAQ AXT Inc Semiconductor substrates $42.83 $6.11 (+16.64%) Since mention (2026-06-07): -51.90% Compound semiconductor substrate maker (InP, GaAs, Ge) with exposure to photonics and AI datacom. $ESMT $ESMT ESMT Quote unavailable Open on X",
+      "createdAt": "2026-11-11T18:15:00.858Z",
+      "url": "https://x.com/aleabitoreddit/status/2120581072610349141",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120576529067335738",
+      "text": "Serenity @aleabitoreddit 2026-11-12 01:56 @aleabitoreddit The reports of your demise were greatly exaggerated Open on X",
+      "createdAt": "2026-11-11T17:56:57.593Z",
+      "url": "https://x.com/aleabitoreddit/status/2120576529067335738",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120575364238094682",
+      "text": "Serenity @aleabitoreddit 2026-11-12 01:52 This aged pretty well, when I said this last year in 2025, Clickhouse was a $6.7B company... Now as an update, their secondary valuation sits around ~$50B, which $NBIS owns 25%+ of. I've always liked Nebius the most because sum of parts, with all their lesser known subsidiaries growing alongside their core neocloud business. Including Avride (self-driving), Clickhouse, Toloka, and other subsidiaries that they owned. This year Nebius also acquired: - Tavily (web search and retrival) - Clarifai (Inference orchestration) Which scale independently as well (the others were integrated into Nebius Token Factory). Hard to view $NBIS as just another neocloud when it has billions in scaling value outside its core infrastructure business. @aleabitoreddit clickhouse is pretty OP, but haven't made an individual analysis on that yet since $NBIS only owns 28%. But i could definitely see clickhouse becoming a $50B company one day, i'll probably made a follow up post and cover all sum-of-parts to help people understand nebius value proposition $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $126.58 $6.20 (+5.15%) Since mention (2026-06-07): -44.44% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "createdAt": "2026-11-11T17:52:19.876Z",
+      "url": "https://x.com/aleabitoreddit/status/2120575364238094682",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120533451279642808",
+      "text": "$ANT $ANT ANT Quote unavailable Open on X",
+      "createdAt": "2026-11-11T15:05:47.048Z",
+      "url": "https://x.com/aleabitoreddit/status/2120533451279642808",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120528660470149506",
+      "text": "Serenity @aleabitoreddit 2026-11-11 22:46 @MarkusOOTP Anthropic CEO said it himself. Europeans last year were making fun of him last year over Dario’s predictions that AI might essentially write all code in 2026 Look where we’re at now Open on X",
+      "createdAt": "2026-11-11T14:46:44.830Z",
+      "url": "https://x.com/aleabitoreddit/status/2120528660470149506",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120523420639408175",
+      "text": "Serenity @aleabitoreddit 2026-11-11 22:25 There's a lot of news about WT (3036) introducing their first CW DFB laser line card. More significant than people think for medium-long term. For economic impact and what revenue looks like: - $SMTC generated 74% of its revenue through distributors. $AMBA as another example, ~60-70% of their 2026 revenue went through this company. - With WT in specific, if you look at even a large company like $AVGO scaled: -> 13% of Broadcom revenue went through WT in 2020 -> 18% (2021) -> 20% (2022) -> ~21% (2023) -> ~28% (2024) -> now possibly up to ~46% (they stopped naming) Just showing how important the largest distributors in the world become to semi companies. Given how WT chairman attributed rapid growth coming from AI photonics demand (eg. DSPs to optical module makers): It becomes more interesting for a certain company that WT introduced their first CW DFB laser line card during an industry bottleneck. @sacsters $sive wait, the WT ($3036.TW) line card is actually nuts! $AMBA $AMBA AMBA $61.44 $6.27 (+11.36%) $AVGO $AVGO NASDAQ Broadcom Semiconductors $361.84 $70.31 (+24.12%) Since mention (2026-06-07): -6.19% Diversified semiconductor and infrastructure software giant with custom AI chip and networking exposure. $SMTC $SMTC SMTC $116.68 $25.14 (+27.46%) Open on X",
+      "createdAt": "2026-11-11T14:25:55.557Z",
+      "url": "https://x.com/aleabitoreddit/status/2120523420639408175",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120398837689041193",
+      "text": "Serenity @aleabitoreddit 2026-11-11 14:10 @TimeToCompute Coreweave did say they’re getting 100% contract value prepayments, which is kind of insane. So that sends a positive message for the other Neoclouds like $NBIS and $IREN $IREN $IREN IREN $18.92 $0.88 (+4.91%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $126.58 $6.20 (+5.15%) Since mention (2026-06-07): -44.44% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "createdAt": "2026-11-11T06:10:52.667Z",
+      "url": "https://x.com/aleabitoreddit/status/2120398837689041193",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120392793759850848",
+      "text": "Serenity @aleabitoreddit 2026-11-11 13:46 @aleabitoreddit Hopefully we will see Iren/Nbis recover before EOY Open on X",
+      "createdAt": "2026-11-11T05:46:51.682Z",
+      "url": "https://x.com/aleabitoreddit/status/2120392793759850848",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120391635737649423",
+      "text": "Serenity @aleabitoreddit 2026-11-11 13:42 $CRWV ER and read through for $NBIS and other Neoclouds: “We have 10x as much qualified demand as available capacity”. - interest in 2028 capacity already amounts to several times what CoreWeave has available - CoreWeave raised prices by 25% in July, +10% later in Q3, and more to come in Q4 - Ampere and Hopper rental pricing rose 30–50% quarter over quarter (older GPUs) - better financing conditions (higher prepayments, lower interest 7–7.5% for new loans) - positive adjusted net income in the first half of 2028. So we’re seeing higher pricing esp. for older GPUs…better financing mechanics, and extreme demand imbalance where you have 10x demand > supply. Same issues are there for this company in specific with interest rates, but I’d argue other Neoclouds are in a better spot. But it’s wild to witness AI infrastructure names crash while demand keeps growing $CRWV $CRWV CRWV $56.06 $12.40 (+28.39%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $126.58 $6.20 (+5.15%) Since mention (2026-06-07): -44.44% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "createdAt": "2026-11-11T05:42:15.588Z",
+      "url": "https://x.com/aleabitoreddit/status/2120391635737649423",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120198265346081174",
+      "text": "Serenity @aleabitoreddit Tue Nov 10 16:53:52 +0000 2026 It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation After projecting 70% supply-constrained growth FY2028. Also probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… Are there still people out there interested at that price? $ANT $ANT ANT Quote unavailable $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-11-10T16:53:52.494Z",
+      "url": "https://x.com/aleabitoreddit/status/2120198265346081174",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2120106741090370030",
+      "text": "$GE $GE GE $336.69 $21.96 (+6.98%) $SPCX $SPCX SPCX $142.49 $18.87 (+15.26%) Open on X",
+      "createdAt": "2026-11-10T10:50:11.411Z",
+      "url": "https://x.com/aleabitoreddit/status/2120106741090370030",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
     {
       "id": "2119874063132995880",
       "text": "Serenity @aleabitoreddit 2026-11-10 03:25 Anthropic Fable 5.2 and Mythos 5.2 is out! Doesn't quite look like AI progress is slowing down anytime soon Open on X",
@@ -18,7 +198,7 @@
     },
     {
       "id": "2119807048204595582",
-      "text": "Serenity @aleabitoreddit 2026-11-09 22:59 I did not expect everything in the AI trade from $LITE to $NBIS to rally today Off the “honeypot catalyst”? @aleabitoreddit Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. TAIEX: +4.94%, its 2nd largest daily gain in history. I guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? $LITE $LITE NASDAQ Lumentum Optical components $602.20 $6.04 (+1.01%) Since mention (2026-06-09): -26.72% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $143.40 $1.95 (+1.38%) Since mention (2026-06-07): -37.05% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-11-09 22:59 I did not expect everything in the AI trade from $LITE to $NBIS to rally today Off the “honeypot catalyst”? @aleabitoreddit Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. TAIEX: +4.94%, its 2nd largest daily gain in history. I guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? $LITE $LITE NASDAQ Lumentum Optical components $620.49 $110.79 (+21.74%) Since mention (2026-06-09): -24.49% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $126.58 $6.20 (+5.15%) Since mention (2026-06-07): -44.44% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
       "createdAt": "2026-11-09T14:59:19.059Z",
       "url": "https://x.com/aleabitoreddit/status/2119807048204595582",
       "stats": {
@@ -30,7 +210,7 @@
     },
     {
       "id": "2119689635869954503",
-      "text": "Serenity @aleabitoreddit 2026-11-09 15:12 Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. TAIEX: +4.94%, its 2nd largest daily gain in history. I guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? $NVDA $NVDA NASDAQ NVIDIA Semiconductors $173.15 -$5.52 (-3.09%) Since mention (2026-06-05): -15.58% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-11-09 15:12 Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. TAIEX: +4.94%, its 2nd largest daily gain in history. I guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-11-09T07:12:45.777Z",
       "url": "https://x.com/aleabitoreddit/status/2119689635869954503",
       "stats": {
@@ -42,7 +222,7 @@
     },
     {
       "id": "2119633154629881997",
-      "text": "Serenity @aleabitoreddit 2026-11-09 11:28 I fully support $NVDA and Jensen Huang through this time. Even the most legendary figure in the AI industry is human. Trump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives. It takes courage to own up to it publicly and move forward $NVDA $NVDA NASDAQ NVIDIA Semiconductors $173.15 -$5.52 (-3.09%) Since mention (2026-06-05): -15.58% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-11-09 11:28 I fully support $NVDA and Jensen Huang through this time. Even the most legendary figure in the AI industry is human. Trump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives. It takes courage to own up to it publicly and move forward $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-11-09T03:28:19.600Z",
       "url": "https://x.com/aleabitoreddit/status/2119633154629881997",
       "stats": {
@@ -54,7 +234,7 @@
     },
     {
       "id": "2119287752730738722",
-      "text": "$FLY $FLY FLY $24.35 $0.04 (+0.16%) $LMT $LMT LMT $597.58 $9.39 (+1.60%) $LUNR $LUNR LUNR $12.09 $0.05 (+0.42%) $NOC $NOC NOC $544.64 $5.57 (+1.03%) $RDW $RDW RDW $8.17 $0.02 (+0.25%) $SPCX $SPCX SPCX $144.44 $2.37 (+1.67%) $VOYG $VOYG VOYG $28.30 $0.40 (+1.43%) Open on X",
+      "text": "$FLY $FLY FLY $25.26 $10.09 (+66.46%) $LMT $LMT LMT $605.15 $28.99 (+5.03%) $LUNR $LUNR LUNR $13.81 $5.19 (+60.19%) $NOC $NOC NOC $546.86 $21.61 (+4.11%) $RDW $RDW RDW $8.00 $1.80 (+29.16%) $SPCX $SPCX SPCX $142.49 $18.87 (+15.26%) $VOYG $VOYG VOYG $28.20 $7.87 (+38.71%) Open on X",
       "createdAt": "2026-11-08T04:35:49.370Z",
       "url": "https://x.com/aleabitoreddit/status/2119287752730738722",
       "stats": {
@@ -426,7 +606,7 @@
     },
     {
       "id": "2119115555093557488",
-      "text": "Serenity @aleabitoreddit 2026-11-08 01:11 Yep! That's a fair example with onsemi. But I'm not quite sure it's appropriate to extrapolate from historical examples of mutually agreed contract changes. And apply that to today's memory market and assume $MU would make concessions if demand/pricing ever drops. Micron really went out of their way to emphasize that their SCAs are different relative to historical ones in terms of contractual price floors + binding commitment clauses. $MU $MU NASDAQ Micron Technology Memory $742.04 $8.89 (+1.21%) Since mention (2026-06-05): -14.12% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-11-08 01:11 Yep! That's a fair example with onsemi. But I'm not quite sure it's appropriate to extrapolate from historical examples of mutually agreed contract changes. And apply that to today's memory market and assume $MU would make concessions if demand/pricing ever drops. Micron really went out of their way to emphasize that their SCAs are different relative to historical ones in terms of contractual price floors + binding commitment clauses. $MU $MU NASDAQ Micron Technology Memory $777.34 $120.95 (+18.43%) Since mention (2026-06-05): -10.03% Memory producer with DRAM, NAND, and HBM exposure; often tracked as an AI memory cycle name. Open on X",
       "createdAt": "2026-11-07T17:11:34.254Z",
       "url": "https://x.com/aleabitoreddit/status/2119115555093557488",
       "stats": {
@@ -450,7 +630,7 @@
     },
     {
       "id": "2119100095341998329",
-      "text": "Serenity @aleabitoreddit 2026-11-08 00:10 If someone asked me 10 years ago what I'd be doing in the future, Answering questions on Jensen + Spys banging each other and implications on the AI trade would not be in mind My response to that question is: how am i supposed to know? On AI trade implications: $NVDA probably wanted to sell more chips anyway (to China) for revenue and it's extremely unlikely this person had any effect on trade policies. The relationship might not even be true... anyway I'll wait until more news comes out. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $173.15 -$5.52 (-3.09%) Since mention (2026-06-05): -15.58% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "text": "Serenity @aleabitoreddit 2026-11-08 00:10 If someone asked me 10 years ago what I'd be doing in the future, Answering questions on Jensen + Spys banging each other and implications on the AI trade would not be in mind My response to that question is: how am i supposed to know? On AI trade implications: $NVDA probably wanted to sell more chips anyway (to China) for revenue and it's extremely unlikely this person had any effect on trade policies. The relationship might not even be true... anyway I'll wait until more news comes out. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $164.61 -$16.99 (-9.36%) Since mention (2026-06-05): -19.74% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
       "createdAt": "2026-11-07T16:10:08.362Z",
       "url": "https://x.com/aleabitoreddit/status/2119100095341998329",
       "stats": {
@@ -581,200 +761,8 @@
       }
     },
     {
-      "id": "0c12dea1d2e0541e",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 08:41:32 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "44de6315b129db9f",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 08:29:53 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "0a127374d4ee5966",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 08:24:18 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "e5849ac77736fa33",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 08:06:57 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "008e947ca01bea74",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 07:50:31 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "98b1b675f3d9ad5e",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 07:43:09 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "656ae3e49f4edc1c",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 07:41:58 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "e0faa847ee81780a",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 07:12:46 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "1c4c63af361653bf",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 05:12:11 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "c412bda093111704",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 04:58:48 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "55611f62cec37574",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 04:46:27 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "6dfaae265ae67b64",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 09:19:45 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "fffc4d1e89a8bde0",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 20:52:10 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "e065016e21efd3b5",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 19:18:09 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "739d934d763d94c6",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 17:37:03 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "739b297c10172f4f",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 17:10:51 +0000 2026",
-      "createdAt": "2026-11-07T13:24:12.659Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "8bc10b462223f950",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 17:07:04 +0000 2026",
+      "id": "0e95b5acb36d9ecc",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 14:06:34 +0000 2026",
       "createdAt": "2026-11-07T13:24:12.659Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -797,8 +785,200 @@
       }
     },
     {
-      "id": "0e95b5acb36d9ecc",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 14:06:34 +0000 2026",
+      "id": "8bc10b462223f950",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 17:07:04 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "739b297c10172f4f",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 17:10:51 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "739d934d763d94c6",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 17:37:03 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "e065016e21efd3b5",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 19:18:09 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "fffc4d1e89a8bde0",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 20:52:10 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "6dfaae265ae67b64",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 09:19:45 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "55611f62cec37574",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 04:46:27 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "c412bda093111704",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 04:58:48 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "1c4c63af361653bf",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 05:12:11 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "e0faa847ee81780a",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 07:12:46 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "656ae3e49f4edc1c",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 07:41:58 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "98b1b675f3d9ad5e",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 07:43:09 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "008e947ca01bea74",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 07:50:31 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "e5849ac77736fa33",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 08:06:57 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "0a127374d4ee5966",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 08:24:18 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "44de6315b129db9f",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 08:29:53 +0000 2026",
+      "createdAt": "2026-11-07T13:24:12.659Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "0c12dea1d2e0541e",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 08:41:32 +0000 2026",
       "createdAt": "2026-11-07T13:24:12.659Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -1241,8 +1421,8 @@
       }
     },
     {
-      "id": "4f378d10037466a8",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 04:44:46 +0000 2026",
+      "id": "626b4d7652df77a4",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 04:36:13 +0000 2026",
       "createdAt": "2026-11-05T14:51:30.528Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -1265,8 +1445,8 @@
       }
     },
     {
-      "id": "626b4d7652df77a4",
-      "text": "Serenity @aleabitoreddit Thu Nov 05 04:36:13 +0000 2026",
+      "id": "4f378d10037466a8",
+      "text": "Serenity @aleabitoreddit Thu Nov 05 04:44:46 +0000 2026",
       "createdAt": "2026-11-05T14:51:30.528Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -3017,200 +3197,8 @@
       }
     },
     {
-      "id": "5484b1c995d83ec7",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 08:51:27 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "6f08f0ae2b54fccb",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:05:45 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "94165cab240a46f4",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:07:10 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "5f89ead0f37f4c9d",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:11:47 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "b6cc068439b41869",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "0332afe28d83252c",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:30:31 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "bf31d30e21890ae2",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:34:24 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "17bd15a7701f05ca",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:46:26 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "55e079c3c60ae5c3",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:47:51 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "fd93d394d90551b1",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 12:57:16 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "c544edc89c554276",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 14:00:50 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "ca7f113f5d174167",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 14:33:18 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "aa70798d4b24a6e0",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 15:46:47 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2cd519c1a2186d47",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 14:01:53 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "9ca19834fba4c0b8",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 14:02:31 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "3f07a993515aa225",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 17:58:50 +0000 2026",
-      "createdAt": "2026-10-24T11:23:40.374Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "d79ef87214805b0c",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026",
+      "id": "c99fae7001b33642",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 18:25:36 +0000 2026",
       "createdAt": "2026-10-24T11:23:40.374Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -3233,8 +3221,200 @@
       }
     },
     {
-      "id": "c99fae7001b33642",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 18:25:36 +0000 2026",
+      "id": "d79ef87214805b0c",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 18:00:48 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "3f07a993515aa225",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 17:58:50 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "9ca19834fba4c0b8",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 14:02:31 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "2cd519c1a2186d47",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 14:01:53 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "aa70798d4b24a6e0",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 15:46:47 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "ca7f113f5d174167",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 14:33:18 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "c544edc89c554276",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 14:00:50 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "fd93d394d90551b1",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:57:16 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "55e079c3c60ae5c3",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:47:51 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "17bd15a7701f05ca",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:46:26 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "bf31d30e21890ae2",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:34:24 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "0332afe28d83252c",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:30:31 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "b6cc068439b41869",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:24:58 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "5f89ead0f37f4c9d",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:11:47 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "94165cab240a46f4",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:07:10 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "6f08f0ae2b54fccb",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 12:05:45 +0000 2026",
+      "createdAt": "2026-10-24T11:23:40.374Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "5484b1c995d83ec7",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 08:51:27 +0000 2026",
       "createdAt": "2026-10-24T11:23:40.374Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -3353,8 +3533,8 @@
       }
     },
     {
-      "id": "175a4e28f8c27c02",
-      "text": "Serenity @aleabitoreddit Tue Oct 20 23:16:56 +0000 2026",
+      "id": "4cd6248770c2906e",
+      "text": "Serenity @aleabitoreddit Thu Oct 22 06:38:34 +0000 2026",
       "createdAt": "2026-10-23T11:55:13.625Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -3377,8 +3557,8 @@
       }
     },
     {
-      "id": "4cd6248770c2906e",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 06:38:34 +0000 2026",
+      "id": "175a4e28f8c27c02",
+      "text": "Serenity @aleabitoreddit Tue Oct 20 23:16:56 +0000 2026",
       "createdAt": "2026-10-23T11:55:13.625Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -4757,212 +4937,8 @@
       }
     },
     {
-      "id": "f7b90596f58900da",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:06:39 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "09d7d86cc4b99b9e",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:07:50 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "3fdb8b9a85b3deaa",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "5b6d9626d6e8c0b3",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:11:21 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "af41e970f33beeb2",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:12:06 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "fb7926dfcadcd843",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:16:05 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "ce8977e0fb9c68e3",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:19:24 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "6a0086c64d7deb8d",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:20:09 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "5e1e3735d836b2b3",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "8324067b77f8aac7",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 15:58:03 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "4a5e3561155f043b",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:04:49 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "57f978c3e5cc9504",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:05:42 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "43fd02642cb9fc7d",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:11:06 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "a0de6ee665d235f5",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "227e149ee9490f87",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 16:34:26 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "14e45b428e1a0b79",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "5123a162d3edea94",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:18:56 +0000 2026",
-      "createdAt": "2026-09-26T11:39:30.350Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "79084353eca51fe0",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:19:27 +0000 2026",
+      "id": "38c633f184dbcbac",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:37:23 +0000 2026",
       "createdAt": "2026-09-26T11:39:30.350Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -4985,8 +4961,212 @@
       }
     },
     {
-      "id": "38c633f184dbcbac",
-      "text": "Serenity @aleabitoreddit Thu Sep 24 21:37:23 +0000 2026",
+      "id": "79084353eca51fe0",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:19:27 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "5123a162d3edea94",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:18:56 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "14e45b428e1a0b79",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 21:17:23 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "227e149ee9490f87",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:34:26 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "a0de6ee665d235f5",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:17:50 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "43fd02642cb9fc7d",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:11:06 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "57f978c3e5cc9504",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:05:42 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "4a5e3561155f043b",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 16:04:49 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "8324067b77f8aac7",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:58:03 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "5e1e3735d836b2b3",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:29:28 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "6a0086c64d7deb8d",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:20:09 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "ce8977e0fb9c68e3",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:19:24 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "fb7926dfcadcd843",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:16:05 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "af41e970f33beeb2",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:12:06 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "5b6d9626d6e8c0b3",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:11:21 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "3fdb8b9a85b3deaa",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:09:45 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "09d7d86cc4b99b9e",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:07:50 +0000 2026",
+      "createdAt": "2026-09-26T11:39:30.350Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "f7b90596f58900da",
+      "text": "Serenity @aleabitoreddit Thu Sep 24 15:06:39 +0000 2026",
       "createdAt": "2026-09-26T11:39:30.350Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -5321,68 +5501,8 @@
       }
     },
     {
-      "id": "b8c6116dccca75a2",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:02:45 +0000 2026",
-      "createdAt": "2026-09-24T12:03:50.776Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "f3432c34122dcd3d",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:36:00 +0000 2026",
-      "createdAt": "2026-09-24T12:03:50.776Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "76167efec079b365",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:08:13 +0000 2026",
-      "createdAt": "2026-09-24T12:03:50.776Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "ece7ab28c30835e9",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:00:06 +0000 2026",
-      "createdAt": "2026-09-24T12:03:50.776Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "4e741043d3c69a45",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 11:10:03 +0000 2026",
-      "createdAt": "2026-09-24T12:03:50.776Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "b5b124f816f01fa8",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 13:36:39 +0000 2026",
+      "id": "e8b27604841f8f4f",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 04:05:35 +0000 2026",
       "createdAt": "2026-09-24T12:03:50.776Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -5405,8 +5525,68 @@
       }
     },
     {
-      "id": "e8b27604841f8f4f",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 04:05:35 +0000 2026",
+      "id": "b5b124f816f01fa8",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 13:36:39 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "4e741043d3c69a45",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 11:10:03 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "ece7ab28c30835e9",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:00:06 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "76167efec079b365",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:08:13 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "f3432c34122dcd3d",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:36:00 +0000 2026",
+      "createdAt": "2026-09-24T12:03:50.776Z",
+      "url": "https://www.trackserenity.com/",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "b8c6116dccca75a2",
+      "text": "Serenity @aleabitoreddit Tue Sep 22 16:02:45 +0000 2026",
       "createdAt": "2026-09-24T12:03:50.776Z",
       "url": "https://www.trackserenity.com/",
       "stats": {
@@ -5817,186 +5997,6 @@
       "text": "Serenity @aleabitoreddit Tue Sep 22 16:08:13 +0000 2026 @BCorr_AI Gonna be hard to call things SI instead of AI. Open on X",
       "createdAt": "2026-09-22T16:08:13.313Z",
       "url": "https://x.com/aleabitoreddit/status/2102429770973860263",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102428394361434184",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:02:45 +0000 2026 @aleabitoreddit I like the term. It actually is more accurate. Open on X",
-      "createdAt": "2026-09-22T16:02:45.103Z",
-      "url": "https://x.com/aleabitoreddit/status/2102428394361434184",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102427727987179692",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 16:00:06 +0000 2026 I guess I need to start calling $SNDK or $LITE Super Intelligence stocks. Thanks Trump. $LITE $LITE NASDAQ Lumentum Optical components $937.00 -$8.67 (-0.92%) Since mention (2026-06-09): +14.02% Optical and photonic component supplier exposed to datacenter connectivity and telecom cycles. $SNDK $SNDK NASDAQ SanDisk Storage $1,816.57 -$70.47 (-3.73%) Since mention (2026-06-10): +10.55% Flash storage brand/company; useful when following NAND and storage-cycle commentary. Open on X",
-      "createdAt": "2026-09-22T16:00:06.227Z",
-      "url": "https://x.com/aleabitoreddit/status/2102427727987179692",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102391630515110126",
-      "text": "$ESMT $ESMT ESMT Quote unavailable $PYPL $PYPL PYPL $52.51 -$0.38 (-0.72%) $UPWK $UPWK UPWK $8.18 -$0.17 (-2.04%) Open on X",
-      "createdAt": "2026-09-22T13:36:39.919Z",
-      "url": "https://x.com/aleabitoreddit/status/2102391630515110126",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102354734405259379",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 11:10:03 +0000 2026 Serenity is the best thing ever happened to retail on X. Open on X",
-      "createdAt": "2026-09-22T11:10:03.201Z",
-      "url": "https://x.com/aleabitoreddit/status/2102354734405259379",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102256045938852015",
-      "text": "$COIN $COIN COIN $198.13 -$2.94 (-1.46%) $HOOD $HOOD HOOD $122.70 -$1.55 (-1.25%) Open on X",
-      "createdAt": "2026-09-22T04:37:54.037Z",
-      "url": "https://x.com/aleabitoreddit/status/2102256045938852015",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "2102247915251224980",
-      "text": "Serenity @aleabitoreddit Tue Sep 22 04:05:35 +0000 2026 All right $META Muse is cooking. I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background. Along with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs When I ask it to do a bunch of long form tasks… Intel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need, so there’s some signals there. I’m also curious how much $AMZN or $NBIS is involved with running Muse, or if Meta hosts everything inhouse. Kinda an ADHD post but Meta beat my expectations with this release. Will keep trying it out $AMD $AMD NASDAQ Advanced Micro Devices Semiconductors $614.61 -$9.16 (-1.47%) Since mention (2026-06-07): +31.78% GPU and CPU designer competing in datacenter AI accelerators, gaming, and embedded markets. $AMZN $AMZN AMZN $249.27 -$5.71 (-2.24%) $ARM $ARM ARM $332.56 -$0.64 (-0.19%) $INTC $INTC NASDAQ Intel Semiconductors $122.60 -$1.26 (-1.02%) Since mention (2026-06-07): +23.63% Integrated chipmaker and foundry turnaround story with AI PC, server, and manufacturing exposure. $META $META META $744.10 $7.51 (+1.02%) $NBIS $NBIS NASDAQ Nebius Group AI infrastructure $226.61 -$9.51 (-4.03%) Since mention (2026-06-07): -0.53% AI cloud and infrastructure company watched for compute capacity and AI platform demand. Open on X",
-      "createdAt": "2026-09-22T04:05:35.530Z",
-      "url": "https://x.com/aleabitoreddit/status/2102247915251224980",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "921acca0b36c2952",
-      "text": "Serenity @aleabitoreddit 2026-09-22 03:13",
-      "createdAt": "2026-09-22T03:13:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "0cf53daa33b982e0",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:19",
-      "createdAt": "2026-09-22T00:19:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "829d00bc0d1a3cdd",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:15",
-      "createdAt": "2026-09-22T00:15:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "a1335354e261e93e",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:13",
-      "createdAt": "2026-09-22T00:13:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "c45917d08c598771",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:11",
-      "createdAt": "2026-09-22T00:11:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "17466912253fca5f",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:08",
-      "createdAt": "2026-09-22T00:08:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "f8e1a0510f71320e",
-      "text": "Serenity @aleabitoreddit 2026-09-22 00:00",
-      "createdAt": "2026-09-22T00:00:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "bae23ada440e7f6c",
-      "text": "Serenity @aleabitoreddit 2026-09-21 23:50",
-      "createdAt": "2026-09-21T23:50:00.000Z",
-      "url": "https://www.trackserenity.com/",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      }
-    },
-    {
-      "id": "eee0ccec628616b4",
-      "text": "Serenity @aleabitoreddit 2026-09-21 23:49",
-      "createdAt": "2026-09-21T23:49:00.000Z",
-      "url": "https://www.trackserenity.com/",
       "stats": {
         "replies": 0,
         "reposts": 0,
