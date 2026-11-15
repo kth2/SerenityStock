@@ -1,10 +1,27 @@
 {
-  "updatedAt": "2026-11-14T13:43:42.286Z",
+  "updatedAt": "2026-11-15T14:12:03.339Z",
   "isSample": false,
   "handle": "aleabitoreddit",
   "totalTweets": 500,
-  "totalMentions": 350,
+  "totalMentions": 351,
   "mentions": [
+    {
+      "tweetId": "2121852636261724398",
+      "ticker": "NVDA",
+      "text": "Serenity @aleabitoreddit 2026-11-15 14:27 Western media coverage of $NVDA and Jensen Huang have reached a point Where it even gives Chinese people more pride in CCP state media. Very dark times for Western journalism. $NVDA $NVDA NASDAQ NVIDIA Semiconductors $162.85 -$3.34 (-2.01%) Since mention (2026-06-05): -20.60% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
+      "createdAt": "2026-11-15T06:27:45.257Z",
+      "url": "https://x.com/aleabitoreddit/status/2121852636261724398",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
     {
       "tweetId": "2121396827484524803",
       "ticker": "NVDA",
@@ -5959,19 +5976,19 @@
   "tickers": [
     {
       "ticker": "NVDA",
-      "count": 43,
+      "count": 44,
       "firstSeen": "2026-09-24T16:17:50.369Z",
-      "lastSeen": "2026-11-14T00:16:31.976Z",
-      "avgSentiment": 0.089,
+      "lastSeen": "2026-11-15T06:27:45.257Z",
+      "avgSentiment": 0.087,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 75,
+      "signalScore": 75.1,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 17.3,
+        "frequency": 17.4,
         "recency": 10,
-        "persistence": 5,
+        "persistence": 5.1,
         "engagement": 0,
         "conviction": 15,
         "themeFit": 15,
@@ -6061,6 +6078,11 @@
         },
         {
           "date": "2026-11-14",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-15",
           "count": 1,
           "avgSentiment": 0
         }
@@ -8199,12 +8221,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8228,12 +8250,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8257,12 +8279,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8286,12 +8308,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8315,12 +8337,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8344,12 +8366,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -8373,12 +8395,12 @@
       "avgSentiment": 0,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 26.7,
+      "signalScore": 24.7,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 10,
+        "recency": 8,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -9034,16 +9056,16 @@
     }
   ],
   "digest": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "window": {
-      "from": "2026-11-08",
-      "to": "2026-11-14"
+      "from": "2026-11-09",
+      "to": "2026-11-15"
     },
-    "totalMentions": 70,
+    "totalMentions": 64,
     "topTickers": [
       {
         "ticker": "NVDA",
-        "count": 24
+        "count": 25
       },
       {
         "ticker": "LITE",
@@ -9068,13 +9090,7 @@
       "ESMT",
       "AMBA",
       "SMTC",
-      "GE",
-      "VOYG",
-      "RDW",
-      "NOC",
-      "LUNR",
-      "LMT",
-      "FLY"
+      "GE"
     ]
   },
   "periods": {
@@ -9084,9 +9100,9 @@
         "key": "2026-W39",
         "from": "2026-09-24",
         "to": "2026-09-26",
-        "posts": 56,
+        "posts": 55,
         "mentions": 26,
-        "unclassified": 50,
+        "unclassified": 49,
         "thin": false,
         "themes": [
           {
@@ -10169,62 +10185,62 @@
       {
         "key": "2026-W46",
         "from": "2026-11-09",
-        "to": "2026-11-14",
-        "posts": 52,
-        "mentions": 63,
+        "to": "2026-11-15",
+        "posts": 53,
+        "mentions": 64,
         "unclassified": 14,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 31,
-            "share": 0.33,
+            "posts": 32,
+            "share": 0.333,
             "prevPosts": 22,
-            "deltaShare": 0.116,
+            "deltaShare": 0.12,
             "trend": "rising"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 28,
-            "share": 0.298,
+            "posts": 29,
+            "share": 0.302,
             "prevPosts": 24,
-            "deltaShare": 0.065,
+            "deltaShare": 0.069,
             "trend": "rising"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 11,
-            "share": 0.117,
+            "share": 0.115,
             "prevPosts": 19,
-            "deltaShare": -0.067,
+            "deltaShare": -0.07,
             "trend": "cooling"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 11,
-            "share": 0.117,
+            "share": 0.115,
             "prevPosts": 17,
-            "deltaShare": -0.048,
+            "deltaShare": -0.05,
             "trend": "steady"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 5,
-            "share": 0.053,
+            "share": 0.052,
             "prevPosts": 15,
-            "deltaShare": -0.092,
+            "deltaShare": -0.094,
             "trend": "cooling"
           },
           {
             "id": "robotics",
             "title": "Robotics / humanoids",
             "posts": 3,
-            "share": 0.032,
+            "share": 0.031,
             "prevPosts": 1,
             "deltaShare": 0.022,
             "trend": "steady"
@@ -10235,7 +10251,7 @@
             "posts": 2,
             "share": 0.021,
             "prevPosts": 1,
-            "deltaShare": 0.012,
+            "deltaShare": 0.011,
             "trend": "steady"
           },
           {
@@ -10251,16 +10267,16 @@
             "id": "cooling",
             "title": "Liquid cooling / thermal",
             "posts": 1,
-            "share": 0.011,
+            "share": 0.01,
             "prevPosts": 0,
-            "deltaShare": 0.011,
+            "deltaShare": 0.01,
             "trend": "new"
           }
         ],
         "topTickers": [
           {
             "ticker": "NVDA",
-            "count": 24,
+            "count": 25,
             "themes": [
               "neocloud",
               "semicap",
@@ -10348,9 +10364,9 @@
         "key": "2026-09",
         "from": "2026-09-24",
         "to": "2026-09-30",
-        "posts": 66,
+        "posts": 65,
         "mentions": 31,
-        "unclassified": 59,
+        "unclassified": 58,
         "thin": false,
         "themes": [
           {
@@ -10671,55 +10687,55 @@
       {
         "key": "2026-11",
         "from": "2026-11-02",
-        "to": "2026-11-14",
-        "posts": 216,
-        "mentions": 144,
+        "to": "2026-11-15",
+        "posts": 217,
+        "mentions": 145,
         "unclassified": 143,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 53,
-            "share": 0.269,
+            "posts": 54,
+            "share": 0.271,
             "prevPosts": 52,
-            "deltaShare": 0.04,
+            "deltaShare": 0.042,
             "trend": "steady"
           },
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 52,
-            "share": 0.264,
+            "posts": 53,
+            "share": 0.266,
             "prevPosts": 39,
-            "deltaShare": 0.092,
+            "deltaShare": 0.095,
             "trend": "rising"
           },
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
             "posts": 30,
-            "share": 0.152,
+            "share": 0.151,
             "prevPosts": 47,
-            "deltaShare": -0.055,
+            "deltaShare": -0.056,
             "trend": "steady"
           },
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
             "posts": 28,
-            "share": 0.142,
+            "share": 0.141,
             "prevPosts": 51,
-            "deltaShare": -0.083,
+            "deltaShare": -0.084,
             "trend": "cooling"
           },
           {
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 20,
-            "share": 0.102,
+            "share": 0.101,
             "prevPosts": 20,
-            "deltaShare": 0.013,
+            "deltaShare": 0.012,
             "trend": "steady"
           },
           {
@@ -10728,7 +10744,7 @@
             "posts": 6,
             "share": 0.03,
             "prevPosts": 7,
-            "deltaShare": 0,
+            "deltaShare": -0.001,
             "trend": "steady"
           },
           {
@@ -10737,7 +10753,7 @@
             "posts": 4,
             "share": 0.02,
             "prevPosts": 4,
-            "deltaShare": 0.003,
+            "deltaShare": 0.002,
             "trend": "steady"
           },
           {
@@ -10762,7 +10778,7 @@
         "topTickers": [
           {
             "ticker": "NVDA",
-            "count": 28,
+            "count": 29,
             "themes": [
               "neocloud",
               "semicap",
