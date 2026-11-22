@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T14:51:01.075Z",
+  "updatedAt": "2026-11-22T14:46:51.803Z",
   "isSample": false,
   "handle": "aleabitoreddit",
   "totalTweets": 500,
-  "totalMentions": 296,
+  "totalMentions": 293,
   "mentions": [
     {
       "tweetId": "2123878986686333308",
@@ -4985,73 +4985,22 @@
         "score": 0,
         "label": "neutral"
       }
-    },
-    {
-      "tweetId": "2113191492067983849",
-      "ticker": "GOOGL",
-      "text": "$GOOGL $GOOGL GOOGL $320.21 -$4.01 (-1.24%) Open on X",
-      "createdAt": "2026-10-22T08:51:27.565Z",
-      "url": "https://x.com/aleabitoreddit/status/2113191492067983849",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2113094859439690104",
-      "ticker": "AMKR",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 02:27:28 +0000 2026 $NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers. - Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x - $AMKR to increase advanced packaging capacity by more than 300% by the end of 2028, with a new $1.3B agreement - Multibillion dollar capacity reservation advance to support Ibiden's plant in Japan - \"By 2028, production allocated to $NVDA is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity\" - KYEC with $1.1B capacity reservation in advance - SPIL for optical engine capacity for CPO by 15x by H2 2027 and double that for 2028 Well, that's a lot of news. As Jensen Huang puts it: \"Demand is extraordinary. Capacity is the constraint.\" $AMKR $AMKR AMKR $39.05 -$4.68 (-10.70%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.21 -$9.76 (-4.40%) Since mention (2026-06-05): +3.47% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-10-22T02:27:28.551Z",
-      "url": "https://x.com/aleabitoreddit/status/2113094859439690104",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
-    },
-    {
-      "tweetId": "2113094859439690104",
-      "ticker": "NVDA",
-      "text": "Serenity @aleabitoreddit Thu Oct 22 02:27:28 +0000 2026 $NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers. - Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x - $AMKR to increase advanced packaging capacity by more than 300% by the end of 2028, with a new $1.3B agreement - Multibillion dollar capacity reservation advance to support Ibiden's plant in Japan - \"By 2028, production allocated to $NVDA is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity\" - KYEC with $1.1B capacity reservation in advance - SPIL for optical engine capacity for CPO by 15x by H2 2027 and double that for 2028 Well, that's a lot of news. As Jensen Huang puts it: \"Demand is extraordinary. Capacity is the constraint.\" $AMKR $AMKR AMKR $39.05 -$4.68 (-10.70%) $NVDA $NVDA NASDAQ NVIDIA Semiconductors $212.21 -$9.76 (-4.40%) Since mention (2026-06-05): +3.47% Dominant AI accelerator designer; GPU and datacenter platform leader driving AI infrastructure buildout. Open on X",
-      "createdAt": "2026-10-22T02:27:28.551Z",
-      "url": "https://x.com/aleabitoreddit/status/2113094859439690104",
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "sentiment": {
-        "score": 0,
-        "label": "neutral"
-      }
     }
   ],
   "tickers": [
     {
       "ticker": "NVDA",
-      "count": 43,
-      "firstSeen": "2026-10-22T02:27:28.551Z",
+      "count": 42,
+      "firstSeen": "2026-10-23T00:52:28.253Z",
       "lastSeen": "2026-11-20T20:39:44.846Z",
-      "avgSentiment": 0.043,
+      "avgSentiment": 0.044,
       "sentimentLabel": "neutral",
       "engagement": 0,
-      "signalScore": 75.4,
+      "signalScore": 75.3,
       "signalBand": "constructive",
       "signalComponents": {
         "base": 12,
-        "frequency": 17.3,
+        "frequency": 17.2,
         "recency": 10,
         "persistence": 3.3,
         "engagement": 0,
@@ -5061,11 +5010,6 @@
         "risk": 9.2
       },
       "history": [
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "avgSentiment": 0
-        },
         {
           "date": "2026-10-23",
           "count": 1,
@@ -5499,75 +5443,6 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "count": 10,
-      "firstSeen": "2026-10-22T08:51:27.565Z",
-      "lastSeen": "2026-11-19T22:36:43.030Z",
-      "avgSentiment": 0.125,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 58.5,
-      "signalBand": "mixed",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 11,
-        "recency": 10,
-        "persistence": 3.3,
-        "engagement": 0,
-        "conviction": 1.5,
-        "themeFit": 15,
-        "catalyst": 7.5,
-        "risk": 1.8
-      },
-      "history": [
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 1,
-          "avgSentiment": -0.25
-        },
-        {
-          "date": "2026-10-27",
-          "count": 2,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "avgSentiment": 0.833
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-11-07",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-11-13",
-          "count": 1,
-          "avgSentiment": 0.667
-        },
-        {
-          "date": "2026-11-18",
-          "count": 1,
-          "avgSentiment": 0
-        },
-        {
-          "date": "2026-11-19",
-          "count": 1,
-          "avgSentiment": 0
-        }
-      ]
-    },
-    {
       "ticker": "MRVL",
       "count": 10,
       "firstSeen": "2026-10-29T02:00:41.240Z",
@@ -5622,6 +5497,70 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "count": 9,
+      "firstSeen": "2026-10-23T00:52:28.253Z",
+      "lastSeen": "2026-11-19T22:36:43.030Z",
+      "avgSentiment": 0.139,
+      "sentimentLabel": "neutral",
+      "engagement": 0,
+      "signalScore": 57.9,
+      "signalBand": "mixed",
+      "signalComponents": {
+        "base": 12,
+        "frequency": 10.5,
+        "recency": 10,
+        "persistence": 3.3,
+        "engagement": 0,
+        "conviction": 1.3,
+        "themeFit": 15,
+        "catalyst": 7.5,
+        "risk": 1.8
+      },
+      "history": [
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "avgSentiment": -0.25
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "avgSentiment": 0.833
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-07",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-13",
+          "count": 1,
+          "avgSentiment": 0.667
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1,
+          "avgSentiment": 0
+        },
+        {
+          "date": "2026-11-19",
+          "count": 1,
+          "avgSentiment": 0
+        }
+      ]
+    },
+    {
       "ticker": "AXTI",
       "count": 8,
       "firstSeen": "2026-10-25T04:57:36.880Z",
@@ -5629,12 +5568,12 @@
       "avgSentiment": 0.165,
       "sentimentLabel": "bullish",
       "engagement": 0,
-      "signalScore": 62.9,
+      "signalScore": 60.9,
       "signalBand": "mixed",
       "signalComponents": {
         "base": 12,
         "frequency": 10.1,
-        "recency": 10,
+        "recency": 8,
         "persistence": 3.2,
         "engagement": 0,
         "conviction": 7.7,
@@ -7802,12 +7741,12 @@
       "avgSentiment": -0.25,
       "sentimentLabel": "bearish",
       "engagement": 0,
-      "signalScore": 37.1,
+      "signalScore": 34.1,
       "signalBand": "weak",
       "signalComponents": {
         "base": 12,
         "frequency": 3.2,
-        "recency": 8,
+        "recency": 5,
         "persistence": 1.4,
         "engagement": 0,
         "conviction": 0.2,
@@ -7820,35 +7759,6 @@
           "date": "2026-10-23",
           "count": 1,
           "avgSentiment": -0.25
-        }
-      ]
-    },
-    {
-      "ticker": "AMKR",
-      "count": 1,
-      "firstSeen": "2026-10-22T02:27:28.551Z",
-      "lastSeen": "2026-10-22T02:27:28.551Z",
-      "avgSentiment": 0,
-      "sentimentLabel": "neutral",
-      "engagement": 0,
-      "signalScore": 40.2,
-      "signalBand": "weak",
-      "signalComponents": {
-        "base": 12,
-        "frequency": 3.2,
-        "recency": 5,
-        "persistence": 1.4,
-        "engagement": 0,
-        "conviction": 0.2,
-        "themeFit": 15,
-        "catalyst": 3.5,
-        "risk": 0
-      },
-      "history": [
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "avgSentiment": 0
         }
       ]
     }
@@ -7896,17 +7806,17 @@
     "weekly": [
       {
         "key": "2026-W43",
-        "from": "2026-10-21",
+        "from": "2026-10-22",
         "to": "2026-10-25",
-        "posts": 109,
-        "mentions": 63,
-        "unclassified": 80,
+        "posts": 105,
+        "mentions": 60,
+        "unclassified": 77,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 21,
+            "posts": 20,
             "share": 0.256,
             "prevPosts": 0,
             "deltaShare": 0,
@@ -7915,8 +7825,8 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 19,
-            "share": 0.232,
+            "posts": 18,
+            "share": 0.231,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -7924,8 +7834,8 @@
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 17,
-            "share": 0.207,
+            "posts": 16,
+            "share": 0.205,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -7933,8 +7843,8 @@
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 16,
-            "share": 0.195,
+            "posts": 15,
+            "share": 0.192,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -7943,7 +7853,7 @@
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 4,
-            "share": 0.049,
+            "share": 0.051,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -7952,7 +7862,7 @@
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 4,
-            "share": 0.049,
+            "share": 0.051,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -7961,7 +7871,7 @@
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 1,
-            "share": 0.012,
+            "share": 0.013,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8002,18 +7912,6 @@
             ]
           },
           {
-            "ticker": "NVDA",
-            "count": 4,
-            "themes": [
-              "neocloud",
-              "networking",
-              "semicap",
-              "optics",
-              "memory",
-              "policy"
-            ]
-          },
-          {
             "ticker": "SPCX",
             "count": 3,
             "themes": [
@@ -8031,6 +7929,18 @@
               "policy",
               "memory",
               "semicap"
+            ]
+          },
+          {
+            "ticker": "NVDA",
+            "count": 3,
+            "themes": [
+              "neocloud",
+              "networking",
+              "semicap",
+              "optics",
+              "memory",
+              "policy"
             ]
           },
           {
@@ -8071,7 +7981,7 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 9,
             "share": 0.243,
-            "prevPosts": 21,
+            "prevPosts": 20,
             "deltaShare": -0.013,
             "trend": "steady"
           },
@@ -8081,7 +7991,7 @@
             "posts": 7,
             "share": 0.189,
             "prevPosts": 4,
-            "deltaShare": 0.14,
+            "deltaShare": 0.138,
             "trend": "rising"
           },
           {
@@ -8089,8 +7999,8 @@
             "title": "AI networking / Ethernet",
             "posts": 7,
             "share": 0.189,
-            "prevPosts": 19,
-            "deltaShare": -0.043,
+            "prevPosts": 18,
+            "deltaShare": -0.042,
             "trend": "steady"
           },
           {
@@ -8098,8 +8008,8 @@
             "title": "AI optical interconnect / CPO",
             "posts": 6,
             "share": 0.162,
-            "prevPosts": 16,
-            "deltaShare": -0.033,
+            "prevPosts": 15,
+            "deltaShare": -0.03,
             "trend": "steady"
           },
           {
@@ -8107,8 +8017,8 @@
             "title": "Semis, packaging & equipment",
             "posts": 5,
             "share": 0.135,
-            "prevPosts": 17,
-            "deltaShare": -0.072,
+            "prevPosts": 16,
+            "deltaShare": -0.07,
             "trend": "cooling"
           },
           {
@@ -8117,7 +8027,7 @@
             "posts": 2,
             "share": 0.054,
             "prevPosts": 1,
-            "deltaShare": 0.042,
+            "deltaShare": 0.041,
             "trend": "steady"
           },
           {
@@ -8126,7 +8036,7 @@
             "posts": 1,
             "share": 0.027,
             "prevPosts": 4,
-            "deltaShare": -0.022,
+            "deltaShare": -0.024,
             "trend": "steady"
           }
         ],
@@ -8569,10 +8479,10 @@
       {
         "key": "2026-W47",
         "from": "2026-11-16",
-        "to": "2026-11-21",
-        "posts": 128,
+        "to": "2026-11-22",
+        "posts": 132,
         "mentions": 40,
-        "unclassified": 107,
+        "unclassified": 111,
         "thin": false,
         "themes": [
           {
@@ -8729,17 +8639,17 @@
     "monthly": [
       {
         "key": "2026-10",
-        "from": "2026-10-21",
+        "from": "2026-10-22",
         "to": "2026-10-30",
-        "posts": 146,
-        "mentions": 105,
-        "unclassified": 107,
+        "posts": 142,
+        "mentions": 102,
+        "unclassified": 104,
         "thin": false,
         "themes": [
           {
             "id": "neocloud",
             "title": "Neocloud / GPU cloud & HPC",
-            "posts": 30,
+            "posts": 29,
             "share": 0.252,
             "prevPosts": 0,
             "deltaShare": 0,
@@ -8748,8 +8658,8 @@
           {
             "id": "networking",
             "title": "AI networking / Ethernet",
-            "posts": 26,
-            "share": 0.218,
+            "posts": 25,
+            "share": 0.217,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8757,8 +8667,8 @@
           {
             "id": "optics",
             "title": "AI optical interconnect / CPO",
-            "posts": 22,
-            "share": 0.185,
+            "posts": 21,
+            "share": 0.183,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8766,8 +8676,8 @@
           {
             "id": "semicap",
             "title": "Semis, packaging & equipment",
-            "posts": 22,
-            "share": 0.185,
+            "posts": 21,
+            "share": 0.183,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8776,7 +8686,7 @@
             "id": "memory",
             "title": "HBM / memory & storage",
             "posts": 11,
-            "share": 0.092,
+            "share": 0.096,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8785,7 +8695,7 @@
             "id": "policy",
             "title": "Policy, export controls & tariffs",
             "posts": 5,
-            "share": 0.042,
+            "share": 0.043,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8794,7 +8704,7 @@
             "id": "power",
             "title": "Data-center power & grid",
             "posts": 3,
-            "share": 0.025,
+            "share": 0.026,
             "prevPosts": 0,
             "deltaShare": 0,
             "trend": "thin"
@@ -8837,7 +8747,7 @@
           },
           {
             "ticker": "NVDA",
-            "count": 7,
+            "count": 6,
             "themes": [
               "neocloud",
               "optics",
@@ -8846,16 +8756,6 @@
               "semicap",
               "power",
               "policy"
-            ]
-          },
-          {
-            "ticker": "GOOGL",
-            "count": 5,
-            "themes": [
-              "neocloud",
-              "memory",
-              "policy",
-              "semicap"
             ]
           },
           {
@@ -8869,6 +8769,16 @@
               "networking",
               "semicap",
               "policy"
+            ]
+          },
+          {
+            "ticker": "GOOGL",
+            "count": 4,
+            "themes": [
+              "neocloud",
+              "memory",
+              "policy",
+              "semicap"
             ]
           },
           {
@@ -8897,10 +8807,10 @@
       {
         "key": "2026-11",
         "from": "2026-11-02",
-        "to": "2026-11-21",
-        "posts": 354,
+        "to": "2026-11-22",
+        "posts": 358,
         "mentions": 191,
-        "unclassified": 252,
+        "unclassified": 256,
         "thin": false,
         "themes": [
           {
@@ -8908,7 +8818,7 @@
             "title": "Neocloud / GPU cloud & HPC",
             "posts": 69,
             "share": 0.268,
-            "prevPosts": 30,
+            "prevPosts": 29,
             "deltaShare": 0.016,
             "trend": "steady"
           },
@@ -8917,8 +8827,8 @@
             "title": "Semis, packaging & equipment",
             "posts": 64,
             "share": 0.249,
-            "prevPosts": 22,
-            "deltaShare": 0.064,
+            "prevPosts": 21,
+            "deltaShare": 0.066,
             "trend": "rising"
           },
           {
@@ -8926,8 +8836,8 @@
             "title": "AI optical interconnect / CPO",
             "posts": 40,
             "share": 0.156,
-            "prevPosts": 22,
-            "deltaShare": -0.029,
+            "prevPosts": 21,
+            "deltaShare": -0.027,
             "trend": "steady"
           },
           {
@@ -8935,8 +8845,8 @@
             "title": "AI networking / Ethernet",
             "posts": 38,
             "share": 0.148,
-            "prevPosts": 26,
-            "deltaShare": -0.071,
+            "prevPosts": 25,
+            "deltaShare": -0.07,
             "trend": "cooling"
           },
           {
@@ -8945,7 +8855,7 @@
             "posts": 29,
             "share": 0.113,
             "prevPosts": 11,
-            "deltaShare": 0.02,
+            "deltaShare": 0.017,
             "trend": "steady"
           },
           {
@@ -8954,7 +8864,7 @@
             "posts": 7,
             "share": 0.027,
             "prevPosts": 5,
-            "deltaShare": -0.015,
+            "deltaShare": -0.016,
             "trend": "steady"
           },
           {
@@ -8963,7 +8873,7 @@
             "posts": 5,
             "share": 0.019,
             "prevPosts": 3,
-            "deltaShare": -0.006,
+            "deltaShare": -0.007,
             "trend": "steady"
           },
           {

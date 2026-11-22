@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:51:10.109Z",
+  "updatedAt": "2026-11-22T14:47:00.747Z",
   "quotes": {
     "NVDA": {
       "price": 125.53,
@@ -36,18 +36,18 @@
       "asOf": "2026-11-20T21:00:00.000Z",
       "source": "Yahoo Finance"
     },
-    "GOOGL": {
-      "price": 265.29,
-      "changePct": -2.7,
-      "currency": "USD",
-      "asOf": "2026-11-20T21:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
     "MRVL": {
       "price": 122.28,
       "changePct": -11.69,
       "currency": "USD",
       "asOf": "2026-11-20T21:00:02.000Z",
+      "source": "Yahoo Finance"
+    },
+    "GOOGL": {
+      "price": 265.29,
+      "changePct": -2.7,
+      "currency": "USD",
+      "asOf": "2026-11-20T21:00:01.000Z",
       "source": "Yahoo Finance"
     },
     "AXTI": {
@@ -447,13 +447,6 @@
       "changePct": -7.73,
       "currency": "USD",
       "asOf": "2026-11-20T21:00:01.000Z",
-      "source": "Yahoo Finance"
-    },
-    "AMKR": {
-      "price": 30.24,
-      "changePct": -11.4,
-      "currency": "USD",
-      "asOf": "2026-11-20T21:00:02.000Z",
       "source": "Yahoo Finance"
     }
   }
